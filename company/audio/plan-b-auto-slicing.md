@@ -1,5 +1,7 @@
 # Plan B: automatic syllable cuts
 
+Fallback for words where Plan A (hyphen TTS + silence split) fails, or for when the hyphen takes sound wrong.
+
 Goal: given the TTS audio of a whole word and its known syllables, find the N−1 cut points. Each build-up piece is then `audio[cut_k … end]`.
 
 We have two advantages over general syllable detection: **the text is known**, and **the speech is clean single-voice TTS**. So this is an *alignment* problem, not a *discovery* problem.
@@ -43,6 +45,6 @@ Move the cut to the nearest zero crossing, then add a 5 ms fade-in (an end fade 
 - No clicks: check for a sample jump of more than 0.3 at the cut.
 
 ## Build order
-B1 and the syllabifier (Dec, week 1). B2 CTC (Dec, weeks 2–3). Voting and QA (Jan). Score each against Plan A ground truth. B3 only after Gate 2, and only if needed.
+B1 and the syllabifier (Dec, week 1). B2 CTC (Dec, weeks 2–3). Voting and QA (Jan). Score each against the ground truth (about 20 words checked by ear). B3 only after Gate 2, and only if needed.
 
 Background: Sylber (ICLR 2025) does unsupervised syllable segmentation that even works on unseen languages. It is worth one test as a fourth voter, but it is not needed because we already know the text.

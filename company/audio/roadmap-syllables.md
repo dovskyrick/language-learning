@@ -11,17 +11,31 @@ Since 2026-11-03 the checker requires every piece to be an **ending** of its wor
 
 | Plan | What | Cost per module | When |
 |---|---|---|---|
-| **0: TTS tricks** | Hyphens (ευ-χα-ρι-στώ), "...", slow speed, `gpt-4o-mini-tts` with "say each syllable" instructions, or pieces voiced on their own (today's default). | ~$0.05 | This week |
-| **A: hand cuts** | Generate the whole word, mark cuts in Audacity (label track, export labels), then a script slices with ffmpeg. | ~2 hours of your time (86 words × ~1 min) | If Plan 0 fails, for Module 1 |
-| **B: automatic cuts** | Find syllable boundaries in the whole-word audio by machine. Three methods voting: B1 signal, B2 forced alignment, B3 TTS timestamps. Details in [plan-b-auto-slicing.md](plan-b-auto-slicing.md). | ~0, with some bugs | Dec–Jan |
-| **C: Komma** | Back-office GUI with a waveform and draggable dashed cut lines. It fixes only what Plan B flags. Details in [plan-c-komma.md](plan-c-komma.md). | ~10 min per module | February |
+| **0: baseline** | Each piece voiced on its own by TTS (today's default). | ~$0.05 | Heard in this week's test |
+| **A: hyphen TTS + silence split** | Send the word hyphenated (ευ-χα-ρι-στώ), hoping TTS says the right sounds with a silence between syllables. A script finds the silences (ffmpeg `silencedetect`) and cuts **exactly in the middle of each one**. Pieces are made from the syllable clips. Details below. | ~$0.05, fully automatic | This week's test, then Nov |
+| **B: automatic cuts on the whole word** | No hyphens: find syllable boundaries in normal whole-word audio by machine. Three methods vote: B1 signal, B2 forced alignment, B3 TTS timestamps. Details in [plan-b-auto-slicing.md](plan-b-auto-slicing.md). | ~0, with some bugs | Dec–Jan, if A fails |
+| **C: Komma** | Back-office GUI with a waveform and draggable dashed cut lines. It fixes only what Plans A or B flag. Details in [plan-c-komma.md](plan-c-komma.md). | ~10 min per module | February |
 
-Plan A labels are not wasted: they become the **ground truth** used to measure Plan B. Komma replaces Audacity once it exists.
+## Plan A in detail
+1. **Take:** voice `ευ-χα-ρι-στώ` with tts-1 or gpt-4o-mini-tts, with or without a "pause between syllables" instruction, at speed 1.0 and 0.85.
+2. **Detect:** run `silencedetect` (start at −40 dB, minimum 60 ms). Keep the N−1 longest inner silences, where N comes from the Greek syllabifier.
+3. **Accept only if** exactly N−1 silences are found, each syllable clip is 80–450 ms, and the recognition check passes (see Plan B QA). If not, retry with the next variant (`ευ - χα`, `ευ... χα`, slower speed) and give up after 3 takes. Rejected words go to Plan B or Komma.
+4. **Cut** at the midpoint of each silence, at a zero crossing, with a 5 ms fade.
+5. **Build pieces:**
+   - **A1:** *ριστώ* = the ρι and στώ clips joined with their half-silences, so it plays slowly and clearly, syllable by syllable, as a teacher would.
+   - **A2:** the same clips with the silences shrunk to about 40 ms, so the piece sounds closer to normal speech.
+   - The whole word always comes from a normal (non-hyphen) take.
+
+   Pick A1 or A2 by ear in the test.
+
+**Risk:** the hyphen take may change the sounds. For example, a syllable said alone may get its own stress, or the voice may read the hyphens aloud. That is why there is the recognition check, and why you listen first.
+
+Ground truth for Plan B: you mark about 20 words in Komma v0, or accept Plan A cuts that you have checked by ear.
 
 ## Decision gates
 1. **Gate 0, whole lessons (≈ Nov 14).** Listen to lessons 1, 10 and 30 ([listening-test.md](listening-test.md)). If whole-word Greek quality is bad, fix the voice or model first. Syllables come after.
-2. **Gate 1, Plan 0.** If one trick scores OK on at least 5 of the 6 test words, use it everywhere and stop here (keep Plan B as a backlog item). Otherwise do Plan A for Module 1 so it ships, then start B.
-3. **Gate 2, Plan B accuracy** (measured against Plan A labels). If at least 90% of cuts land within 30 ms of your hand cut, B goes live with QA flags. If below 70%, Komma becomes the main tool and B only pre-places the lines.
+2. **Gate 1, Plan A.** If a hyphen variant scores 2 on at least 5 of the 6 test words, build the silence splitter (about 1 day), run it on all 86 words, and keep Plan B in the backlog. If only the baseline sounds fine, keep Plan 0. If neither works, start Plan B.
+3. **Gate 2, Plan B accuracy** (measured against the ground truth). If at least 90% of cuts land within 30 ms, B goes live with QA flags. If below 70%, Komma becomes the main tool and B only pre-places the lines.
 4. **Gate 3, Komma (February).** Needed before Module 2 or a second language, or before hiring anyone to fix cuts.
 
 ## How it plugs in

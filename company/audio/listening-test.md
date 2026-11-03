@@ -37,4 +37,4 @@ Lessons 1, 10 and 30 are already approved and published as `lessons-content/gree
 | 09-4o-hyphen-instructed | /6 | |
 | 10-4o-endings | /6 | |
 
-Gate rule: if any variant scores 2 on at least 5 of 6 words, that is the winner. Otherwise go to Plan A (see [roadmap-syllables.md](roadmap-syllables.md)).
+Gate rule: if any variant scores 2 on at least 5 of 6 words, that is the winner. Hyphen variants (02, 03, 04, 09) are the Plan A candidates: also check by eye that there are clear silences between syllables (any waveform viewer). See [roadmap-syllables.md](roadmap-syllables.md).

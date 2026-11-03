@@ -42,7 +42,7 @@ Options:
 - Custom lessons: build them on the server on demand (option A), so there is still only one player code path.
 
 ## Next steps
-**2026-11-03:** Greek Module 1 (30 lessons) written and approved by you; lessons 1, 10 and 30 are queued for audio. Syllable build-up audio: `DECIDED` order Plan 0 (TTS tricks) → A (hand cuts) → B (auto cuts) → C (Komma editor, February). See `audio/SUMMARY-120W.md`.
+**2026-11-03:** Greek Module 1 (30 lessons) written and approved by you; lessons 1, 10 and 30 are queued for audio. Syllable build-up audio: `DECIDED` order Plan A (hyphen TTS + silence-midpoint split) → B (auto cuts on whole words) → C (Komma editor, February). See `audio/SUMMARY-120W.md`.
 
 **2026-10-28:** lesson generator groundwork is built (`AudioGeneration/curriculum/`). Next: a Haiku session follows `curriculum/RUNBOOK.md` to plan and write Greek Module 1. Back office phases are in `roadmap-back-office.md`.
 

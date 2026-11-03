@@ -3,7 +3,7 @@
 **Name:** Komma, from Greek κόμμα, "a piece cut off" (from κόπτω, "to cut"), the root of "comma". Target: **February 2027**. Status: `LOOSE`.
 
 ## What it is
-A back-office web page for fixing syllable cuts by ear and eye. You or hired staff only see the cuts Plan B flagged.
+A back-office web page for fixing syllable cuts by ear and eye. You or hired staff only see the cuts Plans A or B flagged.
 
 ## Screen
 - Word, its syllables (ευ · χα · ρι · στώ) and the confidence badge.
