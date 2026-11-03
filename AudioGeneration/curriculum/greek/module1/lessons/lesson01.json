@@ -1,0 +1,1483 @@
+{
+  "lesson": 1,
+  "title": "At the café",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you are at a café by the sea in Thessaloniki. You will learn to greet the waiter and to ask for a coffee.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to this conversation at the café.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Θέλω έναν καφέ, παρακαλώ.",
+      "items": [
+        "i004",
+        "i003",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Όχι, ευχαριστώ.",
+      "items": [
+        "i008",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "This is how to greet someone politely, or more than one person.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "This is how to wish someone good morning.",
+      "pause": 2
+    },
+    {
+      "beat": "b004",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b004",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you greet the waiter politely?",
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Greet the waiter again.",
+      "pause": 7
+    },
+    {
+      "beat": "b006",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "What is the greeting for morning?",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Say good morning once more.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "say": "Now greet the waiter, then wish good morning.",
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "target": "Γεια σας. Καλημέρα.",
+      "items": [
+        "i001",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b010",
+      "say": "Once more, the other way round.",
+      "pause": 7
+    },
+    {
+      "beat": "b010",
+      "target": "Καλημέρα. Γεια σας.",
+      "items": [
+        "i002",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b011",
+      "say": "To ask for a coffee, you say:",
+      "pause": 2
+    },
+    {
+      "beat": "b011",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b011",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you greet the waiter politely?",
+      "pause": 7
+    },
+    {
+      "beat": "b012",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you ask for a coffee?",
+      "pause": 7
+    },
+    {
+      "beat": "b013",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Say good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Ask for one coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b015",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Greet the waiter, then order a coffee.",
+      "pause": 8
+    },
+    {
+      "beat": "b016",
+      "target": "Γεια σας. Ένας καφές.",
+      "items": [
+        "i001",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Wish good morning, then ask for a coffee.",
+      "pause": 8
+    },
+    {
+      "beat": "b017",
+      "target": "Γεια σας. Καλημέρα. Ένας καφές.",
+      "items": [
+        "i001",
+        "i002",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "To say I want, you say:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Greet the waiter, then say I want.",
+      "pause": 8
+    },
+    {
+      "beat": "b019",
+      "target": "Γεια σας. Θέλω.",
+      "items": [
+        "i001",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say I want?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Ask for a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b021",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Wish good morning, then say I want a coffee.",
+      "pause": 8
+    },
+    {
+      "beat": "b023",
+      "target": "Καλημέρα. Θέλω έναν καφέ.",
+      "items": [
+        "i002",
+        "i004",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b024",
+      "say": "I want a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b024",
+      "target": "Θέλω έναν καφέ.",
+      "items": [
+        "i004",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Now the word for please. Listen to it in pieces, starting from the end, and repeat each part.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "λώ",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "καλώ",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "ρακαλώ",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "How do you say I want?",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say please?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Ask for a coffee, politely.",
+      "pause": 8
+    },
+    {
+      "beat": "b028",
+      "target": "Θέλω έναν καφέ, παρακαλώ.",
+      "items": [
+        "i004",
+        "i003",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b029",
+      "say": "Please.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "I want, please.",
+      "pause": 7
+    },
+    {
+      "beat": "b030",
+      "target": "Θέλω, παρακαλώ.",
+      "items": [
+        "i004",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "Greet, wish good morning, then say please.",
+      "pause": 8
+    },
+    {
+      "beat": "b031",
+      "target": "Γεια σας. Καλημέρα. Παρακαλώ.",
+      "items": [
+        "i001",
+        "i002",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "To say thank you, listen to the word in pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b032",
+      "target": "στώ",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "ριστώ",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "χαριστώ",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b032",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "How do you say please?",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "How do you say thank you?",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "Thank you, then please.",
+      "pause": 7
+    },
+    {
+      "beat": "b035",
+      "target": "Ευχαριστώ, παρακαλώ.",
+      "items": [
+        "i006",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Thank the waiter.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Good morning, please, thank you.",
+      "pause": 8
+    },
+    {
+      "beat": "b037",
+      "target": "Καλημέρα. Παρακαλώ. Ευχαριστώ.",
+      "items": [
+        "i002",
+        "i005",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b038",
+      "say": "How do you greet the waiter politely?",
+      "pause": 7
+    },
+    {
+      "beat": "b038",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "To say yes, you say:",
+      "pause": 2
+    },
+    {
+      "beat": "b039",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b039",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Say good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "How do you say yes?",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Say thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Yes, thank you.",
+      "pause": 7
+    },
+    {
+      "beat": "b044",
+      "target": "Ναι, ευχαριστώ.",
+      "items": [
+        "i007",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Yes, thank you, and a coffee.",
+      "pause": 8
+    },
+    {
+      "beat": "b045",
+      "target": "Ναι, ευχαριστώ. Ένας καφές.",
+      "items": [
+        "i007",
+        "i006",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b046",
+      "say": "To say no, you say:",
+      "pause": 2
+    },
+    {
+      "beat": "b046",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b046",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Order a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b047",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "How do you say no?",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "How do you say yes?",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "No.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "No, then yes.",
+      "pause": 7
+    },
+    {
+      "beat": "b051",
+      "target": "Όχι. Ναι.",
+      "items": [
+        "i008",
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "No, yes, thank you.",
+      "pause": 8
+    },
+    {
+      "beat": "b052",
+      "target": "Όχι. Ναι. Ευχαριστώ.",
+      "items": [
+        "i008",
+        "i007",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b053",
+      "say": "Greet, then say no.",
+      "pause": 7
+    },
+    {
+      "beat": "b053",
+      "target": "Γεια σας. Όχι.",
+      "items": [
+        "i001",
+        "i008"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b054",
+      "say": "I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Good morning, no, yes.",
+      "pause": 8
+    },
+    {
+      "beat": "b055",
+      "target": "Καλημέρα. Όχι. Ναι.",
+      "items": [
+        "i002",
+        "i008",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "No.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "No, a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b057",
+      "target": "Όχι, ένας καφές.",
+      "items": [
+        "i008",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b058",
+      "say": "I want, please, thank you.",
+      "pause": 8
+    },
+    {
+      "beat": "b058",
+      "target": "Θέλω, παρακαλώ. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i004",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b059",
+      "say": "Yes, please.",
+      "pause": 7
+    },
+    {
+      "beat": "b059",
+      "target": "Ναι, παρακαλώ.",
+      "items": [
+        "i007",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "No, thank you, yes.",
+      "pause": 8
+    },
+    {
+      "beat": "b060",
+      "target": "Όχι, ευχαριστώ. Ναι.",
+      "items": [
+        "i008",
+        "i006",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b061",
+      "say": "No, yes.",
+      "pause": 7
+    },
+    {
+      "beat": "b061",
+      "target": "Όχι, ναι.",
+      "items": [
+        "i008",
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Please.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "I want, no, thank you.",
+      "pause": 8
+    },
+    {
+      "beat": "b063",
+      "target": "Θέλω, όχι. Ευχαριστώ.",
+      "items": [
+        "i004",
+        "i008",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "say": "Greet and wish good morning.",
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "target": "Γεια σας. Καλημέρα.",
+      "items": [
+        "i001",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Good morning, I want a coffee.",
+      "pause": 8
+    },
+    {
+      "beat": "b065",
+      "target": "Καλημέρα. Θέλω έναν καφέ.",
+      "items": [
+        "i003",
+        "i002",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b066",
+      "say": "A coffee, please.",
+      "pause": 7
+    },
+    {
+      "beat": "b066",
+      "target": "Ένας καφές, παρακαλώ.",
+      "items": [
+        "i005",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Thank you, I want, yes.",
+      "pause": 8
+    },
+    {
+      "beat": "b067",
+      "target": "Ευχαριστώ. Θέλω. Ναι.",
+      "items": [
+        "i006",
+        "i004",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b068",
+      "say": "No, please.",
+      "pause": 7
+    },
+    {
+      "beat": "b068",
+      "target": "Όχι, παρακαλώ.",
+      "items": [
+        "i008",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Greet politely, thank you, yes.",
+      "pause": 8
+    },
+    {
+      "beat": "b069",
+      "target": "Γεια σας. Ευχαριστώ. Ναι.",
+      "items": [
+        "i001",
+        "i006",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "No, yes.",
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "target": "Όχι. Ναι.",
+      "items": [
+        "i008",
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Hello, no, good morning.",
+      "pause": 8
+    },
+    {
+      "beat": "b072",
+      "target": "Γεια σας. Όχι. Καλημέρα.",
+      "items": [
+        "i001",
+        "i008",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "A coffee, hello.",
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "target": "Ένας καφές. Γεια σας.",
+      "items": [
+        "i003",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b074",
+      "say": "I want, good morning, please.",
+      "pause": 8
+    },
+    {
+      "beat": "b074",
+      "target": "Θέλω. Καλημέρα, παρακαλώ.",
+      "items": [
+        "i004",
+        "i002",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "I want a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "target": "Θέλω έναν καφέ.",
+      "items": [
+        "i003",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "Yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "Please, I want, thank you.",
+      "pause": 8
+    },
+    {
+      "beat": "b077",
+      "target": "Παρακαλώ. Θέλω. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i004",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "No, please.",
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "target": "Όχι, παρακαλώ.",
+      "items": [
+        "i008",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Hello, thank you, good morning.",
+      "pause": 8
+    },
+    {
+      "beat": "b079",
+      "target": "Γεια σας. Ευχαριστώ. Καλημέρα.",
+      "items": [
+        "i001",
+        "i006",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Yes, a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "target": "Ναι, ένας καφές.",
+      "items": [
+        "i003",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b081",
+      "say": "No, hello, good morning.",
+      "pause": 8
+    },
+    {
+      "beat": "b081",
+      "target": "Όχι. Γεια σας. Καλημέρα.",
+      "items": [
+        "i008",
+        "i001",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "No.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "A coffee, hello.",
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "target": "Γεια σας. Ένας καφές.",
+      "items": [
+        "i003",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "I want, good morning, please.",
+      "pause": 8
+    },
+    {
+      "beat": "b084",
+      "target": "Καλημέρα. Θέλω, παρακαλώ.",
+      "items": [
+        "i004",
+        "i002",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "Thank you, a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "target": "Ευχαριστώ. Ένας καφές.",
+      "items": [
+        "i006",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "Yes, I want, please.",
+      "pause": 8
+    },
+    {
+      "beat": "b086",
+      "target": "Ναι. Θέλω, παρακαλώ.",
+      "items": [
+        "i007",
+        "i004",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "say": "Thank you, please.",
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "target": "Ευχαριστώ, παρακαλώ.",
+      "items": [
+        "i006",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Now you are at the café. The waiter comes to your table and says hello.",
+      "pause": 2
+    },
+    {
+      "beat": "b088",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Greet him back with good morning.",
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "He asks what you would like. Say: I want a coffee, please.",
+      "pause": 8
+    },
+    {
+      "beat": "b088",
+      "target": "Θέλω έναν καφέ, παρακαλώ.",
+      "items": [
+        "i004",
+        "i003",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "say": "He asks if you want anything else. Say no, thank you.",
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "target": "Όχι, ευχαριστώ.",
+      "items": [
+        "i008",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "He brings the coffee. Say thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "He asks if everything is all right. Say yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Well done. You can now greet, wish good morning, order a coffee, and say please, thank you, yes and no. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

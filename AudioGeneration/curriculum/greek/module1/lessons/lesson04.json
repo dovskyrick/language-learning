@@ -1,0 +1,1650 @@
+{
+  "lesson": 4,
+  "title": "Where are you from?",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you talk about where you are from, which countries and cities you know, and where you live.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to this conversation.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Είμαι Νίκος.",
+      "items": [
+        "i001",
+        "i025",
+        "i022"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Από πού;",
+      "items": [
+        "i031",
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Είμαι από την Ελλάδα.",
+      "items": [
+        "i025",
+        "i031",
+        "i026"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Μένω στη Θεσσαλονίκη.",
+      "items": [
+        "i029",
+        "i028"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Εγώ μένω στην Αθήνα.",
+      "items": [
+        "i021",
+        "i029",
+        "i032"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "To say I am, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then say I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Είμαι.",
+      "items": [
+        "i001",
+        "i025"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say I am?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "How do you say I?",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, I am, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Είμαι. Ένας καφές.",
+      "items": [
+        "i002",
+        "i025",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω. Είμαι.",
+      "items": [
+        "i004",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The country: Greece. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "δα",
+      "items": [
+        "i026"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "άδα",
+      "items": [
+        "i026"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "λάδα",
+      "items": [
+        "i026"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Ελλάδα.",
+      "items": [
+        "i026"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Ελλάδα.",
+      "items": [
+        "i026"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say Greece?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Ελλάδα.",
+      "items": [
+        "i026"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Greece.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Ελλάδα.",
+      "items": [
+        "i026"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Please, Greece, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Παρακαλώ. Ελλάδα. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i026",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b016",
+      "say": "Yes, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Ναι. Είμαι.",
+      "items": [
+        "i007",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "The country: Germany. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "νία",
+      "items": [
+        "i027"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "μανία",
+      "items": [
+        "i027"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "ερμανία",
+      "items": [
+        "i027"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Greece.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Ελλάδα.",
+      "items": [
+        "i026"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "How do you say Germany?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Μαρία.",
+      "items": [
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "No, Germany, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Όχι. Γερμανία. Νερό.",
+      "items": [
+        "i008",
+        "i027",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b023",
+      "say": "My name is, formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "How much is it, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Πόσο κάνει; Είμαι.",
+      "items": [
+        "i010",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "The city: Thessaloniki. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "νίκη",
+      "items": [
+        "i028"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "λονίκη",
+      "items": [
+        "i028"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "σσαλονίκη",
+      "items": [
+        "i028"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say Thessaloniki?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Thessaloniki, one, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Θεσσαλονίκη και ένα.",
+      "items": [
+        "i028",
+        "i012",
+        "i011"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b029",
+      "say": "Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "A tea, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα τσάι. Είμαι.",
+      "items": [
+        "i013",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "To say I live, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b032",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b032",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "For you, I live, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Για σένα. Μένω. Λίγο.",
+      "items": [
+        "i014",
+        "i029",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b034",
+      "say": "Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say I live?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "What is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "One more, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ακόμα ένα. Είμαι.",
+      "items": [
+        "i016",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "The word for where is:",
+      "pause": 2
+    },
+    {
+      "beat": "b040",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b040",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "How do you ask where?",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Where?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "You, where, hello.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Γεια σας. Εσύ; Πού;",
+      "items": [
+        "i001",
+        "i020",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b046",
+      "say": "Good morning, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Καλημέρα. Είμαι.",
+      "items": [
+        "i002",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Greece.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Ελλάδα.",
+      "items": [
+        "i026"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "The word for from is:",
+      "pause": 2
+    },
+    {
+      "beat": "b048",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b048",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Where?",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "How do you say from?",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "You?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "From.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "A coffee, from Greece, I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Θέλω έναν καφέ, από την Ελλάδα.",
+      "items": [
+        "i004",
+        "i003",
+        "i031",
+        "i026"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b054",
+      "say": "Please, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Παρακαλώ. Είμαι.",
+      "items": [
+        "i005",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "The city: Athens. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b056",
+      "target": "ήνα",
+      "items": [
+        "i032"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b056",
+      "target": "θήνα",
+      "items": [
+        "i032"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b056",
+      "target": "Αθήνα.",
+      "items": [
+        "i032"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b056",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b056",
+      "target": "Αθήνα.",
+      "items": [
+        "i032"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "From.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "How do you say Athens?",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Αθήνα.",
+      "items": [
+        "i032"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "A tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Αθήνα.",
+      "items": [
+        "i032"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "For you.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Thank you, Athens, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Ευχαριστώ. Αθήνα. Ναι.",
+      "items": [
+        "i006",
+        "i032",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "say": "No, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Όχι. Είμαι.",
+      "items": [
+        "i008",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Water, Greece, how much is it.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Νερό. Ελλάδα. Πόσο κάνει;",
+      "items": [
+        "i009",
+        "i026",
+        "i010"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b066",
+      "say": "Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Αθήνα.",
+      "items": [
+        "i032"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "One, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Ένα. Γερμανία.",
+      "items": [
+        "i011",
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "A little.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "And, Thessaloniki, one more.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Και Θεσσαλονίκη. Ακόμα ένα.",
+      "items": [
+        "i012",
+        "i028",
+        "i016"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "My name is, I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Με λένε. Μένω.",
+      "items": [
+        "i017",
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "What is your name, where, nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Πώς σε λένε; Πού; Χάρηκα.",
+      "items": [
+        "i018",
+        "i030",
+        "i019"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "I, from Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Εγώ από τη Γερμανία.",
+      "items": [
+        "i021",
+        "i031",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b074",
+      "say": "One more.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Nikos, Athens, Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Νίκος. Αθήνα. Μαρία.",
+      "items": [
+        "i022",
+        "i032",
+        "i023"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "My name is, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Ονομάζομαι. Είμαι.",
+      "items": [
+        "i024",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "Hello, Greece, good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Γεια σας. Ελλάδα. Καλημέρα.",
+      "items": [
+        "i001",
+        "i026",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "Where?",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "A coffee, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Ένας καφές. Γερμανία.",
+      "items": [
+        "i003",
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Water.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "I want, Thessaloniki, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Θέλω. Θεσσαλονίκη, παρακαλώ.",
+      "items": [
+        "i004",
+        "i028",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Thank you, I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Ευχαριστώ. Μένω.",
+      "items": [
+        "i006",
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Yes, where, no.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Ναι. Πού; Όχι.",
+      "items": [
+        "i007",
+        "i030",
+        "i008"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "How much is it, from where?",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσο κάνει; Από πού;",
+      "items": [
+        "i010",
+        "i031",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "From.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "Athens, one, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Αθήνα και ένα.",
+      "items": [
+        "i032",
+        "i012",
+        "i011"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "say": "A tea, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα τσάι. Είμαι.",
+      "items": [
+        "i013",
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "For you, Greece, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Για σένα. Ελλάδα. Λίγο.",
+      "items": [
+        "i014",
+        "i026",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "A woman at the next table greets you and asks where you are from.",
+      "pause": 2
+    },
+    {
+      "beat": "b089",
+      "say": "Greet her politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "She asks who you are. Answer: I am Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Είμαι Νίκος.",
+      "items": [
+        "i025",
+        "i022"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "She asks where you are from. Answer: I am from Greece.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Είμαι από την Ελλάδα.",
+      "items": [
+        "i025",
+        "i031",
+        "i026"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "She asks where you live. Answer: I live in Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Μένω στην Αθήνα.",
+      "items": [
+        "i029",
+        "i032"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Ask her where she is from.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Από πού;",
+      "items": [
+        "i031",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "She says: from Germany. Answer: nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "She offers a coffee. Say: yes, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ναι, παρακαλώ.",
+      "items": [
+        "i007",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "She asks how much it costs. Ask her: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: one more, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ακόμα ένα, παρακαλώ.",
+      "items": [
+        "i016",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I want water, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Θέλω νερό, ευχαριστώ.",
+      "items": [
+        "i004",
+        "i009",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I live in Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Μένω στη Θεσσαλονίκη.",
+      "items": [
+        "i029",
+        "i028"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: good morning, I am Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καλημέρα. Είμαι Μαρία.",
+      "items": [
+        "i002",
+        "i025",
+        "i023"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: no, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Όχι, ευχαριστώ.",
+      "items": [
+        "i008",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: thank you, Greece, and a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ευχαριστώ. Ελλάδα. Λίγο.",
+      "items": [
+        "i006",
+        "i026",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Well done. You can now say where you are from and where you live. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

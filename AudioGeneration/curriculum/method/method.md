@@ -31,7 +31,14 @@ The learner is always *producing*, not just listening. Most of the lesson is: gu
 - **roleplay:** a closing conversation. A native character speaks; the guide prompts the learner's replies in English ("She asks how you are. Answer that you're well."); pause; native gives the model reply. Use at least half of the listed items.
 - **closing:** one or two guide lines. Congratulate briefly; say what comes next. No Greek.
 
-## Pauses (seconds, after the line)
+## Pauses (seconds, after the line) — pacing rule, method-v1
+- Target line (native voice): **6 s**, or **7 s** if it has 3+ words. Learners need time to repeat.
+- Guide prompt before an answer (recall, review, combine, roleplay): **6 s**.
+- Guide cue "Repeat after the voice" / "Say it again": 1 s, then the target line.
+- Guide talk with nothing expected next: 2 s.
+This pacing gives lessons of about 28 minutes. Follow it exactly; the checker only enforces the minimums.
+
+### Older minimums (checker enforces these)
 - After a guide **prompt** that expects an answer: answer time = 2.5 + 0.6 × words in the answer (max 8). The checker enforces this.
 - After a **target** line: repeat time = 1.5 + 0.5 × words (max 6). The checker enforces this.
 - After plain guide talk with no answer expected: 0.5–1.5.

@@ -1,0 +1,1614 @@
+{
+  "lesson": 3,
+  "title": "Names",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you meet someone at the next table. You say your name and ask theirs.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to this conversation.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Με λένε Νίκος.",
+      "items": [
+        "i001",
+        "i017",
+        "i022"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Χάρηκα. Εσύ;",
+      "items": [
+        "i019",
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ονομάζομαι Μαρία.",
+      "items": [
+        "i024",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Εγώ;",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "To say my name is, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then say my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Με λένε.",
+      "items": [
+        "i001",
+        "i017"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say my name is?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "How do you ask how much it costs?",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, my name is, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Με λένε. Ένας καφές.",
+      "items": [
+        "i002",
+        "i017",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want. My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω. Με λένε.",
+      "items": [
+        "i004",
+        "i017"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b010",
+      "say": "To ask someone's name, informal, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Ask someone what their name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say one?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "What is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Please, what is your name, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Παρακαλώ. Πώς σε λένε; Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i018",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b016",
+      "say": "Yes, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Ναι. Με λένε.",
+      "items": [
+        "i007",
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "To say nice to meet you, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "How do you say and?",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Και.",
+      "items": [
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "What is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "Nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "How do you say nice to meet you?",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "No, nice to meet you, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Όχι. Χάρηκα. Νερό.",
+      "items": [
+        "i008",
+        "i019",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b023",
+      "say": "A tea, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ένα τσάι. Με λένε.",
+      "items": [
+        "i013",
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "The word for you, informal, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b024",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b024",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "A tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say you?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "You?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "For you, you, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Για σένα. Εσύ; Λίγο.",
+      "items": [
+        "i014",
+        "i020",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b030",
+      "say": "One more, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Ακόμα ένα. Με λένε.",
+      "items": [
+        "i016",
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "The word for I is:",
+      "pause": 2
+    },
+    {
+      "beat": "b031",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b031",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "For you.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "You?",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "How do you say I?",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "I.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Hello, I, good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Γεια σας. Εγώ. Καλημέρα.",
+      "items": [
+        "i001",
+        "i021",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b037",
+      "say": "A coffee, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ένας καφές. Με λένε.",
+      "items": [
+        "i003",
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "This is the name Nikos. Listen and repeat.",
+      "pause": 2
+    },
+    {
+      "beat": "b038",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b038",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A little.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "I.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "How do you say Nikos?",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "I want. My name is Nikos, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Θέλω. Με λένε Νίκος, παρακαλώ.",
+      "items": [
+        "i004",
+        "i017",
+        "i022",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b045",
+      "say": "One more.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "The name Maria. Listen to the pieces, starting from the end, and repeat.",
+      "pause": 2
+    },
+    {
+      "beat": "b046",
+      "target": "ία",
+      "items": [
+        "i023"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b046",
+      "target": "ρία",
+      "items": [
+        "i023"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b046",
+      "target": "αρία",
+      "items": [
+        "i023"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b046",
+      "target": "Μαρία.",
+      "items": [
+        "i023"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b046",
+      "say": "Repeat the whole name.",
+      "pause": 1
+    },
+    {
+      "beat": "b046",
+      "target": "Μαρία.",
+      "items": [
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "What is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "How do you say Maria?",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Μαρία.",
+      "items": [
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Μαρία.",
+      "items": [
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Water.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Thank you, Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Ευχαριστώ. Νίκος.",
+      "items": [
+        "i006",
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Yes, Maria, no.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Ναι. Μαρία. Όχι.",
+      "items": [
+        "i007",
+        "i023",
+        "i008"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b054",
+      "say": "To say my name is, formal, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b054",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b054",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Μαρία.",
+      "items": [
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "How do you say my name is, formal?",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "My name is, formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How much is it, Maria?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Πόσο κάνει; Μαρία.",
+      "items": [
+        "i010",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "My name is formal, and one.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ονομάζομαι και ένα.",
+      "items": [
+        "i024",
+        "i012",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Greet, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Γεια σας. Με λένε.",
+      "items": [
+        "i001",
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "You?",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "My name is, formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "How do you ask for a coffee?",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "I want, what is your name, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Θέλω. Πώς σε λένε, παρακαλώ;",
+      "items": [
+        "i004",
+        "i018",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Thank you, nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Ευχαριστώ. Χάρηκα.",
+      "items": [
+        "i006",
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Yes, you, no.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Ναι. Εσύ; Όχι.",
+      "items": [
+        "i007",
+        "i020",
+        "i008"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "say": "Water, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Νερό. Εγώ.",
+      "items": [
+        "i009",
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "I.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "How much, Nikos, one.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Πόσο κάνει; Νίκος. Ένα.",
+      "items": [
+        "i010",
+        "i022",
+        "i011"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "And Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Και Μαρία.",
+      "items": [
+        "i012",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "A tea, formal name, for you.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ένα τσάι. Ονομάζομαι. Για σένα.",
+      "items": [
+        "i013",
+        "i024",
+        "i014"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "A little, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Λίγο. Με λένε.",
+      "items": [
+        "i015",
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "One more, what is your name, hello.",
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "target": "Ακόμα ένα. Πώς σε λένε; Γεια σας.",
+      "items": [
+        "i016",
+        "i018",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Please.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Good morning, nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Καλημέρα. Χάρηκα.",
+      "items": [
+        "i002",
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "A coffee, you, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Ένας καφές. Εσύ; Ευχαριστώ.",
+      "items": [
+        "i003",
+        "i020",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b081",
+      "say": "Yes, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Ναι. Εγώ.",
+      "items": [
+        "i007",
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "No, Nikos, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Όχι. Νίκος. Νερό.",
+      "items": [
+        "i008",
+        "i022",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "How much, Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσο κάνει; Μαρία.",
+      "items": [
+        "i010",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Μαρία.",
+      "items": [
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "One, formal name, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Ονομάζομαι και ένα.",
+      "items": [
+        "i024",
+        "i012",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "A tea, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα τσάι. Με λένε.",
+      "items": [
+        "i013",
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "For you, what is your name, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Για σένα. Πώς σε λένε; Λίγο.",
+      "items": [
+        "i014",
+        "i018",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "One more, nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ακόμα ένα. Χάρηκα.",
+      "items": [
+        "i016",
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Hello, you, good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Γεια σας. Εσύ; Καλημέρα.",
+      "items": [
+        "i001",
+        "i020",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "A coffee, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ένας καφές. Εγώ.",
+      "items": [
+        "i003",
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "You meet a woman at the next table. She greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet her back with good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "She asks your name. Say: my name is Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Με λένε Νίκος.",
+      "items": [
+        "i017",
+        "i022"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "She says her name is Maria. Answer: nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask her what her name is, informal.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "She asks: and you? Answer: I am Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Εγώ. Νίκος.",
+      "items": [
+        "i021",
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask her: and you?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask how much the coffee costs.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "She offers a tea. Say: one tea, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ένα τσάι, παρακαλώ.",
+      "items": [
+        "i013",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "She asks if you want more. Say: one more, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ακόμα ένα, παρακαλώ.",
+      "items": [
+        "i016",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say yes, thank you, and a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ναι, ευχαριστώ, λίγο.",
+      "items": [
+        "i007",
+        "i006",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say no, water, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Όχι. Νερό. Ευχαριστώ.",
+      "items": [
+        "i008",
+        "i009",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I want a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Θέλω έναν καφέ.",
+      "items": [
+        "i004",
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say good morning to Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καλημέρα, Μαρία.",
+      "items": [
+        "i002",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now say your name, ask someone's name, and say nice to meet you. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

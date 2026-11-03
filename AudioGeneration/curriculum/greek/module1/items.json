@@ -1,0 +1,1813 @@
+[
+  {
+    "id": "i001",
+    "target": "Γεια σας",
+    "meaning": "hello (polite)",
+    "type": "phrase",
+    "lesson": 1,
+    "notes": "polite form"
+  },
+  {
+    "id": "i002",
+    "target": "Καλημέρα",
+    "meaning": "good morning",
+    "type": "phrase",
+    "lesson": 1
+  },
+  {
+    "id": "i003",
+    "target": "ένας καφές",
+    "meaning": "a coffee",
+    "type": "phrase",
+    "lesson": 1,
+    "forms": [
+      "έναν καφέ"
+    ]
+  },
+  {
+    "id": "i004",
+    "target": "θέλω",
+    "meaning": "I want",
+    "type": "word",
+    "lesson": 1
+  },
+  {
+    "id": "i005",
+    "target": "παρακαλώ",
+    "meaning": "please",
+    "type": "word",
+    "lesson": 1,
+    "syllables": 3
+  },
+  {
+    "id": "i006",
+    "target": "ευχαριστώ",
+    "meaning": "thank you",
+    "type": "word",
+    "lesson": 1,
+    "syllables": 4
+  },
+  {
+    "id": "i007",
+    "target": "ναι",
+    "meaning": "yes",
+    "type": "word",
+    "lesson": 1
+  },
+  {
+    "id": "i008",
+    "target": "όχι",
+    "meaning": "no",
+    "type": "word",
+    "lesson": 1
+  },
+  {
+    "id": "i009",
+    "target": "νερό",
+    "meaning": "water",
+    "type": "word",
+    "lesson": 2
+  },
+  {
+    "id": "i010",
+    "target": "πόσο κάνει;",
+    "meaning": "how much is it",
+    "type": "phrase",
+    "lesson": 2
+  },
+  {
+    "id": "i011",
+    "target": "ένα",
+    "meaning": "one",
+    "type": "word",
+    "lesson": 2
+  },
+  {
+    "id": "i012",
+    "target": "και",
+    "meaning": "and",
+    "type": "word",
+    "lesson": 2
+  },
+  {
+    "id": "i013",
+    "target": "ένα τσάι",
+    "meaning": "a tea",
+    "type": "phrase",
+    "lesson": 2
+  },
+  {
+    "id": "i014",
+    "target": "για σένα",
+    "meaning": "for you (informal)",
+    "type": "phrase",
+    "lesson": 2
+  },
+  {
+    "id": "i015",
+    "target": "λίγο",
+    "meaning": "a little",
+    "type": "word",
+    "lesson": 2
+  },
+  {
+    "id": "i016",
+    "target": "ακόμα ένα",
+    "meaning": "one more",
+    "type": "phrase",
+    "lesson": 2
+  },
+  {
+    "id": "i017",
+    "target": "Με λένε",
+    "meaning": "my name is",
+    "type": "phrase",
+    "lesson": 3
+  },
+  {
+    "id": "i018",
+    "target": "Πώς σε λένε;",
+    "meaning": "what is your name (informal)",
+    "type": "phrase",
+    "lesson": 3
+  },
+  {
+    "id": "i019",
+    "target": "Χάρηκα",
+    "meaning": "nice to meet you",
+    "type": "phrase",
+    "lesson": 3
+  },
+  {
+    "id": "i020",
+    "target": "εσύ",
+    "meaning": "you (informal)",
+    "type": "word",
+    "lesson": 3
+  },
+  {
+    "id": "i021",
+    "target": "εγώ",
+    "meaning": "I",
+    "type": "word",
+    "lesson": 3
+  },
+  {
+    "id": "i022",
+    "target": "Νίκος",
+    "meaning": "Nikos (name)",
+    "type": "word",
+    "lesson": 3,
+    "syllables": 2
+  },
+  {
+    "id": "i023",
+    "target": "Μαρία",
+    "meaning": "Maria (name)",
+    "type": "word",
+    "lesson": 3,
+    "syllables": 3
+  },
+  {
+    "id": "i024",
+    "target": "ονομάζομαι",
+    "meaning": "my name is (formal)",
+    "type": "phrase",
+    "lesson": 3
+  },
+  {
+    "id": "i025",
+    "target": "είμαι",
+    "meaning": "I am",
+    "type": "word",
+    "lesson": 4
+  },
+  {
+    "id": "i026",
+    "target": "Ελλάδα",
+    "meaning": "Greece",
+    "type": "word",
+    "lesson": 4,
+    "syllables": 3
+  },
+  {
+    "id": "i027",
+    "target": "Γερμανία",
+    "meaning": "Germany",
+    "type": "word",
+    "lesson": 4,
+    "syllables": 4
+  },
+  {
+    "id": "i028",
+    "target": "Θεσσαλονίκη",
+    "meaning": "Thessaloniki",
+    "type": "word",
+    "lesson": 4,
+    "syllables": 5
+  },
+  {
+    "id": "i029",
+    "target": "μένω",
+    "meaning": "I live",
+    "type": "word",
+    "lesson": 4,
+    "forms": [
+      "στην",
+      "στη",
+      "στο"
+    ]
+  },
+  {
+    "id": "i030",
+    "target": "πού;",
+    "meaning": "where?",
+    "type": "word",
+    "lesson": 4
+  },
+  {
+    "id": "i031",
+    "target": "από",
+    "meaning": "from",
+    "type": "word",
+    "lesson": 4,
+    "forms": [
+      "την",
+      "τη",
+      "τον"
+    ]
+  },
+  {
+    "id": "i032",
+    "target": "Αθήνα",
+    "meaning": "Athens",
+    "type": "word",
+    "lesson": 4,
+    "syllables": 3
+  },
+  {
+    "id": "i033",
+    "target": "δύο",
+    "meaning": "two",
+    "type": "word",
+    "lesson": 5
+  },
+  {
+    "id": "i034",
+    "target": "τρία",
+    "meaning": "three",
+    "type": "word",
+    "lesson": 5
+  },
+  {
+    "id": "i035",
+    "target": "τέσσερα",
+    "meaning": "four",
+    "type": "word",
+    "lesson": 5,
+    "syllables": 3
+  },
+  {
+    "id": "i036",
+    "target": "πέντε",
+    "meaning": "five",
+    "type": "word",
+    "lesson": 5,
+    "syllables": 2
+  },
+  {
+    "id": "i037",
+    "target": "πόσα;",
+    "meaning": "how many?",
+    "type": "word",
+    "lesson": 5
+  },
+  {
+    "id": "i038",
+    "target": "περίπτερο",
+    "meaning": "kiosk",
+    "type": "word",
+    "lesson": 5,
+    "syllables": 4
+  },
+  {
+    "id": "i039",
+    "target": "εδώ",
+    "meaning": "here",
+    "type": "word",
+    "lesson": 5
+  },
+  {
+    "id": "i040",
+    "target": "ένα πακέτο",
+    "meaning": "a pack",
+    "type": "phrase",
+    "lesson": 5
+  },
+  {
+    "id": "i041",
+    "target": "ψωμί",
+    "meaning": "bread",
+    "type": "word",
+    "lesson": 6
+  },
+  {
+    "id": "i042",
+    "target": "κουλούρι",
+    "meaning": "koulouri (sesame bread ring)",
+    "type": "word",
+    "lesson": 6,
+    "syllables": 4
+  },
+  {
+    "id": "i043",
+    "target": "ή",
+    "meaning": "or",
+    "type": "word",
+    "lesson": 6
+  },
+  {
+    "id": "i044",
+    "target": "θέλετε",
+    "meaning": "you want (polite)",
+    "type": "word",
+    "lesson": 6,
+    "forms": [
+      "θέλεις"
+    ]
+  },
+  {
+    "id": "i045",
+    "target": "πόσο;",
+    "meaning": "how much?",
+    "type": "word",
+    "lesson": 6
+  },
+  {
+    "id": "i046",
+    "target": "φρέσκο",
+    "meaning": "fresh",
+    "type": "word",
+    "lesson": 6
+  },
+  {
+    "id": "i047",
+    "target": "πολύ",
+    "meaning": "very",
+    "type": "word",
+    "lesson": 6
+  },
+  {
+    "id": "i048",
+    "target": "καλό",
+    "meaning": "good",
+    "type": "word",
+    "lesson": 6
+  },
+  {
+    "id": "i049",
+    "target": "καλησπέρα",
+    "meaning": "good evening",
+    "type": "phrase",
+    "lesson": 7
+  },
+  {
+    "id": "i050",
+    "target": "Τι κάνεις;",
+    "meaning": "how are you (informal)",
+    "type": "phrase",
+    "lesson": 7
+  },
+  {
+    "id": "i051",
+    "target": "καλά",
+    "meaning": "well, fine",
+    "type": "word",
+    "lesson": 7
+  },
+  {
+    "id": "i052",
+    "target": "έτσι κι έτσι",
+    "meaning": "so-so",
+    "type": "phrase",
+    "lesson": 7
+  },
+  {
+    "id": "i053",
+    "target": "κι εσύ",
+    "meaning": "and you (informal)",
+    "type": "phrase",
+    "lesson": 7
+  },
+  {
+    "id": "i054",
+    "target": "σήμερα",
+    "meaning": "today",
+    "type": "word",
+    "lesson": 7,
+    "syllables": 3
+  },
+  {
+    "id": "i055",
+    "target": "καληνύχτα",
+    "meaning": "good night",
+    "type": "phrase",
+    "lesson": 7
+  },
+  {
+    "id": "i056",
+    "target": "πρωί",
+    "meaning": "in the morning",
+    "type": "word",
+    "lesson": 7
+  },
+  {
+    "id": "i057",
+    "target": "πού είναι;",
+    "meaning": "where is it?",
+    "type": "phrase",
+    "lesson": 8
+  },
+  {
+    "id": "i058",
+    "target": "ξενοδοχείο",
+    "meaning": "hotel",
+    "type": "word",
+    "lesson": 8,
+    "syllables": 5
+  },
+  {
+    "id": "i059",
+    "target": "στάση",
+    "meaning": "stop (bus)",
+    "type": "word",
+    "lesson": 8,
+    "syllables": 2
+  },
+  {
+    "id": "i060",
+    "target": "πλατεία",
+    "meaning": "square",
+    "type": "word",
+    "lesson": 8,
+    "syllables": 3
+  },
+  {
+    "id": "i061",
+    "target": "συγγνώμη",
+    "meaning": "sorry, excuse me",
+    "type": "word",
+    "lesson": 8,
+    "syllables": 4
+  },
+  {
+    "id": "i062",
+    "target": "κοντά",
+    "meaning": "near",
+    "type": "word",
+    "lesson": 8
+  },
+  {
+    "id": "i063",
+    "target": "μακριά",
+    "meaning": "far",
+    "type": "word",
+    "lesson": 8
+  },
+  {
+    "id": "i064",
+    "target": "είναι",
+    "meaning": "it is",
+    "type": "word",
+    "lesson": 8
+  },
+  {
+    "id": "i065",
+    "target": "αριστερά",
+    "meaning": "left",
+    "type": "word",
+    "lesson": 9,
+    "syllables": 4
+  },
+  {
+    "id": "i066",
+    "target": "δεξιά",
+    "meaning": "right",
+    "type": "word",
+    "lesson": 9,
+    "syllables": 3
+  },
+  {
+    "id": "i067",
+    "target": "ευθεία",
+    "meaning": "straight ahead",
+    "type": "word",
+    "lesson": 9,
+    "syllables": 3
+  },
+  {
+    "id": "i068",
+    "target": "εκεί",
+    "meaning": "there",
+    "type": "word",
+    "lesson": 9
+  },
+  {
+    "id": "i069",
+    "target": "κάτω",
+    "meaning": "down",
+    "type": "word",
+    "lesson": 9
+  },
+  {
+    "id": "i070",
+    "target": "πάνω",
+    "meaning": "up",
+    "type": "word",
+    "lesson": 9
+  },
+  {
+    "id": "i071",
+    "target": "μετά",
+    "meaning": "then, after",
+    "type": "word",
+    "lesson": 9
+  },
+  {
+    "id": "i072",
+    "target": "ακριβώς",
+    "meaning": "exactly",
+    "type": "word",
+    "lesson": 9,
+    "syllables": 3
+  },
+  {
+    "id": "i073",
+    "target": "μετρό",
+    "meaning": "metro",
+    "type": "word",
+    "lesson": 10
+  },
+  {
+    "id": "i074",
+    "target": "εισιτήριο",
+    "meaning": "ticket",
+    "type": "word",
+    "lesson": 10,
+    "syllables": 5
+  },
+  {
+    "id": "i075",
+    "target": "μπορώ",
+    "meaning": "I can",
+    "type": "word",
+    "lesson": 10
+  },
+  {
+    "id": "i076",
+    "target": "μπορείτε",
+    "meaning": "you can (polite)",
+    "type": "word",
+    "lesson": 10
+  },
+  {
+    "id": "i077",
+    "target": "ξανά",
+    "meaning": "again",
+    "type": "word",
+    "lesson": 10
+  },
+  {
+    "id": "i078",
+    "target": "αργά",
+    "meaning": "slowly",
+    "type": "word",
+    "lesson": 10
+  },
+  {
+    "id": "i079",
+    "target": "πάω",
+    "meaning": "I go",
+    "type": "word",
+    "lesson": 10
+  },
+  {
+    "id": "i080",
+    "target": "δεν",
+    "meaning": "not",
+    "type": "word",
+    "lesson": 10
+  },
+  {
+    "id": "i081",
+    "target": "λεωφορείο",
+    "meaning": "bus",
+    "type": "word",
+    "lesson": 11,
+    "syllables": 5
+  },
+  {
+    "id": "i082",
+    "target": "στο κέντρο",
+    "meaning": "to the centre",
+    "type": "phrase",
+    "lesson": 11
+  },
+  {
+    "id": "i083",
+    "target": "Ποια στάση;",
+    "meaning": "which stop?",
+    "type": "phrase",
+    "lesson": 11
+  },
+  {
+    "id": "i084",
+    "target": "ώρα",
+    "meaning": "hour, time",
+    "type": "word",
+    "lesson": 11
+  },
+  {
+    "id": "i085",
+    "target": "τώρα",
+    "meaning": "now",
+    "type": "word",
+    "lesson": 11
+  },
+  {
+    "id": "i086",
+    "target": "αύριο",
+    "meaning": "tomorrow",
+    "type": "word",
+    "lesson": 11
+  },
+  {
+    "id": "i087",
+    "target": "Τι ώρα είναι;",
+    "meaning": "what time is it?",
+    "type": "phrase",
+    "lesson": 11
+  },
+  {
+    "id": "i088",
+    "target": "ταξί",
+    "meaning": "taxi",
+    "type": "word",
+    "lesson": 11
+  },
+  {
+    "id": "i089",
+    "target": "αργότερα",
+    "meaning": "later",
+    "type": "word",
+    "lesson": 12,
+    "syllables": 4
+  },
+  {
+    "id": "i090",
+    "target": "μεσημέρι",
+    "meaning": "noon, midday",
+    "type": "word",
+    "lesson": 12,
+    "syllables": 4
+  },
+  {
+    "id": "i091",
+    "target": "βράδυ",
+    "meaning": "evening, night",
+    "type": "word",
+    "lesson": 12
+  },
+  {
+    "id": "i092",
+    "target": "πότε;",
+    "meaning": "when?",
+    "type": "word",
+    "lesson": 12
+  },
+  {
+    "id": "i093",
+    "target": "σε μία ώρα",
+    "meaning": "in one hour",
+    "type": "phrase",
+    "lesson": 12
+  },
+  {
+    "id": "i094",
+    "target": "κάθε μέρα",
+    "meaning": "every day",
+    "type": "phrase",
+    "lesson": 12
+  },
+  {
+    "id": "i095",
+    "target": "χθες",
+    "meaning": "yesterday",
+    "type": "word",
+    "lesson": 12
+  },
+  {
+    "id": "i096",
+    "target": "μέρα",
+    "meaning": "day",
+    "type": "word",
+    "lesson": 12
+  },
+  {
+    "id": "i097",
+    "target": "έξι",
+    "meaning": "six",
+    "type": "word",
+    "lesson": 13
+  },
+  {
+    "id": "i098",
+    "target": "επτά",
+    "meaning": "seven",
+    "type": "word",
+    "lesson": 13
+  },
+  {
+    "id": "i099",
+    "target": "οκτώ",
+    "meaning": "eight",
+    "type": "word",
+    "lesson": 13
+  },
+  {
+    "id": "i100",
+    "target": "εννιά",
+    "meaning": "nine",
+    "type": "word",
+    "lesson": 13
+  },
+  {
+    "id": "i101",
+    "target": "δέκα",
+    "meaning": "ten",
+    "type": "word",
+    "lesson": 13
+  },
+  {
+    "id": "i102",
+    "target": "τηλέφωνο",
+    "meaning": "phone",
+    "type": "word",
+    "lesson": 13,
+    "syllables": 4
+  },
+  {
+    "id": "i103",
+    "target": "αριθμός",
+    "meaning": "number",
+    "type": "word",
+    "lesson": 13,
+    "syllables": 3
+  },
+  {
+    "id": "i104",
+    "target": "ο αριθμός μου",
+    "meaning": "my number",
+    "type": "phrase",
+    "lesson": 13
+  },
+  {
+    "id": "i105",
+    "target": "φρούτα",
+    "meaning": "fruit",
+    "type": "word",
+    "lesson": 14
+  },
+  {
+    "id": "i106",
+    "target": "κιλό",
+    "meaning": "kilo",
+    "type": "word",
+    "lesson": 14
+  },
+  {
+    "id": "i107",
+    "target": "αυτό",
+    "meaning": "this one",
+    "type": "word",
+    "lesson": 14
+  },
+  {
+    "id": "i108",
+    "target": "εκείνο",
+    "meaning": "that one",
+    "type": "word",
+    "lesson": 14
+  },
+  {
+    "id": "i109",
+    "target": "μήλα",
+    "meaning": "apples",
+    "type": "word",
+    "lesson": 14
+  },
+  {
+    "id": "i110",
+    "target": "πορτοκάλια",
+    "meaning": "oranges",
+    "type": "word",
+    "lesson": 14,
+    "syllables": 5
+  },
+  {
+    "id": "i111",
+    "target": "μισό",
+    "meaning": "half",
+    "type": "word",
+    "lesson": 14
+  },
+  {
+    "id": "i112",
+    "target": "ντομάτες",
+    "meaning": "tomatoes",
+    "type": "word",
+    "lesson": 14,
+    "syllables": 4
+  },
+  {
+    "id": "i113",
+    "target": "μου αρέσει",
+    "meaning": "I like",
+    "type": "phrase",
+    "lesson": 15
+  },
+  {
+    "id": "i114",
+    "target": "δεν μου αρέσει",
+    "meaning": "I don't like",
+    "type": "phrase",
+    "lesson": 15
+  },
+  {
+    "id": "i115",
+    "target": "πάρα πολύ",
+    "meaning": "very much",
+    "type": "phrase",
+    "lesson": 15
+  },
+  {
+    "id": "i116",
+    "target": "καλύτερα",
+    "meaning": "better",
+    "type": "word",
+    "lesson": 15,
+    "syllables": 4
+  },
+  {
+    "id": "i117",
+    "target": "γλυκό",
+    "meaning": "sweet",
+    "type": "word",
+    "lesson": 15
+  },
+  {
+    "id": "i118",
+    "target": "ζεστό",
+    "meaning": "hot",
+    "type": "word",
+    "lesson": 15
+  },
+  {
+    "id": "i119",
+    "target": "κρύο",
+    "meaning": "cold",
+    "type": "word",
+    "lesson": 15
+  },
+  {
+    "id": "i120",
+    "target": "ωραίο",
+    "meaning": "nice, beautiful",
+    "type": "word",
+    "lesson": 15
+  },
+  {
+    "id": "i121",
+    "target": "τραπέζι",
+    "meaning": "table",
+    "type": "word",
+    "lesson": 16,
+    "syllables": 4
+  },
+  {
+    "id": "i122",
+    "target": "για δύο",
+    "meaning": "for two",
+    "type": "phrase",
+    "lesson": 16
+  },
+  {
+    "id": "i123",
+    "target": "κατάλογος",
+    "meaning": "menu",
+    "type": "word",
+    "lesson": 16,
+    "syllables": 4
+  },
+  {
+    "id": "i124",
+    "target": "λογαριασμός",
+    "meaning": "bill",
+    "type": "word",
+    "lesson": 16,
+    "syllables": 5
+  },
+  {
+    "id": "i125",
+    "target": "ένα ποτήρι",
+    "meaning": "a glass",
+    "type": "phrase",
+    "lesson": 16
+  },
+  {
+    "id": "i126",
+    "target": "ψάρι",
+    "meaning": "fish",
+    "type": "word",
+    "lesson": 16
+  },
+  {
+    "id": "i127",
+    "target": "σαλάτα",
+    "meaning": "salad",
+    "type": "word",
+    "lesson": 16,
+    "syllables": 3
+  },
+  {
+    "id": "i128",
+    "target": "κρασί",
+    "meaning": "wine",
+    "type": "word",
+    "lesson": 16,
+    "syllables": 2
+  },
+  {
+    "id": "i129",
+    "target": "μπύρα",
+    "meaning": "beer",
+    "type": "word",
+    "lesson": 17
+  },
+  {
+    "id": "i130",
+    "target": "γάλα",
+    "meaning": "milk",
+    "type": "word",
+    "lesson": 17
+  },
+  {
+    "id": "i131",
+    "target": "κοτόπουλο",
+    "meaning": "chicken",
+    "type": "word",
+    "lesson": 17,
+    "syllables": 5
+  },
+  {
+    "id": "i132",
+    "target": "γιαούρτι",
+    "meaning": "yogurt",
+    "type": "word",
+    "lesson": 17,
+    "syllables": 3
+  },
+  {
+    "id": "i133",
+    "target": "ένα γλυκό",
+    "meaning": "a dessert",
+    "type": "phrase",
+    "lesson": 17
+  },
+  {
+    "id": "i134",
+    "target": "τυρί",
+    "meaning": "cheese",
+    "type": "word",
+    "lesson": 17
+  },
+  {
+    "id": "i135",
+    "target": "χυμός",
+    "meaning": "juice",
+    "type": "word",
+    "lesson": 17
+  },
+  {
+    "id": "i136",
+    "target": "μιλάτε",
+    "meaning": "you speak (polite)",
+    "type": "word",
+    "lesson": 17,
+    "forms": [
+      "μιλάς"
+    ]
+  },
+  {
+    "id": "i137",
+    "target": "Μπορείτε να το επαναλάβετε;",
+    "meaning": "can you repeat it?",
+    "type": "phrase",
+    "lesson": 18
+  },
+  {
+    "id": "i138",
+    "target": "καταλαβαίνω",
+    "meaning": "I understand",
+    "type": "word",
+    "lesson": 18,
+    "syllables": 5
+  },
+  {
+    "id": "i139",
+    "target": "δεν καταλαβαίνω",
+    "meaning": "I don't understand",
+    "type": "phrase",
+    "lesson": 18
+  },
+  {
+    "id": "i140",
+    "target": "ελληνικά",
+    "meaning": "Greek (language)",
+    "type": "word",
+    "lesson": 18,
+    "syllables": 4
+  },
+  {
+    "id": "i141",
+    "target": "αγγλικά",
+    "meaning": "English (language)",
+    "type": "word",
+    "lesson": 18,
+    "syllables": 3
+  },
+  {
+    "id": "i142",
+    "target": "ξέρω",
+    "meaning": "I know",
+    "type": "word",
+    "lesson": 18
+  },
+  {
+    "id": "i143",
+    "target": "λίγα",
+    "meaning": "a few, a little",
+    "type": "word",
+    "lesson": 18
+  },
+  {
+    "id": "i144",
+    "target": "αργά, παρακαλώ",
+    "meaning": "slowly, please",
+    "type": "phrase",
+    "lesson": 18
+  },
+  {
+    "id": "i145",
+    "target": "σύζυγος",
+    "meaning": "spouse",
+    "type": "word",
+    "lesson": 19,
+    "syllables": 3
+  },
+  {
+    "id": "i146",
+    "target": "παιδιά",
+    "meaning": "children",
+    "type": "word",
+    "lesson": 19,
+    "syllables": 3
+  },
+  {
+    "id": "i147",
+    "target": "φίλος",
+    "meaning": "friend (male)",
+    "type": "word",
+    "lesson": 19,
+    "forms": [
+      "φίλη"
+    ]
+  },
+  {
+    "id": "i148",
+    "target": "η γυναίκα μου",
+    "meaning": "my wife",
+    "type": "phrase",
+    "lesson": 19
+  },
+  {
+    "id": "i149",
+    "target": "ο άντρας μου",
+    "meaning": "my husband",
+    "type": "phrase",
+    "lesson": 19
+  },
+  {
+    "id": "i150",
+    "target": "μητέρα",
+    "meaning": "mother",
+    "type": "word",
+    "lesson": 19,
+    "syllables": 3
+  },
+  {
+    "id": "i151",
+    "target": "πατέρας",
+    "meaning": "father",
+    "type": "word",
+    "lesson": 19,
+    "syllables": 3
+  },
+  {
+    "id": "i152",
+    "target": "αδερφός",
+    "meaning": "brother",
+    "type": "word",
+    "lesson": 19,
+    "syllables": 3
+  },
+  {
+    "id": "i153",
+    "target": "απόψε",
+    "meaning": "tonight",
+    "type": "word",
+    "lesson": 20,
+    "syllables": 3
+  },
+  {
+    "id": "i154",
+    "target": "μαζί",
+    "meaning": "together",
+    "type": "word",
+    "lesson": 20
+  },
+  {
+    "id": "i155",
+    "target": "ωραία",
+    "meaning": "great, fine",
+    "type": "word",
+    "lesson": 20
+  },
+  {
+    "id": "i156",
+    "target": "αδερφή",
+    "meaning": "sister",
+    "type": "word",
+    "lesson": 20,
+    "syllables": 3
+  },
+  {
+    "id": "i157",
+    "target": "τι θα πάρετε;",
+    "meaning": "what will you have?",
+    "type": "phrase",
+    "lesson": 20
+  },
+  {
+    "id": "i158",
+    "target": "πάμε",
+    "meaning": "let's go",
+    "type": "word",
+    "lesson": 20
+  },
+  {
+    "id": "i159",
+    "target": "καλή όρεξη",
+    "meaning": "enjoy your meal",
+    "type": "phrase",
+    "lesson": 20
+  },
+  {
+    "id": "i160",
+    "target": "θα",
+    "meaning": "will",
+    "type": "word",
+    "lesson": 20
+  },
+  {
+    "id": "i161",
+    "target": "δωμάτιο",
+    "meaning": "room",
+    "type": "word",
+    "lesson": 21,
+    "syllables": 4
+  },
+  {
+    "id": "i162",
+    "target": "κλειδί",
+    "meaning": "key",
+    "type": "word",
+    "lesson": 21,
+    "syllables": 3
+  },
+  {
+    "id": "i163",
+    "target": "για τρεις νύχτες",
+    "meaning": "for three nights",
+    "type": "phrase",
+    "lesson": 21
+  },
+  {
+    "id": "i164",
+    "target": "πρωινό",
+    "meaning": "breakfast",
+    "type": "word",
+    "lesson": 21,
+    "syllables": 4
+  },
+  {
+    "id": "i165",
+    "target": "νύχτα",
+    "meaning": "night",
+    "type": "word",
+    "lesson": 21,
+    "syllables": 2
+  },
+  {
+    "id": "i166",
+    "target": "όροφος",
+    "meaning": "floor",
+    "type": "word",
+    "lesson": 21,
+    "syllables": 3
+  },
+  {
+    "id": "i167",
+    "target": "ασανσέρ",
+    "meaning": "elevator",
+    "type": "word",
+    "lesson": 21,
+    "syllables": 3
+  },
+  {
+    "id": "i168",
+    "target": "ήσυχο",
+    "meaning": "quiet",
+    "type": "word",
+    "lesson": 21,
+    "syllables": 3
+  },
+  {
+    "id": "i169",
+    "target": "Δευτέρα",
+    "meaning": "Monday",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 4
+  },
+  {
+    "id": "i170",
+    "target": "Τρίτη",
+    "meaning": "Tuesday",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 2
+  },
+  {
+    "id": "i171",
+    "target": "Τετάρτη",
+    "meaning": "Wednesday",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 3
+  },
+  {
+    "id": "i172",
+    "target": "Πέμπτη",
+    "meaning": "Thursday",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 2
+  },
+  {
+    "id": "i173",
+    "target": "Παρασκευή",
+    "meaning": "Friday",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 4
+  },
+  {
+    "id": "i174",
+    "target": "Σάββατο",
+    "meaning": "Saturday",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 3
+  },
+  {
+    "id": "i175",
+    "target": "Κυριακή",
+    "meaning": "Sunday",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 3
+  },
+  {
+    "id": "i176",
+    "target": "εβδομάδα",
+    "meaning": "week",
+    "type": "word",
+    "lesson": 22,
+    "syllables": 4
+  },
+  {
+    "id": "i177",
+    "target": "ήλιος",
+    "meaning": "sun",
+    "type": "word",
+    "lesson": 23,
+    "syllables": 3
+  },
+  {
+    "id": "i178",
+    "target": "βροχή",
+    "meaning": "rain",
+    "type": "word",
+    "lesson": 23,
+    "syllables": 2
+  },
+  {
+    "id": "i179",
+    "target": "θάλασσα",
+    "meaning": "sea",
+    "type": "word",
+    "lesson": 23,
+    "syllables": 3
+  },
+  {
+    "id": "i180",
+    "target": "ζέστη",
+    "meaning": "heat",
+    "type": "word",
+    "lesson": 23,
+    "syllables": 2
+  },
+  {
+    "id": "i181",
+    "target": "καιρός",
+    "meaning": "weather",
+    "type": "word",
+    "lesson": 23,
+    "syllables": 2
+  },
+  {
+    "id": "i182",
+    "target": "αέρας",
+    "meaning": "wind",
+    "type": "word",
+    "lesson": 23,
+    "syllables": 2
+  },
+  {
+    "id": "i183",
+    "target": "σύννεφα",
+    "meaning": "clouds",
+    "type": "word",
+    "lesson": 23,
+    "syllables": 3
+  },
+  {
+    "id": "i184",
+    "target": "ωραίος καιρός",
+    "meaning": "nice weather",
+    "type": "phrase",
+    "lesson": 23
+  },
+  {
+    "id": "i185",
+    "target": "βάρκα",
+    "meaning": "boat",
+    "type": "word",
+    "lesson": 24
+  },
+  {
+    "id": "i186",
+    "target": "νησί",
+    "meaning": "island",
+    "type": "word",
+    "lesson": 24,
+    "syllables": 2
+  },
+  {
+    "id": "i187",
+    "target": "στις",
+    "meaning": "at (a time)",
+    "type": "word",
+    "lesson": 24
+  },
+  {
+    "id": "i188",
+    "target": "τι ώρα;",
+    "meaning": "at what time?",
+    "type": "phrase",
+    "lesson": 24
+  },
+  {
+    "id": "i189",
+    "target": "ταξίδι",
+    "meaning": "trip",
+    "type": "word",
+    "lesson": 24,
+    "syllables": 3
+  },
+  {
+    "id": "i190",
+    "target": "καλό ταξίδι",
+    "meaning": "have a good trip",
+    "type": "phrase",
+    "lesson": 24
+  },
+  {
+    "id": "i191",
+    "target": "ποδήλατο",
+    "meaning": "bicycle",
+    "type": "word",
+    "lesson": 24,
+    "syllables": 4
+  },
+  {
+    "id": "i192",
+    "target": "θα πάμε",
+    "meaning": "we will go",
+    "type": "phrase",
+    "lesson": 24
+  },
+  {
+    "id": "i193",
+    "target": "μεγάλο",
+    "meaning": "big",
+    "type": "word",
+    "lesson": 25
+  },
+  {
+    "id": "i194",
+    "target": "μικρό",
+    "meaning": "small",
+    "type": "word",
+    "lesson": 25
+  },
+  {
+    "id": "i195",
+    "target": "χρώμα",
+    "meaning": "colour",
+    "type": "word",
+    "lesson": 25,
+    "syllables": 2
+  },
+  {
+    "id": "i196",
+    "target": "ακριβό",
+    "meaning": "expensive",
+    "type": "word",
+    "lesson": 25,
+    "syllables": 3
+  },
+  {
+    "id": "i197",
+    "target": "φθηνό",
+    "meaning": "cheap",
+    "type": "word",
+    "lesson": 25,
+    "syllables": 2
+  },
+  {
+    "id": "i198",
+    "target": "το παίρνω",
+    "meaning": "I'll take it",
+    "type": "phrase",
+    "lesson": 25
+  },
+  {
+    "id": "i199",
+    "target": "μπλε",
+    "meaning": "blue",
+    "type": "word",
+    "lesson": 25
+  },
+  {
+    "id": "i200",
+    "target": "κόκκινο",
+    "meaning": "red",
+    "type": "word",
+    "lesson": 25,
+    "syllables": 3
+  },
+  {
+    "id": "i201",
+    "target": "κουρασμένος",
+    "meaning": "tired (male)",
+    "type": "word",
+    "lesson": 26,
+    "syllables": 4,
+    "forms": [
+      "κουρασμένη"
+    ]
+  },
+  {
+    "id": "i202",
+    "target": "πονάει",
+    "meaning": "it hurts",
+    "type": "word",
+    "lesson": 26,
+    "syllables": 3
+  },
+  {
+    "id": "i203",
+    "target": "το κεφάλι μου",
+    "meaning": "my head",
+    "type": "phrase",
+    "lesson": 26
+  },
+  {
+    "id": "i204",
+    "target": "φαρμακείο",
+    "meaning": "pharmacy",
+    "type": "word",
+    "lesson": 26,
+    "syllables": 4
+  },
+  {
+    "id": "i205",
+    "target": "γιατρός",
+    "meaning": "doctor",
+    "type": "word",
+    "lesson": 26,
+    "syllables": 3
+  },
+  {
+    "id": "i206",
+    "target": "πυρετός",
+    "meaning": "fever",
+    "type": "word",
+    "lesson": 26,
+    "syllables": 3
+  },
+  {
+    "id": "i207",
+    "target": "άρρωστος",
+    "meaning": "sick (male)",
+    "type": "word",
+    "lesson": 26,
+    "syllables": 3,
+    "forms": [
+      "άρρωστη"
+    ]
+  },
+  {
+    "id": "i208",
+    "target": "λυπάμαι",
+    "meaning": "I'm sorry",
+    "type": "word",
+    "lesson": 26,
+    "syllables": 3
+  },
+  {
+    "id": "i209",
+    "target": "θέλεις;",
+    "meaning": "do you want?",
+    "type": "word",
+    "lesson": 27,
+    "syllables": 2
+  },
+  {
+    "id": "i210",
+    "target": "με χαρά",
+    "meaning": "with pleasure",
+    "type": "phrase",
+    "lesson": 27
+  },
+  {
+    "id": "i211",
+    "target": "έλα",
+    "meaning": "come",
+    "type": "word",
+    "lesson": 27
+  },
+  {
+    "id": "i212",
+    "target": "καθόλου",
+    "meaning": "not at all",
+    "type": "word",
+    "lesson": 27,
+    "syllables": 3
+  },
+  {
+    "id": "i213",
+    "target": "πάντα",
+    "meaning": "always",
+    "type": "word",
+    "lesson": 27
+  },
+  {
+    "id": "i214",
+    "target": "ίσως",
+    "meaning": "maybe",
+    "type": "word",
+    "lesson": 27,
+    "syllables": 2
+  },
+  {
+    "id": "i215",
+    "target": "εντάξει",
+    "meaning": "OK",
+    "type": "word",
+    "lesson": 27,
+    "syllables": 3
+  },
+  {
+    "id": "i216",
+    "target": "ευχαρίστως",
+    "meaning": "gladly",
+    "type": "word",
+    "lesson": 27,
+    "syllables": 4
+  },
+  {
+    "id": "i217",
+    "target": "πρέπει",
+    "meaning": "must",
+    "type": "word",
+    "lesson": 28,
+    "syllables": 2
+  },
+  {
+    "id": "i218",
+    "target": "να",
+    "meaning": "to",
+    "type": "word",
+    "lesson": 28
+  },
+  {
+    "id": "i219",
+    "target": "βλέπω",
+    "meaning": "I see",
+    "type": "word",
+    "lesson": 28,
+    "syllables": 2
+  },
+  {
+    "id": "i220",
+    "target": "δουλειά",
+    "meaning": "work",
+    "type": "word",
+    "lesson": 28,
+    "syllables": 3
+  },
+  {
+    "id": "i221",
+    "target": "σχολείο",
+    "meaning": "school",
+    "type": "word",
+    "lesson": 28,
+    "syllables": 3
+  },
+  {
+    "id": "i222",
+    "target": "δουλεύω",
+    "meaning": "I work",
+    "type": "word",
+    "lesson": 28,
+    "syllables": 3
+  },
+  {
+    "id": "i223",
+    "target": "αύριο το πρωί",
+    "meaning": "tomorrow morning",
+    "type": "phrase",
+    "lesson": 28
+  },
+  {
+    "id": "i224",
+    "target": "πάω στο σχολείο",
+    "meaning": "I go to school",
+    "type": "phrase",
+    "lesson": 28
+  },
+  {
+    "id": "i225",
+    "target": "πάρε με",
+    "meaning": "call me (informal)",
+    "type": "phrase",
+    "lesson": 29
+  },
+  {
+    "id": "i226",
+    "target": "τηλεφωνώ",
+    "meaning": "I call",
+    "type": "word",
+    "lesson": 29,
+    "syllables": 4
+  },
+  {
+    "id": "i227",
+    "target": "θα τα πούμε",
+    "meaning": "talk to you later",
+    "type": "phrase",
+    "lesson": 29
+  },
+  {
+    "id": "i228",
+    "target": "γεια",
+    "meaning": "bye",
+    "type": "word",
+    "lesson": 29
+  },
+  {
+    "id": "i229",
+    "target": "μήνυμα",
+    "meaning": "message",
+    "type": "word",
+    "lesson": 29,
+    "syllables": 3
+  },
+  {
+    "id": "i230",
+    "target": "λεπτά",
+    "meaning": "minutes",
+    "type": "word",
+    "lesson": 29,
+    "syllables": 2
+  },
+  {
+    "id": "i231",
+    "target": "σύντομα",
+    "meaning": "soon",
+    "type": "word",
+    "lesson": 29,
+    "syllables": 3
+  },
+  {
+    "id": "i232",
+    "target": "πολύ ωραία",
+    "meaning": "very nice",
+    "type": "phrase",
+    "lesson": 29
+  },
+  {
+    "id": "i233",
+    "target": "όλη μέρα",
+    "meaning": "all day",
+    "type": "phrase",
+    "lesson": 30
+  },
+  {
+    "id": "i234",
+    "target": "καλό βράδυ",
+    "meaning": "good evening, good night",
+    "type": "phrase",
+    "lesson": 30
+  },
+  {
+    "id": "i235",
+    "target": "ευτυχισμένος",
+    "meaning": "happy (male)",
+    "type": "word",
+    "lesson": 30,
+    "syllables": 5,
+    "forms": [
+      "ευτυχισμένη"
+    ]
+  },
+  {
+    "id": "i236",
+    "target": "αντίο",
+    "meaning": "goodbye",
+    "type": "word",
+    "lesson": 30
+  },
+  {
+    "id": "i237",
+    "target": "τα λέμε",
+    "meaning": "see you",
+    "type": "phrase",
+    "lesson": 30
+  },
+  {
+    "id": "i238",
+    "target": "καλή τύχη",
+    "meaning": "good luck",
+    "type": "phrase",
+    "lesson": 30
+  },
+  {
+    "id": "i239",
+    "target": "χαίρομαι",
+    "meaning": "I'm glad",
+    "type": "word",
+    "lesson": 30,
+    "syllables": 3
+  },
+  {
+    "id": "i240",
+    "target": "πολύ καλά",
+    "meaning": "very well",
+    "type": "phrase",
+    "lesson": 30
+  }
+]

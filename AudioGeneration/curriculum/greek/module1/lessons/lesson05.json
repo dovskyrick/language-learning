@@ -1,0 +1,1625 @@
+{
+  "lesson": 5,
+  "title": "Numbers at the kiosk",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you buy things at a kiosk, a periptero, and you count from two to five.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a customer at the kiosk.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Θέλω ένα πακέτο, παρακαλώ.",
+      "items": [
+        "i001",
+        "i004",
+        "i040",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Δύο, τρία, τέσσερα, πέντε.",
+      "items": [
+        "i033",
+        "i034",
+        "i035",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "The number two is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then say two.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Δύο.",
+      "items": [
+        "i001",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say two?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Two.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Αθήνα.",
+      "items": [
+        "i032"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, two, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Δύο. Ένας καφές.",
+      "items": [
+        "i002",
+        "i033",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want two.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω δύο.",
+      "items": [
+        "i004",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The number three is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Two.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say three?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Three.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Please, three, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Παρακαλώ. Τρία. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i034",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b016",
+      "say": "Yes, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Ναι. Δύο.",
+      "items": [
+        "i007",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "The number four. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "ερα",
+      "items": [
+        "i035"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "σερα",
+      "items": [
+        "i035"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Three.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "How do you say four?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "Greece.",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Ελλάδα.",
+      "items": [
+        "i026"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Four.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "No, four, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Όχι. Τέσσερα. Νερό.",
+      "items": [
+        "i008",
+        "i035",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b023",
+      "say": "How much is it, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Πόσο κάνει; Δύο.",
+      "items": [
+        "i010",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "The number five is:",
+      "pause": 2
+    },
+    {
+      "beat": "b024",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b024",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Four.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say five?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Five.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "One and five.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Ένα και πέντε.",
+      "items": [
+        "i011",
+        "i036",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b030",
+      "say": "A tea, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Ένα τσάι. Δύο.",
+      "items": [
+        "i013",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "To ask how many, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Five.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "How do you ask how many?",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How many?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "For you, how many, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Για σένα. Πόσα; Λίγο.",
+      "items": [
+        "i014",
+        "i037",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b037",
+      "say": "One more, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ακόμα ένα. Δύο.",
+      "items": [
+        "i016",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "The kiosk is called periptero. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b038",
+      "target": "ερο",
+      "items": [
+        "i038"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b038",
+      "target": "τερο",
+      "items": [
+        "i038"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b038",
+      "target": "πτερο",
+      "items": [
+        "i038"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b038",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b038",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b038",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Two.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "How many?",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "How do you say kiosk?",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Kiosk.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Where?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "My name is, kiosk, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Με λένε. Περίπτερο. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i038",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b046",
+      "say": "The word for here is:",
+      "pause": 2
+    },
+    {
+      "beat": "b046",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b046",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Three.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Kiosk.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "How do you say here?",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Here.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "From.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Nice to meet you, kiosk.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Χάρηκα. Περίπτερο.",
+      "items": [
+        "i019",
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "You, here, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Εσύ; Εδώ. Εγώ.",
+      "items": [
+        "i020",
+        "i039",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b054",
+      "say": "To ask for a pack, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b054",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b054",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Four.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Here.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "How do you ask for a pack?",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "A pack.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "My name is, formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Nikos, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Νίκος. Εδώ.",
+      "items": [
+        "i022",
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Maria, a pack, hello.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Μαρία. Ένα πακέτο. Γεια σας.",
+      "items": [
+        "i023",
+        "i040",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b062",
+      "say": "Good morning, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Καλημέρα. Δύο.",
+      "items": [
+        "i002",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Five.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "A pack.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "A coffee, three, I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Θέλω έναν καφέ, τρία.",
+      "items": [
+        "i004",
+        "i003",
+        "i034"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Please, four.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Τέσσερα, παρακαλώ.",
+      "items": [
+        "i035",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Thank you, five, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Ευχαριστώ. Πέντε. Ναι.",
+      "items": [
+        "i006",
+        "i036",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "say": "No, how many?",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Όχι. Πόσα;",
+      "items": [
+        "i008",
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "How many?",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "What is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Water, kiosk, how much is it.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Νερό. Περίπτερο. Πόσο κάνει;",
+      "items": [
+        "i009",
+        "i038",
+        "i010"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "One, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Ένα. Εδώ.",
+      "items": [
+        "i011",
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "And, a pack, a tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Και ένα πακέτο. Ένα τσάι.",
+      "items": [
+        "i012",
+        "i040",
+        "i013"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "For you, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Για σένα. Δύο.",
+      "items": [
+        "i014",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "Nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "A little, three, one more.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Λίγο. Τρία. Ακόμα ένα.",
+      "items": [
+        "i015",
+        "i034",
+        "i016"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "Kiosk.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "You, four.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Εσύ; Τέσσερα.",
+      "items": [
+        "i020",
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "I, five, Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Εγώ. Πέντε. Νίκος.",
+      "items": [
+        "i021",
+        "i036",
+        "i022"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b081",
+      "say": "Maria, how many?",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Μαρία. Πόσα;",
+      "items": [
+        "i023",
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "You?",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "My name is formal, kiosk, I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Ονομάζομαι. Περίπτερο. Είμαι.",
+      "items": [
+        "i024",
+        "i038",
+        "i025"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "Greece, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Ελλάδα. Εδώ.",
+      "items": [
+        "i026",
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "Germany, a pack, Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Γερμανία. Ένα πακέτο. Θεσσαλονίκη.",
+      "items": [
+        "i027",
+        "i040",
+        "i028"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "say": "I live, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Μένω. Δύο.",
+      "items": [
+        "i029",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Where, three, from.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Πού; Τρία. Από.",
+      "items": [
+        "i030",
+        "i034",
+        "i031"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Athens, four.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Αθήνα. Τέσσερα.",
+      "items": [
+        "i032",
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Hello, five, good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Γεια σας. Πέντε. Καλημέρα.",
+      "items": [
+        "i001",
+        "i036",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "You are at the kiosk. The woman greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b091",
+      "say": "Greet her politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "She asks what you want. Say: I want a pack, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλω ένα πακέτο, παρακαλώ.",
+      "items": [
+        "i004",
+        "i040",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "She asks how many. Answer: two.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "She asks where you are from. Answer: I am from Greece.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Είμαι από την Ελλάδα.",
+      "items": [
+        "i025",
+        "i031",
+        "i026"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Ask her how much it is.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "She says: three. Say: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Ask for four, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Τέσσερα, παρακαλώ.",
+      "items": [
+        "i035",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: here, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Εδώ, παρακαλώ.",
+      "items": [
+        "i039",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: one more, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ακόμα ένα, παρακαλώ.",
+      "items": [
+        "i016",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: five, yes, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πέντε. Ναι. Ευχαριστώ.",
+      "items": [
+        "i036",
+        "i007",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: I live in Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Μένω στην Αθήνα.",
+      "items": [
+        "i029",
+        "i032"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: good morning, my name is Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Καλημέρα. Με λένε Νίκος.",
+      "items": [
+        "i002",
+        "i017",
+        "i022"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: no, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Όχι, ευχαριστώ.",
+      "items": [
+        "i008",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: you, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Εσύ; Εδώ.",
+      "items": [
+        "i020",
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Well done. You can now buy from a kiosk and count from one to five. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

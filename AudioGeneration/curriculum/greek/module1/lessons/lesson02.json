@@ -1,0 +1,1496 @@
+{
+  "lesson": 2,
+  "title": "Ordering more",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you order more: water, a tea for a friend, one more, and you ask how much it costs.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to this conversation at the café.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Ένα νερό, παρακαλώ.",
+      "items": [
+        "i001",
+        "i011",
+        "i009",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ένα τσάι για σένα, και ακόμα ένα καφέ.",
+      "items": [
+        "i013",
+        "i014",
+        "i012",
+        "i016",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Λίγο, παρακαλώ.",
+      "items": [
+        "i015",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ναι. Όχι, ευχαριστώ.",
+      "items": [
+        "i007",
+        "i008",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "This word means water:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet the waiter politely, then ask for water.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Νερό.",
+      "items": [
+        "i001",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say water?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Water.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Say good morning, water, and a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Καλημέρα. Νερό. Ένας καφές.",
+      "items": [
+        "i002",
+        "i009",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b008",
+      "say": "Do you remember how to say yes?",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "say": "I want water.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω νερό.",
+      "items": [
+        "i004",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b010",
+      "say": "To ask how much something costs, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "How do you say water?",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you ask how much it is?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Please, how much is it? Thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Παρακαλώ. Πόσο κάνει; Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i010",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b014",
+      "say": "How much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Someone offers you water. Say no.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Νερό; Όχι.",
+      "items": [
+        "i009",
+        "i008"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b016",
+      "say": "Greet, ask how much it costs, and wish good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Γεια σας. Πόσο κάνει; Καλημέρα.",
+      "items": [
+        "i001",
+        "i010",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "The word for one is:",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "How much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "How do you say one?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say no?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "One.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "A coffee. Water.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Ένας καφές. Νερό.",
+      "items": [
+        "i003",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b023",
+      "say": "I want, how much is it, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Θέλω. Πόσο κάνει, παρακαλώ;",
+      "items": [
+        "i004",
+        "i010",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b024",
+      "say": "The word for and is:",
+      "pause": 2
+    },
+    {
+      "beat": "b024",
+      "target": "Και.",
+      "items": [
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b024",
+      "target": "Και.",
+      "items": [
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "Thank you and water.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Ευχαριστώ και νερό.",
+      "items": [
+        "i006",
+        "i009",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b026",
+      "say": "One.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "And.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Και.",
+      "items": [
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say and?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Και.",
+      "items": [
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "How do you greet the waiter politely?",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Yes, how much is it, good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Ναι. Πόσο κάνει; Καλημέρα.",
+      "items": [
+        "i007",
+        "i010",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b031",
+      "say": "To ask for a tea, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "A tea and water.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα τσάι. Νερό.",
+      "items": [
+        "i013",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "And.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Και.",
+      "items": [
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "How do you ask for a tea?",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "A tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "A coffee, how much is it, I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Θέλω έναν καφέ. Πόσο κάνει;",
+      "items": [
+        "i003",
+        "i010",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b037",
+      "say": "One, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ένα, παρακαλώ.",
+      "items": [
+        "i005",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "To say for you, informal, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b038",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b038",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Water.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "How do you say for you?",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "For you.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Say good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Thank you, how much is it, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Ευχαριστώ. Πόσο κάνει; Ναι.",
+      "items": [
+        "i006",
+        "i010",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b045",
+      "say": "No, one.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Όχι. Ένα.",
+      "items": [
+        "i008",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "The word for a little is:",
+      "pause": 2
+    },
+    {
+      "beat": "b046",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b046",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "For you.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "How much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "How do you say a little?",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "A little.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you ask for a coffee?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Greet, ask how much it is, I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Γεια σας. Πόσο κάνει; Θέλω.",
+      "items": [
+        "i001",
+        "i010",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b053",
+      "say": "One, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Ένα, παρακαλώ.",
+      "items": [
+        "i005",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "To ask for one more, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b054",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b054",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "A little.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "One.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "How do you say one more?",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "One more.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say I want?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Thank you, how much is it, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Ευχαριστώ. Πόσο κάνει; Ναι.",
+      "items": [
+        "i006",
+        "i010",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b061",
+      "say": "No, one.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Όχι. Ένα.",
+      "items": [
+        "i008",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "One more, and, hello politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Ακόμα ένα. Και γεια σας.",
+      "items": [
+        "i016",
+        "i012",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "say": "And.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Και.",
+      "items": [
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "One more.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Good morning, a tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Καλημέρα. Ένα τσάι.",
+      "items": [
+        "i002",
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "A coffee for you, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Ένας καφές για σένα, παρακαλώ.",
+      "items": [
+        "i003",
+        "i014",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Thank you, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Ευχαριστώ, λίγο.",
+      "items": [
+        "i006",
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "How do you say please?",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Yes, one more, no.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Ναι. Ακόμα ένα. Όχι.",
+      "items": [
+        "i007",
+        "i016",
+        "i008"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "A tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Greet, then water.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Γεια σας. Νερό.",
+      "items": [
+        "i001",
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Good morning, how much is it, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Καλημέρα. Πόσο κάνει; Ένας καφές.",
+      "items": [
+        "i002",
+        "i010",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "I want one.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Θέλω ένα.",
+      "items": [
+        "i004",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Thank you, and, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ευχαριστώ και ναι.",
+      "items": [
+        "i006",
+        "i012",
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "No, a tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Όχι, ένα τσάι.",
+      "items": [
+        "i008",
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "For you, a little, hello.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Για σένα, λίγο. Γεια σας.",
+      "items": [
+        "i014",
+        "i015",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "For you.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "How do you say thank you?",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Good morning, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Καλημέρα. Λίγο.",
+      "items": [
+        "i002",
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "A coffee, one more, I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Θέλω έναν καφέ. Ακόμα ένα.",
+      "items": [
+        "i003",
+        "i016",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b081",
+      "say": "Water, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Νερό, παρακαλώ.",
+      "items": [
+        "i005",
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Yes, how much is it, no.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Ναι. Πόσο κάνει; Όχι.",
+      "items": [
+        "i007",
+        "i010",
+        "i008"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Hello, one.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Γεια σας. Ένα.",
+      "items": [
+        "i001",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "A little.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Good morning, and, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Καλημέρα και ένας καφές.",
+      "items": [
+        "i002",
+        "i012",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "I want a tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Θέλω ένα τσάι.",
+      "items": [
+        "i004",
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "Please, for you, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Παρακαλώ, για σένα. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i014",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "say": "Yes, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ναι, λίγο.",
+      "items": [
+        "i007",
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "No, one more, hello.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Όχι. Ακόμα ένα. Γεια σας.",
+      "items": [
+        "i008",
+        "i016",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Good morning, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Καλημέρα. Νερό.",
+      "items": [
+        "i002",
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "One more.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "The waiter comes to your table and says hello.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Greet him back with good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "He asks what you would like. Say: a coffee, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ένας καφές, παρακαλώ.",
+      "items": [
+        "i003",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "He asks if you want water. Say yes, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ναι, νερό, παρακαλώ.",
+      "items": [
+        "i007",
+        "i009",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Ask how much it costs.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "He brings it. Say thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for one more, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ακόμα ένα, παρακαλώ.",
+      "items": [
+        "i016",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now order water, a tea, one more, and ask how much it costs. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
