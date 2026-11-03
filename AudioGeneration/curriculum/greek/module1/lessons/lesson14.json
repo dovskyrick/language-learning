@@ -1,0 +1,1750 @@
+{
+  "lesson": 14,
+  "title": "At the market",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you shop at the market: fruit, a kilo, this one, that one, and how much.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a customer at the fruit stall.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Φρούτα, παρακαλώ.",
+      "items": [
+        "i001",
+        "i105",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ένα κιλό μήλα.",
+      "items": [
+        "i011",
+        "i106",
+        "i109"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Αυτό, ή εκείνο;",
+      "items": [
+        "i107",
+        "i043",
+        "i108"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Πορτοκάλια και ντομάτες.",
+      "items": [
+        "i110",
+        "i012",
+        "i112"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Μισό κιλό.",
+      "items": [
+        "i111",
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "The word for fruit is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Φρούτα.",
+      "items": [
+        "i001",
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say fruit?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Οκτώ.",
+      "items": [
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, fruit, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Φρούτα. Ένας καφές.",
+      "items": [
+        "i002",
+        "i105",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω φρούτα.",
+      "items": [
+        "i004",
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The word for kilo is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say kilo?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Nine.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Εννιά.",
+      "items": [
+        "i100"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Kilo.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Δέκα.",
+      "items": [
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, kilo, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Κιλό. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i106",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Φρούτα.",
+      "items": [
+        "i007",
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "This one. The word is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Kilo.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say this one?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "This one.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Number.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, this one, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Αυτό. Νερό.",
+      "items": [
+        "i008",
+        "i107",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "How much is it, fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Πόσο κάνει; Φρούτα.",
+      "items": [
+        "i010",
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "That one. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "νο",
+      "items": [
+        "i108"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "ίνο",
+      "items": [
+        "i108"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "είνο",
+      "items": [
+        "i108"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "This one.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say that one?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "My number.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b030",
+      "say": "That one.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "Six, this one, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Έξι. Αυτό. Και.",
+      "items": [
+        "i097",
+        "i107",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "One, that one, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Εκείνο. Και.",
+      "items": [
+        "i011",
+        "i108",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "A tea, fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα τσάι. Φρούτα.",
+      "items": [
+        "i013",
+        "i105"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b034",
+      "say": "The word for apples is:",
+      "pause": 2
+    },
+    {
+      "beat": "b034",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b034",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "That one.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say apples?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Seven, again.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Επτά. Ξανά.",
+      "items": [
+        "i098",
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Evening, for you, yesterday, ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Βράδυ. Για σένα. Χθες. Δέκα.",
+      "items": [
+        "i091",
+        "i014",
+        "i095",
+        "i101"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b040",
+      "say": "For you, apples, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Μήλα. Λίγο.",
+      "items": [
+        "i014",
+        "i109",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "Fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "άλια",
+      "items": [
+        "i110"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b042",
+      "target": "καλια",
+      "items": [
+        "i110"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b042",
+      "target": "τοκάλια",
+      "items": [
+        "i110"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b042",
+      "target": "Πορτοκάλια.",
+      "items": [
+        "i110"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Πορτοκάλια.",
+      "items": [
+        "i110"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say oranges?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Πορτοκάλια.",
+      "items": [
+        "i110"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "When?",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Oranges.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Πορτοκάλια.",
+      "items": [
+        "i110"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "In one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "Kilo.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "One more, apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Ακόμα ένα. Μήλα.",
+      "items": [
+        "i016",
+        "i109"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b050",
+      "say": "The word for half is:",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "Μισό.",
+      "items": [
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Μισό.",
+      "items": [
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Oranges.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Πορτοκάλια.",
+      "items": [
+        "i110"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Half.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Μισό.",
+      "items": [
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Every day.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Half.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Μισό.",
+      "items": [
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, apples, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Μήλα. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i109",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "This one.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "The word for tomatoes. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "άτες",
+      "items": [
+        "i112"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "ματες",
+      "items": [
+        "i112"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "ομάτες",
+      "items": [
+        "i112"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "Ντομάτες.",
+      "items": [
+        "i112"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Ντομάτες.",
+      "items": [
+        "i112"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Half.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Μισό.",
+      "items": [
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Tomatoes.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Ντομάτες.",
+      "items": [
+        "i112"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Tomatoes.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Ντομάτες.",
+      "items": [
+        "i112"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Nice to meet you, apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Χάρηκα. Μήλα.",
+      "items": [
+        "i019",
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, orange, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Πορτοκάλια. Εγώ.",
+      "items": [
+        "i020",
+        "i110",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "That one.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "There.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Nikos, half.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Νίκος. Μισό.",
+      "items": [
+        "i022",
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Tomatoes.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Ντομάτες.",
+      "items": [
+        "i112"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Down.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Maria, tomatoes, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Μαρία. Ντομάτες. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i112",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "I am, fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Φρούτα.",
+      "items": [
+        "i025",
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, kilo, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Κιλό. Γερμανία.",
+      "items": [
+        "i026",
+        "i106",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Up.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Thessaloniki, this one.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Θεσσαλονίκη. Αυτό.",
+      "items": [
+        "i028",
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, that one, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Εκείνο. Πού;",
+      "items": [
+        "i029",
+        "i108",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Μήλα.",
+      "items": [
+        "i031",
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Athens, oranges, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Αθήνα. Πορτοκάλια. Δύο.",
+      "items": [
+        "i032",
+        "i110",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Three, half.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Μισό.",
+      "items": [
+        "i034",
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Oranges.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Πορτοκάλια.",
+      "items": [
+        "i110"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Four, tomatoes, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τέσσερα. Ντομάτες. Πέντε.",
+      "items": [
+        "i035",
+        "i112",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "How many, fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Φρούτα.",
+      "items": [
+        "i037",
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, kilo, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Κιλό. Εδώ.",
+      "items": [
+        "i038",
+        "i106",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "A pack, this one.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα πακέτο. Αυτό.",
+      "items": [
+        "i040",
+        "i107"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "say": "Half.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Μισό.",
+      "items": [
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Bread, that one, koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ψωμί. Εκείνο. Κουλούρι.",
+      "items": [
+        "i041",
+        "i108",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Or, apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ή. Μήλα.",
+      "items": [
+        "i043",
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, oranges, how much.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Πορτοκάλια. Πόσο;",
+      "items": [
+        "i044",
+        "i110",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "You are at the market. The stall owner greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet him politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for fruit, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Φρούτα, παρακαλώ.",
+      "items": [
+        "i105",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for one kilo of apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ένα κιλό μήλα.",
+      "items": [
+        "i011",
+        "i106",
+        "i109"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "He asks: this one or that one? Answer: that one.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for half a kilo of tomatoes.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μισό κιλό ντομάτες.",
+      "items": [
+        "i111",
+        "i106",
+        "i112"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Ask how much it is.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "He says: ten. Say: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for oranges.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πορτοκάλια, παρακαλώ.",
+      "items": [
+        "i110",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: this one, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Αυτό, παρακαλώ.",
+      "items": [
+        "i107",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: yes, and fresh.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ναι. Και φρέσκο.",
+      "items": [
+        "i007",
+        "i012",
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: no, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Όχι, ευχαριστώ.",
+      "items": [
+        "i008",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I live in Athens. How many? Two.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μένω στην Αθήνα. Δύο.",
+      "items": [
+        "i029",
+        "i032",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: my number is six, seven, eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ο αριθμός μου: έξι, επτά, οκτώ.",
+      "items": [
+        "i104",
+        "i097",
+        "i098",
+        "i099"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: good morning, goodbye.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καλημέρα. Καληνύχτα.",
+      "items": [
+        "i002",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: here, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Εδώ, παρακαλώ.",
+      "items": [
+        "i039",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: one more, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ακόμα ένα, παρακαλώ.",
+      "items": [
+        "i016",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: this one or that one, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Αυτό ή εκείνο, παρακαλώ.",
+      "items": [
+        "i107",
+        "i043",
+        "i108",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: when is it ready?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: in one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now shop at the market, ask for fruit, and say how much. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

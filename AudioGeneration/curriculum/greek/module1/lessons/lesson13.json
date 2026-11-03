@@ -1,0 +1,1701 @@
+{
+  "lesson": 13,
+  "title": "Six to ten, and a phone number",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you learn the numbers six to ten, and you give your phone number.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a shop assistant take a phone number.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Το τηλέφωνο, παρακαλώ.",
+      "items": [
+        "i001",
+        "i102",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ο αριθμός μου: έξι, επτά, οκτώ.",
+      "items": [
+        "i104",
+        "i097",
+        "i098",
+        "i099"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Εννιά, δέκα.",
+      "items": [
+        "i100",
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "The number six is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then six.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Έξι.",
+      "items": [
+        "i001",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say six?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Six.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Day.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Μέρα.",
+      "items": [
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, six, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Έξι. Ένας καφές.",
+      "items": [
+        "i002",
+        "i097",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want six.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω έξι.",
+      "items": [
+        "i004",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The number seven is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Six.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say seven?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Later.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Seven.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Noon.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Μεσημέρι.",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, seven, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Επτά. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i098",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, six.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Έξι.",
+      "items": [
+        "i007",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "The number eight is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Οκτώ.",
+      "items": [
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Οκτώ.",
+      "items": [
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Seven.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say eight?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Οκτώ.",
+      "items": [
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Οκτώ.",
+      "items": [
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "When?",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, eight, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Οκτώ. Νερό.",
+      "items": [
+        "i008",
+        "i099",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "How much is it, six.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Πόσο κάνει; Έξι.",
+      "items": [
+        "i010",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "The number nine is:",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "Εννιά.",
+      "items": [
+        "i100"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Εννιά.",
+      "items": [
+        "i100"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "Eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Οκτώ.",
+      "items": [
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say nine?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Εννιά.",
+      "items": [
+        "i100"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "In one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Nine.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Εννιά.",
+      "items": [
+        "i100"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "One, nine, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα. Εννιά. Και.",
+      "items": [
+        "i011",
+        "i100",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "Every day.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "A tea, six.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα τσάι. Έξι.",
+      "items": [
+        "i013",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "The number ten is:",
+      "pause": 2
+    },
+    {
+      "beat": "b034",
+      "target": "Δέκα.",
+      "items": [
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b034",
+      "target": "Δέκα.",
+      "items": [
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "Nine.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Εννιά.",
+      "items": [
+        "i100"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say ten?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Δέκα.",
+      "items": [
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Δέκα.",
+      "items": [
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "For you, ten, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Για σένα. Δέκα. Λίγο.",
+      "items": [
+        "i014",
+        "i101",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b040",
+      "say": "Taxi.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Ταξί.",
+      "items": [
+        "i088"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "One more, six.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Ακόμα ένα. Έξι.",
+      "items": [
+        "i016",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Six.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "The phone. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b043",
+      "target": "ωνο",
+      "items": [
+        "i102"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b043",
+      "target": "φωνο",
+      "items": [
+        "i102"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b043",
+      "target": "λεφωνο",
+      "items": [
+        "i102"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b043",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b043",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b043",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Δέκα.",
+      "items": [
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "How do you say phone?",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Bus.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Λεωφορείο.",
+      "items": [
+        "i081"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "To the centre.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Στο κέντρο.",
+      "items": [
+        "i082"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Seven.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "My name is, phone, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Με λένε. Τηλέφωνο. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i102",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b051",
+      "say": "The number, as in phone number. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b051",
+      "target": "μός",
+      "items": [
+        "i103"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b051",
+      "target": "θμός",
+      "items": [
+        "i103"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b051",
+      "target": "ιθμός",
+      "items": [
+        "i103"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b051",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b051",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b051",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "How do you say number?",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Which stop?",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Ποια στάση;",
+      "items": [
+        "i083"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Number.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Οκτώ.",
+      "items": [
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ώρα.",
+      "items": [
+        "i084"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Nice to meet you, phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Χάρηκα. Τηλέφωνο.",
+      "items": [
+        "i019",
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "My number is:",
+      "pause": 2
+    },
+    {
+      "beat": "b059",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b059",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Number.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "How do you say my number?",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Is.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "My number.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, phone, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Τηλέφωνο. Εγώ.",
+      "items": [
+        "i020",
+        "i102",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Nine.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Εννιά.",
+      "items": [
+        "i100"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Nikos, number.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Νίκος. Αριθμός.",
+      "items": [
+        "i022",
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Maria, my number, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Μαρία. Ο αριθμός μου. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i104",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "say": "My number.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Hotel.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "I am, six.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Έξι.",
+      "items": [
+        "i025",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, seven, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Επτά. Γερμανία.",
+      "items": [
+        "i026",
+        "i098",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Δέκα.",
+      "items": [
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Thessaloniki, eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Θεσσαλονίκη. Οκτώ.",
+      "items": [
+        "i028",
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Bus stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, nine, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Εννιά. Πού;",
+      "items": [
+        "i029",
+        "i100",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Δέκα.",
+      "items": [
+        "i031",
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Athens, phone, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Αθήνα. Τηλέφωνο. Δύο.",
+      "items": [
+        "i032",
+        "i102",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "My name is, formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Ονομάζομαι.",
+      "items": [
+        "i024"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Three, number.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Αριθμός.",
+      "items": [
+        "i034",
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Four, my number, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Τέσσερα. Ο αριθμός μου. Πέντε.",
+      "items": [
+        "i035",
+        "i104",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "How many, six.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Έξι.",
+      "items": [
+        "i037",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, seven, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Επτά. Εδώ.",
+      "items": [
+        "i038",
+        "i098",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "A pack, eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Ένα πακέτο. Οκτώ.",
+      "items": [
+        "i040",
+        "i099"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "What is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Bread, nine, koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ψωμί. Εννιά. Κουλούρι.",
+      "items": [
+        "i041",
+        "i100",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Or, ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ή. Δέκα.",
+      "items": [
+        "i043",
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Number.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, phone, how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Τηλέφωνο. Πόσο;",
+      "items": [
+        "i044",
+        "i102",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Fresh, number.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Φρέσκο. Αριθμός.",
+      "items": [
+        "i046",
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "You are at a shop. The shop assistant asks for your phone number.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet her politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "She asks: what is your number? Say: my number is six, seven, eight.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ο αριθμός μου: έξι, επτά, οκτώ.",
+      "items": [
+        "i104",
+        "i097",
+        "i098",
+        "i099"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "She asks if you have a phone. Say: yes, the phone is here.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ναι. Το τηλέφωνο εδώ.",
+      "items": [
+        "i007",
+        "i102",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: nine, ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Εννιά, δέκα.",
+      "items": [
+        "i100",
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask her: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "She says: it is eight. Answer: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask her: what time is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τι ώρα είναι;",
+      "items": [
+        "i087"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: in one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: a little, six, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λίγο, έξι, παρακαλώ.",
+      "items": [
+        "i015",
+        "i097",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: no, seven.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Όχι. Επτά.",
+      "items": [
+        "i008",
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: good evening, nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καλησπέρα. Χάρηκα.",
+      "items": [
+        "i049",
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: noon, day.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μεσημέρι. Μέρα.",
+      "items": [
+        "i090",
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: when?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: every day, taxi.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Κάθε μέρα. Ταξί.",
+      "items": [
+        "i094",
+        "i088"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: yesterday, phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Χθες. Τηλέφωνο.",
+      "items": [
+        "i095",
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: evening, later.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Βράδυ. Αργότερα.",
+      "items": [
+        "i091",
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You can now count from six to ten and give a phone number. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

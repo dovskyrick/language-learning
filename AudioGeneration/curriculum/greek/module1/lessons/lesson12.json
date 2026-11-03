@@ -1,0 +1,1698 @@
+{
+  "lesson": 12,
+  "title": "Later, noon, evening",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you talk about time: later, noon, evening, when, every day, and yesterday.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to two friends making plans.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Αργότερα, παρακαλώ.",
+      "items": [
+        "i089",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Μεσημέρι;",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Όχι. Το βράδυ.",
+      "items": [
+        "i008",
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Καλό βράδυ.",
+      "items": [
+        "i048",
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Later. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "τερα",
+      "items": [
+        "i089"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ότερα",
+      "items": [
+        "i089"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "γότερα",
+      "items": [
+        "i089"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Now.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Τώρα.",
+      "items": [
+        "i085"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say later?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Later.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, then later.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Αργότερα.",
+      "items": [
+        "i001",
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, later, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Αργότερα. Ένας καφές.",
+      "items": [
+        "i002",
+        "i089",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Tomorrow.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Αύριο.",
+      "items": [
+        "i086"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Noon, midday. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "μέρι",
+      "items": [
+        "i090"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "σημέρι",
+      "items": [
+        "i090"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "εσημέρι",
+      "items": [
+        "i090"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Μεσημέρι.",
+      "items": [
+        "i090"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Μεσημέρι.",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Later.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say noon?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Μεσημέρι.",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "What time is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Τι ώρα είναι;",
+      "items": [
+        "i087"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Noon.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Μεσημέρι.",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "I want, later.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Θέλω. Αργότερα.",
+      "items": [
+        "i004",
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Taxi.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Ταξί.",
+      "items": [
+        "i088"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Please, noon, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Παρακαλώ. Μεσημέρι. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i090",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "Evening, or night. The word is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Noon.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Μεσημέρι.",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say evening?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Bus.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Λεωφορείο.",
+      "items": [
+        "i081"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, noon.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Μεσημέρι.",
+      "items": [
+        "i007",
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, evening, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Βράδυ. Νερό.",
+      "items": [
+        "i008",
+        "i091",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "To ask when, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "To the centre.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Στο κέντρο.",
+      "items": [
+        "i082"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "Evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you ask when?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "When?",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Which stop?",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Ποια στάση;",
+      "items": [
+        "i083"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Βράδυ.",
+      "items": [
+        "i010",
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, when, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Πότε; Και.",
+      "items": [
+        "i011",
+        "i092",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "In one hour, is said:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "When?",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say in one hour?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Time.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Ώρα.",
+      "items": [
+        "i084"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "In one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Again.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, when?",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Πότε;",
+      "items": [
+        "i013",
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "For you, in one hour, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Σε μία ώρα. Λίγο.",
+      "items": [
+        "i014",
+        "i093",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "Later.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Every day, is said:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "In one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say every day?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Every day.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "One more, in one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Ακόμα ένα. Σε μία ώρα.",
+      "items": [
+        "i016",
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "My name is, every day, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b049",
+      "target": "Με λένε. Κάθε μέρα. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i094",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b050",
+      "say": "Noon.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Μεσημέρι.",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Yesterday is:",
+      "pause": 2
+    },
+    {
+      "beat": "b051",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b051",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Every day.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "How do you say yesterday?",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Not.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Δεν.",
+      "items": [
+        "i080"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Nice to meet you, every day.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Χάρηκα. Κάθε μέρα.",
+      "items": [
+        "i019",
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Day is:",
+      "pause": 2
+    },
+    {
+      "beat": "b059",
+      "target": "Μέρα.",
+      "items": [
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b059",
+      "target": "Μέρα.",
+      "items": [
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "How do you say day?",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Μέρα.",
+      "items": [
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "And you?",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Day.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Μέρα.",
+      "items": [
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, every day, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Κάθε μέρα. Εγώ.",
+      "items": [
+        "i020",
+        "i094",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Nikos, yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Νίκος. Χθες.",
+      "items": [
+        "i022",
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "When?",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Today.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Maria, day, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Μαρία. Μέρα. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i096",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "say": "Day.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Μέρα.",
+      "items": [
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "I am, later.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Αργότερα.",
+      "items": [
+        "i025",
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, noon, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Μεσημέρι. Γερμανία.",
+      "items": [
+        "i026",
+        "i090",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Thessaloniki, evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Θεσσαλονίκη. Βράδυ.",
+      "items": [
+        "i028",
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "In one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "In the morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, when, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Πότε; Πού;",
+      "items": [
+        "i029",
+        "i092",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, in one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Σε μία ώρα.",
+      "items": [
+        "i031",
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Athens, every day, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Αθήνα. Κάθε μέρα. Δύο.",
+      "items": [
+        "i032",
+        "i094",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "A tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Ένα τσάι.",
+      "items": [
+        "i013"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Three, yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Χθες.",
+      "items": [
+        "i034",
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Four, day, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Τέσσερα. Μέρα. Πέντε.",
+      "items": [
+        "i035",
+        "i096",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Every day.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "For you.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "How many, later.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Αργότερα.",
+      "items": [
+        "i037",
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, noon, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Μεσημέρι. Εδώ.",
+      "items": [
+        "i038",
+        "i090",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "A pack, evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Ένα πακέτο. Βράδυ.",
+      "items": [
+        "i040",
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "A little.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Bread, when, koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ψωμί. Πότε; Κουλούρι.",
+      "items": [
+        "i041",
+        "i092",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Or, in one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ή. Σε μία ώρα.",
+      "items": [
+        "i043",
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, every day, how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Κάθε μέρα. Πόσο;",
+      "items": [
+        "i044",
+        "i094",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Fresh, yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Φρέσκο. Χθες.",
+      "items": [
+        "i046",
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "A friend asks when you can meet. Speak with them.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet your friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: when?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Answer: later.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Αργότερα.",
+      "items": [
+        "i089"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: in one hour is fine.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σε μία ώρα, καλά.",
+      "items": [
+        "i093",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: at noon?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μεσημέρι;",
+      "items": [
+        "i090"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Answer: no, in the evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Όχι. Το βράδυ.",
+      "items": [
+        "i008",
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what time is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τι ώρα είναι;",
+      "items": [
+        "i087"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: yesterday, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Χθες. Ψωμί.",
+      "items": [
+        "i095",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: every day, the metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Κάθε μέρα. Μετρό.",
+      "items": [
+        "i094",
+        "i073"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: where?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I live in Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μένω στη Θεσσαλονίκη.",
+      "items": [
+        "i029",
+        "i028"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: thank you, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ευχαριστώ. Καλησπέρα.",
+      "items": [
+        "i006",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: today, and you?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σήμερα. Κι εσύ;",
+      "items": [
+        "i054",
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: tomorrow, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Αύριο, παρακαλώ.",
+      "items": [
+        "i086",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: noon, day.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μεσημέρι. Μέρα.",
+      "items": [
+        "i090",
+        "i096"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You can now talk about when things happen. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
