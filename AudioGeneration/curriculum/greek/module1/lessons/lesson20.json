@@ -1,0 +1,1800 @@
+{
+  "lesson": 20,
+  "title": "Review: an evening at the taverna",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you review what you have learned, in an evening at the taverna with new friends.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to friends planning an evening.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Απόψε, μαζί;",
+      "items": [
+        "i001",
+        "i153",
+        "i154"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ωραία! Πάμε!",
+      "items": [
+        "i155",
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Θα πάμε.",
+      "items": [
+        "i160",
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Καλή όρεξη!",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Tonight. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "ψε",
+      "items": [
+        "i153"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "όψε",
+      "items": [
+        "i153"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "πόψε",
+      "items": [
+        "i153"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Απόψε.",
+      "items": [
+        "i153"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Απόψε.",
+      "items": [
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "My husband.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Ο άντρας μου.",
+      "items": [
+        "i149"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say tonight?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Απόψε.",
+      "items": [
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Απόψε.",
+      "items": [
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Απόψε.",
+      "items": [
+        "i001",
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, tonight, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Απόψε. Ένας καφές.",
+      "items": [
+        "i002",
+        "i153",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Mother.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Μητέρα.",
+      "items": [
+        "i150"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Together is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Μαζί.",
+      "items": [
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Μαζί.",
+      "items": [
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I want, tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω. Απόψε.",
+      "items": [
+        "i004",
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Απόψε.",
+      "items": [
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say together?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Μαζί.",
+      "items": [
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Together.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Μαζί.",
+      "items": [
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Father.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Πατέρας.",
+      "items": [
+        "i151"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, together, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Μαζί. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i154",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Great, fine is:",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Brother.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Αδερφός.",
+      "items": [
+        "i152"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Together.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Μαζί.",
+      "items": [
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say great?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Great.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Spouse.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Σύζυγος.",
+      "items": [
+        "i145"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, together.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Μαζί.",
+      "items": [
+        "i007",
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, great, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Ωραία. Νερό.",
+      "items": [
+        "i008",
+        "i155",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Sister. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "ερφή",
+      "items": [
+        "i156"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "δερφή",
+      "items": [
+        "i156"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Great.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say sister?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Children.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Παιδιά.",
+      "items": [
+        "i146"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Φίλος.",
+      "items": [
+        "i147"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Ωραία.",
+      "items": [
+        "i010",
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, sister, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Αδερφή. Και.",
+      "items": [
+        "i011",
+        "i156",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "What will you have is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b034",
+      "say": "Sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you ask what they will have?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b036",
+      "say": "My wife.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Η γυναίκα μου.",
+      "items": [
+        "i148"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "What will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b038",
+      "say": "English.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Αδερφή.",
+      "items": [
+        "i013",
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "For you, what will you have, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Τι θα πάρετε; Λίγο.",
+      "items": [
+        "i014",
+        "i157",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "Tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Απόψε.",
+      "items": [
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Let's go is:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "What will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say let's go?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "I know.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "A few.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "One more, what will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Ακόμα ένα. Τι θα πάρετε;",
+      "items": [
+        "i016",
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b049",
+      "say": "Together.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Μαζί.",
+      "items": [
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Enjoy your meal is:",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say enjoy your meal?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Slowly, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, what will you have, what is your name?",
+      "pause": 8
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Τι θα πάρετε; Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i157",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "Great.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b058",
+      "say": "Will is:",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "Θα.",
+      "items": [
+        "i160"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Θα.",
+      "items": [
+        "i160"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say will?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Θα.",
+      "items": [
+        "i160"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Will.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Θα.",
+      "items": [
+        "i160"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Nice to meet you, what will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Χάρηκα. Τι θα πάρετε;",
+      "items": [
+        "i019",
+        "i157"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, let's go, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Πάμε. Εγώ.",
+      "items": [
+        "i020",
+        "i158",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Nikos, enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Νίκος. Καλή όρεξη.",
+      "items": [
+        "i022",
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Will.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Θα.",
+      "items": [
+        "i160"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Maria, will, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Μαρία. Θα. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i160",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "I am, tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Απόψε.",
+      "items": [
+        "i025",
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, together, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Μαζί. Γερμανία.",
+      "items": [
+        "i026",
+        "i154",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Thessaloniki, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Θεσσαλονίκη. Ωραία.",
+      "items": [
+        "i028",
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "What will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "Nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, sister, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Αδερφή. Πού;",
+      "items": [
+        "i029",
+        "i156",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, what will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Τι θα πάρετε;",
+      "items": [
+        "i031",
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "Athens, let's go, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Αθήνα. Πάμε. Δύο.",
+      "items": [
+        "i032",
+        "i158",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "Again.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Three, enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Καλή όρεξη.",
+      "items": [
+        "i034",
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Four, will, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Τέσσερα. Θα. Πέντε.",
+      "items": [
+        "i035",
+        "i160",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "How many, tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Απόψε.",
+      "items": [
+        "i037",
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, together, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Μαζί. Εδώ.",
+      "items": [
+        "i038",
+        "i154",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "A pack, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Ένα πακέτο. Ωραία.",
+      "items": [
+        "i040",
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Bread, sister, koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ψωμί. Αδερφή. Κουλούρι.",
+      "items": [
+        "i041",
+        "i156",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Or, what will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ή. Τι θα πάρετε;",
+      "items": [
+        "i043",
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "You want, let's go, how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Πάμε. Πόσο;",
+      "items": [
+        "i044",
+        "i158",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Fresh, enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Φρέσκο. Καλή όρεξη.",
+      "items": [
+        "i046",
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "A new friend joins you at the taverna. You greet, and you plan the evening.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet your new friend politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: together, tonight?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μαζί; Απόψε;",
+      "items": [
+        "i154",
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: great!",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ωραία!",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: a table for two, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τραπέζι για δύο, παρακαλώ.",
+      "items": [
+        "i121",
+        "i122",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: fish and salad, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ψάρι και σαλάτα, παρακαλώ.",
+      "items": [
+        "i126",
+        "i012",
+        "i127",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my sister, my brother.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Αδερφή και αδερφός.",
+      "items": [
+        "i156",
+        "i012",
+        "i152"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I like it, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μου αρέσει πάρα πολύ.",
+      "items": [
+        "i113",
+        "i115"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I understand a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καταλαβαίνω λίγο.",
+      "items": [
+        "i138",
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: we will go together.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θα πάμε.",
+      "items": [
+        "i160",
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: wine, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Κρασί, παρακαλώ.",
+      "items": [
+        "i128",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: better, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καλύτερα, γλυκό.",
+      "items": [
+        "i116",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: a glass, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ένα ποτήρι, παρακαλώ.",
+      "items": [
+        "i125",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the bill, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λογαριασμός, παρακαλώ.",
+      "items": [
+        "i124",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: thank you, good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ευχαριστώ. Καληνύχτα.",
+      "items": [
+        "i006",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: again.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "ξανά",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "αργά",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "πάω",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "ζεστό",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "κρύο",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You have reviewed the whole first half of the course: greetings, numbers, shopping, directions, time, and the taverna. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
