@@ -1,0 +1,1929 @@
+{
+  "lesson": 26,
+  "title": "Feeling unwell",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you say that you feel unwell: I am tired, it hurts, my head, the pharmacy, the doctor, fever, and I'm sorry.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a friend who is unwell.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Είμαι κουρασμένος.",
+      "items": [
+        "i001",
+        "i025",
+        "i201"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Με πονάει το κεφάλι μου.",
+      "items": [
+        "i202",
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Πού είναι το φαρμακείο;",
+      "items": [
+        "i057",
+        "i204"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Γιατρός;",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πυρετός;",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Όχι. Δεν είμαι άρρωστος.",
+      "items": [
+        "i008",
+        "i080",
+        "i025",
+        "i207"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Tired. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "μένος",
+      "items": [
+        "i201"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "σμένος",
+      "items": [
+        "i201"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ασμένος",
+      "items": [
+        "i201"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Blue.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say tired?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Κουρασμένος.",
+      "items": [
+        "i001",
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Red.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Κόκκινο.",
+      "items": [
+        "i200"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "say": "Good morning, tired, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Καλημέρα. Κουρασμένος. Ένας καφές.",
+      "items": [
+        "i002",
+        "i201",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b010",
+      "say": "It hurts. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "ναει",
+      "items": [
+        "i202"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "ονάει",
+      "items": [
+        "i202"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Πονάει.",
+      "items": [
+        "i202"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Πονάει.",
+      "items": [
+        "i202"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say it hurts?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Πονάει.",
+      "items": [
+        "i202"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Big.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Μεγάλο.",
+      "items": [
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "It hurts.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Πονάει.",
+      "items": [
+        "i202"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Small.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "I want, tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Θέλω. Κουρασμένος.",
+      "items": [
+        "i004",
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Please, it hurts, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Παρακαλώ. Πονάει. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i202",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "My head is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Το κεφάλι μου.",
+      "items": [
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Το κεφάλι μου.",
+      "items": [
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b019",
+      "say": "It hurts.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Πονάει.",
+      "items": [
+        "i202"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say my head?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Το κεφάλι μου.",
+      "items": [
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b021",
+      "say": "Colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "My head.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Το κεφάλι μου.",
+      "items": [
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b023",
+      "say": "Expensive.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "Yes, it hurts.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Ναι. Πονάει.",
+      "items": [
+        "i007",
+        "i202"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "No, my head, water.",
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "target": "Όχι. Το κεφάλι μου. Νερό.",
+      "items": [
+        "i008",
+        "i203",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b026",
+      "say": "Pharmacy. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "μακείο",
+      "items": [
+        "i204"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "ακείο",
+      "items": [
+        "i204"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "κείο",
+      "items": [
+        "i204"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "My head.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Το κεφάλι μου.",
+      "items": [
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say pharmacy?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Pharmacy.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "I'll take it.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "How much is it, my head.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Πόσο κάνει; Το κεφάλι μου.",
+      "items": [
+        "i010",
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "One, pharmacy, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα. Φαρμακείο. Και.",
+      "items": [
+        "i011",
+        "i204",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b034",
+      "say": "Doctor. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b034",
+      "target": "τρός",
+      "items": [
+        "i205"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "ατρός",
+      "items": [
+        "i205"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "ιατρός",
+      "items": [
+        "i205"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b034",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b034",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "Pharmacy.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say doctor?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Doctor.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "We will go.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Fever. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "ετός",
+      "items": [
+        "i206"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b042",
+      "target": "ρετός",
+      "items": [
+        "i206"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b042",
+      "target": "υρετός",
+      "items": [
+        "i206"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b042",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Doctor.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say fever?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Island.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Fever.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "It hurts.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Πονάει.",
+      "items": [
+        "i202"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "A tea, my head.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Ένα τσάι. Το κεφάλι μου.",
+      "items": [
+        "i013",
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b049",
+      "say": "At.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Sick. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "ωστος",
+      "items": [
+        "i207"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "ρρωστος",
+      "items": [
+        "i207"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "ρωστος",
+      "items": [
+        "i207"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Fever.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say sick?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My head.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Το κεφάλι μου.",
+      "items": [
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "Quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "For you, my head, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Για σένα. Το κεφάλι μου. Λίγο.",
+      "items": [
+        "i014",
+        "i203",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b058",
+      "say": "I'm sorry. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "άμαι",
+      "items": [
+        "i208"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "πάμαι",
+      "items": [
+        "i208"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "υπάμαι",
+      "items": [
+        "i208"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say I'm sorry?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Room.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "I'm sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Pharmacy.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "Key.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "One more, my head.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Ακόμα ένα. Το κεφάλι μου.",
+      "items": [
+        "i016",
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b066",
+      "say": "My name is, pharmacy, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b066",
+      "target": "Με λένε. Φαρμακείο. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i204",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "I'm sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Nice to meet you, doctor.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Χάρηκα. Γιατρός.",
+      "items": [
+        "i019",
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "You, fever, I.",
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "target": "Εσύ; Πυρετός. Εγώ.",
+      "items": [
+        "i020",
+        "i206",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "Wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Doctor.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "say": "Nikos, sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Νίκος. Άρρωστος.",
+      "items": [
+        "i022",
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Maria, I'm sorry, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b074",
+      "target": "Μαρία. Λυπάμαι. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i208",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "I am, tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Είμαι. Κουρασμένος.",
+      "items": [
+        "i025",
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "Table.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "Greece, it hurts, Germany.",
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "target": "Ελλάδα. Πονάει. Γερμανία.",
+      "items": [
+        "i026",
+        "i202",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "Thessaloniki, my head.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Θεσσαλονίκη. Το κεφάλι μου.",
+      "items": [
+        "i028",
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "Yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Fever.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "I live, pharmacy, where?",
+      "pause": 7
+    },
+    {
+      "beat": "b081",
+      "target": "Μένω. Φαρμακείο. Πού;",
+      "items": [
+        "i029",
+        "i204",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "From, doctor.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Από. Γιατρός.",
+      "items": [
+        "i031",
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "No.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Όχι.",
+      "items": [
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Athens, fever, two.",
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "target": "Αθήνα. Πυρετός. Δύο.",
+      "items": [
+        "i032",
+        "i206",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "Three, sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Τρία. Άρρωστος.",
+      "items": [
+        "i034",
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "Four, I'm sorry, five.",
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "target": "Τέσσερα. Λυπάμαι. Πέντε.",
+      "items": [
+        "i035",
+        "i208",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "say": "How many, tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Πόσα; Κουρασμένος.",
+      "items": [
+        "i037",
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "You visit a friend who is unwell. You ask how they feel.",
+      "pause": 2
+    },
+    {
+      "beat": "b089",
+      "say": "Greet your friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: how are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Answer: tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: my head hurts.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Το κεφάλι μου πονάει.",
+      "items": [
+        "i203",
+        "i202"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: where is the pharmacy?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πού είναι το φαρμακείο;",
+      "items": [
+        "i057",
+        "i204"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: the doctor?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Γιατρός;",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: no, I am not sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Όχι. Δεν είμαι άρρωστος.",
+      "items": [
+        "i008",
+        "i080",
+        "i025",
+        "i207"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I'm sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: fever?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πυρετός;",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: thank you, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ευχαριστώ. Νερό.",
+      "items": [
+        "i006",
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: a little, one.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Λίγο. Ένα.",
+      "items": [
+        "i015",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: the pharmacy, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Φαρμακείο, παρακαλώ.",
+      "items": [
+        "i204",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: sorry, tomorrow.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Συγγνώμη. Αύριο.",
+      "items": [
+        "i061",
+        "i086"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: good, slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καλό. Αργά.",
+      "items": [
+        "i048",
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I want a tea, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Θέλω ένα τσάι, παρακαλώ.",
+      "items": [
+        "i004",
+        "i013",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: two, three.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Δύο, τρία.",
+      "items": [
+        "i033",
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: fine, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καλά, ευχαριστώ.",
+      "items": [
+        "i051",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I like it.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "ναι",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: table.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "τραπέζι",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "σαλάτα",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "κρασί",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: room.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "δωμάτιο",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: key.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "κλειδί",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: elevator.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "ασανσέρ",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "ήσυχο",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Well done. You can now say how you feel and ask for help at the pharmacy. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

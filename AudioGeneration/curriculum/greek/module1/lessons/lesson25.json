@@ -1,0 +1,1801 @@
+{
+  "lesson": 25,
+  "title": "Shopping",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you shop: big, small, a colour, too expensive, cheap, and I'll take it.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a customer in a clothes shop.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Το κόκκινο, παρακαλώ.",
+      "items": [
+        "i001",
+        "i200",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Μεγάλο ή μικρό;",
+      "items": [
+        "i193",
+        "i043",
+        "i194"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ακριβό!",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Φθηνό;",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Το μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Big. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "λο",
+      "items": [
+        "i193"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "γάλο",
+      "items": [
+        "i193"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "εγάλο",
+      "items": [
+        "i193"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Μεγάλο.",
+      "items": [
+        "i193"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Μεγάλο.",
+      "items": [
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "At what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say big?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Μεγάλο.",
+      "items": [
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Big.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Μεγάλο.",
+      "items": [
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, big.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Μεγάλο.",
+      "items": [
+        "i001",
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, big, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Μεγάλο. Ένας καφές.",
+      "items": [
+        "i002",
+        "i193",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Ταξίδι.",
+      "items": [
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Small is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I want big.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω μεγάλο.",
+      "items": [
+        "i004",
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Big.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Μεγάλο.",
+      "items": [
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say small?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Small.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Have a good trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Καλό ταξίδι.",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, small, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Μικρό. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i194",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Colour is:",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Small.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say colour?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "We will go.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, small.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Μικρό.",
+      "items": [
+        "i007",
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, colour, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Χρώμα. Νερό.",
+      "items": [
+        "i008",
+        "i195",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Expensive. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "ιβό",
+      "items": [
+        "i196"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ριβό",
+      "items": [
+        "i196"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "κριβό",
+      "items": [
+        "i196"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say expensive?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Expensive.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Island.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Χρώμα.",
+      "items": [
+        "i010",
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, expensive, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Ακριβό. Και.",
+      "items": [
+        "i011",
+        "i196",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "Cheap is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Expensive.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say cheap?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "At.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Heat.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, expensive.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Ακριβό.",
+      "items": [
+        "i013",
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "For you, cheap, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Φθηνό. Λίγο.",
+      "items": [
+        "i014",
+        "i197",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "Big.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Μεγάλο.",
+      "items": [
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "I'll take it is:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say I'll take it?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "I'll take it.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Wind.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "One more, cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Ακόμα ένα. Φθηνό.",
+      "items": [
+        "i016",
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Small.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Blue is:",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "I'll take it.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say blue?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Blue.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, cheap, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Φθηνό. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i197",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "Colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Nice weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Red. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "ινο",
+      "items": [
+        "i200"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "κινο",
+      "items": [
+        "i200"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "κκινο",
+      "items": [
+        "i200"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "Κόκκινο.",
+      "items": [
+        "i200"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Κόκκινο.",
+      "items": [
+        "i200"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Blue.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say red?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Κόκκινο.",
+      "items": [
+        "i200"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Red.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Κόκκινο.",
+      "items": [
+        "i200"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Nice to meet you, cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Χάρηκα. Φθηνό.",
+      "items": [
+        "i019",
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, I'll take it, I.",
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Το παίρνω. Εγώ.",
+      "items": [
+        "i020",
+        "i198",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Expensive.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "What will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Nikos, blue.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Νίκος. Μπλε.",
+      "items": [
+        "i022",
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Red.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Κόκκινο.",
+      "items": [
+        "i200"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Maria, red, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "target": "Μαρία. Κόκκινο. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i200",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "I am, big.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Μεγάλο.",
+      "items": [
+        "i025",
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, small, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Μικρό. Γερμανία.",
+      "items": [
+        "i026",
+        "i194",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Thessaloniki, colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Θεσσαλονίκη. Χρώμα.",
+      "items": [
+        "i028",
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, expensive, where?",
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Ακριβό. Πού;",
+      "items": [
+        "i029",
+        "i196",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Φθηνό.",
+      "items": [
+        "i031",
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Better.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Athens, I'll take it, two.",
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "target": "Αθήνα. Το παίρνω. Δύο.",
+      "items": [
+        "i032",
+        "i198",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Three, blue.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Μπλε.",
+      "items": [
+        "i034",
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "I'll take it.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Four, red, five.",
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "target": "Τέσσερα. Κόκκινο. Πέντε.",
+      "items": [
+        "i035",
+        "i200",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "How many, big.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Μεγάλο.",
+      "items": [
+        "i037",
+        "i193"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, small, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Μικρό. Εδώ.",
+      "items": [
+        "i038",
+        "i194",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "Hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "A pack, colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα πακέτο. Χρώμα.",
+      "items": [
+        "i040",
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Blue.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Bread, expensive, koulouri.",
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "target": "Ψωμί. Ακριβό. Κουλούρι.",
+      "items": [
+        "i041",
+        "i196",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Or, cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ή. Φθηνό.",
+      "items": [
+        "i043",
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, I'll take it, how much?",
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Το παίρνω. Πόσο;",
+      "items": [
+        "i044",
+        "i198",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "You are shopping for clothes. The shop assistant greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet her politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for the red one, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κόκκινο, παρακαλώ.",
+      "items": [
+        "i200",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "She shows a big one. Say: big, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μεγάλο. Ναι.",
+      "items": [
+        "i193",
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: small, no.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μικρό. Όχι.",
+      "items": [
+        "i194",
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: what colour is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Χρώμα;",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: blue.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μπλε.",
+      "items": [
+        "i199"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "She says: expensive. Answer: cheap, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ακριβό. Φθηνό, παρακαλώ.",
+      "items": [
+        "i196",
+        "i197",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I'll take it.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: thank you, enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ευχαριστώ. Καλή όρεξη.",
+      "items": [
+        "i006",
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: a little, cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Λίγο. Φθηνό.",
+      "items": [
+        "i015",
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the bill, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Λογαριασμός, παρακαλώ.",
+      "items": [
+        "i124",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I want a table for two.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Θέλω τραπέζι για δύο.",
+      "items": [
+        "i004",
+        "i121",
+        "i122"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: fish, wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ψάρι, κρασί.",
+      "items": [
+        "i126",
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: better, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καλύτερα, γλυκό.",
+      "items": [
+        "i116",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: hot, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ζεστό, πάρα πολύ.",
+      "items": [
+        "i118",
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the island.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the boat, at ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Βάρκα. Στις δέκα.",
+      "items": [
+        "i185",
+        "i187",
+        "i101"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: which stop?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ποια στάση;",
+      "items": [
+        "i083"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: one, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ένα, δύο.",
+      "items": [
+        "i011",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now shop, compare sizes and colours, and say I'll take it. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
