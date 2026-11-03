@@ -6,25 +6,25 @@ Today you talk about your family and friends: my wife, my husband, children, my 
 Listen to a family at the café.
 [pause 2s]
 
-"Γεια σας. Η γυναίκα μου και ο άντρας μου...."
+"Γεια σας. Η γυναίκα μου και ο άντρας μου..."
 [pause 7s]
 
 "Παιδιά;..."
 [pause 6s]
 
-"Ο φίλος μου...."
+"Ο φίλος μου..."
 [pause 6s]
 
-"Η μητέρα και ο πατέρας...."
+"Η μητέρα και ο πατέρας..."
 [pause 7s]
 
-"Ο αδερφός μου...."
+"Ο αδερφός μου..."
 [pause 6s]
 
-"Λίγο ελληνικά...."
+"Λίγο ελληνικά..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Spouse. Listen to the pieces, starting from the end.
@@ -39,49 +39,49 @@ Spouse. Listen to the pieces, starting from the end.
 "γος..."
 [pause 3s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 I understand.
 [pause 6s]
 
-"Καταλαβαίνω...."
+"Καταλαβαίνω..."
 [pause 6s]
 
 How do you say spouse?
 [pause 6s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 Spouse.
 [pause 6s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 Greet politely, then spouse.
 [pause 6s]
 
-"Γεια σας. Σύζυγος...."
+"Γεια σας. Σύζυγος..."
 [pause 6s]
 
 Good morning, spouse, a coffee.
 [pause 6s]
 
-"Καλημέρα. Σύζυγος. Ένας καφές...."
+"Καλημέρα. Σύζυγος. Ένας καφές..."
 [pause 7s]
 
 I don't understand.
 [pause 6s]
 
-"Δεν καταλαβαίνω...."
+"Δεν καταλαβαίνω..."
 [pause 6s]
 
 Children. Listen to the pieces, starting from the end.
@@ -96,181 +96,181 @@ Children. Listen to the pieces, starting from the end.
 "αιδιά..."
 [pause 3s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 Spouse.
 [pause 6s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 How do you say children?
 [pause 6s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 Greek.
 [pause 6s]
 
-"Ελληνικά...."
+"Ελληνικά..."
 [pause 6s]
 
 Children.
 [pause 6s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 I want, spouse.
 [pause 6s]
 
-"Θέλω. Σύζυγος...."
+"Θέλω. Σύζυγος..."
 [pause 6s]
 
 English.
 [pause 6s]
 
-"Αγγλικά...."
+"Αγγλικά..."
 [pause 6s]
 
 Please, children, thank you.
 [pause 6s]
 
-"Παρακαλώ. Παιδιά. Ευχαριστώ...."
+"Παρακαλώ. Παιδιά. Ευχαριστώ..."
 [pause 7s]
 
 Friend, male, is:
 [pause 2s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 Children.
 [pause 6s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 How do you say friend?
 [pause 6s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 I know.
 [pause 6s]
 
-"Ξέρω...."
+"Ξέρω..."
 [pause 6s]
 
 Friend.
 [pause 6s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 Yes, children.
 [pause 6s]
 
-"Ναι. Παιδιά...."
+"Ναι. Παιδιά..."
 [pause 6s]
 
 No, friend, water.
 [pause 6s]
 
-"Όχι. Φίλος. Νερό...."
+"Όχι. Φίλος. Νερό..."
 [pause 7s]
 
 My wife is:
 [pause 2s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 A few.
 [pause 6s]
 
-"Λίγα...."
+"Λίγα..."
 [pause 6s]
 
 Friend.
 [pause 6s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 How do you say my wife?
 [pause 6s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 My wife.
 [pause 6s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 Slowly, please.
 [pause 6s]
 
-"Αργά, παρακαλώ...."
+"Αργά, παρακαλώ..."
 [pause 6s]
 
 How much is it, friend.
 [pause 6s]
 
-"Πόσο κάνει; Φίλος...."
+"Πόσο κάνει; Φίλος..."
 [pause 6s]
 
 One, my wife, and.
 [pause 6s]
 
-"Ένα. Η γυναίκα μου. Και...."
+"Ένα. Η γυναίκα μου. Και..."
 [pause 7s]
 
 My husband is:
 [pause 2s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 My wife.
 [pause 6s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 How do you say my husband?
 [pause 6s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 Can you repeat it?
@@ -282,31 +282,31 @@ Can you repeat it?
 My husband.
 [pause 6s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 Milk.
 [pause 6s]
 
-"Γάλα...."
+"Γάλα..."
 [pause 6s]
 
 A tea, my wife.
 [pause 6s]
 
-"Ένα τσάι. Η γυναίκα μου...."
+"Ένα τσάι. Η γυναίκα μου..."
 [pause 6s]
 
 For you, my husband, a little.
 [pause 6s]
 
-"Για σένα. Ο άντρας μου. Λίγο...."
+"Για σένα. Ο άντρας μου. Λίγο..."
 [pause 7s]
 
 Spouse.
 [pause 6s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 Mother. Listen to the pieces, starting from the end.
@@ -318,55 +318,55 @@ Mother. Listen to the pieces, starting from the end.
 "ητέρα..."
 [pause 3s]
 
-"Μητέρα...."
+"Μητέρα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Μητέρα...."
+"Μητέρα..."
 [pause 6s]
 
 My husband.
 [pause 6s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 How do you say mother?
 [pause 6s]
 
-"Μητέρα...."
+"Μητέρα..."
 [pause 6s]
 
 Chicken.
 [pause 6s]
 
-"Κοτόπουλο...."
+"Κοτόπουλο..."
 [pause 6s]
 
 Mother.
 [pause 6s]
 
-"Μητέρα...."
+"Μητέρα..."
 [pause 6s]
 
 Yogurt.
 [pause 6s]
 
-"Γιαούρτι...."
+"Γιαούρτι..."
 [pause 6s]
 
 One more, my husband.
 [pause 6s]
 
-"Ακόμα ένα. Ο άντρας μου...."
+"Ακόμα ένα. Ο άντρας μου..."
 [pause 6s]
 
 Children.
 [pause 6s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 Father. Listen to the pieces, starting from the end.
@@ -378,49 +378,49 @@ Father. Listen to the pieces, starting from the end.
 "ατέρας..."
 [pause 3s]
 
-"Πατέρας...."
+"Πατέρας..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Πατέρας...."
+"Πατέρας..."
 [pause 6s]
 
 Mother.
 [pause 6s]
 
-"Μητέρα...."
+"Μητέρα..."
 [pause 6s]
 
 How do you say father?
 [pause 6s]
 
-"Πατέρας...."
+"Πατέρας..."
 [pause 6s]
 
 A dessert.
 [pause 6s]
 
-"Ένα γλυκό...."
+"Ένα γλυκό..."
 [pause 6s]
 
 Father.
 [pause 6s]
 
-"Πατέρας...."
+"Πατέρας..."
 [pause 6s]
 
 Cheese.
 [pause 6s]
 
-"Τυρί...."
+"Τυρί..."
 [pause 6s]
 
 Friend.
 [pause 6s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 My name is, my husband, what is your name?
@@ -438,121 +438,121 @@ Brother. Listen to the pieces, starting from the end.
 "δερφός..."
 [pause 3s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 6s]
 
 Father.
 [pause 6s]
 
-"Πατέρας...."
+"Πατέρας..."
 [pause 6s]
 
 How do you say brother?
 [pause 6s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 6s]
 
 Kilo.
 [pause 6s]
 
-"Κιλό...."
+"Κιλό..."
 [pause 6s]
 
 Brother.
 [pause 6s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 6s]
 
 My wife.
 [pause 6s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 This one.
 [pause 6s]
 
-"Αυτό...."
+"Αυτό..."
 [pause 6s]
 
 Nice to meet you, my husband.
 [pause 6s]
 
-"Χάρηκα. Ο άντρας μου...."
+"Χάρηκα. Ο άντρας μου..."
 [pause 6s]
 
 You, mother, I.
 [pause 6s]
 
-"Εσύ; Μητέρα. Εγώ...."
+"Εσύ; Μητέρα. Εγώ..."
 [pause 7s]
 
 That one.
 [pause 6s]
 
-"Εκείνο...."
+"Εκείνο..."
 [pause 6s]
 
 Brother.
 [pause 6s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 6s]
 
 Nikos, father.
 [pause 6s]
 
-"Νίκος. Πατέρας...."
+"Νίκος. Πατέρας..."
 [pause 6s]
 
 Maria, brother, my name is formal.
 [pause 6s]
 
-"Μαρία. Αδερφός. Ονομάζομαι...."
+"Μαρία. Αδερφός. Ονομάζομαι..."
 [pause 7s]
 
 My husband.
 [pause 6s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 Apples.
 [pause 6s]
 
-"Μήλα...."
+"Μήλα..."
 [pause 6s]
 
 I am, spouse.
 [pause 6s]
 
-"Είμαι. Σύζυγος...."
+"Είμαι. Σύζυγος..."
 [pause 6s]
 
 Greece, children, Germany.
 [pause 6s]
 
-"Ελλάδα. Παιδιά. Γερμανία...."
+"Ελλάδα. Παιδιά. Γερμανία..."
 [pause 7s]
 
 Thessaloniki, friend.
 [pause 6s]
 
-"Θεσσαλονίκη. Φίλος...."
+"Θεσσαλονίκη. Φίλος..."
 [pause 6s]
 
 Right.
 [pause 6s]
 
-"Δεξιά...."
+"Δεξιά..."
 [pause 6s]
 
 I live, my wife, where?
@@ -564,73 +564,73 @@ I live, my wife, where?
 From, my husband.
 [pause 6s]
 
-"Από. Ο άντρας μου...."
+"Από. Ο άντρας μου..."
 [pause 6s]
 
 Athens, mother, two.
 [pause 6s]
 
-"Αθήνα. Μητέρα. Δύο...."
+"Αθήνα. Μητέρα. Δύο..."
 [pause 7s]
 
 Mother.
 [pause 6s]
 
-"Μητέρα...."
+"Μητέρα..."
 [pause 6s]
 
 Straight ahead.
 [pause 6s]
 
-"Ευθεία...."
+"Ευθεία..."
 [pause 6s]
 
 Three, father.
 [pause 6s]
 
-"Τρία. Πατέρας...."
+"Τρία. Πατέρας..."
 [pause 6s]
 
 Four, brother, five.
 [pause 6s]
 
-"Τέσσερα. Αδερφός. Πέντε...."
+"Τέσσερα. Αδερφός. Πέντε..."
 [pause 7s]
 
 There.
 [pause 6s]
 
-"Εκεί...."
+"Εκεί..."
 [pause 6s]
 
 How many, spouse.
 [pause 6s]
 
-"Πόσα; Σύζυγος...."
+"Πόσα; Σύζυγος..."
 [pause 6s]
 
 Kiosk, children, here.
 [pause 6s]
 
-"Περίπτερο. Παιδιά. Εδώ...."
+"Περίπτερο. Παιδιά. Εδώ..."
 [pause 7s]
 
 A pack, friend.
 [pause 6s]
 
-"Ένα πακέτο. Φίλος...."
+"Ένα πακέτο. Φίλος..."
 [pause 6s]
 
 Father.
 [pause 6s]
 
-"Πατέρας...."
+"Πατέρας..."
 [pause 6s]
 
 Bread, my wife, koulouri.
 [pause 6s]
 
-"Ψωμί. Η γυναίκα μου. Κουλούρι...."
+"Ψωμί. Η γυναίκα μου. Κουλούρι..."
 [pause 7s]
 
 You are at a café with your family. A friend greets you.
@@ -639,19 +639,19 @@ You are at a café with your family. A friend greets you.
 Greet your friend politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Introduce your wife: my wife.
 [pause 6s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 Introduce your husband: my husband.
 [pause 6s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 Ask: children?
@@ -663,19 +663,19 @@ Ask: children?
 Say: my mother, my father.
 [pause 6s]
 
-"Μητέρα και πατέρας...."
+"Μητέρα και πατέρας..."
 [pause 7s]
 
 Say: my brother, my friend.
 [pause 6s]
 
-"Αδερφός και φίλος...."
+"Αδερφός και φίλος..."
 [pause 7s]
 
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Ask: what is your name?
@@ -687,13 +687,13 @@ Ask: what is your name?
 Say: I understand a little.
 [pause 6s]
 
-"Καταλαβαίνω λίγο...."
+"Καταλαβαίνω λίγο..."
 [pause 6s]
 
 Say: I don't understand, slowly please.
 [pause 6s]
 
-"Δεν καταλαβαίνω. Αργά, παρακαλώ...."
+"Δεν καταλαβαίνω. Αργά, παρακαλώ..."
 [pause 7s]
 
 Say: can you repeat it?
@@ -705,55 +705,55 @@ Say: can you repeat it?
 Say: yes, a little Greek.
 [pause 6s]
 
-"Ναι. Λίγα ελληνικά...."
+"Ναι. Λίγα ελληνικά..."
 [pause 6s]
 
 Say: a tea, my wife.
 [pause 6s]
 
-"Ένα τσάι. Η γυναίκα μου...."
+"Ένα τσάι. Η γυναίκα μου..."
 [pause 6s]
 
 Say: milk, please.
 [pause 6s]
 
-"Γάλα, παρακαλώ...."
+"Γάλα, παρακαλώ..."
 [pause 6s]
 
 Say: chicken and yogurt.
 [pause 6s]
 
-"Κοτόπουλο και γιαούρτι...."
+"Κοτόπουλο και γιαούρτι..."
 [pause 7s]
 
 Say: a dessert, for you.
 [pause 6s]
 
-"Ένα γλυκό, για σένα...."
+"Ένα γλυκό, για σένα..."
 [pause 6s]
 
 Say: cheese, please.
 [pause 6s]
 
-"Τυρί, παρακαλώ...."
+"Τυρί, παρακαλώ..."
 [pause 6s]
 
 Say: one kilo of apples.
 [pause 6s]
 
-"Ένα κιλό μήλα...."
+"Ένα κιλό μήλα..."
 [pause 6s]
 
 Say: this one or that one.
 [pause 6s]
 
-"Αυτό ή εκείνο...."
+"Αυτό ή εκείνο..."
 [pause 6s]
 
 Say: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Well done. You can now talk about your family and your friends. See you in the next lesson.

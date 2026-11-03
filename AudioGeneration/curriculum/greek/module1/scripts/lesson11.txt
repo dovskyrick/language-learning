@@ -18,16 +18,16 @@ Listen to a passenger at the bus stop.
 "Τι ώρα είναι;..."
 [pause 6s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
-"Ένα ταξί, παρακαλώ...."
+"Ένα ταξί, παρακαλώ..."
 [pause 7s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 The bus. Listen to the pieces, starting from the end.
@@ -42,85 +42,85 @@ The bus. Listen to the pieces, starting from the end.
 "εωφορείο..."
 [pause 3s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 Ticket.
 [pause 6s]
 
-"Εισιτήριο...."
+"Εισιτήριο..."
 [pause 6s]
 
 How do you say bus?
 [pause 6s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 Bus.
 [pause 6s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 Greet politely, then the bus.
 [pause 6s]
 
-"Γεια σας. Λεωφορείο...."
+"Γεια σας. Λεωφορείο..."
 [pause 7s]
 
 Good morning, bus, a coffee.
 [pause 6s]
 
-"Καλημέρα. Λεωφορείο. Ένας καφές...."
+"Καλημέρα. Λεωφορείο. Ένας καφές..."
 [pause 7s]
 
 I can.
 [pause 6s]
 
-"Μπορώ...."
+"Μπορώ..."
 [pause 6s]
 
 To the centre, the phrase is:
 [pause 2s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 I want the bus.
 [pause 6s]
 
-"Θέλω το λεωφορείο...."
+"Θέλω το λεωφορείο..."
 [pause 6s]
 
 Bus.
 [pause 6s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 How do you say to the centre?
 [pause 6s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 To the centre.
 [pause 6s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 Can you, polite?
@@ -132,7 +132,7 @@ Can you, polite?
 Please, to the centre, thank you.
 [pause 6s]
 
-"Παρακαλώ. Στο κέντρο. Ευχαριστώ...."
+"Παρακαλώ. Στο κέντρο. Ευχαριστώ..."
 [pause 7s]
 
 To ask which stop, say:
@@ -150,13 +150,13 @@ Repeat after the voice.
 Again.
 [pause 6s]
 
-"Ξανά...."
+"Ξανά..."
 [pause 6s]
 
 To the centre.
 [pause 6s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 How do you ask which stop?
@@ -174,31 +174,31 @@ Which stop?
 Slowly.
 [pause 6s]
 
-"Αργά...."
+"Αργά..."
 [pause 6s]
 
 Yes, to the centre.
 [pause 6s]
 
-"Ναι. Στο κέντρο...."
+"Ναι. Στο κέντρο..."
 [pause 6s]
 
 No, which stop, water.
 [pause 6s]
 
-"Όχι. Ποια στάση; Νερό...."
+"Όχι. Ποια στάση; Νερό..."
 [pause 7s]
 
 The hour, or the time, is:
 [pause 2s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 Which stop?
@@ -210,19 +210,19 @@ Which stop?
 How do you say time?
 [pause 6s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 I go.
 [pause 6s]
 
-"Πάω...."
+"Πάω..."
 [pause 6s]
 
 Time.
 [pause 6s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 How much is it, which stop?
@@ -234,121 +234,121 @@ How much is it, which stop?
 Not.
 [pause 6s]
 
-"Δεν...."
+"Δεν..."
 [pause 6s]
 
 One, time, and.
 [pause 6s]
 
-"Ένα. Ώρα. Και...."
+"Ένα. Ώρα. Και..."
 [pause 7s]
 
 The word for now is:
 [pause 2s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
 Time.
 [pause 6s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 How do you say now?
 [pause 6s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
 Metro.
 [pause 6s]
 
-"Μετρό...."
+"Μετρό..."
 [pause 6s]
 
 Now.
 [pause 6s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
 A tea, time.
 [pause 6s]
 
-"Ένα τσάι. Ώρα...."
+"Ένα τσάι. Ώρα..."
 [pause 6s]
 
 Right.
 [pause 6s]
 
-"Δεξιά...."
+"Δεξιά..."
 [pause 6s]
 
 For you, now, a little.
 [pause 6s]
 
-"Για σένα. Τώρα. Λίγο...."
+"Για σένα. Τώρα. Λίγο..."
 [pause 7s]
 
 The word for tomorrow is:
 [pause 2s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
 Bus.
 [pause 6s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 Now.
 [pause 6s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
 How do you say tomorrow?
 [pause 6s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
 Tomorrow.
 [pause 6s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
 Straight ahead.
 [pause 6s]
 
-"Ευθεία...."
+"Ευθεία..."
 [pause 6s]
 
 One more, now.
 [pause 6s]
 
-"Ακόμα ένα. Τώρα...."
+"Ακόμα ένα. Τώρα..."
 [pause 6s]
 
 There.
 [pause 6s]
 
-"Εκεί...."
+"Εκεί..."
 [pause 6s]
 
 To ask what time it is, say:
@@ -366,13 +366,13 @@ Repeat after the voice.
 To the centre.
 [pause 6s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 Tomorrow.
 [pause 6s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
 How do you ask what time it is?
@@ -390,7 +390,7 @@ What time is it?
 Down.
 [pause 6s]
 
-"Κάτω...."
+"Κάτω..."
 [pause 6s]
 
 My name is, now, what is your name?
@@ -402,7 +402,7 @@ My name is, now, what is your name?
 Nice to meet you, tomorrow.
 [pause 6s]
 
-"Χάρηκα. Αύριο...."
+"Χάρηκα. Αύριο..."
 [pause 6s]
 
 Which stop?
@@ -414,13 +414,13 @@ Which stop?
 The taxi. The word is:
 [pause 2s]
 
-"Ταξί...."
+"Ταξί..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ταξί...."
+"Ταξί..."
 [pause 6s]
 
 What time is it?
@@ -432,31 +432,31 @@ What time is it?
 How do you say taxi?
 [pause 6s]
 
-"Ταξί...."
+"Ταξί..."
 [pause 6s]
 
 Up.
 [pause 6s]
 
-"Πάνω...."
+"Πάνω..."
 [pause 6s]
 
 Taxi.
 [pause 6s]
 
-"Ταξί...."
+"Ταξί..."
 [pause 6s]
 
 Koulouri.
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 You, tomorrow, I.
 [pause 6s]
 
-"Εσύ; Αύριο. Εγώ...."
+"Εσύ; Αύριο. Εγώ..."
 [pause 7s]
 
 Nikos, what time is it?
@@ -468,31 +468,31 @@ Nikos, what time is it?
 Time.
 [pause 6s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 Or.
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 Taxi.
 [pause 6s]
 
-"Ταξί...."
+"Ταξί..."
 [pause 6s]
 
 Maria, taxi, my name is formal.
 [pause 6s]
 
-"Μαρία. Ταξί. Ονομάζομαι...."
+"Μαρία. Ταξί. Ονομάζομαι..."
 [pause 7s]
 
 I am, bus.
 [pause 6s]
 
-"Είμαι. Λεωφορείο...."
+"Είμαι. Λεωφορείο..."
 [pause 6s]
 
 You want?
@@ -504,7 +504,7 @@ You want?
 Greece, to the centre, Germany.
 [pause 6s]
 
-"Ελλάδα. Στο κέντρο. Γερμανία...."
+"Ελλάδα. Στο κέντρο. Γερμανία..."
 [pause 7s]
 
 Thessaloniki, which stop?
@@ -516,7 +516,7 @@ Thessaloniki, which stop?
 Now.
 [pause 6s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
 I live, time, where?
@@ -534,13 +534,13 @@ How much?
 From, now.
 [pause 6s]
 
-"Από. Τώρα...."
+"Από. Τώρα..."
 [pause 6s]
 
 Athens, tomorrow, two.
 [pause 6s]
 
-"Αθήνα. Αύριο. Δύο...."
+"Αθήνα. Αύριο. Δύο..."
 [pause 7s]
 
 Three, what time is it?
@@ -552,37 +552,37 @@ Three, what time is it?
 Good morning.
 [pause 6s]
 
-"Καλημέρα...."
+"Καλημέρα..."
 [pause 6s]
 
 Tomorrow.
 [pause 6s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
 Four, taxi, five.
 [pause 6s]
 
-"Τέσσερα. Ταξί. Πέντε...."
+"Τέσσερα. Ταξί. Πέντε..."
 [pause 7s]
 
 How many, bus.
 [pause 6s]
 
-"Πόσα; Λεωφορείο...."
+"Πόσα; Λεωφορείο..."
 [pause 6s]
 
 A coffee.
 [pause 6s]
 
-"Ένας καφές...."
+"Ένας καφές..."
 [pause 6s]
 
 Kiosk, to the centre, here.
 [pause 6s]
 
-"Περίπτερο. Στο κέντρο. Εδώ...."
+"Περίπτερο. Στο κέντρο. Εδώ..."
 [pause 7s]
 
 A pack, which stop?
@@ -594,7 +594,7 @@ A pack, which stop?
 Bread, time, fresh.
 [pause 6s]
 
-"Ψωμί. Ώρα. Φρέσκο...."
+"Ψωμί. Ώρα. Φρέσκο..."
 [pause 7s]
 
 What time is it?
@@ -606,19 +606,19 @@ What time is it?
 I want.
 [pause 6s]
 
-"Θέλω...."
+"Θέλω..."
 [pause 6s]
 
 Very, now.
 [pause 6s]
 
-"Πολύ. Τώρα...."
+"Πολύ. Τώρα..."
 [pause 6s]
 
 Good, tomorrow, good evening.
 [pause 6s]
 
-"Καλό. Αύριο. Καλησπέρα...."
+"Καλό. Αύριο. Καλησπέρα..."
 [pause 7s]
 
 How are you, what time is it?
@@ -630,7 +630,7 @@ How are you, what time is it?
 Well, taxi, so-so.
 [pause 6s]
 
-"Καλά. Ταξί. Έτσι κι έτσι...."
+"Καλά. Ταξί. Έτσι κι έτσι..."
 [pause 7s]
 
 You are at the bus stop. A woman asks where you want to go.
@@ -639,7 +639,7 @@ You are at the bus stop. A woman asks where you want to go.
 Greet her politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask her: which stop is it?
@@ -651,13 +651,13 @@ Ask her: which stop is it?
 Ask for the bus to the centre, please.
 [pause 6s]
 
-"Στο κέντρο, παρακαλώ...."
+"Στο κέντρο, παρακαλώ..."
 [pause 6s]
 
 She says: now. Answer: thank you.
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Ask her what time it is.
@@ -669,79 +669,79 @@ Ask her what time it is.
 She says: tomorrow. Answer: fine.
 [pause 6s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 Ask for a taxi, please.
 [pause 6s]
 
-"Ένα ταξί, παρακαλώ...."
+"Ένα ταξί, παρακαλώ..."
 [pause 7s]
 
 Say: I can.
 [pause 6s]
 
-"Μπορώ...."
+"Μπορώ..."
 [pause 6s]
 
 Say: slowly, please, again.
 [pause 6s]
 
-"Αργά, παρακαλώ. Ξανά...."
+"Αργά, παρακαλώ. Ξανά..."
 [pause 7s]
 
 Say: the bus is far.
 [pause 6s]
 
-"Το λεωφορείο είναι μακριά...."
+"Το λεωφορείο είναι μακριά..."
 [pause 7s]
 
 Say: I go now.
 [pause 6s]
 
-"Πάω τώρα...."
+"Πάω τώρα..."
 [pause 6s]
 
 Say: I want a coffee, please.
 [pause 6s]
 
-"Θέλω ένα καφέ, παρακαλώ...."
+"Θέλω ένα καφέ, παρακαλώ..."
 [pause 7s]
 
 Say: good evening, my name is Nikos.
 [pause 6s]
 
-"Καλησπέρα. Με λένε Νίκος...."
+"Καλησπέρα. Με λένε Νίκος..."
 [pause 7s]
 
 Say: one more, please.
 [pause 6s]
 
-"Ακόμα ένα, παρακαλώ...."
+"Ακόμα ένα, παρακαλώ..."
 [pause 7s]
 
 Say: no, not now.
 [pause 6s]
 
-"Όχι, τώρα όχι...."
+"Όχι, τώρα όχι..."
 [pause 6s]
 
 Say: thank you, good night.
 [pause 6s]
 
-"Ευχαριστώ. Καληνύχτα...."
+"Ευχαριστώ. Καληνύχτα..."
 [pause 6s]
 
 Say: the time, please.
 [pause 6s]
 
-"Ώρα, παρακαλώ...."
+"Ώρα, παρακαλώ..."
 [pause 6s]
 
 Say: tomorrow, I go.
 [pause 6s]
 
-"Αύριο, πάω...."
+"Αύριο, πάω..."
 [pause 6s]
 
 Well done. You can now take the bus, ask the time, and call a taxi. See you in the next lesson.

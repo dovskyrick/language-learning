@@ -15,22 +15,22 @@ Listen to a friend inviting someone.
 "Έλα!..."
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 "Πάντα;..."
 [pause 6s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 6s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Do you want? is:
@@ -66,31 +66,31 @@ Do you want?
 It hurts.
 [pause 6s]
 
-"Πονάει...."
+"Πονάει..."
 [pause 6s]
 
 Good morning, do you want, a coffee.
 [pause 6s]
 
-"Καλημέρα. Θέλεις; Ένας καφές...."
+"Καλημέρα. Θέλεις; Ένας καφές..."
 [pause 7s]
 
 My head.
 [pause 6s]
 
-"Το κεφάλι μου...."
+"Το κεφάλι μου..."
 [pause 7s]
 
 With pleasure is:
 [pause 2s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 I want, do you want?
@@ -108,79 +108,79 @@ Do you want?
 How do you say with pleasure?
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 With pleasure.
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 Pharmacy.
 [pause 6s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 6s]
 
 Please, with pleasure, thank you.
 [pause 6s]
 
-"Παρακαλώ. Με χαρά. Ευχαριστώ...."
+"Παρακαλώ. Με χαρά. Ευχαριστώ..."
 [pause 7s]
 
 Come is:
 [pause 2s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 Doctor.
 [pause 6s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 6s]
 
 With pleasure.
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 How do you say come?
 [pause 6s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 Come.
 [pause 6s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 Fever.
 [pause 6s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 6s]
 
 Yes, with pleasure.
 [pause 6s]
 
-"Ναι. Με χαρά...."
+"Ναι. Με χαρά..."
 [pause 6s]
 
 No, come, water.
 [pause 6s]
 
-"Όχι. Έλα. Νερό...."
+"Όχι. Έλα. Νερό..."
 [pause 7s]
 
 Not at all. Listen to the pieces, starting from the end.
@@ -195,115 +195,115 @@ Not at all. Listen to the pieces, starting from the end.
 "θόλου..."
 [pause 3s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 Come.
 [pause 6s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 How do you say not at all?
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 Sick.
 [pause 6s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 6s]
 
 Not at all.
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 I'm sorry.
 [pause 6s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
 How much is it, come.
 [pause 6s]
 
-"Πόσο κάνει; Έλα...."
+"Πόσο κάνει; Έλα..."
 [pause 6s]
 
 Tired.
 [pause 6s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 Always is:
 [pause 2s]
 
-"Πάντα...."
+"Πάντα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πάντα...."
+"Πάντα..."
 [pause 6s]
 
 Not at all.
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 How do you say always?
 [pause 6s]
 
-"Πάντα...."
+"Πάντα..."
 [pause 6s]
 
 Small.
 [pause 6s]
 
-"Μικρό...."
+"Μικρό..."
 [pause 6s]
 
 Always.
 [pause 6s]
 
-"Πάντα...."
+"Πάντα..."
 [pause 6s]
 
 One, come, and.
 [pause 6s]
 
-"Ένα. Έλα. Και...."
+"Ένα. Έλα. Και..."
 [pause 7s]
 
 A tea, not at all.
 [pause 6s]
 
-"Ένα τσάι. Καθόλου...."
+"Ένα τσάι. Καθόλου..."
 [pause 6s]
 
 Maybe is:
 [pause 2s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 Do you want?
@@ -315,37 +315,37 @@ Do you want?
 Always.
 [pause 6s]
 
-"Πάντα...."
+"Πάντα..."
 [pause 6s]
 
 How do you say maybe?
 [pause 6s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 Maybe.
 [pause 6s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 Colour.
 [pause 6s]
 
-"Χρώμα...."
+"Χρώμα..."
 [pause 6s]
 
 Expensive.
 [pause 6s]
 
-"Ακριβό...."
+"Ακριβό..."
 [pause 6s]
 
 For you, not at all, a little.
 [pause 6s]
 
-"Για σένα. Καθόλου. Λίγο...."
+"Για σένα. Καθόλου. Λίγο..."
 [pause 7s]
 
 OK. Listen to the pieces, starting from the end.
@@ -360,61 +360,61 @@ OK. Listen to the pieces, starting from the end.
 "ντάξει..."
 [pause 3s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 6s]
 
 With pleasure.
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 Maybe.
 [pause 6s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 How do you say OK?
 [pause 6s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 6s]
 
 OK.
 [pause 6s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 6s]
 
 Cheap.
 [pause 6s]
 
-"Φθηνό...."
+"Φθηνό..."
 [pause 6s]
 
 I'll take it.
 [pause 6s]
 
-"Το παίρνω...."
+"Το παίρνω..."
 [pause 6s]
 
 One more, not at all.
 [pause 6s]
 
-"Ακόμα ένα. Καθόλου...."
+"Ακόμα ένα. Καθόλου..."
 [pause 6s]
 
 Come.
 [pause 6s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 Gladly. Listen to the pieces, starting from the end.
@@ -429,43 +429,43 @@ Gladly. Listen to the pieces, starting from the end.
 "ρίστως..."
 [pause 3s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 6s]
 
 OK.
 [pause 6s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 6s]
 
 How do you say gladly?
 [pause 6s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 6s]
 
 Tuesday.
 [pause 6s]
 
-"Τρίτη...."
+"Τρίτη..."
 [pause 6s]
 
 Gladly.
 [pause 6s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 6s]
 
 Wednesday.
 [pause 6s]
 
-"Τετάρτη...."
+"Τετάρτη..."
 [pause 6s]
 
 My name is, not at all, what is your name?
@@ -477,61 +477,61 @@ My name is, not at all, what is your name?
 Not at all.
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 Thursday.
 [pause 6s]
 
-"Πέμπτη...."
+"Πέμπτη..."
 [pause 6s]
 
 Nice to meet you, always.
 [pause 6s]
 
-"Χάρηκα. Πάντα...."
+"Χάρηκα. Πάντα..."
 [pause 6s]
 
 Gladly.
 [pause 6s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 6s]
 
 Friday.
 [pause 6s]
 
-"Παρασκευή...."
+"Παρασκευή..."
 [pause 6s]
 
 You, maybe, I.
 [pause 7s]
 
-"Εσύ; Ίσως. Εγώ...."
+"Εσύ; Ίσως. Εγώ..."
 [pause 7s]
 
 Nikos, OK.
 [pause 6s]
 
-"Νίκος. Εντάξει...."
+"Νίκος. Εντάξει..."
 [pause 6s]
 
 Maria, gladly, my name is formal.
 [pause 7s]
 
-"Μαρία. Ευχαρίστως. Ονομάζομαι...."
+"Μαρία. Ευχαρίστως. Ονομάζομαι..."
 [pause 7s]
 
 Always.
 [pause 6s]
 
-"Πάντα...."
+"Πάντα..."
 [pause 6s]
 
 Milk.
 [pause 6s]
 
-"Γάλα...."
+"Γάλα..."
 [pause 6s]
 
 I am, do you want?
@@ -543,19 +543,19 @@ I am, do you want?
 Greece, with pleasure, Germany.
 [pause 7s]
 
-"Ελλάδα. Με χαρά. Γερμανία...."
+"Ελλάδα. Με χαρά. Γερμανία..."
 [pause 7s]
 
 Chicken.
 [pause 6s]
 
-"Κοτόπουλο...."
+"Κοτόπουλο..."
 [pause 6s]
 
 Thessaloniki, come.
 [pause 6s]
 
-"Θεσσαλονίκη. Έλα...."
+"Θεσσαλονίκη. Έλα..."
 [pause 6s]
 
 I live, not at all, where?
@@ -567,31 +567,31 @@ I live, not at all, where?
 Maybe.
 [pause 6s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 Yogurt.
 [pause 6s]
 
-"Γιαούρτι...."
+"Γιαούρτι..."
 [pause 6s]
 
 From, always.
 [pause 6s]
 
-"Από. Πάντα...."
+"Από. Πάντα..."
 [pause 6s]
 
 Athens, maybe, two.
 [pause 7s]
 
-"Αθήνα. Ίσως. Δύο...."
+"Αθήνα. Ίσως. Δύο..."
 [pause 7s]
 
 Three, OK.
 [pause 6s]
 
-"Τρία. Εντάξει...."
+"Τρία. Εντάξει..."
 [pause 6s]
 
 How much is it?
@@ -603,7 +603,7 @@ How much is it?
 Four, gladly, five.
 [pause 7s]
 
-"Τέσσερα. Ευχαρίστως. Πέντε...."
+"Τέσσερα. Ευχαρίστως. Πέντε..."
 [pause 7s]
 
 How many, do you want?
@@ -615,37 +615,37 @@ How many, do you want?
 OK.
 [pause 6s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 6s]
 
 One.
 [pause 6s]
 
-"Ένα...."
+"Ένα..."
 [pause 6s]
 
 Kiosk, with pleasure, here.
 [pause 7s]
 
-"Περίπτερο. Με χαρά. Εδώ...."
+"Περίπτερο. Με χαρά. Εδώ..."
 [pause 7s]
 
 A pack, come.
 [pause 6s]
 
-"Ένα πακέτο. Έλα...."
+"Ένα πακέτο. Έλα..."
 [pause 6s]
 
 Bread, not at all, koulouri.
 [pause 7s]
 
-"Ψωμί. Καθόλου. Κουλούρι...."
+"Ψωμί. Καθόλου. Κουλούρι..."
 [pause 7s]
 
 Or, always.
 [pause 6s]
 
-"Ή. Πάντα...."
+"Ή. Πάντα..."
 [pause 6s]
 
 A friend invites you out this evening. Answer the invitation.
@@ -654,13 +654,13 @@ A friend invites you out this evening. Answer the invitation.
 Greet your friend.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask: do you want? Come.
 [pause 6s]
 
-"Θέλεις; Έλα...."
+"Θέλεις; Έλα..."
 [pause 6s]
 
 Say: with pleasure.
@@ -672,7 +672,7 @@ Say: with pleasure.
 Say: tonight, together.
 [pause 6s]
 
-"Απόψε, μαζί...."
+"Απόψε, μαζί..."
 [pause 6s]
 
 Ask: always?
@@ -684,25 +684,25 @@ Ask: always?
 Say: maybe.
 [pause 6s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 Say: never.
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 Say: OK, gladly.
 [pause 6s]
 
-"Εντάξει. Ευχαρίστως...."
+"Εντάξει. Ευχαρίστως..."
 [pause 6s]
 
 Say: thank you very much.
 [pause 6s]
 
-"Ευχαριστώ πολύ...."
+"Ευχαριστώ πολύ..."
 [pause 6s]
 
 Ask: how much is it?
@@ -714,43 +714,43 @@ Ask: how much is it?
 Say: I want a coffee.
 [pause 6s]
 
-"Θέλω ένα καφέ...."
+"Θέλω ένα καφέ..."
 [pause 6s]
 
 Say: the bill, please.
 [pause 6s]
 
-"Λογαριασμός, παρακαλώ...."
+"Λογαριασμός, παρακαλώ..."
 [pause 6s]
 
 Say: tired, my head.
 [pause 6s]
 
-"Κουρασμένος. Το κεφάλι μου...."
+"Κουρασμένος. Το κεφάλι μου..."
 [pause 7s]
 
 Say: sorry, I'm sick.
 [pause 6s]
 
-"Λυπάμαι. Άρρωστος...."
+"Λυπάμαι. Άρρωστος..."
 [pause 6s]
 
 Say: the pharmacy, please.
 [pause 6s]
 
-"Φαρμακείο, παρακαλώ...."
+"Φαρμακείο, παρακαλώ..."
 [pause 6s]
 
 Say: fever? no.
 [pause 6s]
 
-"Πυρετός; Όχι...."
+"Πυρετός; Όχι..."
 [pause 6s]
 
 Say: today, so-so.
 [pause 6s]
 
-"Σήμερα. Έτσι κι έτσι...."
+"Σήμερα. Έτσι κι έτσι..."
 [pause 6s]
 
 Ask: what is your name?
@@ -762,31 +762,31 @@ Ask: what is your name?
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Say: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Say: Tuesday and Thursday.
 [pause 6s]
 
-"Τρίτη και Πέμπτη...."
+"Τρίτη και Πέμπτη..."
 [pause 7s]
 
 Say: chicken, yogurt.
 [pause 6s]
 
-"Κοτόπουλο, γιαούρτι...."
+"Κοτόπουλο, γιαούρτι..."
 [pause 6s]
 
 Say: one, and.
 [pause 6s]
 
-"Ένα, και...."
+"Ένα, και..."
 [pause 6s]
 
 Well done. You can now invite people and answer invitations. See you in the next lesson.

@@ -6,10 +6,10 @@ Today you talk about tomorrow: I must, to, I see, work, school, I work, tomorrow
 Listen to two friends talking about tomorrow.
 [pause 2s]
 
-"Γεια σας. Πρέπει να δουλεύω αύριο...."
+"Γεια σας. Πρέπει να δουλεύω αύριο..."
 [pause 7s]
 
-"Βλέπω, πάω στο σχολείο...."
+"Βλέπω, πάω στο σχολείο..."
 [pause 7s]
 
 "Δουλειά;..."
@@ -18,139 +18,139 @@ Listen to two friends talking about tomorrow.
 "Αύριο το πρωί;..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 I must, one has to, is:
 [pause 2s]
 
-"Πρέπει...."
+"Πρέπει..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πρέπει...."
+"Πρέπει..."
 [pause 6s]
 
 Greet politely, must.
 [pause 6s]
 
-"Γεια σας. Πρέπει...."
+"Γεια σας. Πρέπει..."
 [pause 6s]
 
 How do you say must?
 [pause 6s]
 
-"Πρέπει...."
+"Πρέπει..."
 [pause 6s]
 
 Must.
 [pause 6s]
 
-"Πρέπει...."
+"Πρέπει..."
 [pause 6s]
 
 Always.
 [pause 6s]
 
-"Πάντα...."
+"Πάντα..."
 [pause 6s]
 
 Good morning, must, a coffee.
 [pause 6s]
 
-"Καλημέρα. Πρέπει. Ένας καφές...."
+"Καλημέρα. Πρέπει. Ένας καφές..."
 [pause 7s]
 
 Maybe.
 [pause 6s]
 
-"Ίσως...."
+"Ίσως..."
 [pause 6s]
 
 To is:
 [pause 2s]
 
-"Να...."
+"Να..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Να...."
+"Να..."
 [pause 6s]
 
 I want, must.
 [pause 6s]
 
-"Θέλω. Πρέπει...."
+"Θέλω. Πρέπει..."
 [pause 6s]
 
 Must.
 [pause 6s]
 
-"Πρέπει...."
+"Πρέπει..."
 [pause 6s]
 
 How do you say to?
 [pause 6s]
 
-"Να...."
+"Να..."
 [pause 6s]
 
 To.
 [pause 6s]
 
-"Να...."
+"Να..."
 [pause 6s]
 
 OK.
 [pause 6s]
 
-"Εντάξει...."
+"Εντάξει..."
 [pause 6s]
 
 Please, to, thank you.
 [pause 6s]
 
-"Παρακαλώ. Να. Ευχαριστώ...."
+"Παρακαλώ. Να. Ευχαριστώ..."
 [pause 7s]
 
 I see is:
 [pause 2s]
 
-"Βλέπω...."
+"Βλέπω..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Βλέπω...."
+"Βλέπω..."
 [pause 6s]
 
 Gladly.
 [pause 6s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 6s]
 
 To.
 [pause 6s]
 
-"Να...."
+"Να..."
 [pause 6s]
 
 How do you say I see?
 [pause 6s]
 
-"Βλέπω...."
+"Βλέπω..."
 [pause 6s]
 
 I see.
 [pause 6s]
 
-"Βλέπω...."
+"Βλέπω..."
 [pause 6s]
 
 Do you want?
@@ -162,13 +162,13 @@ Do you want?
 Yes, to.
 [pause 6s]
 
-"Ναι. Να...."
+"Ναι. Να..."
 [pause 6s]
 
 No, I see, water.
 [pause 6s]
 
-"Όχι. Βλέπω. Νερό...."
+"Όχι. Βλέπω. Νερό..."
 [pause 7s]
 
 Work. Listen to the pieces, starting from the end.
@@ -183,55 +183,55 @@ Work. Listen to the pieces, starting from the end.
 "ουλειά..."
 [pause 3s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 6s]
 
 I see.
 [pause 6s]
 
-"Βλέπω...."
+"Βλέπω..."
 [pause 6s]
 
 How do you say work?
 [pause 6s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 6s]
 
 With pleasure.
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 Work.
 [pause 6s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 6s]
 
 Come.
 [pause 6s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 How much is it, I see.
 [pause 6s]
 
-"Πόσο κάνει; Βλέπω...."
+"Πόσο κάνει; Βλέπω..."
 [pause 6s]
 
 Not at all.
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 School. Listen to the pieces, starting from the end.
@@ -246,55 +246,55 @@ School. Listen to the pieces, starting from the end.
 "ολείο..."
 [pause 3s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 6s]
 
 Work.
 [pause 6s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 6s]
 
 How do you say school?
 [pause 6s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 6s]
 
 Doctor.
 [pause 6s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 6s]
 
 School.
 [pause 6s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 6s]
 
 One, I see, and.
 [pause 6s]
 
-"Ένα. Βλέπω. Και...."
+"Ένα. Βλέπω. Και..."
 [pause 7s]
 
 Fever.
 [pause 6s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 6s]
 
 Must.
 [pause 6s]
 
-"Πρέπει...."
+"Πρέπει..."
 [pause 6s]
 
 I work. Listen to the pieces, starting from the end.
@@ -309,151 +309,151 @@ I work. Listen to the pieces, starting from the end.
 "ουλεύω..."
 [pause 3s]
 
-"Δουλεύω...."
+"Δουλεύω..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Δουλεύω...."
+"Δουλεύω..."
 [pause 6s]
 
 School.
 [pause 6s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 6s]
 
 How do you say I work?
 [pause 6s]
 
-"Δουλεύω...."
+"Δουλεύω..."
 [pause 6s]
 
 Sick.
 [pause 6s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 6s]
 
 I work.
 [pause 6s]
 
-"Δουλεύω...."
+"Δουλεύω..."
 [pause 6s]
 
 A tea, I see.
 [pause 6s]
 
-"Ένα τσάι. Βλέπω...."
+"Ένα τσάι. Βλέπω..."
 [pause 6s]
 
 To.
 [pause 6s]
 
-"Να...."
+"Να..."
 [pause 6s]
 
 I'm sorry.
 [pause 6s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
 Tomorrow morning is:
 [pause 2s]
 
-"Αύριο το πρωί...."
+"Αύριο το πρωί..."
 [pause 7s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Αύριο το πρωί...."
+"Αύριο το πρωί..."
 [pause 7s]
 
 I work.
 [pause 6s]
 
-"Δουλεύω...."
+"Δουλεύω..."
 [pause 6s]
 
 How do you say tomorrow morning?
 [pause 6s]
 
-"Αύριο το πρωί...."
+"Αύριο το πρωί..."
 [pause 7s]
 
 Tired.
 [pause 6s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 Tomorrow morning.
 [pause 6s]
 
-"Αύριο το πρωί...."
+"Αύριο το πρωί..."
 [pause 7s]
 
 For you, I see, a little.
 [pause 6s]
 
-"Για σένα. Βλέπω. Λίγο...."
+"Για σένα. Βλέπω. Λίγο..."
 [pause 7s]
 
 I see.
 [pause 6s]
 
-"Βλέπω...."
+"Βλέπω..."
 [pause 6s]
 
 Weather.
 [pause 6s]
 
-"Καιρός...."
+"Καιρός..."
 [pause 6s]
 
 I go to school is:
 [pause 2s]
 
-"Πάω στο σχολείο...."
+"Πάω στο σχολείο..."
 [pause 7s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πάω στο σχολείο...."
+"Πάω στο σχολείο..."
 [pause 7s]
 
 Tomorrow morning.
 [pause 6s]
 
-"Αύριο το πρωί...."
+"Αύριο το πρωί..."
 [pause 7s]
 
 How do you say I go to school?
 [pause 6s]
 
-"Πάω στο σχολείο...."
+"Πάω στο σχολείο..."
 [pause 7s]
 
 Wind.
 [pause 6s]
 
-"Αέρας...."
+"Αέρας..."
 [pause 6s]
 
 I go to school.
 [pause 6s]
 
-"Πάω στο σχολείο...."
+"Πάω στο σχολείο..."
 [pause 7s]
 
 One more, I see.
 [pause 6s]
 
-"Ακόμα ένα. Βλέπω...."
+"Ακόμα ένα. Βλέπω..."
 [pause 6s]
 
 My name is, work, what is your name?
@@ -465,85 +465,85 @@ My name is, work, what is your name?
 Work.
 [pause 6s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 6s]
 
 Clouds.
 [pause 6s]
 
-"Σύννεφα...."
+"Σύννεφα..."
 [pause 6s]
 
 Nice to meet you, school.
 [pause 6s]
 
-"Χάρηκα. Σχολείο...."
+"Χάρηκα. Σχολείο..."
 [pause 6s]
 
 I go to school.
 [pause 6s]
 
-"Πάω στο σχολείο...."
+"Πάω στο σχολείο..."
 [pause 7s]
 
 Nice weather.
 [pause 6s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 You, I work, I.
 [pause 7s]
 
-"Εσύ; Δουλεύω. Εγώ...."
+"Εσύ; Δουλεύω. Εγώ..."
 [pause 7s]
 
 Nikos, tomorrow morning.
 [pause 7s]
 
-"Νίκος. Αύριο το πρωί...."
+"Νίκος. Αύριο το πρωί..."
 [pause 7s]
 
 Maria, I go to school, my name is formal.
 [pause 7s]
 
-"Μαρία. Πάω στο σχολείο. Ονομάζομαι...."
+"Μαρία. Πάω στο σχολείο. Ονομάζομαι..."
 [pause 7s]
 
 English.
 [pause 6s]
 
-"Αγγλικά...."
+"Αγγλικά..."
 [pause 6s]
 
 School.
 [pause 6s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 6s]
 
 I am, must.
 [pause 6s]
 
-"Είμαι. Πρέπει...."
+"Είμαι. Πρέπει..."
 [pause 6s]
 
 Greece, to, Germany.
 [pause 6s]
 
-"Ελλάδα. Να. Γερμανία...."
+"Ελλάδα. Να. Γερμανία..."
 [pause 7s]
 
 I know.
 [pause 6s]
 
-"Ξέρω...."
+"Ξέρω..."
 [pause 6s]
 
 Thessaloniki, I see.
 [pause 6s]
 
-"Θεσσαλονίκη. Βλέπω...."
+"Θεσσαλονίκη. Βλέπω..."
 [pause 6s]
 
 I live, work, where?
@@ -555,85 +555,85 @@ I live, work, where?
 From, school.
 [pause 6s]
 
-"Από. Σχολείο...."
+"Από. Σχολείο..."
 [pause 6s]
 
 A few.
 [pause 6s]
 
-"Λίγα...."
+"Λίγα..."
 [pause 6s]
 
 I work.
 [pause 6s]
 
-"Δουλεύω...."
+"Δουλεύω..."
 [pause 6s]
 
 Athens, I work, two.
 [pause 7s]
 
-"Αθήνα. Δουλεύω. Δύο...."
+"Αθήνα. Δουλεύω. Δύο..."
 [pause 7s]
 
 Three, tomorrow morning.
 [pause 7s]
 
-"Τρία. Αύριο το πρωί...."
+"Τρία. Αύριο το πρωί..."
 [pause 7s]
 
 I.
 [pause 6s]
 
-"Εγώ...."
+"Εγώ..."
 [pause 6s]
 
 Four, I go to school, five.
 [pause 7s]
 
-"Τέσσερα. Πάω στο σχολείο. Πέντε...."
+"Τέσσερα. Πάω στο σχολείο. Πέντε..."
 [pause 7s]
 
 How many, must.
 [pause 6s]
 
-"Πόσα; Πρέπει...."
+"Πόσα; Πρέπει..."
 [pause 6s]
 
 Nikos.
 [pause 6s]
 
-"Νίκος...."
+"Νίκος..."
 [pause 6s]
 
 Kiosk, to, here.
 [pause 6s]
 
-"Περίπτερο. Να. Εδώ...."
+"Περίπτερο. Να. Εδώ..."
 [pause 7s]
 
 Tomorrow morning.
 [pause 6s]
 
-"Αύριο το πρωί...."
+"Αύριο το πρωί..."
 [pause 7s]
 
 A pack, I see.
 [pause 6s]
 
-"Ένα πακέτο. Βλέπω...."
+"Ένα πακέτο. Βλέπω..."
 [pause 6s]
 
 Bread, work, koulouri.
 [pause 7s]
 
-"Ψωμί. Δουλειά. Κουλούρι...."
+"Ψωμί. Δουλειά. Κουλούρι..."
 [pause 7s]
 
 Or, school.
 [pause 6s]
 
-"Ή. Σχολείο...."
+"Ή. Σχολείο..."
 [pause 6s]
 
 You talk with a friend about tomorrow: work, school, and plans.
@@ -642,31 +642,31 @@ You talk with a friend about tomorrow: work, school, and plans.
 Greet your friend.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Say: I must work tomorrow.
 [pause 6s]
 
-"Πρέπει να δουλεύω αύριο...."
+"Πρέπει να δουλεύω αύριο..."
 [pause 7s]
 
 Ask: do you want? I see.
 [pause 6s]
 
-"Θέλεις; Βλέπω...."
+"Θέλεις; Βλέπω..."
 [pause 6s]
 
 Say: with pleasure.
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 Say: tomorrow morning, school.
 [pause 7s]
 
-"Αύριο το πρωί. Σχολείο...."
+"Αύριο το πρωί. Σχολείο..."
 [pause 7s]
 
 Ask: is it far?
@@ -678,25 +678,25 @@ Ask: is it far?
 Say: maybe, OK.
 [pause 6s]
 
-"Ίσως. Εντάξει...."
+"Ίσως. Εντάξει..."
 [pause 6s]
 
 Say: always, never.
 [pause 6s]
 
-"Πάντα. Καθόλου...."
+"Πάντα. Καθόλου..."
 [pause 6s]
 
 Say: I go to school.
 [pause 6s]
 
-"Πάω στο σχολείο...."
+"Πάω στο σχολείο..."
 [pause 7s]
 
 Say: my work, from Monday.
 [pause 6s]
 
-"Δουλειά. Από Δευτέρα...."
+"Δουλειά. Από Δευτέρα..."
 [pause 7s]
 
 Ask: what time?
@@ -708,43 +708,43 @@ Ask: what time?
 Say: at ten, please.
 [pause 6s]
 
-"Στις δέκα, παρακαλώ...."
+"Στις δέκα, παρακαλώ..."
 [pause 7s]
 
 Say: thank you, gladly.
 [pause 6s]
 
-"Ευχαριστώ. Ευχαρίστως...."
+"Ευχαριστώ. Ευχαρίστως..."
 [pause 6s]
 
 Say: I am tired.
 [pause 6s]
 
-"Είμαι κουρασμένος...."
+"Είμαι κουρασμένος..."
 [pause 6s]
 
 Say: a little, one.
 [pause 6s]
 
-"Λίγο. Ένα...."
+"Λίγο. Ένα..."
 [pause 6s]
 
 Say: the pharmacy.
 [pause 6s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 6s]
 
 Say: sick, sorry.
 [pause 6s]
 
-"Άρρωστος. Λυπάμαι...."
+"Άρρωστος. Λυπάμαι..."
 [pause 6s]
 
 Say: today, so-so.
 [pause 6s]
 
-"Σήμερα. Έτσι κι έτσι...."
+"Σήμερα. Έτσι κι έτσι..."
 [pause 6s]
 
 Ask: what is your name?
@@ -756,13 +756,13 @@ Ask: what is your name?
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Say: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Ask: how much is it?
@@ -774,7 +774,7 @@ Ask: how much is it?
 Say: the weather is nice.
 [pause 6s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 Well done. You can now talk about tomorrow: what you must do, what you see, and where you go. See you in the next lesson.

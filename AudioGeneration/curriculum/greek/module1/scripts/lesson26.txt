@@ -6,10 +6,10 @@ Today you say that you feel unwell: I am tired, it hurts, my head, the pharmacy,
 Listen to a friend who is unwell.
 [pause 2s]
 
-"Γεια σας. Είμαι κουρασμένος...."
+"Γεια σας. Είμαι κουρασμένος..."
 [pause 7s]
 
-"Με πονάει το κεφάλι μου...."
+"Με πονάει το κεφάλι μου..."
 [pause 7s]
 
 "Πού είναι το φαρμακείο;..."
@@ -21,13 +21,13 @@ Listen to a friend who is unwell.
 "Πυρετός;..."
 [pause 6s]
 
-"Όχι. Δεν είμαι άρρωστος...."
+"Όχι. Δεν είμαι άρρωστος..."
 [pause 7s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Tired. Listen to the pieces, starting from the end.
@@ -42,49 +42,49 @@ Tired. Listen to the pieces, starting from the end.
 "ασμένος..."
 [pause 3s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 Blue.
 [pause 6s]
 
-"Μπλε...."
+"Μπλε..."
 [pause 6s]
 
 How do you say tired?
 [pause 6s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 Tired.
 [pause 6s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 Greet politely, tired.
 [pause 6s]
 
-"Γεια σας. Κουρασμένος...."
+"Γεια σας. Κουρασμένος..."
 [pause 6s]
 
 Red.
 [pause 6s]
 
-"Κόκκινο...."
+"Κόκκινο..."
 [pause 6s]
 
 Good morning, tired, a coffee.
 [pause 6s]
 
-"Καλημέρα. Κουρασμένος. Ένας καφές...."
+"Καλημέρα. Κουρασμένος. Ένας καφές..."
 [pause 7s]
 
 It hurts. Listen to the pieces, starting from the end.
@@ -96,109 +96,109 @@ It hurts. Listen to the pieces, starting from the end.
 "ονάει..."
 [pause 3s]
 
-"Πονάει...."
+"Πονάει..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Πονάει...."
+"Πονάει..."
 [pause 6s]
 
 Tired.
 [pause 6s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 How do you say it hurts?
 [pause 6s]
 
-"Πονάει...."
+"Πονάει..."
 [pause 6s]
 
 Big.
 [pause 6s]
 
-"Μεγάλο...."
+"Μεγάλο..."
 [pause 6s]
 
 It hurts.
 [pause 6s]
 
-"Πονάει...."
+"Πονάει..."
 [pause 6s]
 
 Small.
 [pause 6s]
 
-"Μικρό...."
+"Μικρό..."
 [pause 6s]
 
 I want, tired.
 [pause 6s]
 
-"Θέλω. Κουρασμένος...."
+"Θέλω. Κουρασμένος..."
 [pause 6s]
 
 Please, it hurts, thank you.
 [pause 6s]
 
-"Παρακαλώ. Πονάει. Ευχαριστώ...."
+"Παρακαλώ. Πονάει. Ευχαριστώ..."
 [pause 7s]
 
 My head is:
 [pause 2s]
 
-"Το κεφάλι μου...."
+"Το κεφάλι μου..."
 [pause 7s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Το κεφάλι μου...."
+"Το κεφάλι μου..."
 [pause 7s]
 
 It hurts.
 [pause 6s]
 
-"Πονάει...."
+"Πονάει..."
 [pause 6s]
 
 How do you say my head?
 [pause 6s]
 
-"Το κεφάλι μου...."
+"Το κεφάλι μου..."
 [pause 7s]
 
 Colour.
 [pause 6s]
 
-"Χρώμα...."
+"Χρώμα..."
 [pause 6s]
 
 My head.
 [pause 6s]
 
-"Το κεφάλι μου...."
+"Το κεφάλι μου..."
 [pause 7s]
 
 Expensive.
 [pause 6s]
 
-"Ακριβό...."
+"Ακριβό..."
 [pause 6s]
 
 Yes, it hurts.
 [pause 6s]
 
-"Ναι. Πονάει...."
+"Ναι. Πονάει..."
 [pause 6s]
 
 No, my head, water.
 [pause 7s]
 
-"Όχι. Το κεφάλι μου. Νερό...."
+"Όχι. Το κεφάλι μου. Νερό..."
 [pause 7s]
 
 Pharmacy. Listen to the pieces, starting from the end.
@@ -213,55 +213,55 @@ Pharmacy. Listen to the pieces, starting from the end.
 "κείο..."
 [pause 3s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 6s]
 
 My head.
 [pause 6s]
 
-"Το κεφάλι μου...."
+"Το κεφάλι μου..."
 [pause 7s]
 
 How do you say pharmacy?
 [pause 6s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 6s]
 
 Cheap.
 [pause 6s]
 
-"Φθηνό...."
+"Φθηνό..."
 [pause 6s]
 
 Pharmacy.
 [pause 6s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 6s]
 
 I'll take it.
 [pause 6s]
 
-"Το παίρνω...."
+"Το παίρνω..."
 [pause 6s]
 
 How much is it, my head.
 [pause 6s]
 
-"Πόσο κάνει; Το κεφάλι μου...."
+"Πόσο κάνει; Το κεφάλι μου..."
 [pause 7s]
 
 One, pharmacy, and.
 [pause 6s]
 
-"Ένα. Φαρμακείο. Και...."
+"Ένα. Φαρμακείο. Και..."
 [pause 7s]
 
 Doctor. Listen to the pieces, starting from the end.
@@ -276,55 +276,55 @@ Doctor. Listen to the pieces, starting from the end.
 "ιατρός..."
 [pause 3s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 6s]
 
 Pharmacy.
 [pause 6s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 6s]
 
 How do you say doctor?
 [pause 6s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 6s]
 
 Bicycle.
 [pause 6s]
 
-"Ποδήλατο...."
+"Ποδήλατο..."
 [pause 6s]
 
 Doctor.
 [pause 6s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 6s]
 
 Tired.
 [pause 6s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 We will go.
 [pause 6s]
 
-"Θα πάμε...."
+"Θα πάμε..."
 [pause 6s]
 
 Boat.
 [pause 6s]
 
-"Βάρκα...."
+"Βάρκα..."
 [pause 6s]
 
 Fever. Listen to the pieces, starting from the end.
@@ -339,55 +339,55 @@ Fever. Listen to the pieces, starting from the end.
 "υρετός..."
 [pause 3s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 6s]
 
 Doctor.
 [pause 6s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 6s]
 
 How do you say fever?
 [pause 6s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 6s]
 
 Island.
 [pause 6s]
 
-"Νησί...."
+"Νησί..."
 [pause 6s]
 
 Fever.
 [pause 6s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 6s]
 
 It hurts.
 [pause 6s]
 
-"Πονάει...."
+"Πονάει..."
 [pause 6s]
 
 A tea, my head.
 [pause 6s]
 
-"Ένα τσάι. Το κεφάλι μου...."
+"Ένα τσάι. Το κεφάλι μου..."
 [pause 7s]
 
 At.
 [pause 6s]
 
-"Στις...."
+"Στις..."
 [pause 6s]
 
 Sick. Listen to the pieces, starting from the end.
@@ -402,55 +402,55 @@ Sick. Listen to the pieces, starting from the end.
 "ρωστος..."
 [pause 3s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 6s]
 
 Fever.
 [pause 6s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 6s]
 
 How do you say sick?
 [pause 6s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 6s]
 
 Lift.
 [pause 6s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 6s]
 
 Sick.
 [pause 6s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 6s]
 
 My head.
 [pause 6s]
 
-"Το κεφάλι μου...."
+"Το κεφάλι μου..."
 [pause 7s]
 
 Quiet.
 [pause 6s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 6s]
 
 For you, my head, a little.
 [pause 6s]
 
-"Για σένα. Το κεφάλι μου. Λίγο...."
+"Για σένα. Το κεφάλι μου. Λίγο..."
 [pause 7s]
 
 I'm sorry. Listen to the pieces, starting from the end.
@@ -465,55 +465,55 @@ I'm sorry. Listen to the pieces, starting from the end.
 "υπάμαι..."
 [pause 3s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
 Sick.
 [pause 6s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 6s]
 
 How do you say I'm sorry?
 [pause 6s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
 Room.
 [pause 6s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 6s]
 
 I'm sorry.
 [pause 6s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
 Pharmacy.
 [pause 6s]
 
-"Φαρμακείο...."
+"Φαρμακείο..."
 [pause 6s]
 
 Key.
 [pause 6s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 6s]
 
 One more, my head.
 [pause 6s]
 
-"Ακόμα ένα. Το κεφάλι μου...."
+"Ακόμα ένα. Το κεφάλι μου..."
 [pause 7s]
 
 My name is, pharmacy, what is your name?
@@ -525,85 +525,85 @@ My name is, pharmacy, what is your name?
 Salad.
 [pause 6s]
 
-"Σαλάτα...."
+"Σαλάτα..."
 [pause 6s]
 
 I'm sorry.
 [pause 6s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
 Nice to meet you, doctor.
 [pause 6s]
 
-"Χάρηκα. Γιατρός...."
+"Χάρηκα. Γιατρός..."
 [pause 6s]
 
 You, fever, I.
 [pause 7s]
 
-"Εσύ; Πυρετός. Εγώ...."
+"Εσύ; Πυρετός. Εγώ..."
 [pause 7s]
 
 Wine.
 [pause 6s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 Doctor.
 [pause 6s]
 
-"Γιατρός...."
+"Γιατρός..."
 [pause 6s]
 
 Nikos, sick.
 [pause 6s]
 
-"Νίκος. Άρρωστος...."
+"Νίκος. Άρρωστος..."
 [pause 6s]
 
 Maria, I'm sorry, my name is formal.
 [pause 7s]
 
-"Μαρία. Λυπάμαι. Ονομάζομαι...."
+"Μαρία. Λυπάμαι. Ονομάζομαι..."
 [pause 7s]
 
 I am, tired.
 [pause 6s]
 
-"Είμαι. Κουρασμένος...."
+"Είμαι. Κουρασμένος..."
 [pause 6s]
 
 Table.
 [pause 6s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 6s]
 
 Greece, it hurts, Germany.
 [pause 7s]
 
-"Ελλάδα. Πονάει. Γερμανία...."
+"Ελλάδα. Πονάει. Γερμανία..."
 [pause 7s]
 
 Thessaloniki, my head.
 [pause 6s]
 
-"Θεσσαλονίκη. Το κεφάλι μου...."
+"Θεσσαλονίκη. Το κεφάλι μου..."
 [pause 7s]
 
 Yes.
 [pause 6s]
 
-"Ναι...."
+"Ναι..."
 [pause 6s]
 
 Fever.
 [pause 6s]
 
-"Πυρετός...."
+"Πυρετός..."
 [pause 6s]
 
 I live, pharmacy, where?
@@ -615,43 +615,43 @@ I live, pharmacy, where?
 From, doctor.
 [pause 6s]
 
-"Από. Γιατρός...."
+"Από. Γιατρός..."
 [pause 6s]
 
 No.
 [pause 6s]
 
-"Όχι...."
+"Όχι..."
 [pause 6s]
 
 Athens, fever, two.
 [pause 7s]
 
-"Αθήνα. Πυρετός. Δύο...."
+"Αθήνα. Πυρετός. Δύο..."
 [pause 7s]
 
 Three, sick.
 [pause 6s]
 
-"Τρία. Άρρωστος...."
+"Τρία. Άρρωστος..."
 [pause 6s]
 
 Four, I'm sorry, five.
 [pause 7s]
 
-"Τέσσερα. Λυπάμαι. Πέντε...."
+"Τέσσερα. Λυπάμαι. Πέντε..."
 [pause 7s]
 
 How many, tired.
 [pause 6s]
 
-"Πόσα; Κουρασμένος...."
+"Πόσα; Κουρασμένος..."
 [pause 6s]
 
 Sick.
 [pause 6s]
 
-"Άρρωστος...."
+"Άρρωστος..."
 [pause 6s]
 
 You visit a friend who is unwell. You ask how they feel.
@@ -660,7 +660,7 @@ You visit a friend who is unwell. You ask how they feel.
 Greet your friend.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask: how are you?
@@ -672,13 +672,13 @@ Ask: how are you?
 Answer: tired.
 [pause 6s]
 
-"Κουρασμένος...."
+"Κουρασμένος..."
 [pause 6s]
 
 Say: my head hurts.
 [pause 6s]
 
-"Το κεφάλι μου πονάει...."
+"Το κεφάλι μου πονάει..."
 [pause 7s]
 
 Ask: where is the pharmacy?
@@ -696,13 +696,13 @@ Ask: the doctor?
 Say: no, I am not sick.
 [pause 6s]
 
-"Όχι. Δεν είμαι άρρωστος...."
+"Όχι. Δεν είμαι άρρωστος..."
 [pause 7s]
 
 Say: I'm sorry.
 [pause 6s]
 
-"Λυπάμαι...."
+"Λυπάμαι..."
 [pause 6s]
 
 Ask: fever?
@@ -714,37 +714,37 @@ Ask: fever?
 Say: thank you, water.
 [pause 6s]
 
-"Ευχαριστώ. Νερό...."
+"Ευχαριστώ. Νερό..."
 [pause 6s]
 
 Say: a little, one.
 [pause 6s]
 
-"Λίγο. Ένα...."
+"Λίγο. Ένα..."
 [pause 6s]
 
 Say: the pharmacy, please.
 [pause 6s]
 
-"Φαρμακείο, παρακαλώ...."
+"Φαρμακείο, παρακαλώ..."
 [pause 6s]
 
 Say: sorry, tomorrow.
 [pause 6s]
 
-"Συγγνώμη. Αύριο...."
+"Συγγνώμη. Αύριο..."
 [pause 6s]
 
 Say: good, slowly.
 [pause 6s]
 
-"Καλό. Αργά...."
+"Καλό. Αργά..."
 [pause 6s]
 
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Ask: what is your name?
@@ -756,37 +756,37 @@ Ask: what is your name?
 Say: I want a tea, please.
 [pause 6s]
 
-"Θέλω ένα τσάι, παρακαλώ...."
+"Θέλω ένα τσάι, παρακαλώ..."
 [pause 7s]
 
 Say: two, three.
 [pause 6s]
 
-"Δύο, τρία...."
+"Δύο, τρία..."
 [pause 6s]
 
 Say: today, so-so.
 [pause 6s]
 
-"Σήμερα. Έτσι κι έτσι...."
+"Σήμερα. Έτσι κι έτσι..."
 [pause 6s]
 
 Say: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Say: fine, thank you.
 [pause 6s]
 
-"Καλά, ευχαριστώ...."
+"Καλά, ευχαριστώ..."
 [pause 6s]
 
 Say: I like it.
 [pause 6s]
 
-"Μου αρέσει...."
+"Μου αρέσει..."
 [pause 6s]
 
 Say: yes.

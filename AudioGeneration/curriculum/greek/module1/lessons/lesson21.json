@@ -733,23 +733,15 @@
     },
     {
       "beat": "b041",
+      "target": "φος",
+      "items": [
+        "i166"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
       "target": "ροφος",
-      "items": [
-        "i166"
-      ],
-      "pause": 3
-    },
-    {
-      "beat": "b041",
-      "target": "οφος",
-      "items": [
-        "i166"
-      ],
-      "pause": 3
-    },
-    {
-      "beat": "b041",
-      "target": "ροφ",
       "items": [
         "i166"
       ],

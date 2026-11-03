@@ -1,6 +1,6 @@
 # PLAN — Jim (open audio language lessons)
 
-_Last updated: 2026-10-28 · Stage: loose planning. Development starts within ~1 week._
+_Last updated: 2026-11-03 · Stage: loose planning. Development starts within ~1 week._
 
 ## Vision
 A free, open-source Android app that teaches languages through Pimsleur-*style* audio lessons (the method, never their content). Lessons are written by LLMs and voiced by text-to-speech (TTS). Free for everyone, funded by donations and an optional paid tier.
@@ -42,9 +42,11 @@ Options:
 - Custom lessons: build them on the server on demand (option A), so there is still only one player code path.
 
 ## Next steps
+**2026-11-03:** Greek Module 1 (30 lessons) written and approved by you; lessons 1, 10 and 30 are queued for audio. Syllable build-up audio: `DECIDED` order Plan 0 (TTS tricks) → A (hand cuts) → B (auto cuts) → C (Komma editor, February). See `audio/SUMMARY-120W.md`.
+
 **2026-10-28:** lesson generator groundwork is built (`AudioGeneration/curriculum/`). Next: a Haiku session follows `curriculum/RUNBOOK.md` to plan and write Greek Module 1. Back office phases are in `roadmap-back-office.md`.
 
-**2026-10-23 priority:** the audio pipeline and data/distribution come first; the player is clunky but good enough, so it waits. See `subplan-audio-generation.md` and `subplan-data-distribution.md`.
+**2026-10-23 priority:** the audio pipeline and data/distribution come first; the player is clunky but good enough, so it waits. See `audio/subplan-audio-generation.md` and `subplan-data-distribution.md`.
 
 - [ ] **Tomorrow (research):** Q1 experiments on 20 Greek phrases (carrier sentence vs bare word; check with Whisper). Compare TTS prices and quality (`tts-1`, `gpt-4o-mini-tts`, Google, Kokoro). Test seeking in the RN player.
 - [ ] **This week:** Decide Q1 and Q2 → mark them DECIDED here. Define the "minimum excellent delivery": one language, one level, about 10 lessons, flawless audio and player.

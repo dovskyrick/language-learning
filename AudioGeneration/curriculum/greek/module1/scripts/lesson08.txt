@@ -9,19 +9,19 @@ Listen to a tourist asking the way.
 "Συγγνώμη, πού είναι το ξενοδοχείο;..."
 [pause 7s]
 
-"Είναι κοντά...."
+"Είναι κοντά..."
 [pause 6s]
 
-"Η στάση είναι μακριά...."
+"Η στάση είναι μακριά..."
 [pause 7s]
 
 "Πού είναι η πλατεία;..."
 [pause 7s]
 
-"Ευχαριστώ πολύ...."
+"Ευχαριστώ πολύ..."
 [pause 6s]
 
-"Παρακαλώ...."
+"Παρακαλώ..."
 [pause 6s]
 
 To ask where something is, say:
@@ -57,13 +57,13 @@ Where is it?
 Good evening.
 [pause 6s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 Good morning, where is it, a coffee.
 [pause 6s]
 
-"Καλημέρα. Πού είναι; Ένας καφές...."
+"Καλημέρα. Πού είναι; Ένας καφές..."
 [pause 7s]
 
 I want to know where it is.
@@ -84,13 +84,13 @@ The hotel. Listen to the pieces, starting from the end.
 "νοδοχείο..."
 [pause 3s]
 
-"Ξενοδοχείο...."
+"Ξενοδοχείο..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Ξενοδοχείο...."
+"Ξενοδοχείο..."
 [pause 6s]
 
 Where is it?
@@ -102,7 +102,7 @@ Where is it?
 How do you say hotel?
 [pause 6s]
 
-"Ξενοδοχείο...."
+"Ξενοδοχείο..."
 [pause 6s]
 
 How are you?
@@ -114,19 +114,19 @@ How are you?
 Hotel.
 [pause 6s]
 
-"Ξενοδοχείο...."
+"Ξενοδοχείο..."
 [pause 6s]
 
 Fine.
 [pause 6s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 Please, hotel, thank you.
 [pause 6s]
 
-"Παρακαλώ. Ξενοδοχείο. Ευχαριστώ...."
+"Παρακαλώ. Ξενοδοχείο. Ευχαριστώ..."
 [pause 7s]
 
 Yes, where is it?
@@ -138,43 +138,43 @@ Yes, where is it?
 The bus stop. The word is:
 [pause 2s]
 
-"Στάση...."
+"Στάση..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Στάση...."
+"Στάση..."
 [pause 6s]
 
 Hotel.
 [pause 6s]
 
-"Ξενοδοχείο...."
+"Ξενοδοχείο..."
 [pause 6s]
 
 How do you say stop?
 [pause 6s]
 
-"Στάση...."
+"Στάση..."
 [pause 6s]
 
 So-so.
 [pause 6s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 Stop.
 [pause 6s]
 
-"Στάση...."
+"Στάση..."
 [pause 6s]
 
 No, stop, water.
 [pause 6s]
 
-"Όχι. Στάση. Νερό...."
+"Όχι. Στάση. Νερό..."
 [pause 7s]
 
 How much is it, where is it?
@@ -192,25 +192,25 @@ The square. Listen to the pieces, starting from the end.
 "λατεία..."
 [pause 3s]
 
-"Πλατεία...."
+"Πλατεία..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Πλατεία...."
+"Πλατεία..."
 [pause 6s]
 
 Stop.
 [pause 6s]
 
-"Στάση...."
+"Στάση..."
 [pause 6s]
 
 How do you say square?
 [pause 6s]
 
-"Πλατεία...."
+"Πλατεία..."
 [pause 6s]
 
 And you?
@@ -222,19 +222,19 @@ And you?
 Square.
 [pause 6s]
 
-"Πλατεία...."
+"Πλατεία..."
 [pause 6s]
 
 Today.
 [pause 6s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 6s]
 
 One and square.
 [pause 6s]
 
-"Ένα και πλατεία...."
+"Ένα και πλατεία..."
 [pause 7s]
 
 A tea, where is it?
@@ -255,37 +255,37 @@ To say sorry, or excuse me. Listen to the pieces, starting from the end.
 "γγνώμη..."
 [pause 3s]
 
-"Συγγνώμη...."
+"Συγγνώμη..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Συγγνώμη...."
+"Συγγνώμη..."
 [pause 6s]
 
 Square.
 [pause 6s]
 
-"Πλατεία...."
+"Πλατεία..."
 [pause 6s]
 
 How do you say excuse me?
 [pause 6s]
 
-"Συγγνώμη...."
+"Συγγνώμη..."
 [pause 6s]
 
 Good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Sorry.
 [pause 6s]
 
-"Συγγνώμη...."
+"Συγγνώμη..."
 [pause 6s]
 
 Where is it?
@@ -297,55 +297,55 @@ Where is it?
 In the morning.
 [pause 6s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 For you, sorry, a little.
 [pause 6s]
 
-"Για σένα. Συγγνώμη. Λίγο...."
+"Για σένα. Συγγνώμη. Λίγο..."
 [pause 7s]
 
 The word for near is:
 [pause 2s]
 
-"Κοντά...."
+"Κοντά..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Κοντά...."
+"Κοντά..."
 [pause 6s]
 
 Sorry.
 [pause 6s]
 
-"Συγγνώμη...."
+"Συγγνώμη..."
 [pause 6s]
 
 How do you say near?
 [pause 6s]
 
-"Κοντά...."
+"Κοντά..."
 [pause 6s]
 
 Bread.
 [pause 6s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 Near.
 [pause 6s]
 
-"Κοντά...."
+"Κοντά..."
 [pause 6s]
 
 One more, sorry.
 [pause 6s]
 
-"Ακόμα ένα. Συγγνώμη...."
+"Ακόμα ένα. Συγγνώμη..."
 [pause 6s]
 
 My name is, near, what is your name?
@@ -357,85 +357,85 @@ My name is, near, what is your name?
 Hotel.
 [pause 6s]
 
-"Ξενοδοχείο...."
+"Ξενοδοχείο..."
 [pause 6s]
 
 The word for far is:
 [pause 2s]
 
-"Μακριά...."
+"Μακριά..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Μακριά...."
+"Μακριά..."
 [pause 6s]
 
 Near.
 [pause 6s]
 
-"Κοντά...."
+"Κοντά..."
 [pause 6s]
 
 How do you say far?
 [pause 6s]
 
-"Μακριά...."
+"Μακριά..."
 [pause 6s]
 
 Koulouri.
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 Far.
 [pause 6s]
 
-"Μακριά...."
+"Μακριά..."
 [pause 6s]
 
 Or.
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 Nice to meet you, near.
 [pause 6s]
 
-"Χάρηκα. Κοντά...."
+"Χάρηκα. Κοντά..."
 [pause 6s]
 
 Stop.
 [pause 6s]
 
-"Στάση...."
+"Στάση..."
 [pause 6s]
 
 The word for it is, is:
 [pause 2s]
 
-"Είναι...."
+"Είναι..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Είναι...."
+"Είναι..."
 [pause 6s]
 
 Far.
 [pause 6s]
 
-"Μακριά...."
+"Μακριά..."
 [pause 6s]
 
 How do you say is?
 [pause 6s]
 
-"Είναι...."
+"Είναι..."
 [pause 6s]
 
 You want?
@@ -447,25 +447,25 @@ You want?
 Is.
 [pause 6s]
 
-"Είναι...."
+"Είναι..."
 [pause 6s]
 
 You, near, I.
 [pause 6s]
 
-"Εσύ; Κοντά. Εγώ...."
+"Εσύ; Κοντά. Εγώ..."
 [pause 7s]
 
 Nikos, far.
 [pause 6s]
 
-"Νίκος. Μακριά...."
+"Νίκος. Μακριά..."
 [pause 6s]
 
 Square.
 [pause 6s]
 
-"Πλατεία...."
+"Πλατεία..."
 [pause 6s]
 
 How much?
@@ -477,13 +477,13 @@ How much?
 Maria, it is, my name is formal.
 [pause 6s]
 
-"Μαρία. Είναι. Ονομάζομαι...."
+"Μαρία. Είναι. Ονομάζομαι..."
 [pause 7s]
 
 Is.
 [pause 6s]
 
-"Είναι...."
+"Είναι..."
 [pause 6s]
 
 I am, where is it?
@@ -495,19 +495,19 @@ I am, where is it?
 Greece, hotel, Germany.
 [pause 6s]
 
-"Ελλάδα. Ξενοδοχείο. Γερμανία...."
+"Ελλάδα. Ξενοδοχείο. Γερμανία..."
 [pause 7s]
 
 My name is.
 [pause 6s]
 
-"Με λένε...."
+"Με λένε..."
 [pause 6s]
 
 Thessaloniki, the stop.
 [pause 6s]
 
-"Θεσσαλονίκη. Στάση...."
+"Θεσσαλονίκη. Στάση..."
 [pause 6s]
 
 I live, square, where?
@@ -519,13 +519,13 @@ I live, square, where?
 Sorry.
 [pause 6s]
 
-"Συγγνώμη...."
+"Συγγνώμη..."
 [pause 6s]
 
 From, sorry.
 [pause 6s]
 
-"Από. Συγγνώμη...."
+"Από. Συγγνώμη..."
 [pause 6s]
 
 What is your name?
@@ -537,25 +537,25 @@ What is your name?
 Athens, near, two.
 [pause 6s]
 
-"Αθήνα. Κοντά. Δύο...."
+"Αθήνα. Κοντά. Δύο..."
 [pause 7s]
 
 Three, far.
 [pause 6s]
 
-"Τρία. Μακριά...."
+"Τρία. Μακριά..."
 [pause 6s]
 
 Four, is, five.
 [pause 6s]
 
-"Τέσσερα. Είναι. Πέντε...."
+"Τέσσερα. Είναι. Πέντε..."
 [pause 7s]
 
 Nice to meet you.
 [pause 6s]
 
-"Χάρηκα...."
+"Χάρηκα..."
 [pause 6s]
 
 How many, where is it?
@@ -567,19 +567,19 @@ How many, where is it?
 Near.
 [pause 6s]
 
-"Κοντά...."
+"Κοντά..."
 [pause 6s]
 
 Kiosk, hotel, here.
 [pause 6s]
 
-"Περίπτερο. Ξενοδοχείο. Εδώ...."
+"Περίπτερο. Ξενοδοχείο. Εδώ..."
 [pause 7s]
 
 A pack, the stop.
 [pause 6s]
 
-"Ένα πακέτο. Στάση...."
+"Ένα πακέτο. Στάση..."
 [pause 6s]
 
 You?
@@ -591,37 +591,37 @@ You?
 Fresh, square, very.
 [pause 6s]
 
-"Φρέσκο. Πλατεία. Πολύ...."
+"Φρέσκο. Πλατεία. Πολύ..."
 [pause 7s]
 
 Good, sorry.
 [pause 6s]
 
-"Καλό. Συγγνώμη...."
+"Καλό. Συγγνώμη..."
 [pause 6s]
 
 Hello, near, good morning.
 [pause 6s]
 
-"Γεια σας. Κοντά. Καλημέρα...."
+"Γεια σας. Κοντά. Καλημέρα..."
 [pause 7s]
 
 Far.
 [pause 6s]
 
-"Μακριά...."
+"Μακριά..."
 [pause 6s]
 
 A coffee, far.
 [pause 6s]
 
-"Ένας καφές. Μακριά...."
+"Ένας καφές. Μακριά..."
 [pause 6s]
 
 I want, is, please.
 [pause 6s]
 
-"Θέλω. Είναι, παρακαλώ...."
+"Θέλω. Είναι, παρακαλώ..."
 [pause 7s]
 
 You are lost in the city. A man passes by.
@@ -630,7 +630,7 @@ You are lost in the city. A man passes by.
 Greet him politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask him where the hotel is.
@@ -642,7 +642,7 @@ Ask him where the hotel is.
 He says: it is near. Answer: thank you.
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Ask him where the bus stop is.
@@ -666,7 +666,7 @@ Ask him where the square is.
 Say: please, thank you.
 [pause 6s]
 
-"Παρακαλώ. Ευχαριστώ...."
+"Παρακαλώ. Ευχαριστώ..."
 [pause 6s]
 
 Say: sorry, how much is it?
@@ -678,7 +678,7 @@ Say: sorry, how much is it?
 Say: I want water, please.
 [pause 6s]
 
-"Θέλω νερό, παρακαλώ...."
+"Θέλω νερό, παρακαλώ..."
 [pause 7s]
 
 Say: good evening, where is it?
@@ -690,31 +690,31 @@ Say: good evening, where is it?
 Say: near here.
 [pause 6s]
 
-"Κοντά, εδώ...."
+"Κοντά, εδώ..."
 [pause 6s]
 
 Say: the stop is far.
 [pause 6s]
 
-"Η στάση είναι μακριά...."
+"Η στάση είναι μακριά..."
 [pause 7s]
 
 Say: one, two, please.
 [pause 6s]
 
-"Ένα, δύο, παρακαλώ...."
+"Ένα, δύο, παρακαλώ..."
 [pause 7s]
 
 Say: today, I am fine.
 [pause 6s]
 
-"Σήμερα, καλά...."
+"Σήμερα, καλά..."
 [pause 6s]
 
 Say goodbye: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Ask the man: what is your name?

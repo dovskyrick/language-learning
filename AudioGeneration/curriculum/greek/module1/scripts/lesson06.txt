@@ -6,7 +6,7 @@ Today you are at a bakery. You ask for bread and a koulouri, and you answer one 
 Listen to a customer at the bakery.
 [pause 2s]
 
-"Γεια σας. Θέλω ψωμί, παρακαλώ...."
+"Γεια σας. Θέλω ψωμί, παρακαλώ..."
 [pause 7s]
 
 "Θέλετε κουλούρι;..."
@@ -15,67 +15,67 @@ Listen to a customer at the bakery.
 "Ναι. Ένα ή δύο;..."
 [pause 7s]
 
-"Ένα, παρακαλώ...."
+"Ένα, παρακαλώ..."
 [pause 6s]
 
 "Πόσο;..."
 [pause 6s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
-"Φρέσκο! Πολύ καλό...."
+"Φρέσκο! Πολύ καλό..."
 [pause 7s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 The word for bread is:
 [pause 2s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 Greet politely, then say bread.
 [pause 6s]
 
-"Γεια σας. Ψωμί...."
+"Γεια σας. Ψωμί..."
 [pause 7s]
 
 How do you say bread?
 [pause 6s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 Bread.
 [pause 6s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 Four.
 [pause 6s]
 
-"Τέσσερα...."
+"Τέσσερα..."
 [pause 6s]
 
 Good morning, bread, a coffee.
 [pause 6s]
 
-"Καλημέρα. Ψωμί. Ένας καφές...."
+"Καλημέρα. Ψωμί. Ένας καφές..."
 [pause 7s]
 
 I want bread.
 [pause 6s]
 
-"Θέλω ψωμί...."
+"Θέλω ψωμί..."
 [pause 6s]
 
 The koulouri, a sesame bread ring. Listen to the pieces, starting from the end.
@@ -90,37 +90,37 @@ The koulouri, a sesame bread ring. Listen to the pieces, starting from the end.
 "λούρι..."
 [pause 3s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 Bread.
 [pause 6s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 How do you say koulouri?
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 Five.
 [pause 6s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
 Koulouri.
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 How many?
@@ -132,49 +132,49 @@ How many?
 Please, koulouri, thank you.
 [pause 6s]
 
-"Παρακαλώ. Κουλούρι. Ευχαριστώ...."
+"Παρακαλώ. Κουλούρι. Ευχαριστώ..."
 [pause 7s]
 
 Yes, bread.
 [pause 6s]
 
-"Ναι. Ψωμί...."
+"Ναι. Ψωμί..."
 [pause 6s]
 
 The word for or is:
 [pause 2s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 Koulouri.
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 How do you say or?
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 Kiosk.
 [pause 6s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
 Or.
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 No, or, water.
@@ -186,7 +186,7 @@ No, or, water.
 How much is it, bread.
 [pause 6s]
 
-"Πόσο κάνει; Ψωμί...."
+"Πόσο κάνει; Ψωμί..."
 [pause 6s]
 
 You want, polite. Listen to the pieces, starting from the end.
@@ -201,19 +201,19 @@ You want, polite. Listen to the pieces, starting from the end.
 "ελετε..."
 [pause 3s]
 
-"Θέλετε...."
+"Θέλετε..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Θέλετε...."
+"Θέλετε..."
 [pause 6s]
 
 Or.
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 How do you ask a lady if she wants?
@@ -225,7 +225,7 @@ How do you ask a lady if she wants?
 Here.
 [pause 6s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 Do you want?
@@ -237,7 +237,7 @@ Do you want?
 A pack.
 [pause 6s]
 
-"Ένα πακέτο...."
+"Ένα πακέτο..."
 [pause 6s]
 
 One. Do you want, and?
@@ -249,7 +249,7 @@ One. Do you want, and?
 A tea, bread.
 [pause 6s]
 
-"Ένα τσάι. Ψωμί...."
+"Ένα τσάι. Ψωμί..."
 [pause 6s]
 
 The word for how much is:
@@ -279,7 +279,7 @@ How do you ask how much?
 Two.
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 How much?
@@ -291,31 +291,31 @@ How much?
 For you, how much, a little.
 [pause 6s]
 
-"Για σένα. Πόσο; Λίγο...."
+"Για σένα. Πόσο; Λίγο..."
 [pause 7s]
 
 Bread.
 [pause 6s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 Three.
 [pause 6s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 The word for fresh is:
 [pause 2s]
 
-"Φρέσκο...."
+"Φρέσκο..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Φρέσκο...."
+"Φρέσκο..."
 [pause 6s]
 
 How much?
@@ -327,19 +327,19 @@ How much?
 How do you say fresh?
 [pause 6s]
 
-"Φρέσκο...."
+"Φρέσκο..."
 [pause 6s]
 
 Germany.
 [pause 6s]
 
-"Γερμανία...."
+"Γερμανία..."
 [pause 6s]
 
 Fresh.
 [pause 6s]
 
-"Φρέσκο...."
+"Φρέσκο..."
 [pause 6s]
 
 One more, how much.
@@ -357,91 +357,91 @@ My name is, fresh, what is your name?
 The word for very is:
 [pause 2s]
 
-"Πολύ...."
+"Πολύ..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πολύ...."
+"Πολύ..."
 [pause 6s]
 
 Koulouri.
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 Fresh.
 [pause 6s]
 
-"Φρέσκο...."
+"Φρέσκο..."
 [pause 6s]
 
 How do you say very?
 [pause 6s]
 
-"Πολύ...."
+"Πολύ..."
 [pause 6s]
 
 Very.
 [pause 6s]
 
-"Πολύ...."
+"Πολύ..."
 [pause 6s]
 
 Thessaloniki.
 [pause 6s]
 
-"Θεσσαλονίκη...."
+"Θεσσαλονίκη..."
 [pause 6s]
 
 Nice to meet you, fresh.
 [pause 6s]
 
-"Χάρηκα. Φρέσκο...."
+"Χάρηκα. Φρέσκο..."
 [pause 6s]
 
 I live.
 [pause 6s]
 
-"Μένω...."
+"Μένω..."
 [pause 6s]
 
 The word for good is:
 [pause 2s]
 
-"Καλό...."
+"Καλό..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Καλό...."
+"Καλό..."
 [pause 6s]
 
 Or.
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 Very.
 [pause 6s]
 
-"Πολύ...."
+"Πολύ..."
 [pause 6s]
 
 How do you say good?
 [pause 6s]
 
-"Καλό...."
+"Καλό..."
 [pause 6s]
 
 Good.
 [pause 6s]
 
-"Καλό...."
+"Καλό..."
 [pause 6s]
 
 Where?
@@ -453,19 +453,19 @@ Where?
 You, fresh, I.
 [pause 6s]
 
-"Εσύ; Φρέσκο. Εγώ...."
+"Εσύ; Φρέσκο. Εγώ..."
 [pause 7s]
 
 Nikos, very.
 [pause 6s]
 
-"Νίκος. Πολύ...."
+"Νίκος. Πολύ..."
 [pause 6s]
 
 Maria, good, my name is formal.
 [pause 6s]
 
-"Μαρία. Καλό. Ονομάζομαι...."
+"Μαρία. Καλό. Ονομάζομαι..."
 [pause 7s]
 
 You want?
@@ -477,43 +477,43 @@ You want?
 Good.
 [pause 6s]
 
-"Καλό...."
+"Καλό..."
 [pause 6s]
 
 From.
 [pause 6s]
 
-"Από...."
+"Από..."
 [pause 6s]
 
 I am, bread.
 [pause 6s]
 
-"Είμαι. Ψωμί...."
+"Είμαι. Ψωμί..."
 [pause 6s]
 
 Greece, koulouri, Athens.
 [pause 6s]
 
-"Ελλάδα. Κουλούρι. Αθήνα...."
+"Ελλάδα. Κουλούρι. Αθήνα..."
 [pause 7s]
 
 Hello, or.
 [pause 6s]
 
-"Γεια σας. Ή...."
+"Γεια σας. Ή..."
 [pause 6s]
 
 How do you ask for a coffee?
 [pause 6s]
 
-"Ένας καφές...."
+"Ένας καφές..."
 [pause 6s]
 
 Good morning, you want, I want.
 [pause 6s]
 
-"Καλημέρα. Θέλετε; Θέλω...."
+"Καλημέρα. Θέλετε; Θέλω..."
 [pause 7s]
 
 How much?
@@ -531,19 +531,19 @@ Please, how much.
 Thank you, fresh, yes.
 [pause 6s]
 
-"Ευχαριστώ. Φρέσκο. Ναι...."
+"Ευχαριστώ. Φρέσκο. Ναι..."
 [pause 7s]
 
 I want.
 [pause 6s]
 
-"Θέλω...."
+"Θέλω..."
 [pause 6s]
 
 No, very.
 [pause 6s]
 
-"Όχι. Πολύ...."
+"Όχι. Πολύ..."
 [pause 6s]
 
 Water, good, how much is it.
@@ -555,43 +555,43 @@ Water, good, how much is it.
 One, bread.
 [pause 6s]
 
-"Ένα ψωμί...."
+"Ένα ψωμί..."
 [pause 6s]
 
 Fresh.
 [pause 6s]
 
-"Φρέσκο...."
+"Φρέσκο..."
 [pause 6s]
 
 Please.
 [pause 6s]
 
-"Παρακαλώ...."
+"Παρακαλώ..."
 [pause 6s]
 
 And, koulouri, a tea.
 [pause 6s]
 
-"Και κουλούρι. Ένα τσάι...."
+"Και κουλούρι. Ένα τσάι..."
 [pause 7s]
 
 For you, or.
 [pause 6s]
 
-"Για σένα. Ή...."
+"Για σένα. Ή..."
 [pause 6s]
 
 A little, you want, one more.
 [pause 6s]
 
-"Λίγο. Θέλετε; Ακόμα ένα...."
+"Λίγο. Θέλετε; Ακόμα ένα..."
 [pause 7s]
 
 Thank you.
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 My name is, how much.
@@ -603,31 +603,31 @@ My name is, how much.
 Very.
 [pause 6s]
 
-"Πολύ...."
+"Πολύ..."
 [pause 6s]
 
 What is your name, fresh, nice to meet you.
 [pause 6s]
 
-"Πώς σε λένε; Φρέσκο. Χάρηκα...."
+"Πώς σε λένε; Φρέσκο. Χάρηκα..."
 [pause 7s]
 
 You, very.
 [pause 6s]
 
-"Εσύ; Πολύ...."
+"Εσύ; Πολύ..."
 [pause 6s]
 
 I, good, Nikos.
 [pause 6s]
 
-"Εγώ. Καλό. Νίκος...."
+"Εγώ. Καλό. Νίκος..."
 [pause 7s]
 
 Maria, bread.
 [pause 6s]
 
-"Μαρία. Ψωμί...."
+"Μαρία. Ψωμί..."
 [pause 6s]
 
 You are at the bakery. The baker greets you.
@@ -636,25 +636,25 @@ You are at the bakery. The baker greets you.
 Greet him politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 He asks what you want. Say: bread, please.
 [pause 6s]
 
-"Ψωμί, παρακαλώ...."
+"Ψωμί, παρακαλώ..."
 [pause 6s]
 
 He asks: do you want a koulouri? Answer: yes.
 [pause 6s]
 
-"Ναι...."
+"Ναι..."
 [pause 6s]
 
 He asks: one or two? Answer: two.
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 Ask how much it is.
@@ -666,43 +666,43 @@ Ask how much it is.
 He says five. Say thank you.
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Ask for fresh bread.
 [pause 6s]
 
-"Φρέσκο ψωμί...."
+"Φρέσκο ψωμί..."
 [pause 6s]
 
 Say: very good.
 [pause 6s]
 
-"Πολύ καλό...."
+"Πολύ καλό..."
 [pause 6s]
 
 Say: I want a koulouri, or bread.
 [pause 6s]
 
-"Θέλω κουλούρι ή ψωμί...."
+"Θέλω κουλούρι ή ψωμί..."
 [pause 7s]
 
 Say: no, thank you.
 [pause 6s]
 
-"Όχι, ευχαριστώ...."
+"Όχι, ευχαριστώ..."
 [pause 6s]
 
 Say: here, please.
 [pause 6s]
 
-"Εδώ, παρακαλώ...."
+"Εδώ, παρακαλώ..."
 [pause 6s]
 
 Say goodbye politely with: hello, I live in Athens.
 [pause 6s]
 
-"Γεια σας. Μένω στην Αθήνα...."
+"Γεια σας. Μένω στην Αθήνα..."
 [pause 7s]
 
 Well done. You can now buy bread and koulouri, and answer one or two. See you in the next lesson.

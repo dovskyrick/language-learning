@@ -1,7 +1,7 @@
 {
   "lesson": 30,
   "title": "Grand review: a whole day in Thessaloniki",
-  "status": "checked",
+  "status": "published",
   "generatedBy": {
     "writer": "claude-haiku-5-5",
     "promptVersion": "method-v1",

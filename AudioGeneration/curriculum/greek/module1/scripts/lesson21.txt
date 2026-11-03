@@ -6,10 +6,10 @@ Today you check into a hotel: a room, the key, three nights, breakfast, the floo
 Listen to a guest at the hotel desk.
 [pause 2s]
 
-"Γεια σας. Ένα δωμάτιο για τρεις νύχτες, παρακαλώ...."
+"Γεια σας. Ένα δωμάτιο για τρεις νύχτες, παρακαλώ..."
 [pause 7s]
 
-"Το κλειδί, παρακαλώ...."
+"Το κλειδί, παρακαλώ..."
 [pause 6s]
 
 "Το πρωινό;..."
@@ -18,13 +18,13 @@ Listen to a guest at the hotel desk.
 "Ο όροφος;..."
 [pause 6s]
 
-"Το ασανσέρ είναι εκεί...."
+"Το ασανσέρ είναι εκεί..."
 [pause 7s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Room. Listen to the pieces, starting from the end.
@@ -39,49 +39,49 @@ Room. Listen to the pieces, starting from the end.
 "ωμάτιο..."
 [pause 3s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 6s]
 
 Will.
 [pause 6s]
 
-"Θα...."
+"Θα..."
 [pause 6s]
 
 How do you say room?
 [pause 6s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 6s]
 
 Room.
 [pause 6s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 6s]
 
 Greet politely, room.
 [pause 6s]
 
-"Γεια σας. Δωμάτιο...."
+"Γεια σας. Δωμάτιο..."
 [pause 6s]
 
 Good morning, room, a coffee.
 [pause 6s]
 
-"Καλημέρα. Δωμάτιο. Ένας καφές...."
+"Καλημέρα. Δωμάτιο. Ένας καφές..."
 [pause 7s]
 
 Tonight.
 [pause 6s]
 
-"Απόψε...."
+"Απόψε..."
 [pause 6s]
 
 Key. Listen to the pieces, starting from the end.
@@ -96,103 +96,103 @@ Key. Listen to the pieces, starting from the end.
 "λειδί..."
 [pause 3s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 6s]
 
 Room.
 [pause 6s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 6s]
 
 How do you say key?
 [pause 6s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 6s]
 
 Together.
 [pause 6s]
 
-"Μαζί...."
+"Μαζί..."
 [pause 6s]
 
 Key.
 [pause 6s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 6s]
 
 I want a room.
 [pause 6s]
 
-"Θέλω δωμάτιο...."
+"Θέλω δωμάτιο..."
 [pause 6s]
 
 Great.
 [pause 6s]
 
-"Ωραία...."
+"Ωραία..."
 [pause 6s]
 
 Please, key, thank you.
 [pause 6s]
 
-"Παρακαλώ. Κλειδί. Ευχαριστώ...."
+"Παρακαλώ. Κλειδί. Ευχαριστώ..."
 [pause 7s]
 
 For three nights is:
 [pause 2s]
 
-"Για τρεις νύχτες...."
+"Για τρεις νύχτες..."
 [pause 7s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Για τρεις νύχτες...."
+"Για τρεις νύχτες..."
 [pause 7s]
 
 Key.
 [pause 6s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 6s]
 
 How do you say for three nights?
 [pause 6s]
 
-"Για τρεις νύχτες...."
+"Για τρεις νύχτες..."
 [pause 7s]
 
 Sister.
 [pause 6s]
 
-"Αδερφή...."
+"Αδερφή..."
 [pause 6s]
 
 For three nights.
 [pause 6s]
 
-"Για τρεις νύχτες...."
+"Για τρεις νύχτες..."
 [pause 7s]
 
 Yes, key.
 [pause 6s]
 
-"Ναι. Κλειδί...."
+"Ναι. Κλειδί..."
 [pause 6s]
 
 No, three nights, water.
 [pause 6s]
 
-"Όχι. Για τρεις νύχτες. Νερό...."
+"Όχι. Για τρεις νύχτες. Νερό..."
 [pause 7s]
 
 Breakfast. Listen to the pieces, starting from the end.
@@ -207,25 +207,25 @@ Breakfast. Listen to the pieces, starting from the end.
 "ωινό..."
 [pause 3s]
 
-"Πρωινό...."
+"Πρωινό..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Πρωινό...."
+"Πρωινό..."
 [pause 6s]
 
 For three nights.
 [pause 6s]
 
-"Για τρεις νύχτες...."
+"Για τρεις νύχτες..."
 [pause 7s]
 
 How do you say breakfast?
 [pause 6s]
 
-"Πρωινό...."
+"Πρωινό..."
 [pause 6s]
 
 What will you have?
@@ -237,142 +237,139 @@ What will you have?
 Breakfast.
 [pause 6s]
 
-"Πρωινό...."
+"Πρωινό..."
 [pause 6s]
 
 Let's go.
 [pause 6s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 How much is it, three nights.
 [pause 6s]
 
-"Πόσο κάνει; Για τρεις νύχτες...."
+"Πόσο κάνει; Για τρεις νύχτες..."
 [pause 7s]
 
 One, breakfast, and.
 [pause 6s]
 
-"Ένα. Πρωινό. Και...."
+"Ένα. Πρωινό. Και..."
 [pause 7s]
 
 Night is:
 [pause 2s]
 
-"Νύχτα...."
+"Νύχτα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Νύχτα...."
+"Νύχτα..."
 [pause 6s]
 
 Breakfast.
 [pause 6s]
 
-"Πρωινό...."
+"Πρωινό..."
 [pause 6s]
 
 How do you say night?
 [pause 6s]
 
-"Νύχτα...."
+"Νύχτα..."
 [pause 6s]
 
 Enjoy your meal.
 [pause 6s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 Night.
 [pause 6s]
 
-"Νύχτα...."
+"Νύχτα..."
 [pause 6s]
 
 Brother.
 [pause 6s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 6s]
 
 A tea, breakfast.
 [pause 6s]
 
-"Ένα τσάι. Πρωινό...."
+"Ένα τσάι. Πρωινό..."
 [pause 6s]
 
 Room.
 [pause 6s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 6s]
 
 Floor. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"φος..."
+[pause 3s]
+
 "ροφος..."
 [pause 3s]
 
-"οφος..."
-[pause 3s]
-
-"ροφ..."
-[pause 3s]
-
-"Όροφος...."
+"Όροφος..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Όροφος...."
+"Όροφος..."
 [pause 6s]
 
 Night.
 [pause 6s]
 
-"Νύχτα...."
+"Νύχτα..."
 [pause 6s]
 
 How do you say floor?
 [pause 6s]
 
-"Όροφος...."
+"Όροφος..."
 [pause 6s]
 
 Spouse.
 [pause 6s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 Floor.
 [pause 6s]
 
-"Όροφος...."
+"Όροφος..."
 [pause 6s]
 
 Children.
 [pause 6s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 For you, breakfast, a little.
 [pause 6s]
 
-"Για σένα. Πρωινό. Λίγο...."
+"Για σένα. Πρωινό. Λίγο..."
 [pause 7s]
 
 Key.
 [pause 6s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 6s]
 
 Lift, elevator. Listen to the pieces, starting from the end.
@@ -387,55 +384,55 @@ Lift, elevator. Listen to the pieces, starting from the end.
 "ανσέρ..."
 [pause 3s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 6s]
 
 Floor.
 [pause 6s]
 
-"Όροφος...."
+"Όροφος..."
 [pause 6s]
 
 How do you say lift?
 [pause 6s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 6s]
 
 Friend.
 [pause 6s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 Lift.
 [pause 6s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 6s]
 
 My wife.
 [pause 6s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 For three nights.
 [pause 6s]
 
-"Για τρεις νύχτες...."
+"Για τρεις νύχτες..."
 [pause 7s]
 
 One more, breakfast.
 [pause 6s]
 
-"Ακόμα ένα. Πρωινό...."
+"Ακόμα ένα. Πρωινό..."
 [pause 6s]
 
 Quiet. Listen to the pieces, starting from the end.
@@ -450,49 +447,49 @@ Quiet. Listen to the pieces, starting from the end.
 "συχο..."
 [pause 3s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 6s]
 
 Lift.
 [pause 6s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 6s]
 
 How do you say quiet?
 [pause 6s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 6s]
 
 Wine.
 [pause 6s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 Quiet.
 [pause 6s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 6s]
 
 Table.
 [pause 6s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 6s]
 
 Breakfast.
 [pause 6s]
 
-"Πρωινό...."
+"Πρωινό..."
 [pause 6s]
 
 My name is, breakfast, what is your name?
@@ -504,73 +501,73 @@ My name is, breakfast, what is your name?
 Nice to meet you, night.
 [pause 6s]
 
-"Χάρηκα. Νύχτα...."
+"Χάρηκα. Νύχτα..."
 [pause 6s]
 
 For two.
 [pause 6s]
 
-"Για δύο...."
+"Για δύο..."
 [pause 6s]
 
 Quiet.
 [pause 6s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 6s]
 
 You, floor, I.
 [pause 6s]
 
-"Εσύ; Όροφος. Εγώ...."
+"Εσύ; Όροφος. Εγώ..."
 [pause 7s]
 
 Nikos, lift.
 [pause 6s]
 
-"Νίκος. Ασανσέρ...."
+"Νίκος. Ασανσέρ..."
 [pause 6s]
 
 Menu.
 [pause 6s]
 
-"Κατάλογος...."
+"Κατάλογος..."
 [pause 6s]
 
 Night.
 [pause 6s]
 
-"Νύχτα...."
+"Νύχτα..."
 [pause 6s]
 
 Maria, quiet, my name is formal.
 [pause 6s]
 
-"Μαρία. Ήσυχο. Ονομάζομαι...."
+"Μαρία. Ήσυχο. Ονομάζομαι..."
 [pause 7s]
 
 I am, room.
 [pause 6s]
 
-"Είμαι. Δωμάτιο...."
+"Είμαι. Δωμάτιο..."
 [pause 6s]
 
 Greece, key, Germany.
 [pause 6s]
 
-"Ελλάδα. Κλειδί. Γερμανία...."
+"Ελλάδα. Κλειδί. Γερμανία..."
 [pause 7s]
 
 Taxi.
 [pause 6s]
 
-"Ταξί...."
+"Ταξί..."
 [pause 6s]
 
 Thessaloniki, for three nights.
 [pause 6s]
 
-"Θεσσαλονίκη. Για τρεις νύχτες...."
+"Θεσσαλονίκη. Για τρεις νύχτες..."
 [pause 7s]
 
 I live, breakfast, where?
@@ -582,67 +579,67 @@ I live, breakfast, where?
 From, night.
 [pause 6s]
 
-"Από. Νύχτα...."
+"Από. Νύχτα..."
 [pause 6s]
 
 Floor.
 [pause 6s]
 
-"Όροφος...."
+"Όροφος..."
 [pause 6s]
 
 Bus.
 [pause 6s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 Athens, floor, two.
 [pause 6s]
 
-"Αθήνα. Όροφος. Δύο...."
+"Αθήνα. Όροφος. Δύο..."
 [pause 7s]
 
 Three, lift.
 [pause 6s]
 
-"Τρία. Ασανσέρ...."
+"Τρία. Ασανσέρ..."
 [pause 6s]
 
 To the centre.
 [pause 6s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 Four, quiet, five.
 [pause 6s]
 
-"Τέσσερα. Ήσυχο. Πέντε...."
+"Τέσσερα. Ήσυχο. Πέντε..."
 [pause 7s]
 
 How many, room.
 [pause 6s]
 
-"Πόσα; Δωμάτιο...."
+"Πόσα; Δωμάτιο..."
 [pause 6s]
 
 Kiosk, key, here.
 [pause 6s]
 
-"Περίπτερο. Κλειδί. Εδώ...."
+"Περίπτερο. Κλειδί. Εδώ..."
 [pause 7s]
 
 Lift.
 [pause 6s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 6s]
 
 A pack, three nights.
 [pause 6s]
 
-"Ένα πακέτο. Για τρεις νύχτες...."
+"Ένα πακέτο. Για τρεις νύχτες..."
 [pause 7s]
 
 You arrive at a hotel. The receptionist greets you.
@@ -651,19 +648,19 @@ You arrive at a hotel. The receptionist greets you.
 Greet her politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask for a room, please.
 [pause 6s]
 
-"Ένα δωμάτιο, παρακαλώ...."
+"Ένα δωμάτιο, παρακαλώ..."
 [pause 7s]
 
 Say: for three nights.
 [pause 6s]
 
-"Για τρεις νύχτες...."
+"Για τρεις νύχτες..."
 [pause 7s]
 
 Ask: is there breakfast?
@@ -687,49 +684,49 @@ Ask: where is the lift?
 Say: the key, please.
 [pause 6s]
 
-"Το κλειδί, παρακαλώ...."
+"Το κλειδί, παρακαλώ..."
 [pause 6s]
 
 Say: thank you, quiet.
 [pause 6s]
 
-"Ευχαριστώ. Ήσυχο...."
+"Ευχαριστώ. Ήσυχο..."
 [pause 6s]
 
 Say: tonight, great.
 [pause 6s]
 
-"Απόψε. Ωραία...."
+"Απόψε. Ωραία..."
 [pause 6s]
 
 Say: together, breakfast.
 [pause 6s]
 
-"Μαζί. Πρωινό...."
+"Μαζί. Πρωινό..."
 [pause 6s]
 
 Say: I want a table for two.
 [pause 6s]
 
-"Θέλω τραπέζι για δύο...."
+"Θέλω τραπέζι για δύο..."
 [pause 7s]
 
 Say: my wife and my husband.
 [pause 6s]
 
-"Η γυναίκα μου και ο άντρας μου...."
+"Η γυναίκα μου και ο άντρας μου..."
 [pause 7s]
 
 Say: night, sister.
 [pause 6s]
 
-"Νύχτα. Αδερφή...."
+"Νύχτα. Αδερφή..."
 [pause 6s]
 
 Say: I like it.
 [pause 6s]
 
-"Μου αρέσει...."
+"Μου αρέσει..."
 [pause 6s]
 
 Ask: how much is it?
@@ -747,19 +744,19 @@ Say: can you repeat it?
 Say: a little Greek.
 [pause 6s]
 
-"Λίγα ελληνικά...."
+"Λίγα ελληνικά..."
 [pause 6s]
 
 Say: today, so-so.
 [pause 6s]
 
-"Σήμερα. Έτσι κι έτσι...."
+"Σήμερα. Έτσι κι έτσι..."
 [pause 6s]
 
 Say: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Ask: what is your name?
@@ -771,7 +768,7 @@ Ask: what is your name?
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Well done. You can now check into a hotel and ask for a room, a key, and breakfast. See you in the next lesson.

@@ -6,28 +6,28 @@ Today you talk about time: later, noon, evening, when, every day, and yesterday.
 Listen to two friends making plans.
 [pause 2s]
 
-"Αργότερα, παρακαλώ...."
+"Αργότερα, παρακαλώ..."
 [pause 6s]
 
 "Μεσημέρι;..."
 [pause 6s]
 
-"Όχι. Το βράδυ...."
+"Όχι. Το βράδυ..."
 [pause 6s]
 
 "Πότε;..."
 [pause 6s]
 
-"Σε μία ώρα...."
+"Σε μία ώρα..."
 [pause 6s]
 
-"Κάθε μέρα...."
+"Κάθε μέρα..."
 [pause 6s]
 
-"Χθες...."
+"Χθες..."
 [pause 6s]
 
-"Καλό βράδυ...."
+"Καλό βράδυ..."
 [pause 6s]
 
 Later. Listen to the pieces, starting from the end.
@@ -42,49 +42,49 @@ Later. Listen to the pieces, starting from the end.
 "γότερα..."
 [pause 3s]
 
-"Αργότερα...."
+"Αργότερα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Αργότερα...."
+"Αργότερα..."
 [pause 6s]
 
 Now.
 [pause 6s]
 
-"Τώρα...."
+"Τώρα..."
 [pause 6s]
 
 How do you say later?
 [pause 6s]
 
-"Αργότερα...."
+"Αργότερα..."
 [pause 6s]
 
 Later.
 [pause 6s]
 
-"Αργότερα...."
+"Αργότερα..."
 [pause 6s]
 
 Greet politely, then later.
 [pause 6s]
 
-"Γεια σας. Αργότερα...."
+"Γεια σας. Αργότερα..."
 [pause 6s]
 
 Good morning, later, a coffee.
 [pause 6s]
 
-"Καλημέρα. Αργότερα. Ένας καφές...."
+"Καλημέρα. Αργότερα. Ένας καφές..."
 [pause 7s]
 
 Tomorrow.
 [pause 6s]
 
-"Αύριο...."
+"Αύριο..."
 [pause 6s]
 
 Noon, midday. Listen to the pieces, starting from the end.
@@ -99,25 +99,25 @@ Noon, midday. Listen to the pieces, starting from the end.
 "εσημέρι..."
 [pause 3s]
 
-"Μεσημέρι...."
+"Μεσημέρι..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Μεσημέρι...."
+"Μεσημέρι..."
 [pause 6s]
 
 Later.
 [pause 6s]
 
-"Αργότερα...."
+"Αργότερα..."
 [pause 6s]
 
 How do you say noon?
 [pause 6s]
 
-"Μεσημέρι...."
+"Μεσημέρι..."
 [pause 6s]
 
 What time is it?
@@ -129,73 +129,73 @@ What time is it?
 Noon.
 [pause 6s]
 
-"Μεσημέρι...."
+"Μεσημέρι..."
 [pause 6s]
 
 I want, later.
 [pause 6s]
 
-"Θέλω. Αργότερα...."
+"Θέλω. Αργότερα..."
 [pause 6s]
 
 Taxi.
 [pause 6s]
 
-"Ταξί...."
+"Ταξί..."
 [pause 6s]
 
 Please, noon, thank you.
 [pause 6s]
 
-"Παρακαλώ. Μεσημέρι. Ευχαριστώ...."
+"Παρακαλώ. Μεσημέρι. Ευχαριστώ..."
 [pause 7s]
 
 Evening, or night. The word is:
 [pause 2s]
 
-"Βράδυ...."
+"Βράδυ..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Βράδυ...."
+"Βράδυ..."
 [pause 6s]
 
 Noon.
 [pause 6s]
 
-"Μεσημέρι...."
+"Μεσημέρι..."
 [pause 6s]
 
 How do you say evening?
 [pause 6s]
 
-"Βράδυ...."
+"Βράδυ..."
 [pause 6s]
 
 Bus.
 [pause 6s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 Evening.
 [pause 6s]
 
-"Βράδυ...."
+"Βράδυ..."
 [pause 6s]
 
 Yes, noon.
 [pause 6s]
 
-"Ναι. Μεσημέρι...."
+"Ναι. Μεσημέρι..."
 [pause 6s]
 
 No, evening, water.
 [pause 6s]
 
-"Όχι. Βράδυ. Νερό...."
+"Όχι. Βράδυ. Νερό..."
 [pause 7s]
 
 To ask when, say:
@@ -213,13 +213,13 @@ Repeat after the voice.
 To the centre.
 [pause 6s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 Evening.
 [pause 6s]
 
-"Βράδυ...."
+"Βράδυ..."
 [pause 6s]
 
 How do you ask when?
@@ -243,25 +243,25 @@ Which stop?
 How much is it, evening.
 [pause 6s]
 
-"Πόσο κάνει; Βράδυ...."
+"Πόσο κάνει; Βράδυ..."
 [pause 6s]
 
 One, when, and.
 [pause 6s]
 
-"Ένα. Πότε; Και...."
+"Ένα. Πότε; Και..."
 [pause 7s]
 
 In one hour, is said:
 [pause 2s]
 
-"Σε μία ώρα...."
+"Σε μία ώρα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Σε μία ώρα...."
+"Σε μία ώρα..."
 [pause 6s]
 
 When?
@@ -273,25 +273,25 @@ When?
 How do you say in one hour?
 [pause 6s]
 
-"Σε μία ώρα...."
+"Σε μία ώρα..."
 [pause 6s]
 
 Time.
 [pause 6s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 In one hour.
 [pause 6s]
 
-"Σε μία ώρα...."
+"Σε μία ώρα..."
 [pause 6s]
 
 Again.
 [pause 6s]
 
-"Ξανά...."
+"Ξανά..."
 [pause 6s]
 
 A tea, when?
@@ -303,61 +303,61 @@ A tea, when?
 For you, in one hour, a little.
 [pause 6s]
 
-"Για σένα. Σε μία ώρα. Λίγο...."
+"Για σένα. Σε μία ώρα. Λίγο..."
 [pause 7s]
 
 Later.
 [pause 6s]
 
-"Αργότερα...."
+"Αργότερα..."
 [pause 6s]
 
 Every day, is said:
 [pause 2s]
 
-"Κάθε μέρα...."
+"Κάθε μέρα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Κάθε μέρα...."
+"Κάθε μέρα..."
 [pause 6s]
 
 In one hour.
 [pause 6s]
 
-"Σε μία ώρα...."
+"Σε μία ώρα..."
 [pause 6s]
 
 How do you say every day?
 [pause 6s]
 
-"Κάθε μέρα...."
+"Κάθε μέρα..."
 [pause 6s]
 
 Slowly.
 [pause 6s]
 
-"Αργά...."
+"Αργά..."
 [pause 6s]
 
 Every day.
 [pause 6s]
 
-"Κάθε μέρα...."
+"Κάθε μέρα..."
 [pause 6s]
 
 I go.
 [pause 6s]
 
-"Πάω...."
+"Πάω..."
 [pause 6s]
 
 One more, in one hour.
 [pause 6s]
 
-"Ακόμα ένα. Σε μία ώρα...."
+"Ακόμα ένα. Σε μία ώρα..."
 [pause 6s]
 
 My name is, every day, what is your name?
@@ -369,85 +369,85 @@ My name is, every day, what is your name?
 Noon.
 [pause 6s]
 
-"Μεσημέρι...."
+"Μεσημέρι..."
 [pause 6s]
 
 Yesterday is:
 [pause 2s]
 
-"Χθες...."
+"Χθες..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Χθες...."
+"Χθες..."
 [pause 6s]
 
 Every day.
 [pause 6s]
 
-"Κάθε μέρα...."
+"Κάθε μέρα..."
 [pause 6s]
 
 How do you say yesterday?
 [pause 6s]
 
-"Χθες...."
+"Χθες..."
 [pause 6s]
 
 Not.
 [pause 6s]
 
-"Δεν...."
+"Δεν..."
 [pause 6s]
 
 Yesterday.
 [pause 6s]
 
-"Χθες...."
+"Χθες..."
 [pause 6s]
 
 Nice to meet you, every day.
 [pause 6s]
 
-"Χάρηκα. Κάθε μέρα...."
+"Χάρηκα. Κάθε μέρα..."
 [pause 6s]
 
 Metro.
 [pause 6s]
 
-"Μετρό...."
+"Μετρό..."
 [pause 6s]
 
 Evening.
 [pause 6s]
 
-"Βράδυ...."
+"Βράδυ..."
 [pause 6s]
 
 Day is:
 [pause 2s]
 
-"Μέρα...."
+"Μέρα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Μέρα...."
+"Μέρα..."
 [pause 6s]
 
 Yesterday.
 [pause 6s]
 
-"Χθες...."
+"Χθες..."
 [pause 6s]
 
 How do you say day?
 [pause 6s]
 
-"Μέρα...."
+"Μέρα..."
 [pause 6s]
 
 And you?
@@ -459,19 +459,19 @@ And you?
 Day.
 [pause 6s]
 
-"Μέρα...."
+"Μέρα..."
 [pause 6s]
 
 You, every day, I.
 [pause 6s]
 
-"Εσύ; Κάθε μέρα. Εγώ...."
+"Εσύ; Κάθε μέρα. Εγώ..."
 [pause 7s]
 
 Nikos, yesterday.
 [pause 6s]
 
-"Νίκος. Χθες...."
+"Νίκος. Χθες..."
 [pause 6s]
 
 When?
@@ -483,55 +483,55 @@ When?
 Today.
 [pause 6s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 6s]
 
 Maria, day, my name is formal.
 [pause 6s]
 
-"Μαρία. Μέρα. Ονομάζομαι...."
+"Μαρία. Μέρα. Ονομάζομαι..."
 [pause 7s]
 
 Day.
 [pause 6s]
 
-"Μέρα...."
+"Μέρα..."
 [pause 6s]
 
 Good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 I am, later.
 [pause 6s]
 
-"Είμαι. Αργότερα...."
+"Είμαι. Αργότερα..."
 [pause 6s]
 
 Greece, noon, Germany.
 [pause 6s]
 
-"Ελλάδα. Μεσημέρι. Γερμανία...."
+"Ελλάδα. Μεσημέρι. Γερμανία..."
 [pause 7s]
 
 Thessaloniki, evening.
 [pause 6s]
 
-"Θεσσαλονίκη. Βράδυ...."
+"Θεσσαλονίκη. Βράδυ..."
 [pause 6s]
 
 In one hour.
 [pause 6s]
 
-"Σε μία ώρα...."
+"Σε μία ώρα..."
 [pause 6s]
 
 In the morning.
 [pause 6s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 I live, when, where?
@@ -543,85 +543,85 @@ I live, when, where?
 From, in one hour.
 [pause 6s]
 
-"Από. Σε μία ώρα...."
+"Από. Σε μία ώρα..."
 [pause 6s]
 
 Athens, every day, two.
 [pause 6s]
 
-"Αθήνα. Κάθε μέρα. Δύο...."
+"Αθήνα. Κάθε μέρα. Δύο..."
 [pause 7s]
 
 A tea.
 [pause 6s]
 
-"Ένα τσάι...."
+"Ένα τσάι..."
 [pause 6s]
 
 Three, yesterday.
 [pause 6s]
 
-"Τρία. Χθες...."
+"Τρία. Χθες..."
 [pause 6s]
 
 Four, day, five.
 [pause 6s]
 
-"Τέσσερα. Μέρα. Πέντε...."
+"Τέσσερα. Μέρα. Πέντε..."
 [pause 7s]
 
 Every day.
 [pause 6s]
 
-"Κάθε μέρα...."
+"Κάθε μέρα..."
 [pause 6s]
 
 For you.
 [pause 6s]
 
-"Για σένα...."
+"Για σένα..."
 [pause 6s]
 
 How many, later.
 [pause 6s]
 
-"Πόσα; Αργότερα...."
+"Πόσα; Αργότερα..."
 [pause 6s]
 
 Kiosk, noon, here.
 [pause 6s]
 
-"Περίπτερο. Μεσημέρι. Εδώ...."
+"Περίπτερο. Μεσημέρι. Εδώ..."
 [pause 7s]
 
 A pack, evening.
 [pause 6s]
 
-"Ένα πακέτο. Βράδυ...."
+"Ένα πακέτο. Βράδυ..."
 [pause 6s]
 
 A little.
 [pause 6s]
 
-"Λίγο...."
+"Λίγο..."
 [pause 6s]
 
 Bread, when, koulouri.
 [pause 6s]
 
-"Ψωμί. Πότε; Κουλούρι...."
+"Ψωμί. Πότε; Κουλούρι..."
 [pause 7s]
 
 Or, in one hour.
 [pause 6s]
 
-"Ή. Σε μία ώρα...."
+"Ή. Σε μία ώρα..."
 [pause 6s]
 
 Yesterday.
 [pause 6s]
 
-"Χθες...."
+"Χθες..."
 [pause 6s]
 
 You want, every day, how much?
@@ -633,7 +633,7 @@ You want, every day, how much?
 Fresh, yesterday.
 [pause 6s]
 
-"Φρέσκο. Χθες...."
+"Φρέσκο. Χθες..."
 [pause 6s]
 
 A friend asks when you can meet. Speak with them.
@@ -642,7 +642,7 @@ A friend asks when you can meet. Speak with them.
 Greet your friend.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask: when?
@@ -654,13 +654,13 @@ Ask: when?
 Answer: later.
 [pause 6s]
 
-"Αργότερα...."
+"Αργότερα..."
 [pause 6s]
 
 Say: in one hour is fine.
 [pause 6s]
 
-"Σε μία ώρα, καλά...."
+"Σε μία ώρα, καλά..."
 [pause 6s]
 
 Ask: at noon?
@@ -672,7 +672,7 @@ Ask: at noon?
 Answer: no, in the evening.
 [pause 6s]
 
-"Όχι. Το βράδυ...."
+"Όχι. Το βράδυ..."
 [pause 6s]
 
 Ask: what time is it?
@@ -684,13 +684,13 @@ Ask: what time is it?
 Say: yesterday, bread.
 [pause 6s]
 
-"Χθες. Ψωμί...."
+"Χθες. Ψωμί..."
 [pause 6s]
 
 Say: every day, the metro.
 [pause 6s]
 
-"Κάθε μέρα. Μετρό...."
+"Κάθε μέρα. Μετρό..."
 [pause 7s]
 
 Ask: where?
@@ -702,13 +702,13 @@ Ask: where?
 Say: I live in Thessaloniki.
 [pause 6s]
 
-"Μένω στη Θεσσαλονίκη...."
+"Μένω στη Θεσσαλονίκη..."
 [pause 7s]
 
 Say: thank you, good evening.
 [pause 6s]
 
-"Ευχαριστώ. Καλησπέρα...."
+"Ευχαριστώ. Καλησπέρα..."
 [pause 6s]
 
 Say: today, and you?
@@ -720,25 +720,25 @@ Say: today, and you?
 Say: tomorrow, please.
 [pause 6s]
 
-"Αύριο, παρακαλώ...."
+"Αύριο, παρακαλώ..."
 [pause 6s]
 
 Say: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Say: noon, day.
 [pause 6s]
 
-"Μεσημέρι. Μέρα...."
+"Μεσημέρι. Μέρα..."
 [pause 6s]
 
 Say: I go.
 [pause 6s]
 
-"Πάω...."
+"Πάω..."
 [pause 6s]
 
 Well done. You can now talk about when things happen. See you in the next lesson.

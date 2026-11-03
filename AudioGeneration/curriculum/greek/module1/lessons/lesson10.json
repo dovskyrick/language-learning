@@ -1,7 +1,7 @@
 {
   "lesson": 10,
   "title": "Morning in the city",
-  "status": "checked",
+  "status": "published",
   "generatedBy": {
     "writer": "claude-haiku-5-5",
     "promptVersion": "method-v1",

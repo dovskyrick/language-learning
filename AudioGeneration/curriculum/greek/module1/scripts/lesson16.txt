@@ -6,22 +6,22 @@ Today you are at a taverna: a table for two, the menu, wine, fish, salad, and th
 Listen to a couple at the taverna.
 [pause 2s]
 
-"Γεια σας. Ένα τραπέζι για δύο, παρακαλώ...."
+"Γεια σας. Ένα τραπέζι για δύο, παρακαλώ..."
 [pause 7s]
 
-"Κατάλογος, παρακαλώ...."
+"Κατάλογος, παρακαλώ..."
 [pause 6s]
 
-"Ένα ποτήρι κρασί...."
+"Ένα ποτήρι κρασί..."
 [pause 6s]
 
-"Ψάρι και σαλάτα...."
+"Ψάρι και σαλάτα..."
 [pause 6s]
 
-"Λογαριασμός, παρακαλώ...."
+"Λογαριασμός, παρακαλώ..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 The table. Listen to the pieces, starting from the end.
@@ -36,97 +36,97 @@ The table. Listen to the pieces, starting from the end.
 "ραπέζι..."
 [pause 3s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 6s]
 
 I like.
 [pause 6s]
 
-"Μου αρέσει...."
+"Μου αρέσει..."
 [pause 6s]
 
 How do you say table?
 [pause 6s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 6s]
 
 Table.
 [pause 6s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 6s]
 
 Greet politely, then table.
 [pause 6s]
 
-"Γεια σας. Τραπέζι...."
+"Γεια σας. Τραπέζι..."
 [pause 6s]
 
 Good morning, table, a coffee.
 [pause 6s]
 
-"Καλημέρα. Τραπέζι. Ένας καφές...."
+"Καλημέρα. Τραπέζι. Ένας καφές..."
 [pause 7s]
 
 I don't like.
 [pause 6s]
 
-"Δεν μου αρέσει...."
+"Δεν μου αρέσει..."
 [pause 6s]
 
 For two is:
 [pause 2s]
 
-"Για δύο...."
+"Για δύο..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Για δύο...."
+"Για δύο..."
 [pause 6s]
 
 I want a table.
 [pause 6s]
 
-"Θέλω τραπέζι...."
+"Θέλω τραπέζι..."
 [pause 6s]
 
 Table.
 [pause 6s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 6s]
 
 For two.
 [pause 6s]
 
-"Για δύο...."
+"Για δύο..."
 [pause 6s]
 
 How do you say for two?
 [pause 6s]
 
-"Για δύο...."
+"Για δύο..."
 [pause 6s]
 
 Very much.
 [pause 6s]
 
-"Πάρα πολύ...."
+"Πάρα πολύ..."
 [pause 6s]
 
 Please, for two, thank you.
 [pause 6s]
 
-"Παρακαλώ. Για δύο. Ευχαριστώ...."
+"Παρακαλώ. Για δύο. Ευχαριστώ..."
 [pause 7s]
 
 The menu. Listen to the pieces, starting from the end.
@@ -141,55 +141,55 @@ The menu. Listen to the pieces, starting from the end.
 "ατάλογος..."
 [pause 3s]
 
-"Κατάλογος...."
+"Κατάλογος..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Κατάλογος...."
+"Κατάλογος..."
 [pause 6s]
 
 For two.
 [pause 6s]
 
-"Για δύο...."
+"Για δύο..."
 [pause 6s]
 
 How do you say menu?
 [pause 6s]
 
-"Κατάλογος...."
+"Κατάλογος..."
 [pause 6s]
 
 Better.
 [pause 6s]
 
-"Καλύτερα...."
+"Καλύτερα..."
 [pause 6s]
 
 Menu.
 [pause 6s]
 
-"Κατάλογος...."
+"Κατάλογος..."
 [pause 6s]
 
 Sweet.
 [pause 6s]
 
-"Γλυκό...."
+"Γλυκό..."
 [pause 6s]
 
 Yes, for two.
 [pause 6s]
 
-"Ναι. Για δύο...."
+"Ναι. Για δύο..."
 [pause 6s]
 
 No, menu, water.
 [pause 6s]
 
-"Όχι. Κατάλογος. Νερό...."
+"Όχι. Κατάλογος. Νερό..."
 [pause 7s]
 
 The bill. Listen to the pieces, starting from the end.
@@ -204,163 +204,163 @@ The bill. Listen to the pieces, starting from the end.
 "ριασμός..."
 [pause 3s]
 
-"Λογαριασμός...."
+"Λογαριασμός..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Λογαριασμός...."
+"Λογαριασμός..."
 [pause 6s]
 
 Menu.
 [pause 6s]
 
-"Κατάλογος...."
+"Κατάλογος..."
 [pause 6s]
 
 How do you say bill?
 [pause 6s]
 
-"Λογαριασμός...."
+"Λογαριασμός..."
 [pause 6s]
 
 Hot.
 [pause 6s]
 
-"Ζεστό...."
+"Ζεστό..."
 [pause 6s]
 
 Bill.
 [pause 6s]
 
-"Λογαριασμός...."
+"Λογαριασμός..."
 [pause 6s]
 
 Cold.
 [pause 6s]
 
-"Κρύο...."
+"Κρύο..."
 [pause 6s]
 
 How much is it, menu.
 [pause 6s]
 
-"Πόσο κάνει; Κατάλογος...."
+"Πόσο κάνει; Κατάλογος..."
 [pause 6s]
 
 One, bill, and.
 [pause 6s]
 
-"Ένα. Λογαριασμός. Και...."
+"Ένα. Λογαριασμός. Και..."
 [pause 7s]
 
 A glass is:
 [pause 2s]
 
-"Ένα ποτήρι...."
+"Ένα ποτήρι..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ένα ποτήρι...."
+"Ένα ποτήρι..."
 [pause 6s]
 
 Bill.
 [pause 6s]
 
-"Λογαριασμός...."
+"Λογαριασμός..."
 [pause 6s]
 
 How do you say a glass?
 [pause 6s]
 
-"Ένα ποτήρι...."
+"Ένα ποτήρι..."
 [pause 6s]
 
 Nice.
 [pause 6s]
 
-"Ωραίο...."
+"Ωραίο..."
 [pause 6s]
 
 A glass.
 [pause 6s]
 
-"Ένα ποτήρι...."
+"Ένα ποτήρι..."
 [pause 6s]
 
 Fruit.
 [pause 6s]
 
-"Φρούτα...."
+"Φρούτα..."
 [pause 6s]
 
 A tea, bill.
 [pause 6s]
 
-"Ένα τσάι. Λογαριασμός...."
+"Ένα τσάι. Λογαριασμός..."
 [pause 6s]
 
 Table.
 [pause 6s]
 
-"Τραπέζι...."
+"Τραπέζι..."
 [pause 6s]
 
 Fish is:
 [pause 2s]
 
-"Ψάρι...."
+"Ψάρι..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ψάρι...."
+"Ψάρι..."
 [pause 6s]
 
 A glass.
 [pause 6s]
 
-"Ένα ποτήρι...."
+"Ένα ποτήρι..."
 [pause 6s]
 
 How do you say fish?
 [pause 6s]
 
-"Ψάρι...."
+"Ψάρι..."
 [pause 6s]
 
 Kilo.
 [pause 6s]
 
-"Κιλό...."
+"Κιλό..."
 [pause 6s]
 
 Fish.
 [pause 6s]
 
-"Ψάρι...."
+"Ψάρι..."
 [pause 6s]
 
 This one.
 [pause 6s]
 
-"Αυτό...."
+"Αυτό..."
 [pause 6s]
 
 For you, bill, a little.
 [pause 6s]
 
-"Για σένα. Λογαριασμός. Λίγο...."
+"Για σένα. Λογαριασμός. Λίγο..."
 [pause 7s]
 
 For two.
 [pause 6s]
 
-"Για δύο...."
+"Για δύο..."
 [pause 6s]
 
 Salad. Listen to the pieces, starting from the end.
@@ -375,91 +375,91 @@ Salad. Listen to the pieces, starting from the end.
 "αλάτα..."
 [pause 3s]
 
-"Σαλάτα...."
+"Σαλάτα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Σαλάτα...."
+"Σαλάτα..."
 [pause 6s]
 
 Fish.
 [pause 6s]
 
-"Ψάρι...."
+"Ψάρι..."
 [pause 6s]
 
 How do you say salad?
 [pause 6s]
 
-"Σαλάτα...."
+"Σαλάτα..."
 [pause 6s]
 
 That one.
 [pause 6s]
 
-"Εκείνο...."
+"Εκείνο..."
 [pause 6s]
 
 Salad.
 [pause 6s]
 
-"Σαλάτα...."
+"Σαλάτα..."
 [pause 6s]
 
 One more, bill.
 [pause 6s]
 
-"Ακόμα ένα. Λογαριασμός...."
+"Ακόμα ένα. Λογαριασμός..."
 [pause 6s]
 
 Menu.
 [pause 6s]
 
-"Κατάλογος...."
+"Κατάλογος..."
 [pause 6s]
 
 Apples.
 [pause 6s]
 
-"Μήλα...."
+"Μήλα..."
 [pause 6s]
 
 Wine is:
 [pause 2s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 Salad.
 [pause 6s]
 
-"Σαλάτα...."
+"Σαλάτα..."
 [pause 6s]
 
 How do you say wine?
 [pause 6s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 Bus.
 [pause 6s]
 
-"Λεωφορείο...."
+"Λεωφορείο..."
 [pause 6s]
 
 Wine.
 [pause 6s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 My name is, bill, what is your name?
@@ -471,31 +471,31 @@ My name is, bill, what is your name?
 Nice to meet you, a glass.
 [pause 6s]
 
-"Χάρηκα. Ένα ποτήρι...."
+"Χάρηκα. Ένα ποτήρι..."
 [pause 6s]
 
 To the centre.
 [pause 6s]
 
-"Στο κέντρο...."
+"Στο κέντρο..."
 [pause 6s]
 
 Bill.
 [pause 6s]
 
-"Λογαριασμός...."
+"Λογαριασμός..."
 [pause 6s]
 
 You, fish, I.
 [pause 6s]
 
-"Εσύ; Ψάρι. Εγώ...."
+"Εσύ; Ψάρι. Εγώ..."
 [pause 7s]
 
 Wine.
 [pause 6s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 Which stop?
@@ -507,43 +507,43 @@ Which stop?
 Nikos, salad.
 [pause 6s]
 
-"Νίκος. Σαλάτα...."
+"Νίκος. Σαλάτα..."
 [pause 6s]
 
 Maria, wine, my name is formal.
 [pause 6s]
 
-"Μαρία. Κρασί. Ονομάζομαι...."
+"Μαρία. Κρασί. Ονομάζομαι..."
 [pause 7s]
 
 I am, table.
 [pause 6s]
 
-"Είμαι. Τραπέζι...."
+"Είμαι. Τραπέζι..."
 [pause 6s]
 
 Hour.
 [pause 6s]
 
-"Ώρα...."
+"Ώρα..."
 [pause 6s]
 
 A glass.
 [pause 6s]
 
-"Ένα ποτήρι...."
+"Ένα ποτήρι..."
 [pause 6s]
 
 Greece, for two, Germany.
 [pause 6s]
 
-"Ελλάδα. Για δύο. Γερμανία...."
+"Ελλάδα. Για δύο. Γερμανία..."
 [pause 7s]
 
 Thessaloniki, menu.
 [pause 6s]
 
-"Θεσσαλονίκη. Κατάλογος...."
+"Θεσσαλονίκη. Κατάλογος..."
 [pause 6s]
 
 I live, bill, where?
@@ -555,73 +555,73 @@ I live, bill, where?
 Bread.
 [pause 6s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 From, a glass.
 [pause 6s]
 
-"Από. Ένα ποτήρι...."
+"Από. Ένα ποτήρι..."
 [pause 6s]
 
 Athens, fish, two.
 [pause 6s]
 
-"Αθήνα. Ψάρι. Δύο...."
+"Αθήνα. Ψάρι. Δύο..."
 [pause 7s]
 
 Fish.
 [pause 6s]
 
-"Ψάρι...."
+"Ψάρι..."
 [pause 6s]
 
 Koulouri.
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 Three, salad.
 [pause 6s]
 
-"Τρία. Σαλάτα...."
+"Τρία. Σαλάτα..."
 [pause 6s]
 
 Four, wine, five.
 [pause 6s]
 
-"Τέσσερα. Κρασί. Πέντε...."
+"Τέσσερα. Κρασί. Πέντε..."
 [pause 7s]
 
 How many, table.
 [pause 6s]
 
-"Πόσα; Τραπέζι...."
+"Πόσα; Τραπέζι..."
 [pause 6s]
 
 Or.
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 Kiosk, for two, here.
 [pause 6s]
 
-"Περίπτερο. Για δύο. Εδώ...."
+"Περίπτερο. Για δύο. Εδώ..."
 [pause 7s]
 
 A pack, menu.
 [pause 6s]
 
-"Ένα πακέτο. Κατάλογος...."
+"Ένα πακέτο. Κατάλογος..."
 [pause 6s]
 
 Salad.
 [pause 6s]
 
-"Σαλάτα...."
+"Σαλάτα..."
 [pause 6s]
 
 You want, bill, how much?
@@ -633,7 +633,7 @@ You want, bill, how much?
 Fresh, a glass.
 [pause 6s]
 
-"Φρέσκο. Ένα ποτήρι...."
+"Φρέσκο. Ένα ποτήρι..."
 [pause 6s]
 
 You are at a taverna. The waiter greets you.
@@ -642,31 +642,31 @@ You are at a taverna. The waiter greets you.
 Greet him politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Say: a table for two, please.
 [pause 6s]
 
-"Τραπέζι για δύο, παρακαλώ...."
+"Τραπέζι για δύο, παρακαλώ..."
 [pause 7s]
 
 He gives you the menu. Say: thank you.
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 He asks: wine or water? Answer: wine.
 [pause 6s]
 
-"Κρασί...."
+"Κρασί..."
 [pause 6s]
 
 Ask for fish, please.
 [pause 6s]
 
-"Ψάρι, παρακαλώ...."
+"Ψάρι, παρακαλώ..."
 [pause 6s]
 
 Ask: and a salad?
@@ -678,19 +678,19 @@ Ask: and a salad?
 Say: I like it, very much.
 [pause 6s]
 
-"Μου αρέσει πάρα πολύ...."
+"Μου αρέσει πάρα πολύ..."
 [pause 7s]
 
 Say: a glass, please.
 [pause 6s]
 
-"Ένα ποτήρι, παρακαλώ...."
+"Ένα ποτήρι, παρακαλώ..."
 [pause 6s]
 
 Say: the bill, please.
 [pause 6s]
 
-"Λογαριασμός, παρακαλώ...."
+"Λογαριασμός, παρακαλώ..."
 [pause 6s]
 
 Ask: how much is it?
@@ -702,19 +702,19 @@ Ask: how much is it?
 Say: better, sweet.
 [pause 6s]
 
-"Καλύτερα, γλυκό...."
+"Καλύτερα, γλυκό..."
 [pause 6s]
 
 Say: fruit, apples.
 [pause 6s]
 
-"Φρούτα, μήλα...."
+"Φρούτα, μήλα..."
 [pause 6s]
 
 Say: that one, not this one.
 [pause 6s]
 
-"Εκείνο, όχι αυτό...."
+"Εκείνο, όχι αυτό..."
 [pause 7s]
 
 Ask: what is your name?
@@ -726,13 +726,13 @@ Ask: what is your name?
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Say: I live in Athens.
 [pause 6s]
 
-"Μένω στην Αθήνα...."
+"Μένω στην Αθήνα..."
 [pause 7s]
 
 Well done. You can now order at a taverna: a table, the menu, wine, fish, and the bill. See you in the next lesson.

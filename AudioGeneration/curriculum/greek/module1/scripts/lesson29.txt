@@ -6,79 +6,79 @@ Today you talk on the phone: call me, I call, see you, bye, a message, minutes, 
 Listen to a phone call between friends.
 [pause 2s]
 
-"Γεια σας. Πάρε με...."
+"Γεια σας. Πάρε με..."
 [pause 7s]
 
-"Τηλεφωνώ...."
+"Τηλεφωνώ..."
 [pause 6s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 7s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 "Ένα μήνυμα;..."
 [pause 6s]
 
-"Λεπτά...."
+"Λεπτά..."
 [pause 6s]
 
-"Σύντομα...."
+"Σύντομα..."
 [pause 6s]
 
 "Πολύ ωραία!..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Call me, informal, is:
 [pause 2s]
 
-"Πάρε με...."
+"Πάρε με..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πάρε με...."
+"Πάρε με..."
 [pause 6s]
 
 Greet politely, call me.
 [pause 6s]
 
-"Γεια σας. Πάρε με...."
+"Γεια σας. Πάρε με..."
 [pause 6s]
 
 How do you say call me?
 [pause 6s]
 
-"Πάρε με...."
+"Πάρε με..."
 [pause 6s]
 
 Call me.
 [pause 6s]
 
-"Πάρε με...."
+"Πάρε με..."
 [pause 6s]
 
 I go to school.
 [pause 6s]
 
-"Πάω στο σχολείο...."
+"Πάω στο σχολείο..."
 [pause 7s]
 
 Good morning, call me, a coffee.
 [pause 6s]
 
-"Καλημέρα. Πάρε με. Ένας καφές...."
+"Καλημέρα. Πάρε με. Ένας καφές..."
 [pause 7s]
 
 Must.
 [pause 6s]
 
-"Πρέπει...."
+"Πρέπει..."
 [pause 6s]
 
 I call. Listen to the pieces, starting from the end.
@@ -93,163 +93,163 @@ I call. Listen to the pieces, starting from the end.
 "εφωνώ..."
 [pause 3s]
 
-"Τηλεφωνώ...."
+"Τηλεφωνώ..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Τηλεφωνώ...."
+"Τηλεφωνώ..."
 [pause 6s]
 
 Call me.
 [pause 6s]
 
-"Πάρε με...."
+"Πάρε με..."
 [pause 6s]
 
 How do you say I call?
 [pause 6s]
 
-"Τηλεφωνώ...."
+"Τηλεφωνώ..."
 [pause 6s]
 
 To.
 [pause 6s]
 
-"Να...."
+"Να..."
 [pause 6s]
 
 I call.
 [pause 6s]
 
-"Τηλεφωνώ...."
+"Τηλεφωνώ..."
 [pause 6s]
 
 I want, call me.
 [pause 6s]
 
-"Θέλω. Πάρε με...."
+"Θέλω. Πάρε με..."
 [pause 6s]
 
 I see.
 [pause 6s]
 
-"Βλέπω...."
+"Βλέπω..."
 [pause 6s]
 
 Please, I call, thank you.
 [pause 6s]
 
-"Παρακαλώ. Τηλεφωνώ. Ευχαριστώ...."
+"Παρακαλώ. Τηλεφωνώ. Ευχαριστώ..."
 [pause 7s]
 
 See you, talk to you later, is:
 [pause 2s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 7s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 7s]
 
 I call.
 [pause 6s]
 
-"Τηλεφωνώ...."
+"Τηλεφωνώ..."
 [pause 6s]
 
 How do you say see you?
 [pause 6s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 7s]
 
 Work.
 [pause 6s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 6s]
 
 See you.
 [pause 6s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 7s]
 
 Yes, I call.
 [pause 6s]
 
-"Ναι. Τηλεφωνώ...."
+"Ναι. Τηλεφωνώ..."
 [pause 6s]
 
 School.
 [pause 6s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 6s]
 
 No, see you, water.
 [pause 6s]
 
-"Όχι. Θα τα πούμε. Νερό...."
+"Όχι. Θα τα πούμε. Νερό..."
 [pause 7s]
 
 Bye is:
 [pause 2s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 See you.
 [pause 6s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 7s]
 
 How do you say bye?
 [pause 6s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 I work.
 [pause 6s]
 
-"Δουλεύω...."
+"Δουλεύω..."
 [pause 6s]
 
 Bye.
 [pause 6s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 How much is it, see you.
 [pause 6s]
 
-"Πόσο κάνει; Θα τα πούμε...."
+"Πόσο κάνει; Θα τα πούμε..."
 [pause 7s]
 
 Tomorrow morning.
 [pause 6s]
 
-"Αύριο το πρωί...."
+"Αύριο το πρωί..."
 [pause 7s]
 
 One, bye, and.
 [pause 6s]
 
-"Ένα. Γεια. Και...."
+"Ένα. Γεια. Και..."
 [pause 7s]
 
 Message. Listen to the pieces, starting from the end.
@@ -264,37 +264,37 @@ Message. Listen to the pieces, starting from the end.
 "ήνυμα..."
 [pause 3s]
 
-"Μήνυμα...."
+"Μήνυμα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Μήνυμα...."
+"Μήνυμα..."
 [pause 6s]
 
 Bye.
 [pause 6s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 How do you say message?
 [pause 6s]
 
-"Μήνυμα...."
+"Μήνυμα..."
 [pause 6s]
 
 Gladly.
 [pause 6s]
 
-"Ευχαρίστως...."
+"Ευχαρίστως..."
 [pause 6s]
 
 Message.
 [pause 6s]
 
-"Μήνυμα...."
+"Μήνυμα..."
 [pause 6s]
 
 Do you want?
@@ -306,67 +306,67 @@ Do you want?
 Call me.
 [pause 6s]
 
-"Πάρε με...."
+"Πάρε με..."
 [pause 6s]
 
 A tea, bye.
 [pause 6s]
 
-"Ένα τσάι. Γεια...."
+"Ένα τσάι. Γεια..."
 [pause 6s]
 
 Minutes is:
 [pause 2s]
 
-"Λεπτά...."
+"Λεπτά..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Λεπτά...."
+"Λεπτά..."
 [pause 6s]
 
 Message.
 [pause 6s]
 
-"Μήνυμα...."
+"Μήνυμα..."
 [pause 6s]
 
 How do you say minutes?
 [pause 6s]
 
-"Λεπτά...."
+"Λεπτά..."
 [pause 6s]
 
 With pleasure.
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 Minutes.
 [pause 6s]
 
-"Λεπτά...."
+"Λεπτά..."
 [pause 6s]
 
 For you, bye, a little.
 [pause 6s]
 
-"Για σένα. Γεια. Λίγο...."
+"Για σένα. Γεια. Λίγο..."
 [pause 7s]
 
 Come.
 [pause 6s]
 
-"Έλα...."
+"Έλα..."
 [pause 6s]
 
 I call.
 [pause 6s]
 
-"Τηλεφωνώ...."
+"Τηλεφωνώ..."
 [pause 6s]
 
 Soon. Listen to the pieces, starting from the end.
@@ -378,91 +378,91 @@ Soon. Listen to the pieces, starting from the end.
 "ντομα..."
 [pause 3s]
 
-"Σύντομα...."
+"Σύντομα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Σύντομα...."
+"Σύντομα..."
 [pause 6s]
 
 Minutes.
 [pause 6s]
 
-"Λεπτά...."
+"Λεπτά..."
 [pause 6s]
 
 How do you say soon?
 [pause 6s]
 
-"Σύντομα...."
+"Σύντομα..."
 [pause 6s]
 
 Not at all.
 [pause 6s]
 
-"Καθόλου...."
+"Καθόλου..."
 [pause 6s]
 
 Soon.
 [pause 6s]
 
-"Σύντομα...."
+"Σύντομα..."
 [pause 6s]
 
 We will go.
 [pause 6s]
 
-"Θα πάμε...."
+"Θα πάμε..."
 [pause 6s]
 
 One more, bye.
 [pause 6s]
 
-"Ακόμα ένα. Γεια...."
+"Ακόμα ένα. Γεια..."
 [pause 6s]
 
 See you.
 [pause 6s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 7s]
 
 Very nice is:
 [pause 2s]
 
-"Πολύ ωραία...."
+"Πολύ ωραία..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πολύ ωραία...."
+"Πολύ ωραία..."
 [pause 6s]
 
 Soon.
 [pause 6s]
 
-"Σύντομα...."
+"Σύντομα..."
 [pause 6s]
 
 How do you say very nice?
 [pause 6s]
 
-"Πολύ ωραία...."
+"Πολύ ωραία..."
 [pause 6s]
 
 Boat.
 [pause 6s]
 
-"Βάρκα...."
+"Βάρκα..."
 [pause 6s]
 
 Very nice.
 [pause 6s]
 
-"Πολύ ωραία...."
+"Πολύ ωραία..."
 [pause 6s]
 
 My name is, bye, what is your name?
@@ -474,85 +474,85 @@ My name is, bye, what is your name?
 Island.
 [pause 6s]
 
-"Νησί...."
+"Νησί..."
 [pause 6s]
 
 Bye.
 [pause 6s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 Nice to meet you, message.
 [pause 6s]
 
-"Χάρηκα. Μήνυμα...."
+"Χάρηκα. Μήνυμα..."
 [pause 6s]
 
 You, minutes, I.
 [pause 7s]
 
-"Εσύ; Λεπτά. Εγώ...."
+"Εσύ; Λεπτά. Εγώ..."
 [pause 7s]
 
 Very nice.
 [pause 6s]
 
-"Πολύ ωραία...."
+"Πολύ ωραία..."
 [pause 6s]
 
 At.
 [pause 6s]
 
-"Στις...."
+"Στις..."
 [pause 6s]
 
 Nikos, soon.
 [pause 6s]
 
-"Νίκος. Σύντομα...."
+"Νίκος. Σύντομα..."
 [pause 6s]
 
 Maria, very nice, my name is formal.
 [pause 7s]
 
-"Μαρία. Πολύ ωραία. Ονομάζομαι...."
+"Μαρία. Πολύ ωραία. Ονομάζομαι..."
 [pause 7s]
 
 Brother.
 [pause 6s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 6s]
 
 I am, call me.
 [pause 6s]
 
-"Είμαι. Πάρε με...."
+"Είμαι. Πάρε με..."
 [pause 6s]
 
 Message.
 [pause 6s]
 
-"Μήνυμα...."
+"Μήνυμα..."
 [pause 6s]
 
 Greece, I call, Germany.
 [pause 7s]
 
-"Ελλάδα. Τηλεφωνώ. Γερμανία...."
+"Ελλάδα. Τηλεφωνώ. Γερμανία..."
 [pause 7s]
 
 Spouse.
 [pause 6s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 Thessaloniki, see you.
 [pause 6s]
 
-"Θεσσαλονίκη. Θα τα πούμε...."
+"Θεσσαλονίκη. Θα τα πούμε..."
 [pause 7s]
 
 I live, bye, where?
@@ -564,85 +564,85 @@ I live, bye, where?
 From, message.
 [pause 6s]
 
-"Από. Μήνυμα...."
+"Από. Μήνυμα..."
 [pause 6s]
 
 Children.
 [pause 6s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 Minutes.
 [pause 6s]
 
-"Λεπτά...."
+"Λεπτά..."
 [pause 6s]
 
 Athens, minutes, two.
 [pause 7s]
 
-"Αθήνα. Λεπτά. Δύο...."
+"Αθήνα. Λεπτά. Δύο..."
 [pause 7s]
 
 Three, soon.
 [pause 6s]
 
-"Τρία. Σύντομα...."
+"Τρία. Σύντομα..."
 [pause 6s]
 
 Athens.
 [pause 6s]
 
-"Αθήνα...."
+"Αθήνα..."
 [pause 6s]
 
 Four, very nice, five.
 [pause 7s]
 
-"Τέσσερα. Πολύ ωραία. Πέντε...."
+"Τέσσερα. Πολύ ωραία. Πέντε..."
 [pause 7s]
 
 How many, call me.
 [pause 6s]
 
-"Πόσα; Πάρε με...."
+"Πόσα; Πάρε με..."
 [pause 6s]
 
 I am.
 [pause 6s]
 
-"Είμαι...."
+"Είμαι..."
 [pause 6s]
 
 Kiosk, I call, here.
 [pause 6s]
 
-"Περίπτερο. Τηλεφωνώ. Εδώ...."
+"Περίπτερο. Τηλεφωνώ. Εδώ..."
 [pause 7s]
 
 A pack, see you.
 [pause 6s]
 
-"Ένα πακέτο. Θα τα πούμε...."
+"Ένα πακέτο. Θα τα πούμε..."
 [pause 7s]
 
 Soon.
 [pause 6s]
 
-"Σύντομα...."
+"Σύντομα..."
 [pause 6s]
 
 Bread, bye, koulouri.
 [pause 7s]
 
-"Ψωμί. Γεια. Κουλούρι...."
+"Ψωμί. Γεια. Κουλούρι..."
 [pause 7s]
 
 Or, message.
 [pause 6s]
 
-"Ή. Μήνυμα...."
+"Ή. Μήνυμα..."
 [pause 6s]
 
 A friend calls you on the phone. You talk and say goodbye.
@@ -651,49 +651,49 @@ A friend calls you on the phone. You talk and say goodbye.
 Greet your friend.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask: call me later.
 [pause 6s]
 
-"Πάρε με αργότερα...."
+"Πάρε με αργότερα..."
 [pause 7s]
 
 Say: I call you soon.
 [pause 6s]
 
-"Τηλεφωνώ σύντομα...."
+"Τηλεφωνώ σύντομα..."
 [pause 6s]
 
 Say: a message, please.
 [pause 6s]
 
-"Ένα μήνυμα, παρακαλώ...."
+"Ένα μήνυμα, παρακαλώ..."
 [pause 7s]
 
 Say: a few minutes.
 [pause 6s]
 
-"Λίγα λεπτά...."
+"Λίγα λεπτά..."
 [pause 6s]
 
 Say: see you.
 [pause 6s]
 
-"Θα τα πούμε...."
+"Θα τα πούμε..."
 [pause 6s]
 
 Say: very nice.
 [pause 6s]
 
-"Πολύ ωραία...."
+"Πολύ ωραία..."
 [pause 6s]
 
 Say: bye.
 [pause 6s]
 
-"Γεια...."
+"Γεια..."
 [pause 6s]
 
 Ask: is it at ten?
@@ -705,37 +705,37 @@ Ask: is it at ten?
 Say: tomorrow, I see.
 [pause 6s]
 
-"Αύριο, βλέπω...."
+"Αύριο, βλέπω..."
 [pause 6s]
 
 Say: my number, six, seven.
 [pause 6s]
 
-"Ο αριθμός μου: έξι, επτά...."
+"Ο αριθμός μου: έξι, επτά..."
 [pause 7s]
 
 Say: today, so-so.
 [pause 6s]
 
-"Σήμερα. Έτσι κι έτσι...."
+"Σήμερα. Έτσι κι έτσι..."
 [pause 6s]
 
 Say: I am tired.
 [pause 6s]
 
-"Είμαι κουρασμένος...."
+"Είμαι κουρασμένος..."
 [pause 6s]
 
 Say: thank you, good night.
 [pause 6s]
 
-"Ευχαριστώ. Καληνύχτα...."
+"Ευχαριστώ. Καληνύχτα..."
 [pause 6s]
 
 Say: with pleasure.
 [pause 6s]
 
-"Με χαρά...."
+"Με χαρά..."
 [pause 6s]
 
 Ask: what is your name?
@@ -747,49 +747,49 @@ Ask: what is your name?
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Say: Athens, two.
 [pause 6s]
 
-"Αθήνα. Δύο...."
+"Αθήνα. Δύο..."
 [pause 6s]
 
 Say: the bill, please.
 [pause 6s]
 
-"Λογαριασμός, παρακαλώ...."
+"Λογαριασμός, παρακαλώ..."
 [pause 6s]
 
 Say: four, five.
 [pause 6s]
 
-"Τέσσερα, πέντε...."
+"Τέσσερα, πέντε..."
 [pause 6s]
 
 Say: I want a coffee.
 [pause 6s]
 
-"Θέλω ένα καφέ...."
+"Θέλω ένα καφέ..."
 [pause 6s]
 
 Say: school.
 [pause 6s]
 
-"Σχολείο...."
+"Σχολείο..."
 [pause 6s]
 
 Say: work.
 [pause 6s]
 
-"Δουλειά...."
+"Δουλειά..."
 [pause 6s]
 
 Say: we will go.
 [pause 6s]
 
-"Θα πάμε...."
+"Θα πάμε..."
 [pause 6s]
 
 Well done. You can now talk on the phone and say goodbye. See you in the next lesson.

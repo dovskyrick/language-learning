@@ -12,121 +12,118 @@ Listen to two people talking about the weather.
 "Ήλιος ή βροχή;..."
 [pause 7s]
 
-"Θάλασσα, παρακαλώ...."
+"Θάλασσα, παρακαλώ..."
 [pause 6s]
 
 "Ζέστη!..."
 [pause 6s]
 
-"Αέρας και σύννεφα...."
+"Αέρας και σύννεφα..."
 [pause 7s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Sun. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ιος..."
+"ος..."
 [pause 3s]
 
 "λιος..."
 [pause 3s]
 
-"ήλι..."
-[pause 3s]
-
-"Ήλιος...."
+"Ήλιος..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Ήλιος...."
+"Ήλιος..."
 [pause 6s]
 
 Saturday.
 [pause 6s]
 
-"Σάββατο...."
+"Σάββατο..."
 [pause 6s]
 
 How do you say sun?
 [pause 6s]
 
-"Ήλιος...."
+"Ήλιος..."
 [pause 6s]
 
 Sun.
 [pause 6s]
 
-"Ήλιος...."
+"Ήλιος..."
 [pause 6s]
 
 Greet politely, sun.
 [pause 6s]
 
-"Γεια σας. Ήλιος...."
+"Γεια σας. Ήλιος..."
 [pause 6s]
 
 Good morning, sun, a coffee.
 [pause 6s]
 
-"Καλημέρα. Ήλιος. Ένας καφές...."
+"Καλημέρα. Ήλιος. Ένας καφές..."
 [pause 7s]
 
 Sunday.
 [pause 6s]
 
-"Κυριακή...."
+"Κυριακή..."
 [pause 6s]
 
 Rain is:
 [pause 2s]
 
-"Βροχή...."
+"Βροχή..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Βροχή...."
+"Βροχή..."
 [pause 6s]
 
 I want sun.
 [pause 6s]
 
-"Θέλω ήλιος...."
+"Θέλω ήλιος..."
 [pause 6s]
 
 Sun.
 [pause 6s]
 
-"Ήλιος...."
+"Ήλιος..."
 [pause 6s]
 
 How do you say rain?
 [pause 6s]
 
-"Βροχή...."
+"Βροχή..."
 [pause 6s]
 
 Rain.
 [pause 6s]
 
-"Βροχή...."
+"Βροχή..."
 [pause 6s]
 
 Week.
 [pause 6s]
 
-"Εβδομάδα...."
+"Εβδομάδα..."
 [pause 6s]
 
 Please, rain, thank you.
 [pause 6s]
 
-"Παρακαλώ. Βροχή. Ευχαριστώ...."
+"Παρακαλώ. Βροχή. Ευχαριστώ..."
 [pause 7s]
 
 Sea. Listen to the pieces, starting from the end.
@@ -141,223 +138,223 @@ Sea. Listen to the pieces, starting from the end.
 "λασσα..."
 [pause 3s]
 
-"Θάλασσα...."
+"Θάλασσα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Θάλασσα...."
+"Θάλασσα..."
 [pause 6s]
 
 Rain.
 [pause 6s]
 
-"Βροχή...."
+"Βροχή..."
 [pause 6s]
 
 How do you say sea?
 [pause 6s]
 
-"Θάλασσα...."
+"Θάλασσα..."
 [pause 6s]
 
 Monday.
 [pause 6s]
 
-"Δευτέρα...."
+"Δευτέρα..."
 [pause 6s]
 
 Sea.
 [pause 6s]
 
-"Θάλασσα...."
+"Θάλασσα..."
 [pause 6s]
 
 Tuesday.
 [pause 6s]
 
-"Τρίτη...."
+"Τρίτη..."
 [pause 6s]
 
 Yes, rain.
 [pause 6s]
 
-"Ναι. Βροχή...."
+"Ναι. Βροχή..."
 [pause 6s]
 
 No, sea, water.
 [pause 6s]
 
-"Όχι. Θάλασσα. Νερό...."
+"Όχι. Θάλασσα. Νερό..."
 [pause 7s]
 
 Heat is:
 [pause 2s]
 
-"Ζέστη...."
+"Ζέστη..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ζέστη...."
+"Ζέστη..."
 [pause 6s]
 
 Sea.
 [pause 6s]
 
-"Θάλασσα...."
+"Θάλασσα..."
 [pause 6s]
 
 How do you say heat?
 [pause 6s]
 
-"Ζέστη...."
+"Ζέστη..."
 [pause 6s]
 
 Wednesday.
 [pause 6s]
 
-"Τετάρτη...."
+"Τετάρτη..."
 [pause 6s]
 
 Heat.
 [pause 6s]
 
-"Ζέστη...."
+"Ζέστη..."
 [pause 6s]
 
 Thursday.
 [pause 6s]
 
-"Πέμπτη...."
+"Πέμπτη..."
 [pause 6s]
 
 How much is it, sea.
 [pause 6s]
 
-"Πόσο κάνει; Θάλασσα...."
+"Πόσο κάνει; Θάλασσα..."
 [pause 6s]
 
 One, heat, and.
 [pause 6s]
 
-"Ένα. Ζέστη. Και...."
+"Ένα. Ζέστη. Και..."
 [pause 7s]
 
 Weather is:
 [pause 2s]
 
-"Καιρός...."
+"Καιρός..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Καιρός...."
+"Καιρός..."
 [pause 6s]
 
 Heat.
 [pause 6s]
 
-"Ζέστη...."
+"Ζέστη..."
 [pause 6s]
 
 How do you say weather?
 [pause 6s]
 
-"Καιρός...."
+"Καιρός..."
 [pause 6s]
 
 Friday.
 [pause 6s]
 
-"Παρασκευή...."
+"Παρασκευή..."
 [pause 6s]
 
 Weather.
 [pause 6s]
 
-"Καιρός...."
+"Καιρός..."
 [pause 6s]
 
 Floor.
 [pause 6s]
 
-"Όροφος...."
+"Όροφος..."
 [pause 6s]
 
 A tea, heat.
 [pause 6s]
 
-"Ένα τσάι. Ζέστη...."
+"Ένα τσάι. Ζέστη..."
 [pause 6s]
 
 For you, weather, a little.
 [pause 6s]
 
-"Για σένα. Καιρός. Λίγο...."
+"Για σένα. Καιρός. Λίγο..."
 [pause 7s]
 
 Sun.
 [pause 6s]
 
-"Ήλιος...."
+"Ήλιος..."
 [pause 6s]
 
 Wind is:
 [pause 2s]
 
-"Αέρας...."
+"Αέρας..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Αέρας...."
+"Αέρας..."
 [pause 6s]
 
 Weather.
 [pause 6s]
 
-"Καιρός...."
+"Καιρός..."
 [pause 6s]
 
 How do you say wind?
 [pause 6s]
 
-"Αέρας...."
+"Αέρας..."
 [pause 6s]
 
 Lift.
 [pause 6s]
 
-"Ασανσέρ...."
+"Ασανσέρ..."
 [pause 6s]
 
 Wind.
 [pause 6s]
 
-"Αέρας...."
+"Αέρας..."
 [pause 6s]
 
 Quiet.
 [pause 6s]
 
-"Ήσυχο...."
+"Ήσυχο..."
 [pause 6s]
 
 One more, weather.
 [pause 6s]
 
-"Ακόμα ένα. Καιρός...."
+"Ακόμα ένα. Καιρός..."
 [pause 6s]
 
 Rain.
 [pause 6s]
 
-"Βροχή...."
+"Βροχή..."
 [pause 6s]
 
 Clouds. Listen to the pieces, starting from the end.
@@ -372,37 +369,37 @@ Clouds. Listen to the pieces, starting from the end.
 "ννεφα..."
 [pause 3s]
 
-"Σύννεφα...."
+"Σύννεφα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Σύννεφα...."
+"Σύννεφα..."
 [pause 6s]
 
 Wind.
 [pause 6s]
 
-"Αέρας...."
+"Αέρας..."
 [pause 6s]
 
 How do you say clouds?
 [pause 6s]
 
-"Σύννεφα...."
+"Σύννεφα..."
 [pause 6s]
 
 Room.
 [pause 6s]
 
-"Δωμάτιο...."
+"Δωμάτιο..."
 [pause 6s]
 
 Clouds.
 [pause 6s]
 
-"Σύννεφα...."
+"Σύννεφα..."
 [pause 6s]
 
 My name is, weather, what is your name?
@@ -414,115 +411,115 @@ My name is, weather, what is your name?
 Sea.
 [pause 6s]
 
-"Θάλασσα...."
+"Θάλασσα..."
 [pause 6s]
 
 Key.
 [pause 6s]
 
-"Κλειδί...."
+"Κλειδί..."
 [pause 6s]
 
 Nice weather is:
 [pause 2s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 Clouds.
 [pause 6s]
 
-"Σύννεφα...."
+"Σύννεφα..."
 [pause 6s]
 
 How do you say nice weather?
 [pause 6s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 I know.
 [pause 6s]
 
-"Ξέρω...."
+"Ξέρω..."
 [pause 6s]
 
 Nice weather.
 [pause 6s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 Nice to meet you, weather.
 [pause 6s]
 
-"Χάρηκα. Καιρός...."
+"Χάρηκα. Καιρός..."
 [pause 6s]
 
 You, wind, I.
 [pause 6s]
 
-"Εσύ; Αέρας. Εγώ...."
+"Εσύ; Αέρας. Εγώ..."
 [pause 7s]
 
 Heat.
 [pause 6s]
 
-"Ζέστη...."
+"Ζέστη..."
 [pause 6s]
 
 A few.
 [pause 6s]
 
-"Λίγα...."
+"Λίγα..."
 [pause 6s]
 
 Nikos, clouds.
 [pause 6s]
 
-"Νίκος. Σύννεφα...."
+"Νίκος. Σύννεφα..."
 [pause 6s]
 
 Nice weather.
 [pause 6s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 Slowly, please.
 [pause 6s]
 
-"Αργά, παρακαλώ...."
+"Αργά, παρακαλώ..."
 [pause 6s]
 
 Maria, nice weather, my name is formal.
 [pause 7s]
 
-"Μαρία. Ωραίος καιρός. Ονομάζομαι...."
+"Μαρία. Ωραίος καιρός. Ονομάζομαι..."
 [pause 7s]
 
 I am, sun.
 [pause 6s]
 
-"Είμαι. Ήλιος...."
+"Είμαι. Ήλιος..."
 [pause 6s]
 
 Greece, rain, Germany.
 [pause 6s]
 
-"Ελλάδα. Βροχή. Γερμανία...."
+"Ελλάδα. Βροχή. Γερμανία..."
 [pause 7s]
 
 Weather.
 [pause 6s]
 
-"Καιρός...."
+"Καιρός..."
 [pause 6s]
 
 Can you repeat it?
@@ -534,7 +531,7 @@ Can you repeat it?
 Thessaloniki, sea.
 [pause 6s]
 
-"Θεσσαλονίκη. Θάλασσα...."
+"Θεσσαλονίκη. Θάλασσα..."
 [pause 6s]
 
 I live, heat, where?
@@ -546,85 +543,85 @@ I live, heat, where?
 From, weather.
 [pause 6s]
 
-"Από. Καιρός...."
+"Από. Καιρός..."
 [pause 6s]
 
 Phone.
 [pause 6s]
 
-"Τηλέφωνο...."
+"Τηλέφωνο..."
 [pause 6s]
 
 Athens, wind, two.
 [pause 6s]
 
-"Αθήνα. Αέρας. Δύο...."
+"Αθήνα. Αέρας. Δύο..."
 [pause 7s]
 
 Three, clouds.
 [pause 6s]
 
-"Τρία. Σύννεφα...."
+"Τρία. Σύννεφα..."
 [pause 6s]
 
 Wind.
 [pause 6s]
 
-"Αέρας...."
+"Αέρας..."
 [pause 6s]
 
 Number.
 [pause 6s]
 
-"Αριθμός...."
+"Αριθμός..."
 [pause 6s]
 
 Four, nice weather, five.
 [pause 6s]
 
-"Τέσσερα. Ωραίος καιρός. Πέντε...."
+"Τέσσερα. Ωραίος καιρός. Πέντε..."
 [pause 7s]
 
 How many, sun.
 [pause 6s]
 
-"Πόσα; Ήλιος...."
+"Πόσα; Ήλιος..."
 [pause 6s]
 
 Kiosk, rain, here.
 [pause 6s]
 
-"Περίπτερο. Βροχή. Εδώ...."
+"Περίπτερο. Βροχή. Εδώ..."
 [pause 7s]
 
 My number.
 [pause 6s]
 
-"Ο αριθμός μου...."
+"Ο αριθμός μου..."
 [pause 6s]
 
 A pack, sea.
 [pause 6s]
 
-"Ένα πακέτο. Θάλασσα...."
+"Ένα πακέτο. Θάλασσα..."
 [pause 6s]
 
 Bread, heat, koulouri.
 [pause 6s]
 
-"Ψωμί. Ζέστη. Κουλούρι...."
+"Ψωμί. Ζέστη. Κουλούρι..."
 [pause 7s]
 
 Clouds.
 [pause 6s]
 
-"Σύννεφα...."
+"Σύννεφα..."
 [pause 6s]
 
 Or, weather.
 [pause 6s]
 
-"Ή. Καιρός...."
+"Ή. Καιρός..."
 [pause 6s]
 
 You want, wind, how much?
@@ -639,13 +636,13 @@ You are on a day trip and the weather changes. A friend talks about it.
 Greet your friend politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Say: nice weather.
 [pause 6s]
 
-"Ωραίος καιρός...."
+"Ωραίος καιρός..."
 [pause 6s]
 
 Ask: sun or rain?
@@ -657,49 +654,49 @@ Ask: sun or rain?
 Say: the sea, please.
 [pause 6s]
 
-"Θάλασσα, παρακαλώ...."
+"Θάλασσα, παρακαλώ..."
 [pause 6s]
 
 Say: it is hot.
 [pause 6s]
 
-"Ζέστη...."
+"Ζέστη..."
 [pause 6s]
 
 Say: the wind and the clouds.
 [pause 6s]
 
-"Αέρας και σύννεφα...."
+"Αέρας και σύννεφα..."
 [pause 7s]
 
 Say: yes, the weather is nice.
 [pause 6s]
 
-"Ναι. Καιρός ωραίος...."
+"Ναι. Καιρός ωραίος..."
 [pause 7s]
 
 Say: Monday, Tuesday.
 [pause 6s]
 
-"Δευτέρα, Τρίτη...."
+"Δευτέρα, Τρίτη..."
 [pause 6s]
 
 Say: Sunday, great.
 [pause 6s]
 
-"Κυριακή. Ωραία...."
+"Κυριακή. Ωραία..."
 [pause 6s]
 
 Say: today, so-so.
 [pause 6s]
 
-"Σήμερα. Έτσι κι έτσι...."
+"Σήμερα. Έτσι κι έτσι..."
 [pause 6s]
 
 Say: a little, slowly.
 [pause 6s]
 
-"Λίγα, αργά...."
+"Λίγα, αργά..."
 [pause 6s]
 
 Say: can you repeat it?
@@ -711,37 +708,37 @@ Say: can you repeat it?
 Say: the key, the room.
 [pause 6s]
 
-"Κλειδί. Δωμάτιο...."
+"Κλειδί. Δωμάτιο..."
 [pause 6s]
 
 Say: the lift, quiet.
 [pause 6s]
 
-"Ασανσέρ. Ήσυχο...."
+"Ασανσέρ. Ήσυχο..."
 [pause 6s]
 
 Say: my phone number.
 [pause 6s]
 
-"Ο αριθμός μου. Τηλέφωνο...."
+"Ο αριθμός μου. Τηλέφωνο..."
 [pause 7s]
 
 Say: number, two.
 [pause 6s]
 
-"Αριθμός. Δύο...."
+"Αριθμός. Δύο..."
 [pause 6s]
 
 Say: four, five.
 [pause 6s]
 
-"Τέσσερα, πέντε...."
+"Τέσσερα, πέντε..."
 [pause 6s]
 
 Say: good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Ask: what is your name?
@@ -753,7 +750,7 @@ Ask: what is your name?
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Well done. You can now talk about the weather and the sea. See you in the next lesson.

@@ -125,6 +125,13 @@ export function checkLesson(config: ModuleConfig, items: Item[], skeleton: Beat[
       const beatItem = beat.items[0] ? byId.get(beat.items[0]) : undefined;
       const isFragment = beat.type === 'new' && !!beatItem &&
         normalize(beatItem.target).replace(/\s+/g, ' ').includes(normalize(target).replace(/[;.!,…]/g, '').trim());
+      // Backward build-up uses word endings only, so the audio can be cut from the whole word.
+      if (isFragment && beat.buildup) {
+        const whole = normalize(beatItem!.target).replace(/[;.!,…]/g, '').replace(/\s+/g, ' ').trim();
+        if (!whole.endsWith(normalize(target).replace(/[;.!,…]/g, '').trim())) {
+          errors.push(`${where}: build-up piece "${target}" must be an ending of "${beatItem!.target}"`);
+        }
+      }
       if (!isFragment) {
         if (!line.items || line.items.length === 0) errors.push(`${where}: target line must list the item ids it uses`);
         const pool = beat.type === 'dialogue' || beat.type === 'roleplay' ? lessonTokens : taughtNow;

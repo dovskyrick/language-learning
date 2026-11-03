@@ -6,118 +6,118 @@ Today you buy things at a kiosk, a periptero, and you count from two to five.
 Listen to a customer at the kiosk.
 [pause 2s]
 
-"Γεια σας. Θέλω ένα πακέτο, παρακαλώ...."
+"Γεια σας. Θέλω ένα πακέτο, παρακαλώ..."
 [pause 7s]
 
 "Πόσα;..."
 [pause 6s]
 
-"Δύο, τρία, τέσσερα, πέντε...."
+"Δύο, τρία, τέσσερα, πέντε..."
 [pause 7s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 The number two is:
 [pause 2s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 Greet politely, then say two.
 [pause 6s]
 
-"Γεια σας. Δύο...."
+"Γεια σας. Δύο..."
 [pause 7s]
 
 How do you say two?
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 Two.
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 Athens.
 [pause 6s]
 
-"Αθήνα...."
+"Αθήνα..."
 [pause 6s]
 
 Good morning, two, a coffee.
 [pause 6s]
 
-"Καλημέρα. Δύο. Ένας καφές...."
+"Καλημέρα. Δύο. Ένας καφές..."
 [pause 7s]
 
 I want two.
 [pause 6s]
 
-"Θέλω δύο...."
+"Θέλω δύο..."
 [pause 6s]
 
 The number three is:
 [pause 2s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 Two.
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 How do you say three?
 [pause 6s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 I am.
 [pause 6s]
 
-"Είμαι...."
+"Είμαι..."
 [pause 6s]
 
 Three.
 [pause 6s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 Please, three, thank you.
 [pause 6s]
 
-"Παρακαλώ. Τρία. Ευχαριστώ...."
+"Παρακαλώ. Τρία. Ευχαριστώ..."
 [pause 7s]
 
 Yes, two.
 [pause 6s]
 
-"Ναι. Δύο...."
+"Ναι. Δύο..."
 [pause 6s]
 
 The number four. Listen to the pieces, starting from the end.
@@ -129,97 +129,97 @@ The number four. Listen to the pieces, starting from the end.
 "σερα..."
 [pause 3s]
 
-"Τέσσερα...."
+"Τέσσερα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Τέσσερα...."
+"Τέσσερα..."
 [pause 6s]
 
 Three.
 [pause 6s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 How do you say four?
 [pause 6s]
 
-"Τέσσερα...."
+"Τέσσερα..."
 [pause 6s]
 
 Greece.
 [pause 6s]
 
-"Ελλάδα...."
+"Ελλάδα..."
 [pause 6s]
 
 Four.
 [pause 6s]
 
-"Τέσσερα...."
+"Τέσσερα..."
 [pause 6s]
 
 No, four, water.
 [pause 6s]
 
-"Όχι. Τέσσερα. Νερό...."
+"Όχι. Τέσσερα. Νερό..."
 [pause 7s]
 
 How much is it, two.
 [pause 6s]
 
-"Πόσο κάνει; Δύο...."
+"Πόσο κάνει; Δύο..."
 [pause 6s]
 
 The number five is:
 [pause 2s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
 Germany.
 [pause 6s]
 
-"Γερμανία...."
+"Γερμανία..."
 [pause 6s]
 
 Four.
 [pause 6s]
 
-"Τέσσερα...."
+"Τέσσερα..."
 [pause 6s]
 
 How do you say five?
 [pause 6s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
 Five.
 [pause 6s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
 One and five.
 [pause 6s]
 
-"Ένα και πέντε...."
+"Ένα και πέντε..."
 [pause 7s]
 
 A tea, two.
 [pause 6s]
 
-"Ένα τσάι. Δύο...."
+"Ένα τσάι. Δύο..."
 [pause 6s]
 
 To ask how many, say:
@@ -237,13 +237,13 @@ Repeat after the voice.
 Thessaloniki.
 [pause 6s]
 
-"Θεσσαλονίκη...."
+"Θεσσαλονίκη..."
 [pause 6s]
 
 Five.
 [pause 6s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
 How do you ask how many?
@@ -261,13 +261,13 @@ How many?
 For you, how many, a little.
 [pause 6s]
 
-"Για σένα. Πόσα; Λίγο...."
+"Για σένα. Πόσα; Λίγο..."
 [pause 7s]
 
 One more, two.
 [pause 6s]
 
-"Ακόμα ένα. Δύο...."
+"Ακόμα ένα. Δύο..."
 [pause 6s]
 
 The kiosk is called periptero. Listen to the pieces, starting from the end.
@@ -282,19 +282,19 @@ The kiosk is called periptero. Listen to the pieces, starting from the end.
 "πτερο..."
 [pause 3s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
 Two.
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 How many?
@@ -306,19 +306,19 @@ How many?
 How do you say kiosk?
 [pause 6s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
 Kiosk.
 [pause 6s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
 I live.
 [pause 6s]
 
-"Μένω...."
+"Μένω..."
 [pause 6s]
 
 Where?
@@ -336,151 +336,151 @@ My name is, kiosk, what is your name?
 The word for here is:
 [pause 2s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 Three.
 [pause 6s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 Kiosk.
 [pause 6s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
 How do you say here?
 [pause 6s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 Here.
 [pause 6s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 From.
 [pause 6s]
 
-"Από...."
+"Από..."
 [pause 6s]
 
 Nice to meet you, kiosk.
 [pause 6s]
 
-"Χάρηκα. Περίπτερο...."
+"Χάρηκα. Περίπτερο..."
 [pause 6s]
 
 You, here, I.
 [pause 6s]
 
-"Εσύ; Εδώ. Εγώ...."
+"Εσύ; Εδώ. Εγώ..."
 [pause 7s]
 
 To ask for a pack, say:
 [pause 2s]
 
-"Ένα πακέτο...."
+"Ένα πακέτο..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ένα πακέτο...."
+"Ένα πακέτο..."
 [pause 6s]
 
 Four.
 [pause 6s]
 
-"Τέσσερα...."
+"Τέσσερα..."
 [pause 6s]
 
 Here.
 [pause 6s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 How do you ask for a pack?
 [pause 6s]
 
-"Ένα πακέτο...."
+"Ένα πακέτο..."
 [pause 6s]
 
 A pack.
 [pause 6s]
 
-"Ένα πακέτο...."
+"Ένα πακέτο..."
 [pause 6s]
 
 My name is, formal.
 [pause 6s]
 
-"Ονομάζομαι...."
+"Ονομάζομαι..."
 [pause 6s]
 
 Nikos, here.
 [pause 6s]
 
-"Νίκος. Εδώ...."
+"Νίκος. Εδώ..."
 [pause 6s]
 
 Maria, a pack, hello.
 [pause 6s]
 
-"Μαρία. Ένα πακέτο. Γεια σας...."
+"Μαρία. Ένα πακέτο. Γεια σας..."
 [pause 7s]
 
 Good morning, two.
 [pause 6s]
 
-"Καλημέρα. Δύο...."
+"Καλημέρα. Δύο..."
 [pause 6s]
 
 Five.
 [pause 6s]
 
-"Πέντε...."
+"Πέντε..."
 [pause 6s]
 
 A pack.
 [pause 6s]
 
-"Ένα πακέτο...."
+"Ένα πακέτο..."
 [pause 6s]
 
 My name is.
 [pause 6s]
 
-"Με λένε...."
+"Με λένε..."
 [pause 6s]
 
 A coffee, three, I want.
 [pause 6s]
 
-"Θέλω έναν καφέ, τρία...."
+"Θέλω έναν καφέ, τρία..."
 [pause 7s]
 
 Please, four.
 [pause 6s]
 
-"Τέσσερα, παρακαλώ...."
+"Τέσσερα, παρακαλώ..."
 [pause 6s]
 
 Thank you, five, yes.
 [pause 6s]
 
-"Ευχαριστώ. Πέντε. Ναι...."
+"Ευχαριστώ. Πέντε. Ναι..."
 [pause 7s]
 
 No, how many?
@@ -510,49 +510,49 @@ Water, kiosk, how much is it.
 One, here.
 [pause 6s]
 
-"Ένα. Εδώ...."
+"Ένα. Εδώ..."
 [pause 6s]
 
 And, a pack, a tea.
 [pause 6s]
 
-"Και ένα πακέτο. Ένα τσάι...."
+"Και ένα πακέτο. Ένα τσάι..."
 [pause 7s]
 
 For you, two.
 [pause 6s]
 
-"Για σένα. Δύο...."
+"Για σένα. Δύο..."
 [pause 6s]
 
 Nice to meet you.
 [pause 6s]
 
-"Χάρηκα...."
+"Χάρηκα..."
 [pause 6s]
 
 A little, three, one more.
 [pause 6s]
 
-"Λίγο. Τρία. Ακόμα ένα...."
+"Λίγο. Τρία. Ακόμα ένα..."
 [pause 7s]
 
 Kiosk.
 [pause 6s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
 You, four.
 [pause 6s]
 
-"Εσύ; Τέσσερα...."
+"Εσύ; Τέσσερα..."
 [pause 6s]
 
 I, five, Nikos.
 [pause 6s]
 
-"Εγώ. Πέντε. Νίκος...."
+"Εγώ. Πέντε. Νίκος..."
 [pause 7s]
 
 Maria, how many?
@@ -570,49 +570,49 @@ You?
 My name is formal, kiosk, I am.
 [pause 6s]
 
-"Ονομάζομαι. Περίπτερο. Είμαι...."
+"Ονομάζομαι. Περίπτερο. Είμαι..."
 [pause 7s]
 
 Greece, here.
 [pause 6s]
 
-"Ελλάδα. Εδώ...."
+"Ελλάδα. Εδώ..."
 [pause 6s]
 
 Here.
 [pause 6s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 Germany, a pack, Thessaloniki.
 [pause 6s]
 
-"Γερμανία. Ένα πακέτο. Θεσσαλονίκη...."
+"Γερμανία. Ένα πακέτο. Θεσσαλονίκη..."
 [pause 7s]
 
 I live, two.
 [pause 6s]
 
-"Μένω. Δύο...."
+"Μένω. Δύο..."
 [pause 6s]
 
 Where, three, from.
 [pause 6s]
 
-"Πού; Τρία. Από...."
+"Πού; Τρία. Από..."
 [pause 7s]
 
 Athens, four.
 [pause 6s]
 
-"Αθήνα. Τέσσερα...."
+"Αθήνα. Τέσσερα..."
 [pause 6s]
 
 Hello, five, good morning.
 [pause 6s]
 
-"Γεια σας. Πέντε. Καλημέρα...."
+"Γεια σας. Πέντε. Καλημέρα..."
 [pause 7s]
 
 You are at the kiosk. The woman greets you.
@@ -621,25 +621,25 @@ You are at the kiosk. The woman greets you.
 Greet her politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 She asks what you want. Say: I want a pack, please.
 [pause 6s]
 
-"Θέλω ένα πακέτο, παρακαλώ...."
+"Θέλω ένα πακέτο, παρακαλώ..."
 [pause 7s]
 
 She asks how many. Answer: two.
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 She asks where you are from. Answer: I am from Greece.
 [pause 6s]
 
-"Είμαι από την Ελλάδα...."
+"Είμαι από την Ελλάδα..."
 [pause 7s]
 
 Ask her how much it is.
@@ -651,55 +651,55 @@ Ask her how much it is.
 She says: three. Say: thank you.
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Ask for four, please.
 [pause 6s]
 
-"Τέσσερα, παρακαλώ...."
+"Τέσσερα, παρακαλώ..."
 [pause 6s]
 
 Say: here, please.
 [pause 6s]
 
-"Εδώ, παρακαλώ...."
+"Εδώ, παρακαλώ..."
 [pause 6s]
 
 Say: one more, please.
 [pause 6s]
 
-"Ακόμα ένα, παρακαλώ...."
+"Ακόμα ένα, παρακαλώ..."
 [pause 7s]
 
 Say: five, yes, thank you.
 [pause 6s]
 
-"Πέντε. Ναι. Ευχαριστώ...."
+"Πέντε. Ναι. Ευχαριστώ..."
 [pause 7s]
 
 Say: I live in Athens.
 [pause 6s]
 
-"Μένω στην Αθήνα...."
+"Μένω στην Αθήνα..."
 [pause 7s]
 
 Say: good morning, my name is Nikos.
 [pause 6s]
 
-"Καλημέρα. Με λένε Νίκος...."
+"Καλημέρα. Με λένε Νίκος..."
 [pause 7s]
 
 Say: no, thank you.
 [pause 6s]
 
-"Όχι, ευχαριστώ...."
+"Όχι, ευχαριστώ..."
 [pause 6s]
 
 Say: you, here.
 [pause 6s]
 
-"Εσύ; Εδώ...."
+"Εσύ; Εδώ..."
 [pause 6s]
 
 Well done. You can now buy from a kiosk and count from one to five. See you in the next lesson.

@@ -10,7 +10,9 @@ export function renderScript(config: ModuleConfig, lesson: Lesson): string {
   out.push('');
   for (const line of lesson.lines) {
     if (line.say) out.push(line.say.trim());
-    else if (line.target) out.push(`"${line.target.trim()}..."`);
+    // Drop the target's own trailing full stops so we don't get "Καλημέρα....".
+    // Question marks (; or ?) and ! stay: they shape the TTS intonation.
+    else if (line.target) out.push(`"${line.target.trim().replace(/[.…]+$/, '')}..."`);
     out.push(`[pause ${line.pause}s]`);
     out.push('');
   }

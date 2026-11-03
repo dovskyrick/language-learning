@@ -1,7 +1,7 @@
 {
   "lesson": 1,
   "title": "At the café",
-  "status": "checked",
+  "status": "published",
   "generatedBy": {
     "writer": "claude-haiku-5-5",
     "promptVersion": "method-v1",

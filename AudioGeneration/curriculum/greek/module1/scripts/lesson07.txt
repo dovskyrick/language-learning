@@ -12,67 +12,67 @@ Listen to two people at the café.
 "Καλά, ευχαριστώ. Κι εσύ;..."
 [pause 7s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
-"Σήμερα, καλά...."
+"Σήμερα, καλά..."
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
-"Καλό πρωί...."
+"Καλό πρωί..."
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 To say good evening, say:
 [pause 2s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 Greet politely, then say good evening.
 [pause 6s]
 
-"Γεια σας. Καλησπέρα...."
+"Γεια σας. Καλησπέρα..."
 [pause 7s]
 
 How do you say good evening?
 [pause 6s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 Good evening.
 [pause 6s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 Fresh.
 [pause 6s]
 
-"Φρέσκο...."
+"Φρέσκο..."
 [pause 6s]
 
 Good morning, good evening, a coffee.
 [pause 6s]
 
-"Καλημέρα. Καλησπέρα. Ένας καφές...."
+"Καλημέρα. Καλησπέρα. Ένας καφές..."
 [pause 7s]
 
 I want, good evening.
 [pause 6s]
 
-"Θέλω. Καλησπέρα...."
+"Θέλω. Καλησπέρα..."
 [pause 6s]
 
 To ask how someone is, informal, say:
@@ -90,7 +90,7 @@ Repeat after the voice.
 Good evening.
 [pause 6s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 How do you ask a friend how he is?
@@ -102,7 +102,7 @@ How do you ask a friend how he is?
 Very.
 [pause 6s]
 
-"Πολύ...."
+"Πολύ..."
 [pause 6s]
 
 How are you?
@@ -114,31 +114,31 @@ How are you?
 Please, how are you, thank you.
 [pause 6s]
 
-"Παρακαλώ. Τι κάνεις; Ευχαριστώ...."
+"Παρακαλώ. Τι κάνεις; Ευχαριστώ..."
 [pause 7s]
 
 Good.
 [pause 6s]
 
-"Καλό...."
+"Καλό..."
 [pause 6s]
 
 Yes, good evening.
 [pause 6s]
 
-"Ναι. Καλησπέρα...."
+"Ναι. Καλησπέρα..."
 [pause 6s]
 
 To say well, or fine, say:
 [pause 2s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 How are you?
@@ -150,85 +150,85 @@ How are you?
 How do you say well?
 [pause 6s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 Bread.
 [pause 6s]
 
-"Ψωμί...."
+"Ψωμί..."
 [pause 6s]
 
 Fine.
 [pause 6s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 No, fine, water.
 [pause 6s]
 
-"Όχι. Καλά. Νερό...."
+"Όχι. Καλά. Νερό..."
 [pause 7s]
 
 How much is it, good evening.
 [pause 6s]
 
-"Πόσο κάνει; Καλησπέρα...."
+"Πόσο κάνει; Καλησπέρα..."
 [pause 6s]
 
 To say so-so, say:
 [pause 2s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 Koulouri.
 [pause 6s]
 
-"Κουλούρι...."
+"Κουλούρι..."
 [pause 6s]
 
 Well.
 [pause 6s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 How do you say so-so?
 [pause 6s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 So-so.
 [pause 6s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 One, so-so, and.
 [pause 6s]
 
-"Ένα. Έτσι κι έτσι. Και...."
+"Ένα. Έτσι κι έτσι. Και..."
 [pause 7s]
 
 Or.
 [pause 6s]
 
-"Ή...."
+"Ή..."
 [pause 6s]
 
 A tea, good evening.
 [pause 6s]
 
-"Ένα τσάι. Καλησπέρα...."
+"Ένα τσάι. Καλησπέρα..."
 [pause 6s]
 
 To say and you, informal, say:
@@ -246,7 +246,7 @@ Repeat after the voice.
 So-so.
 [pause 6s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 How do you say and you?
@@ -270,13 +270,13 @@ And you?
 For you, and you, a little.
 [pause 6s]
 
-"Για σένα. Κι εσύ; Λίγο...."
+"Για σένα. Κι εσύ; Λίγο..."
 [pause 7s]
 
 One more, good evening.
 [pause 6s]
 
-"Ακόμα ένα. Καλησπέρα...."
+"Ακόμα ένα. Καλησπέρα..."
 [pause 6s]
 
 The word for today. Listen to the pieces, starting from the end.
@@ -291,19 +291,19 @@ The word for today. Listen to the pieces, starting from the end.
 "ήμερα..."
 [pause 3s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 6s]
 
 Good evening.
 [pause 6s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 And you?
@@ -315,13 +315,13 @@ And you?
 How do you say today?
 [pause 6s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 6s]
 
 Today.
 [pause 6s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 6s]
 
 How much?
@@ -333,7 +333,7 @@ How much?
 Kiosk.
 [pause 6s]
 
-"Περίπτερο...."
+"Περίπτερο..."
 [pause 6s]
 
 My name is, today, what is your name?
@@ -345,13 +345,13 @@ My name is, today, what is your name?
 To say good night, say:
 [pause 2s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 How are you?
@@ -363,133 +363,133 @@ How are you?
 Today.
 [pause 6s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 6s]
 
 How do you say good night?
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Here.
 [pause 6s]
 
-"Εδώ...."
+"Εδώ..."
 [pause 6s]
 
 Nice to meet you, today.
 [pause 6s]
 
-"Χάρηκα. Σήμερα...."
+"Χάρηκα. Σήμερα..."
 [pause 6s]
 
 You, good night, I.
 [pause 6s]
 
-"Εσύ; Καληνύχτα. Εγώ...."
+"Εσύ; Καληνύχτα. Εγώ..."
 [pause 7s]
 
 The word for in the morning is:
 [pause 2s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 Well.
 [pause 6s]
 
-"Καλά...."
+"Καλά..."
 [pause 6s]
 
 Good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 How do you say in the morning?
 [pause 6s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 In the morning.
 [pause 6s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 A pack.
 [pause 6s]
 
-"Ένα πακέτο...."
+"Ένα πακέτο..."
 [pause 6s]
 
 Two.
 [pause 6s]
 
-"Δύο...."
+"Δύο..."
 [pause 6s]
 
 Nikos, good night.
 [pause 6s]
 
-"Νίκος. Καληνύχτα...."
+"Νίκος. Καληνύχτα..."
 [pause 6s]
 
 So-so.
 [pause 6s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 Maria, in the morning, my name is formal.
 [pause 6s]
 
-"Μαρία. Πρωί. Ονομάζομαι...."
+"Μαρία. Πρωί. Ονομάζομαι..."
 [pause 7s]
 
 In the morning.
 [pause 6s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 Three.
 [pause 6s]
 
-"Τρία...."
+"Τρία..."
 [pause 6s]
 
 I am, good evening.
 [pause 6s]
 
-"Είμαι. Καλησπέρα...."
+"Είμαι. Καλησπέρα..."
 [pause 6s]
 
 Greece, how are you, Germany.
 [pause 6s]
 
-"Ελλάδα. Τι κάνεις; Γερμανία...."
+"Ελλάδα. Τι κάνεις; Γερμανία..."
 [pause 7s]
 
 Thessaloniki, well.
 [pause 6s]
 
-"Θεσσαλονίκη. Καλά...."
+"Θεσσαλονίκη. Καλά..."
 [pause 6s]
 
 I live, so-so, where?
@@ -507,7 +507,7 @@ And you?
 For you.
 [pause 6s]
 
-"Για σένα...."
+"Για σένα..."
 [pause 6s]
 
 From, and you.
@@ -519,61 +519,61 @@ From, and you.
 Athens, today, four.
 [pause 6s]
 
-"Αθήνα. Σήμερα. Τέσσερα...."
+"Αθήνα. Σήμερα. Τέσσερα..."
 [pause 7s]
 
 Five, good night.
 [pause 6s]
 
-"Πέντε. Καληνύχτα...."
+"Πέντε. Καληνύχτα..."
 [pause 6s]
 
 A little.
 [pause 6s]
 
-"Λίγο...."
+"Λίγο..."
 [pause 6s]
 
 How many, in the morning, hello.
 [pause 6s]
 
-"Πόσα; Πρωί. Γεια σας...."
+"Πόσα; Πρωί. Γεια σας..."
 [pause 7s]
 
 Good morning, good evening.
 [pause 6s]
 
-"Καλημέρα. Καλησπέρα...."
+"Καλημέρα. Καλησπέρα..."
 [pause 6s]
 
 Today.
 [pause 6s]
 
-"Σήμερα...."
+"Σήμερα..."
 [pause 6s]
 
 A coffee, how are you, I want.
 [pause 6s]
 
-"Ένας καφές. Τι κάνεις; Θέλω...."
+"Ένας καφές. Τι κάνεις; Θέλω..."
 [pause 7s]
 
 One more.
 [pause 6s]
 
-"Ακόμα ένα...."
+"Ακόμα ένα..."
 [pause 6s]
 
 Please, well.
 [pause 6s]
 
-"Παρακαλώ. Καλά...."
+"Παρακαλώ. Καλά..."
 [pause 6s]
 
 Thank you, so-so, yes.
 [pause 6s]
 
-"Ευχαριστώ. Έτσι κι έτσι. Ναι...."
+"Ευχαριστώ. Έτσι κι έτσι. Ναι..."
 [pause 7s]
 
 No, and you.
@@ -585,37 +585,37 @@ No, and you.
 Water.
 [pause 6s]
 
-"Νερό...."
+"Νερό..."
 [pause 6s]
 
 Good night.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 How much, today, one.
 [pause 6s]
 
-"Πόσο κάνει; Σήμερα. Ένα...."
+"Πόσο κάνει; Σήμερα. Ένα..."
 [pause 7s]
 
 And, good night.
 [pause 6s]
 
-"Και καληνύχτα...."
+"Και καληνύχτα..."
 [pause 6s]
 
 A tea, in the morning, my name is.
 [pause 6s]
 
-"Ένα τσάι. Πρωί. Με λένε...."
+"Ένα τσάι. Πρωί. Με λένε..."
 [pause 7s]
 
 What is your name, good evening.
 [pause 6s]
 
-"Πώς σε λένε; Καλησπέρα...."
+"Πώς σε λένε; Καλησπέρα..."
 [pause 6s]
 
 Nice to meet you, how are you, you.
@@ -630,13 +630,13 @@ A man greets you in the evening.
 Greet him back: good evening.
 [pause 6s]
 
-"Καλησπέρα...."
+"Καλησπέρα..."
 [pause 6s]
 
 He asks how you are. Answer: so-so.
 [pause 6s]
 
-"Έτσι κι έτσι...."
+"Έτσι κι έτσι..."
 [pause 6s]
 
 He asks: and you? Answer: well, thank you.
@@ -648,7 +648,7 @@ He asks: and you? Answer: well, thank you.
 He says: I am well. Answer: good.
 [pause 6s]
 
-"Καλό...."
+"Καλό..."
 [pause 6s]
 
 Ask him how he is, informal.
@@ -660,7 +660,7 @@ Ask him how he is, informal.
 He asks if you want a coffee. Say: yes, please.
 [pause 6s]
 
-"Ναι, παρακαλώ...."
+"Ναι, παρακαλώ..."
 [pause 6s]
 
 Ask: how much is it?
@@ -672,37 +672,37 @@ Ask: how much is it?
 Say: today, fine.
 [pause 6s]
 
-"Σήμερα καλά...."
+"Σήμερα καλά..."
 [pause 6s]
 
 Say: good night, see you tomorrow.
 [pause 6s]
 
-"Καληνύχτα...."
+"Καληνύχτα..."
 [pause 6s]
 
 Say the word for in the morning.
 [pause 6s]
 
-"Πρωί...."
+"Πρωί..."
 [pause 6s]
 
 Say: fresh bread, very good.
 [pause 6s]
 
-"Φρέσκο ψωμί. Πολύ καλό...."
+"Φρέσκο ψωμί. Πολύ καλό..."
 [pause 7s]
 
 Say: one, two, please.
 [pause 6s]
 
-"Ένα, δύο, παρακαλώ...."
+"Ένα, δύο, παρακαλώ..."
 [pause 7s]
 
 Say: here, please.
 [pause 6s]
 
-"Εδώ, παρακαλώ...."
+"Εδώ, παρακαλώ..."
 [pause 6s]
 
 Well done. You can now greet people at different times of the day and answer how you are. See you in the next lesson.

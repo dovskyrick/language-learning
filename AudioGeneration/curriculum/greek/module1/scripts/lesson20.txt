@@ -15,13 +15,13 @@ Listen to friends planning an evening.
 "Τι θα πάρετε;..."
 [pause 6s]
 
-"Θα πάμε...."
+"Θα πάμε..."
 [pause 6s]
 
 "Καλή όρεξη!..."
 [pause 6s]
 
-"Ευχαριστώ...."
+"Ευχαριστώ..."
 [pause 6s]
 
 Tonight. Listen to the pieces, starting from the end.
@@ -36,151 +36,151 @@ Tonight. Listen to the pieces, starting from the end.
 "πόψε..."
 [pause 3s]
 
-"Απόψε...."
+"Απόψε..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Απόψε...."
+"Απόψε..."
 [pause 6s]
 
 My husband.
 [pause 6s]
 
-"Ο άντρας μου...."
+"Ο άντρας μου..."
 [pause 6s]
 
 How do you say tonight?
 [pause 6s]
 
-"Απόψε...."
+"Απόψε..."
 [pause 6s]
 
 Tonight.
 [pause 6s]
 
-"Απόψε...."
+"Απόψε..."
 [pause 6s]
 
 Greet politely, tonight.
 [pause 6s]
 
-"Γεια σας. Απόψε...."
+"Γεια σας. Απόψε..."
 [pause 6s]
 
 Good morning, tonight, a coffee.
 [pause 6s]
 
-"Καλημέρα. Απόψε. Ένας καφές...."
+"Καλημέρα. Απόψε. Ένας καφές..."
 [pause 7s]
 
 Mother.
 [pause 6s]
 
-"Μητέρα...."
+"Μητέρα..."
 [pause 6s]
 
 Together is:
 [pause 2s]
 
-"Μαζί...."
+"Μαζί..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Μαζί...."
+"Μαζί..."
 [pause 6s]
 
 I want, tonight.
 [pause 6s]
 
-"Θέλω. Απόψε...."
+"Θέλω. Απόψε..."
 [pause 6s]
 
 Tonight.
 [pause 6s]
 
-"Απόψε...."
+"Απόψε..."
 [pause 6s]
 
 How do you say together?
 [pause 6s]
 
-"Μαζί...."
+"Μαζί..."
 [pause 6s]
 
 Together.
 [pause 6s]
 
-"Μαζί...."
+"Μαζί..."
 [pause 6s]
 
 Father.
 [pause 6s]
 
-"Πατέρας...."
+"Πατέρας..."
 [pause 6s]
 
 Please, together, thank you.
 [pause 6s]
 
-"Παρακαλώ. Μαζί. Ευχαριστώ...."
+"Παρακαλώ. Μαζί. Ευχαριστώ..."
 [pause 7s]
 
 Great, fine is:
 [pause 2s]
 
-"Ωραία...."
+"Ωραία..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Ωραία...."
+"Ωραία..."
 [pause 6s]
 
 Brother.
 [pause 6s]
 
-"Αδερφός...."
+"Αδερφός..."
 [pause 6s]
 
 Together.
 [pause 6s]
 
-"Μαζί...."
+"Μαζί..."
 [pause 6s]
 
 How do you say great?
 [pause 6s]
 
-"Ωραία...."
+"Ωραία..."
 [pause 6s]
 
 Great.
 [pause 6s]
 
-"Ωραία...."
+"Ωραία..."
 [pause 6s]
 
 Spouse.
 [pause 6s]
 
-"Σύζυγος...."
+"Σύζυγος..."
 [pause 6s]
 
 Yes, together.
 [pause 6s]
 
-"Ναι. Μαζί...."
+"Ναι. Μαζί..."
 [pause 6s]
 
 No, great, water.
 [pause 6s]
 
-"Όχι. Ωραία. Νερό...."
+"Όχι. Ωραία. Νερό..."
 [pause 7s]
 
 Sister. Listen to the pieces, starting from the end.
@@ -192,55 +192,55 @@ Sister. Listen to the pieces, starting from the end.
 "δερφή..."
 [pause 3s]
 
-"Αδερφή...."
+"Αδερφή..."
 [pause 4s]
 
 Repeat the whole word.
 [pause 1s]
 
-"Αδερφή...."
+"Αδερφή..."
 [pause 6s]
 
 Great.
 [pause 6s]
 
-"Ωραία...."
+"Ωραία..."
 [pause 6s]
 
 How do you say sister?
 [pause 6s]
 
-"Αδερφή...."
+"Αδερφή..."
 [pause 6s]
 
 Children.
 [pause 6s]
 
-"Παιδιά...."
+"Παιδιά..."
 [pause 6s]
 
 Sister.
 [pause 6s]
 
-"Αδερφή...."
+"Αδερφή..."
 [pause 6s]
 
 Friend.
 [pause 6s]
 
-"Φίλος...."
+"Φίλος..."
 [pause 6s]
 
 How much is it, great.
 [pause 6s]
 
-"Πόσο κάνει; Ωραία...."
+"Πόσο κάνει; Ωραία..."
 [pause 6s]
 
 One, sister, and.
 [pause 6s]
 
-"Ένα. Αδερφή. Και...."
+"Ένα. Αδερφή. Και..."
 [pause 7s]
 
 What will you have is:
@@ -258,7 +258,7 @@ Repeat after the voice.
 Sister.
 [pause 6s]
 
-"Αδερφή...."
+"Αδερφή..."
 [pause 6s]
 
 How do you ask what they will have?
@@ -270,7 +270,7 @@ How do you ask what they will have?
 My wife.
 [pause 6s]
 
-"Η γυναίκα μου...."
+"Η γυναίκα μου..."
 [pause 6s]
 
 What will you have?
@@ -282,37 +282,37 @@ What will you have?
 English.
 [pause 6s]
 
-"Αγγλικά...."
+"Αγγλικά..."
 [pause 6s]
 
 A tea, sister.
 [pause 6s]
 
-"Ένα τσάι. Αδερφή...."
+"Ένα τσάι. Αδερφή..."
 [pause 6s]
 
 For you, what will you have, a little.
 [pause 6s]
 
-"Για σένα. Τι θα πάρετε; Λίγο...."
+"Για σένα. Τι θα πάρετε; Λίγο..."
 [pause 7s]
 
 Tonight.
 [pause 6s]
 
-"Απόψε...."
+"Απόψε..."
 [pause 6s]
 
 Let's go is:
 [pause 2s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 What will you have?
@@ -324,25 +324,25 @@ What will you have?
 How do you say let's go?
 [pause 6s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 I know.
 [pause 6s]
 
-"Ξέρω...."
+"Ξέρω..."
 [pause 6s]
 
 Let's go.
 [pause 6s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 A few.
 [pause 6s]
 
-"Λίγα...."
+"Λίγα..."
 [pause 6s]
 
 One more, what will you have?
@@ -354,43 +354,43 @@ One more, what will you have?
 Together.
 [pause 6s]
 
-"Μαζί...."
+"Μαζί..."
 [pause 6s]
 
 Enjoy your meal is:
 [pause 2s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 Let's go.
 [pause 6s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 How do you say enjoy your meal?
 [pause 6s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 Slowly, please.
 [pause 6s]
 
-"Αργά, παρακαλώ...."
+"Αργά, παρακαλώ..."
 [pause 6s]
 
 Enjoy your meal.
 [pause 6s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 My name is, what will you have, what is your name?
@@ -402,7 +402,7 @@ My name is, what will you have, what is your name?
 Great.
 [pause 6s]
 
-"Ωραία...."
+"Ωραία..."
 [pause 6s]
 
 Can you repeat it?
@@ -414,37 +414,37 @@ Can you repeat it?
 Will is:
 [pause 2s]
 
-"Θα...."
+"Θα..."
 [pause 6s]
 
 Repeat after the voice.
 [pause 1s]
 
-"Θα...."
+"Θα..."
 [pause 6s]
 
 Enjoy your meal.
 [pause 6s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 How do you say will?
 [pause 6s]
 
-"Θα...."
+"Θα..."
 [pause 6s]
 
 Sweet.
 [pause 6s]
 
-"Γλυκό...."
+"Γλυκό..."
 [pause 6s]
 
 Will.
 [pause 6s]
 
-"Θα...."
+"Θα..."
 [pause 6s]
 
 Nice to meet you, what will you have?
@@ -456,61 +456,61 @@ Nice to meet you, what will you have?
 You, let's go, I.
 [pause 6s]
 
-"Εσύ; Πάμε. Εγώ...."
+"Εσύ; Πάμε. Εγώ..."
 [pause 7s]
 
 Nikos, enjoy your meal.
 [pause 6s]
 
-"Νίκος. Καλή όρεξη...."
+"Νίκος. Καλή όρεξη..."
 [pause 6s]
 
 Sister.
 [pause 6s]
 
-"Αδερφή...."
+"Αδερφή..."
 [pause 6s]
 
 Hot.
 [pause 6s]
 
-"Ζεστό...."
+"Ζεστό..."
 [pause 6s]
 
 Will.
 [pause 6s]
 
-"Θα...."
+"Θα..."
 [pause 6s]
 
 Maria, will, my name is formal.
 [pause 6s]
 
-"Μαρία. Θα. Ονομάζομαι...."
+"Μαρία. Θα. Ονομάζομαι..."
 [pause 7s]
 
 Cold.
 [pause 6s]
 
-"Κρύο...."
+"Κρύο..."
 [pause 6s]
 
 I am, tonight.
 [pause 6s]
 
-"Είμαι. Απόψε...."
+"Είμαι. Απόψε..."
 [pause 6s]
 
 Greece, together, Germany.
 [pause 6s]
 
-"Ελλάδα. Μαζί. Γερμανία...."
+"Ελλάδα. Μαζί. Γερμανία..."
 [pause 7s]
 
 Thessaloniki, great.
 [pause 6s]
 
-"Θεσσαλονίκη. Ωραία...."
+"Θεσσαλονίκη. Ωραία..."
 [pause 6s]
 
 What will you have?
@@ -522,7 +522,7 @@ What will you have?
 Nice.
 [pause 6s]
 
-"Ωραίο...."
+"Ωραίο..."
 [pause 6s]
 
 I live, sister, where?
@@ -540,73 +540,73 @@ From, what will you have?
 Athens, let's go, two.
 [pause 6s]
 
-"Αθήνα. Πάμε. Δύο...."
+"Αθήνα. Πάμε. Δύο..."
 [pause 7s]
 
 Again.
 [pause 6s]
 
-"Ξανά...."
+"Ξανά..."
 [pause 6s]
 
 Three, enjoy your meal.
 [pause 6s]
 
-"Τρία. Καλή όρεξη...."
+"Τρία. Καλή όρεξη..."
 [pause 6s]
 
 Four, will, five.
 [pause 6s]
 
-"Τέσσερα. Θα. Πέντε...."
+"Τέσσερα. Θα. Πέντε..."
 [pause 7s]
 
 Let's go.
 [pause 6s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 Slowly.
 [pause 6s]
 
-"Αργά...."
+"Αργά..."
 [pause 6s]
 
 How many, tonight.
 [pause 6s]
 
-"Πόσα; Απόψε...."
+"Πόσα; Απόψε..."
 [pause 6s]
 
 Kiosk, together, here.
 [pause 6s]
 
-"Περίπτερο. Μαζί. Εδώ...."
+"Περίπτερο. Μαζί. Εδώ..."
 [pause 7s]
 
 A pack, great.
 [pause 6s]
 
-"Ένα πακέτο. Ωραία...."
+"Ένα πακέτο. Ωραία..."
 [pause 6s]
 
 I go.
 [pause 6s]
 
-"Πάω...."
+"Πάω..."
 [pause 6s]
 
 Bread, sister, koulouri.
 [pause 6s]
 
-"Ψωμί. Αδερφή. Κουλούρι...."
+"Ψωμί. Αδερφή. Κουλούρι..."
 [pause 7s]
 
 Enjoy your meal.
 [pause 6s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 Or, what will you have?
@@ -624,7 +624,7 @@ You want, let's go, how much?
 Fresh, enjoy your meal.
 [pause 6s]
 
-"Φρέσκο. Καλή όρεξη...."
+"Φρέσκο. Καλή όρεξη..."
 [pause 6s]
 
 A new friend joins you at the taverna. You greet, and you plan the evening.
@@ -633,7 +633,7 @@ A new friend joins you at the taverna. You greet, and you plan the evening.
 Greet your new friend politely.
 [pause 6s]
 
-"Γεια σας...."
+"Γεια σας..."
 [pause 6s]
 
 Ask: together, tonight?
@@ -651,7 +651,7 @@ Say: great!
 Say: let's go.
 [pause 6s]
 
-"Πάμε...."
+"Πάμε..."
 [pause 6s]
 
 Ask: what will you have?
@@ -663,31 +663,31 @@ Ask: what will you have?
 Say: a table for two, please.
 [pause 6s]
 
-"Τραπέζι για δύο, παρακαλώ...."
+"Τραπέζι για δύο, παρακαλώ..."
 [pause 7s]
 
 Say: fish and salad, please.
 [pause 6s]
 
-"Ψάρι και σαλάτα, παρακαλώ...."
+"Ψάρι και σαλάτα, παρακαλώ..."
 [pause 7s]
 
 Say: enjoy your meal.
 [pause 6s]
 
-"Καλή όρεξη...."
+"Καλή όρεξη..."
 [pause 6s]
 
 Say: my sister, my brother.
 [pause 6s]
 
-"Αδερφή και αδερφός...."
+"Αδερφή και αδερφός..."
 [pause 7s]
 
 Say: I like it, very much.
 [pause 6s]
 
-"Μου αρέσει πάρα πολύ...."
+"Μου αρέσει πάρα πολύ..."
 [pause 7s]
 
 Say: can you repeat it?
@@ -699,13 +699,13 @@ Say: can you repeat it?
 Say: I understand a little.
 [pause 6s]
 
-"Καταλαβαίνω λίγο...."
+"Καταλαβαίνω λίγο..."
 [pause 6s]
 
 Say: we will go together.
 [pause 6s]
 
-"Θα πάμε...."
+"Θα πάμε..."
 [pause 6s]
 
 Ask: how much is it?
@@ -717,31 +717,31 @@ Ask: how much is it?
 Say: wine, please.
 [pause 6s]
 
-"Κρασί, παρακαλώ...."
+"Κρασί, παρακαλώ..."
 [pause 6s]
 
 Say: better, sweet.
 [pause 6s]
 
-"Καλύτερα, γλυκό...."
+"Καλύτερα, γλυκό..."
 [pause 6s]
 
 Say: a glass, please.
 [pause 6s]
 
-"Ένα ποτήρι, παρακαλώ...."
+"Ένα ποτήρι, παρακαλώ..."
 [pause 6s]
 
 Say: the bill, please.
 [pause 6s]
 
-"Λογαριασμός, παρακαλώ...."
+"Λογαριασμός, παρακαλώ..."
 [pause 6s]
 
 Say: thank you, good night.
 [pause 6s]
 
-"Ευχαριστώ. Καληνύχτα...."
+"Ευχαριστώ. Καληνύχτα..."
 [pause 6s]
 
 Ask: what is your name?
@@ -753,7 +753,7 @@ Ask: what is your name?
 Say: my name is Maria.
 [pause 6s]
 
-"Με λένε Μαρία...."
+"Με λένε Μαρία..."
 [pause 6s]
 
 Say: again.
