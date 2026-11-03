@@ -1,0 +1,1915 @@
+{
+  "lesson": 30,
+  "title": "Grand review: a whole day in Thessaloniki",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today is the grand review: a whole day in Thessaloniki, from breakfast to good night, with everything you have learned.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to one full day, from the morning to the night.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Όλη μέρα, καλό βράδυ.",
+      "items": [
+        "i001",
+        "i233",
+        "i234"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ευτυχισμένος!",
+      "items": [
+        "i235"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b002",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b002",
+      "target": "Τα λέμε.",
+      "items": [
+        "i237"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b002",
+      "target": "Καλή τύχη!",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b002",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b002",
+      "target": "Πολύ καλά.",
+      "items": [
+        "i240"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b003",
+      "say": "All day is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Όλη μέρα.",
+      "items": [
+        "i233"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Όλη μέρα.",
+      "items": [
+        "i233"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, all day.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Όλη μέρα.",
+      "items": [
+        "i001",
+        "i233"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say all day?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Όλη μέρα.",
+      "items": [
+        "i233"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b006",
+      "say": "All day.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Όλη μέρα.",
+      "items": [
+        "i233"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b007",
+      "say": "See you.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, all day, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Όλη μέρα. Ένας καφές.",
+      "items": [
+        "i002",
+        "i233",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Bye.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b010",
+      "say": "Good evening, good night is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Καλό βράδυ.",
+      "items": [
+        "i234"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Καλό βράδυ.",
+      "items": [
+        "i234"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b011",
+      "say": "I want, all day.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω. Όλη μέρα.",
+      "items": [
+        "i004",
+        "i233"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "All day.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Όλη μέρα.",
+      "items": [
+        "i233"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say good evening?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Καλό βράδυ.",
+      "items": [
+        "i234"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b014",
+      "say": "Good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Καλό βράδυ.",
+      "items": [
+        "i234"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b015",
+      "say": "Message.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Μήνυμα.",
+      "items": [
+        "i229"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b016",
+      "say": "Please, good evening, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Καλό βράδυ. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i234",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Happy. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "μένος",
+      "items": [
+        "i235"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "σμένος",
+      "items": [
+        "i235"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "χισμένος",
+      "items": [
+        "i235"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "Ευτυχισμένος.",
+      "items": [
+        "i235"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Ευτυχισμένος.",
+      "items": [
+        "i235"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b018",
+      "say": "Good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Καλό βράδυ.",
+      "items": [
+        "i234"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b019",
+      "say": "How do you say happy?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Ευτυχισμένος.",
+      "items": [
+        "i235"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b020",
+      "say": "Minutes.",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b021",
+      "say": "Happy.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Ευτυχισμένος.",
+      "items": [
+        "i235"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b022",
+      "say": "Soon.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Καλό βράδυ.",
+      "items": [
+        "i007",
+        "i234"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "Very nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Πολύ ωραία.",
+      "items": [
+        "i232"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b025",
+      "say": "Goodbye is:",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b026",
+      "say": "Happy.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Ευτυχισμένος.",
+      "items": [
+        "i235"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say goodbye?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b028",
+      "say": "Call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Πάρε με.",
+      "items": [
+        "i225"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b029",
+      "say": "Goodbye.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b030",
+      "say": "No, good evening, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Όχι. Καλό βράδυ. Νερό.",
+      "items": [
+        "i008",
+        "i234",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, happy.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Ευτυχισμένος.",
+      "items": [
+        "i010",
+        "i235"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "See you is:",
+      "pause": 2
+    },
+    {
+      "beat": "b032",
+      "target": "Τα λέμε.",
+      "items": [
+        "i237"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b032",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b032",
+      "target": "Τα λέμε.",
+      "items": [
+        "i237"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b033",
+      "say": "I call.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b034",
+      "say": "Goodbye.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say see you?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Τα λέμε.",
+      "items": [
+        "i237"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b036",
+      "say": "See you.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Τα λέμε.",
+      "items": [
+        "i237"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b037",
+      "say": "I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b038",
+      "say": "One, happy, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ένα. Ευτυχισμένος. Και.",
+      "items": [
+        "i011",
+        "i235",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, goodbye.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Αντίο.",
+      "items": [
+        "i013",
+        "i236"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Good luck is:",
+      "pause": 2
+    },
+    {
+      "beat": "b040",
+      "target": "Καλή τύχη.",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b040",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b040",
+      "target": "Καλή τύχη.",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b041",
+      "say": "All day.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Όλη μέρα.",
+      "items": [
+        "i233"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b042",
+      "say": "See you.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Τα λέμε.",
+      "items": [
+        "i237"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say good luck?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Καλή τύχη.",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b044",
+      "say": "Good luck.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Καλή τύχη.",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b045",
+      "say": "Work.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b046",
+      "say": "School.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b047",
+      "say": "For you, goodbye, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Για σένα. Αντίο. Λίγο.",
+      "items": [
+        "i014",
+        "i236",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "I'm glad. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b048",
+      "target": "ρομαι",
+      "items": [
+        "i239"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b048",
+      "target": "ίρομαι",
+      "items": [
+        "i239"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b048",
+      "target": "αίρομαι",
+      "items": [
+        "i239"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b048",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b048",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b048",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b049",
+      "say": "Good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Καλό βράδυ.",
+      "items": [
+        "i234"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b050",
+      "say": "Good luck.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Καλή τύχη.",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say I'm glad?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b052",
+      "say": "I'm glad.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b053",
+      "say": "I work.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b054",
+      "say": "Tomorrow morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b055",
+      "say": "One more, goodbye.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Ακόμα ένα. Αντίο.",
+      "items": [
+        "i016",
+        "i236"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Very well is:",
+      "pause": 2
+    },
+    {
+      "beat": "b056",
+      "target": "Πολύ καλά.",
+      "items": [
+        "i240"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b056",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b056",
+      "target": "Πολύ καλά.",
+      "items": [
+        "i240"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b057",
+      "say": "Happy.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ευτυχισμένος.",
+      "items": [
+        "i235"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b058",
+      "say": "I'm glad.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say very well?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Πολύ καλά.",
+      "items": [
+        "i240"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b060",
+      "say": "Very well.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Πολύ καλά.",
+      "items": [
+        "i240"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b061",
+      "say": "Colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b062",
+      "say": "Expensive.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b063",
+      "say": "My name is, goodbye, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "target": "Με λένε. Αντίο. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i236",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "say": "Nice to meet you, see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Χάρηκα. Τα λέμε.",
+      "items": [
+        "i019",
+        "i237"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Goodbye.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b066",
+      "say": "Very well.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Πολύ καλά.",
+      "items": [
+        "i240"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b067",
+      "say": "Cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b068",
+      "say": "You, good luck, I.",
+      "pause": 7
+    },
+    {
+      "beat": "b068",
+      "target": "Εσύ; Καλή τύχη. Εγώ.",
+      "items": [
+        "i020",
+        "i238",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "say": "I'll take it.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b070",
+      "say": "Nikos, I'm glad.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Νίκος. Χαίρομαι.",
+      "items": [
+        "i022",
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b071",
+      "say": "Maria, very well, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "target": "Μαρία. Πολύ καλά. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i240",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b072",
+      "say": "See you.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Τα λέμε.",
+      "items": [
+        "i237"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b073",
+      "say": "Great.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b074",
+      "say": "I am, all day.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Είμαι. Όλη μέρα.",
+      "items": [
+        "i025",
+        "i233"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Greece, good evening, Germany.",
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "target": "Ελλάδα. Καλό βράδυ. Γερμανία.",
+      "items": [
+        "i026",
+        "i234",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "Thessaloniki, happy.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Θεσσαλονίκη. Ευτυχισμένος.",
+      "items": [
+        "i028",
+        "i235"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b077",
+      "say": "Sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b078",
+      "say": "I live, goodbye, where?",
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "target": "Μένω. Αντίο. Πού;",
+      "items": [
+        "i029",
+        "i236",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "From, see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Από. Τα λέμε.",
+      "items": [
+        "i031",
+        "i237"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Good luck.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Καλή τύχη.",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b081",
+      "say": "What will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Athens, good luck, two.",
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "target": "Αθήνα. Καλή τύχη. Δύο.",
+      "items": [
+        "i032",
+        "i238",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Three, I'm glad.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τρία. Χαίρομαι.",
+      "items": [
+        "i034",
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b084",
+      "say": "Four, very well, five.",
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "target": "Τέσσερα. Πολύ καλά. Πέντε.",
+      "items": [
+        "i035",
+        "i240",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "Four.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b086",
+      "say": "How many, all day.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Πόσα; Όλη μέρα.",
+      "items": [
+        "i037",
+        "i233"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "Kiosk, good evening, here.",
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "target": "Περίπτερο. Καλό βράδυ. Εδώ.",
+      "items": [
+        "i038",
+        "i234",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "say": "I'm glad.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b089",
+      "say": "Five.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b090",
+      "say": "A pack, happy.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ένα πακέτο. Ευτυχισμένος.",
+      "items": [
+        "i040",
+        "i235"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Bread, goodbye, koulouri.",
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "target": "Ψωμί. Αντίο. Κουλούρι.",
+      "items": [
+        "i041",
+        "i236",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Or, see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ή. Τα λέμε.",
+      "items": [
+        "i043",
+        "i237"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "You want, good luck, how much?",
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "target": "Θέλετε; Καλή τύχη. Πόσο;",
+      "items": [
+        "i044",
+        "i238",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "A whole day in Thessaloniki, from breakfast to good night. Speak with a friend.",
+      "pause": 2
+    },
+    {
+      "beat": "b094",
+      "say": "Good morning: greet your friend.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Καλημέρα.",
+      "items": [
+        "i002"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Ask: what is your name?",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: my name is Maria.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: breakfast, a coffee, please.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Πρωινό, ένας καφές, παρακαλώ.",
+      "items": [
+        "i164",
+        "i003",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Ask: how much is it?",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: a bus to the centre, which stop?",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Στο κέντρο. Ποια στάση;",
+      "items": [
+        "i082",
+        "i083"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Ask: what time is it?",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Τι ώρα είναι;",
+      "items": [
+        "i087"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: now, ten.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Τώρα. Δέκα.",
+      "items": [
+        "i085",
+        "i101"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: the metro, a ticket.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Μετρό. Εισιτήριο.",
+      "items": [
+        "i073",
+        "i074"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: thank you, very nice.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Ευχαριστώ. Πολύ ωραία.",
+      "items": [
+        "i006",
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: lunch, sun, the sea.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Μεσημέρι. Ήλιος, θάλασσα.",
+      "items": [
+        "i090",
+        "i177",
+        "i179"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: I like it, very much.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Μου αρέσει πάρα πολύ.",
+      "items": [
+        "i113",
+        "i115"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: the menu, please.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Κατάλογος, παρακαλώ.",
+      "items": [
+        "i123",
+        "i005"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: fish, salad, wine.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Ψάρι, σαλάτα, κρασί.",
+      "items": [
+        "i126",
+        "i127",
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: the bill, please.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Λογαριασμός, παρακαλώ.",
+      "items": [
+        "i124",
+        "i005"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: tonight, together.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Απόψε, μαζί.",
+      "items": [
+        "i153",
+        "i154"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: with pleasure.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: good evening, good night.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Καλό βράδυ. Καληνύχτα.",
+      "items": [
+        "i234",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: call me tomorrow, see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Πάρε με αύριο. Τα λέμε.",
+      "items": [
+        "i225",
+        "i086",
+        "i237"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: goodbye.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Αντίο.",
+      "items": [
+        "i236"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: good luck.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Καλή τύχη.",
+      "items": [
+        "i238"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: I'm glad.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Χαίρομαι.",
+      "items": [
+        "i239"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: very well.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Πολύ καλά.",
+      "items": [
+        "i240"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: happy, very well, thank you.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "Ευτυχισμένος. Πολύ καλά. Ευχαριστώ.",
+      "items": [
+        "i235",
+        "i240",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: four.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "τέσσερα",
+      "items": [
+        "i035"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: five.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "πέντε",
+      "items": [
+        "i036"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: great, fine.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "ωραία",
+      "items": [
+        "i155"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: sister.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "αδερφή",
+      "items": [
+        "i156"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: what will you have?.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: colour.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "χρώμα",
+      "items": [
+        "i195"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: expensive.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "ακριβό",
+      "items": [
+        "i196"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "say": "Say: cheap.",
+      "pause": 5
+    },
+    {
+      "beat": "b094",
+      "target": "φθηνό",
+      "items": [
+        "i197"
+      ],
+      "pause": 5
+    },
+    {
+      "beat": "b095",
+      "say": "Well done. You have completed the first module of Greek: greetings, numbers, shopping, directions, time, the taverna, the hotel, the weather, and saying goodbye. Congratulations.",
+      "pause": 2
+    }
+  ]
+}

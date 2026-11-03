@@ -1,0 +1,1817 @@
+{
+  "lesson": 29,
+  "title": "On the phone",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you talk on the phone: call me, I call, see you, bye, a message, minutes, soon, very nice.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a phone call between friends.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Πάρε με.",
+      "items": [
+        "i001",
+        "i225"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ένα μήνυμα;",
+      "items": [
+        "i011",
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πολύ ωραία!",
+      "items": [
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Call me, informal, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Πάρε με.",
+      "items": [
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Πάρε με.",
+      "items": [
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Πάρε με.",
+      "items": [
+        "i001",
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say call me?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Πάρε με.",
+      "items": [
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Πάρε με.",
+      "items": [
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "I go to school.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Πάω στο σχολείο.",
+      "items": [
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, call me, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Πάρε με. Ένας καφές.",
+      "items": [
+        "i002",
+        "i225",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Must.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Πρέπει.",
+      "items": [
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "I call. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "ωνώ",
+      "items": [
+        "i226"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "φωνώ",
+      "items": [
+        "i226"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "εφωνώ",
+      "items": [
+        "i226"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Πάρε με.",
+      "items": [
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say I call?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "To.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Να.",
+      "items": [
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "I call.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "I want, call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Θέλω. Πάρε με.",
+      "items": [
+        "i004",
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Please, I call, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Παρακαλώ. Τηλεφωνώ. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i226",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "See you, talk to you later, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b019",
+      "say": "I call.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say see you?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b021",
+      "say": "Work.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "See you.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, I call.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Τηλεφωνώ.",
+      "items": [
+        "i007",
+        "i226"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "School.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "No, see you, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Όχι. Θα τα πούμε. Νερό.",
+      "items": [
+        "i008",
+        "i227",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b026",
+      "say": "Bye is:",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "See you.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say bye?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "I work.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Bye.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Θα τα πούμε.",
+      "items": [
+        "i010",
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "Tomorrow morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "One, bye, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα. Γεια. Και.",
+      "items": [
+        "i011",
+        "i228",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b034",
+      "say": "Message. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b034",
+      "target": "ύμα",
+      "items": [
+        "i229"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "νύμα",
+      "items": [
+        "i229"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "ήνυμα",
+      "items": [
+        "i229"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "Μήνυμα.",
+      "items": [
+        "i229"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b034",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b034",
+      "target": "Μήνυμα.",
+      "items": [
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "Bye.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say message?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Μήνυμα.",
+      "items": [
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Gladly.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Message.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Μήνυμα.",
+      "items": [
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Πάρε με.",
+      "items": [
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "A tea, bye.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Ένα τσάι. Γεια.",
+      "items": [
+        "i013",
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Minutes is:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Message.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Μήνυμα.",
+      "items": [
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say minutes?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "With pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Minutes.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "For you, bye, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Για σένα. Γεια. Λίγο.",
+      "items": [
+        "i014",
+        "i228",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "Come.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "I call.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Τηλεφωνώ.",
+      "items": [
+        "i226"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Soon. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "τομα",
+      "items": [
+        "i231"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "ντομα",
+      "items": [
+        "i231"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Minutes.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say soon?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Not at all.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Soon.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "We will go.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "One more, bye.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Ακόμα ένα. Γεια.",
+      "items": [
+        "i016",
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "See you.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b058",
+      "say": "Very nice is:",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "Πολύ ωραία.",
+      "items": [
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Πολύ ωραία.",
+      "items": [
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Soon.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say very nice?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Πολύ ωραία.",
+      "items": [
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Very nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Πολύ ωραία.",
+      "items": [
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "My name is, bye, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "target": "Με λένε. Γεια. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i228",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "say": "Island.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Bye.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Nice to meet you, message.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Χάρηκα. Μήνυμα.",
+      "items": [
+        "i019",
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "You, minutes, I.",
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "target": "Εσύ; Λεπτά. Εγώ.",
+      "items": [
+        "i020",
+        "i230",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b068",
+      "say": "Very nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Πολύ ωραία.",
+      "items": [
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "At.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Nikos, soon.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Νίκος. Σύντομα.",
+      "items": [
+        "i022",
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Maria, very nice, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "target": "Μαρία. Πολύ ωραία. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i232",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b072",
+      "say": "Brother.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Αδερφός.",
+      "items": [
+        "i152"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "say": "I am, call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Είμαι. Πάρε με.",
+      "items": [
+        "i025",
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Message.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Μήνυμα.",
+      "items": [
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Greece, I call, Germany.",
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "target": "Ελλάδα. Τηλεφωνώ. Γερμανία.",
+      "items": [
+        "i026",
+        "i226",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "Spouse.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Σύζυγος.",
+      "items": [
+        "i145"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "Thessaloniki, see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Θεσσαλονίκη. Θα τα πούμε.",
+      "items": [
+        "i028",
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "I live, bye, where?",
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "target": "Μένω. Γεια. Πού;",
+      "items": [
+        "i029",
+        "i228",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "From, message.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Από. Μήνυμα.",
+      "items": [
+        "i031",
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Children.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Παιδιά.",
+      "items": [
+        "i146"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Minutes.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Λεπτά.",
+      "items": [
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Athens, minutes, two.",
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "target": "Αθήνα. Λεπτά. Δύο.",
+      "items": [
+        "i032",
+        "i230",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Three, soon.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τρία. Σύντομα.",
+      "items": [
+        "i034",
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Αθήνα.",
+      "items": [
+        "i032"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Four, very nice, five.",
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "target": "Τέσσερα. Πολύ ωραία. Πέντε.",
+      "items": [
+        "i035",
+        "i232",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "How many, call me.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Πόσα; Πάρε με.",
+      "items": [
+        "i037",
+        "i225"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "I am.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Είμαι.",
+      "items": [
+        "i025"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Kiosk, I call, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Περίπτερο. Τηλεφωνώ. Εδώ.",
+      "items": [
+        "i038",
+        "i226",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "A pack, see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ένα πακέτο. Θα τα πούμε.",
+      "items": [
+        "i040",
+        "i227"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Soon.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Σύντομα.",
+      "items": [
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Bread, bye, koulouri.",
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "target": "Ψωμί. Γεια. Κουλούρι.",
+      "items": [
+        "i041",
+        "i228",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Or, message.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ή. Μήνυμα.",
+      "items": [
+        "i043",
+        "i229"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "A friend calls you on the phone. You talk and say goodbye.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet your friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: call me later.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πάρε με αργότερα.",
+      "items": [
+        "i225",
+        "i089"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I call you soon.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τηλεφωνώ σύντομα.",
+      "items": [
+        "i226",
+        "i231"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: a message, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ένα μήνυμα, παρακαλώ.",
+      "items": [
+        "i011",
+        "i229",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: a few minutes.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λίγα λεπτά.",
+      "items": [
+        "i143",
+        "i230"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: see you.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θα τα πούμε.",
+      "items": [
+        "i227"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: very nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πολύ ωραία.",
+      "items": [
+        "i232"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: bye.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια.",
+      "items": [
+        "i228"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: is it at ten?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Στις δέκα;",
+      "items": [
+        "i187",
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: tomorrow, I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Αύριο, βλέπω.",
+      "items": [
+        "i086",
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my number, six, seven.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ο αριθμός μου: έξι, επτά.",
+      "items": [
+        "i104",
+        "i097",
+        "i098"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I am tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Είμαι κουρασμένος.",
+      "items": [
+        "i025",
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: thank you, good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ευχαριστώ. Καληνύχτα.",
+      "items": [
+        "i006",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: with pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: Athens, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Αθήνα. Δύο.",
+      "items": [
+        "i032",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the bill, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λογαριασμός, παρακαλώ.",
+      "items": [
+        "i124",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: four, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τέσσερα, πέντε.",
+      "items": [
+        "i035",
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I want a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θέλω ένα καφέ.",
+      "items": [
+        "i004",
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: school.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: work.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: we will go.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You can now talk on the phone and say goodbye. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

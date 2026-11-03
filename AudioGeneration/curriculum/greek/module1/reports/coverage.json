@@ -1,0 +1,3933 @@
+{
+  "note": "Derived from items.json + lessons/. Do not edit; regenerate with the coverage command.",
+  "items": [
+    {
+      "id": "i001",
+      "target": "Γεια σας",
+      "meaning": "hello (polite)",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i002",
+      "target": "Καλημέρα",
+      "meaning": "good morning",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i003",
+      "target": "ένας καφές",
+      "meaning": "a coffee",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i004",
+      "target": "θέλω",
+      "meaning": "I want",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i005",
+      "target": "παρακαλώ",
+      "meaning": "please",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i006",
+      "target": "ευχαριστώ",
+      "meaning": "thank you",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i007",
+      "target": "ναι",
+      "meaning": "yes",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i008",
+      "target": "όχι",
+      "meaning": "no",
+      "introduced": 1,
+      "heardInLessons": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i009",
+      "target": "νερό",
+      "meaning": "water",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i010",
+      "target": "πόσο κάνει;",
+      "meaning": "how much is it",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i011",
+      "target": "ένα",
+      "meaning": "one",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i012",
+      "target": "και",
+      "meaning": "and",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i013",
+      "target": "ένα τσάι",
+      "meaning": "a tea",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i014",
+      "target": "για σένα",
+      "meaning": "for you (informal)",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i015",
+      "target": "λίγο",
+      "meaning": "a little",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i016",
+      "target": "ακόμα ένα",
+      "meaning": "one more",
+      "introduced": 2,
+      "heardInLessons": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i017",
+      "target": "Με λένε",
+      "meaning": "my name is",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i018",
+      "target": "Πώς σε λένε;",
+      "meaning": "what is your name (informal)",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i019",
+      "target": "Χάρηκα",
+      "meaning": "nice to meet you",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i020",
+      "target": "εσύ",
+      "meaning": "you (informal)",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i021",
+      "target": "εγώ",
+      "meaning": "I",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i022",
+      "target": "Νίκος",
+      "meaning": "Nikos (name)",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i023",
+      "target": "Μαρία",
+      "meaning": "Maria (name)",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i024",
+      "target": "ονομάζομαι",
+      "meaning": "my name is (formal)",
+      "introduced": 3,
+      "heardInLessons": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i025",
+      "target": "είμαι",
+      "meaning": "I am",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i026",
+      "target": "Ελλάδα",
+      "meaning": "Greece",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i027",
+      "target": "Γερμανία",
+      "meaning": "Germany",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i028",
+      "target": "Θεσσαλονίκη",
+      "meaning": "Thessaloniki",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i029",
+      "target": "μένω",
+      "meaning": "I live",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i030",
+      "target": "πού;",
+      "meaning": "where?",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i031",
+      "target": "από",
+      "meaning": "from",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i032",
+      "target": "Αθήνα",
+      "meaning": "Athens",
+      "introduced": 4,
+      "heardInLessons": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i033",
+      "target": "δύο",
+      "meaning": "two",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i034",
+      "target": "τρία",
+      "meaning": "three",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i035",
+      "target": "τέσσερα",
+      "meaning": "four",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i036",
+      "target": "πέντε",
+      "meaning": "five",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i037",
+      "target": "πόσα;",
+      "meaning": "how many?",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i038",
+      "target": "περίπτερο",
+      "meaning": "kiosk",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i039",
+      "target": "εδώ",
+      "meaning": "here",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i040",
+      "target": "ένα πακέτο",
+      "meaning": "a pack",
+      "introduced": 5,
+      "heardInLessons": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i041",
+      "target": "ψωμί",
+      "meaning": "bread",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i042",
+      "target": "κουλούρι",
+      "meaning": "koulouri (sesame bread ring)",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i043",
+      "target": "ή",
+      "meaning": "or",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i044",
+      "target": "θέλετε",
+      "meaning": "you want (polite)",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        23,
+        24,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "i045",
+      "target": "πόσο;",
+      "meaning": "how much?",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        23,
+        24,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "i046",
+      "target": "φρέσκο",
+      "meaning": "fresh",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "i047",
+      "target": "πολύ",
+      "meaning": "very",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        15,
+        27
+      ]
+    },
+    {
+      "id": "i048",
+      "target": "καλό",
+      "meaning": "good",
+      "introduced": 6,
+      "heardInLessons": [
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        15,
+        26
+      ]
+    },
+    {
+      "id": "i049",
+      "target": "καλησπέρα",
+      "meaning": "good evening",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "i050",
+      "target": "Τι κάνεις;",
+      "meaning": "how are you (informal)",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        10,
+        11,
+        15,
+        26
+      ]
+    },
+    {
+      "id": "i051",
+      "target": "καλά",
+      "meaning": "well, fine",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        10,
+        11,
+        12,
+        22,
+        26
+      ]
+    },
+    {
+      "id": "i052",
+      "target": "έτσι κι έτσι",
+      "meaning": "so-so",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        9,
+        11,
+        17,
+        18,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i053",
+      "target": "κι εσύ",
+      "meaning": "and you (informal)",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        9,
+        12,
+        17
+      ]
+    },
+    {
+      "id": "i054",
+      "target": "σήμερα",
+      "meaning": "today",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        9,
+        10,
+        12,
+        17,
+        18,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i055",
+      "target": "καληνύχτα",
+      "meaning": "good night",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i056",
+      "target": "πρωί",
+      "meaning": "in the morning",
+      "introduced": 7,
+      "heardInLessons": [
+        7,
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "id": "i057",
+      "target": "πού είναι;",
+      "meaning": "where is it?",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9,
+        10,
+        13,
+        18,
+        26
+      ]
+    },
+    {
+      "id": "i058",
+      "target": "ξενοδοχείο",
+      "meaning": "hotel",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "i059",
+      "target": "στάση",
+      "meaning": "stop (bus)",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9,
+        10,
+        13
+      ]
+    },
+    {
+      "id": "i060",
+      "target": "πλατεία",
+      "meaning": "square",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "i061",
+      "target": "συγγνώμη",
+      "meaning": "sorry, excuse me",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9,
+        10,
+        26
+      ]
+    },
+    {
+      "id": "i062",
+      "target": "κοντά",
+      "meaning": "near",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "i063",
+      "target": "μακριά",
+      "meaning": "far",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9,
+        10,
+        11,
+        18,
+        28
+      ]
+    },
+    {
+      "id": "i064",
+      "target": "είναι",
+      "meaning": "it is",
+      "introduced": 8,
+      "heardInLessons": [
+        8,
+        9,
+        10,
+        11,
+        13,
+        18,
+        21,
+        22,
+        28
+      ]
+    },
+    {
+      "id": "i065",
+      "target": "αριστερά",
+      "meaning": "left",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "i066",
+      "target": "δεξιά",
+      "meaning": "right",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10,
+        11,
+        19
+      ]
+    },
+    {
+      "id": "i067",
+      "target": "ευθεία",
+      "meaning": "straight ahead",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10,
+        11,
+        14,
+        19
+      ]
+    },
+    {
+      "id": "i068",
+      "target": "εκεί",
+      "meaning": "there",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10,
+        11,
+        14,
+        19,
+        21
+      ]
+    },
+    {
+      "id": "i069",
+      "target": "κάτω",
+      "meaning": "down",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "i070",
+      "target": "πάνω",
+      "meaning": "up",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "i071",
+      "target": "μετά",
+      "meaning": "then, after",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "i072",
+      "target": "ακριβώς",
+      "meaning": "exactly",
+      "introduced": 9,
+      "heardInLessons": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "i073",
+      "target": "μετρό",
+      "meaning": "metro",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11,
+        12,
+        15,
+        30
+      ]
+    },
+    {
+      "id": "i074",
+      "target": "εισιτήριο",
+      "meaning": "ticket",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11,
+        30
+      ]
+    },
+    {
+      "id": "i075",
+      "target": "μπορώ",
+      "meaning": "I can",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "i076",
+      "target": "μπορείτε",
+      "meaning": "you can (polite)",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "i077",
+      "target": "ξανά",
+      "meaning": "again",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11,
+        12,
+        14,
+        20
+      ]
+    },
+    {
+      "id": "i078",
+      "target": "αργά",
+      "meaning": "slowly",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11,
+        12,
+        15,
+        20,
+        26
+      ]
+    },
+    {
+      "id": "i079",
+      "target": "πάω",
+      "meaning": "I go",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11,
+        12,
+        15,
+        20
+      ]
+    },
+    {
+      "id": "i080",
+      "target": "δεν",
+      "meaning": "not",
+      "introduced": 10,
+      "heardInLessons": [
+        10,
+        11,
+        12,
+        15,
+        26
+      ]
+    },
+    {
+      "id": "i081",
+      "target": "λεωφορείο",
+      "meaning": "bus",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        13,
+        16,
+        21
+      ]
+    },
+    {
+      "id": "i082",
+      "target": "στο κέντρο",
+      "meaning": "to the centre",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        13,
+        16,
+        21,
+        30
+      ]
+    },
+    {
+      "id": "i083",
+      "target": "Ποια στάση;",
+      "meaning": "which stop?",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        13,
+        16,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "i084",
+      "target": "ώρα",
+      "meaning": "hour, time",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "i085",
+      "target": "τώρα",
+      "meaning": "now",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        30
+      ]
+    },
+    {
+      "id": "i086",
+      "target": "αύριο",
+      "meaning": "tomorrow",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        22,
+        26,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i087",
+      "target": "Τι ώρα είναι;",
+      "meaning": "what time is it?",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        13,
+        22,
+        30
+      ]
+    },
+    {
+      "id": "i088",
+      "target": "ταξί",
+      "meaning": "taxi",
+      "introduced": 11,
+      "heardInLessons": [
+        11,
+        12,
+        13,
+        21
+      ]
+    },
+    {
+      "id": "i089",
+      "target": "αργότερα",
+      "meaning": "later",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        29
+      ]
+    },
+    {
+      "id": "i090",
+      "target": "μεσημέρι",
+      "meaning": "noon, midday",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        30
+      ]
+    },
+    {
+      "id": "i091",
+      "target": "βράδυ",
+      "meaning": "evening, night",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        14,
+        22
+      ]
+    },
+    {
+      "id": "i092",
+      "target": "πότε;",
+      "meaning": "when?",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        14,
+        17,
+        18,
+        22
+      ]
+    },
+    {
+      "id": "i093",
+      "target": "σε μία ώρα",
+      "meaning": "in one hour",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        14,
+        17,
+        18,
+        22
+      ]
+    },
+    {
+      "id": "i094",
+      "target": "κάθε μέρα",
+      "meaning": "every day",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        14,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "i095",
+      "target": "χθες",
+      "meaning": "yesterday",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "i096",
+      "target": "μέρα",
+      "meaning": "day",
+      "introduced": 12,
+      "heardInLessons": [
+        12,
+        13,
+        22
+      ]
+    },
+    {
+      "id": "i097",
+      "target": "έξι",
+      "meaning": "six",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14,
+        15,
+        18,
+        29
+      ]
+    },
+    {
+      "id": "i098",
+      "target": "επτά",
+      "meaning": "seven",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14,
+        15,
+        18,
+        29
+      ]
+    },
+    {
+      "id": "i099",
+      "target": "οκτώ",
+      "meaning": "eight",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "i100",
+      "target": "εννιά",
+      "meaning": "nine",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "i101",
+      "target": "δέκα",
+      "meaning": "ten",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14,
+        24,
+        25,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i102",
+      "target": "τηλέφωνο",
+      "meaning": "phone",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14,
+        15,
+        23
+      ]
+    },
+    {
+      "id": "i103",
+      "target": "αριθμός",
+      "meaning": "number",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14,
+        15,
+        18,
+        23
+      ]
+    },
+    {
+      "id": "i104",
+      "target": "ο αριθμός μου",
+      "meaning": "my number",
+      "introduced": 13,
+      "heardInLessons": [
+        13,
+        14,
+        15,
+        18,
+        23,
+        29
+      ]
+    },
+    {
+      "id": "i105",
+      "target": "φρούτα",
+      "meaning": "fruit",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15,
+        16,
+        24
+      ]
+    },
+    {
+      "id": "i106",
+      "target": "κιλό",
+      "meaning": "kilo",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15,
+        16,
+        19,
+        24
+      ]
+    },
+    {
+      "id": "i107",
+      "target": "αυτό",
+      "meaning": "this one",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15,
+        16,
+        19,
+        24
+      ]
+    },
+    {
+      "id": "i108",
+      "target": "εκείνο",
+      "meaning": "that one",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "i109",
+      "target": "μήλα",
+      "meaning": "apples",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15,
+        16,
+        19
+      ]
+    },
+    {
+      "id": "i110",
+      "target": "πορτοκάλια",
+      "meaning": "oranges",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "i111",
+      "target": "μισό",
+      "meaning": "half",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "i112",
+      "target": "ντομάτες",
+      "meaning": "tomatoes",
+      "introduced": 14,
+      "heardInLessons": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "i113",
+      "target": "μου αρέσει",
+      "meaning": "I like",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16,
+        17,
+        20,
+        21,
+        24,
+        26,
+        30
+      ]
+    },
+    {
+      "id": "i114",
+      "target": "δεν μου αρέσει",
+      "meaning": "I don't like",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "i115",
+      "target": "πάρα πολύ",
+      "meaning": "very much",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16,
+        17,
+        20,
+        24,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "i116",
+      "target": "καλύτερα",
+      "meaning": "better",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16,
+        17,
+        20,
+        25
+      ]
+    },
+    {
+      "id": "i117",
+      "target": "γλυκό",
+      "meaning": "sweet",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16,
+        17,
+        18,
+        20,
+        25
+      ]
+    },
+    {
+      "id": "i118",
+      "target": "ζεστό",
+      "meaning": "hot",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16,
+        17,
+        20,
+        25
+      ]
+    },
+    {
+      "id": "i119",
+      "target": "κρύο",
+      "meaning": "cold",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "i120",
+      "target": "ωραίο",
+      "meaning": "nice, beautiful",
+      "introduced": 15,
+      "heardInLessons": [
+        15,
+        16,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "i121",
+      "target": "τραπέζι",
+      "meaning": "table",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        18,
+        20,
+        21,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "i122",
+      "target": "για δύο",
+      "meaning": "for two",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        18,
+        20,
+        21,
+        25
+      ]
+    },
+    {
+      "id": "i123",
+      "target": "κατάλογος",
+      "meaning": "menu",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        18,
+        21,
+        24,
+        30
+      ]
+    },
+    {
+      "id": "i124",
+      "target": "λογαριασμός",
+      "meaning": "bill",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        20,
+        25,
+        27,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i125",
+      "target": "ένα ποτήρι",
+      "meaning": "a glass",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        20
+      ]
+    },
+    {
+      "id": "i126",
+      "target": "ψάρι",
+      "meaning": "fish",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        18,
+        20,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "i127",
+      "target": "σαλάτα",
+      "meaning": "salad",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        18,
+        20,
+        26,
+        30
+      ]
+    },
+    {
+      "id": "i128",
+      "target": "κρασί",
+      "meaning": "wine",
+      "introduced": 16,
+      "heardInLessons": [
+        16,
+        17,
+        18,
+        20,
+        21,
+        25,
+        26,
+        30
+      ]
+    },
+    {
+      "id": "i129",
+      "target": "μπύρα",
+      "meaning": "beer",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "i130",
+      "target": "γάλα",
+      "meaning": "milk",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18,
+        19,
+        27
+      ]
+    },
+    {
+      "id": "i131",
+      "target": "κοτόπουλο",
+      "meaning": "chicken",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18,
+        19,
+        22,
+        27
+      ]
+    },
+    {
+      "id": "i132",
+      "target": "γιαούρτι",
+      "meaning": "yogurt",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18,
+        19,
+        22,
+        27
+      ]
+    },
+    {
+      "id": "i133",
+      "target": "ένα γλυκό",
+      "meaning": "a dessert",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18,
+        19,
+        22
+      ]
+    },
+    {
+      "id": "i134",
+      "target": "τυρί",
+      "meaning": "cheese",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18,
+        19,
+        22
+      ]
+    },
+    {
+      "id": "i135",
+      "target": "χυμός",
+      "meaning": "juice",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "i136",
+      "target": "μιλάτε",
+      "meaning": "you speak (polite)",
+      "introduced": 17,
+      "heardInLessons": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "i137",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "meaning": "can you repeat it?",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19,
+        20,
+        21,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "i138",
+      "target": "καταλαβαίνω",
+      "meaning": "I understand",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "i139",
+      "target": "δεν καταλαβαίνω",
+      "meaning": "I don't understand",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "i140",
+      "target": "ελληνικά",
+      "meaning": "Greek (language)",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19,
+        21
+      ]
+    },
+    {
+      "id": "i141",
+      "target": "αγγλικά",
+      "meaning": "English (language)",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19,
+        20,
+        28
+      ]
+    },
+    {
+      "id": "i142",
+      "target": "ξέρω",
+      "meaning": "I know",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19,
+        20,
+        23,
+        28
+      ]
+    },
+    {
+      "id": "i143",
+      "target": "λίγα",
+      "meaning": "a few, a little",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19,
+        20,
+        21,
+        23,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i144",
+      "target": "αργά, παρακαλώ",
+      "meaning": "slowly, please",
+      "introduced": 18,
+      "heardInLessons": [
+        18,
+        19,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "i145",
+      "target": "σύζυγος",
+      "meaning": "spouse",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20,
+        21,
+        24,
+        29
+      ]
+    },
+    {
+      "id": "i146",
+      "target": "παιδιά",
+      "meaning": "children",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20,
+        21,
+        24,
+        29
+      ]
+    },
+    {
+      "id": "i147",
+      "target": "φίλος",
+      "meaning": "friend (male)",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20,
+        21,
+        24
+      ]
+    },
+    {
+      "id": "i148",
+      "target": "η γυναίκα μου",
+      "meaning": "my wife",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20,
+        21,
+        24
+      ]
+    },
+    {
+      "id": "i149",
+      "target": "ο άντρας μου",
+      "meaning": "my husband",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "i150",
+      "target": "μητέρα",
+      "meaning": "mother",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "i151",
+      "target": "πατέρας",
+      "meaning": "father",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "i152",
+      "target": "αδερφός",
+      "meaning": "brother",
+      "introduced": 19,
+      "heardInLessons": [
+        19,
+        20,
+        21,
+        29
+      ]
+    },
+    {
+      "id": "i153",
+      "target": "απόψε",
+      "meaning": "tonight",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21,
+        22,
+        27,
+        30
+      ]
+    },
+    {
+      "id": "i154",
+      "target": "μαζί",
+      "meaning": "together",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21,
+        22,
+        27,
+        30
+      ]
+    },
+    {
+      "id": "i155",
+      "target": "ωραία",
+      "meaning": "great, fine",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        30
+      ]
+    },
+    {
+      "id": "i156",
+      "target": "αδερφή",
+      "meaning": "sister",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21,
+        22,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "i157",
+      "target": "τι θα πάρετε;",
+      "meaning": "what will you have?",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21,
+        22,
+        25,
+        30
+      ]
+    },
+    {
+      "id": "i158",
+      "target": "πάμε",
+      "meaning": "let's go",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21,
+        22,
+        24,
+        25
+      ]
+    },
+    {
+      "id": "i159",
+      "target": "καλή όρεξη",
+      "meaning": "enjoy your meal",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21,
+        22,
+        25
+      ]
+    },
+    {
+      "id": "i160",
+      "target": "θα",
+      "meaning": "will",
+      "introduced": 20,
+      "heardInLessons": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "i161",
+      "target": "δωμάτιο",
+      "meaning": "room",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "i162",
+      "target": "κλειδί",
+      "meaning": "key",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "i163",
+      "target": "για τρεις νύχτες",
+      "meaning": "for three nights",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "i164",
+      "target": "πρωινό",
+      "meaning": "breakfast",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22,
+        30
+      ]
+    },
+    {
+      "id": "i165",
+      "target": "νύχτα",
+      "meaning": "night",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "i166",
+      "target": "όροφος",
+      "meaning": "floor",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "id": "i167",
+      "target": "ασανσέρ",
+      "meaning": "elevator",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "i168",
+      "target": "ήσυχο",
+      "meaning": "quiet",
+      "introduced": 21,
+      "heardInLessons": [
+        21,
+        22,
+        23,
+        26
+      ]
+    },
+    {
+      "id": "i169",
+      "target": "Δευτέρα",
+      "meaning": "Monday",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23,
+        24,
+        28
+      ]
+    },
+    {
+      "id": "i170",
+      "target": "Τρίτη",
+      "meaning": "Tuesday",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "i171",
+      "target": "Τετάρτη",
+      "meaning": "Wednesday",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "i172",
+      "target": "Πέμπτη",
+      "meaning": "Thursday",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "i173",
+      "target": "Παρασκευή",
+      "meaning": "Friday",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23,
+        24,
+        27
+      ]
+    },
+    {
+      "id": "i174",
+      "target": "Σάββατο",
+      "meaning": "Saturday",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "i175",
+      "target": "Κυριακή",
+      "meaning": "Sunday",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "i176",
+      "target": "εβδομάδα",
+      "meaning": "week",
+      "introduced": 22,
+      "heardInLessons": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "i177",
+      "target": "ήλιος",
+      "meaning": "sun",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24,
+        30
+      ]
+    },
+    {
+      "id": "i178",
+      "target": "βροχή",
+      "meaning": "rain",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "i179",
+      "target": "θάλασσα",
+      "meaning": "sea",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24,
+        30
+      ]
+    },
+    {
+      "id": "i180",
+      "target": "ζέστη",
+      "meaning": "heat",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "id": "i181",
+      "target": "καιρός",
+      "meaning": "weather",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "i182",
+      "target": "αέρας",
+      "meaning": "wind",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "i183",
+      "target": "σύννεφα",
+      "meaning": "clouds",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "i184",
+      "target": "ωραίος καιρός",
+      "meaning": "nice weather",
+      "introduced": 23,
+      "heardInLessons": [
+        23,
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "i185",
+      "target": "βάρκα",
+      "meaning": "boat",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25,
+        26,
+        29
+      ]
+    },
+    {
+      "id": "i186",
+      "target": "νησί",
+      "meaning": "island",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25,
+        26,
+        29
+      ]
+    },
+    {
+      "id": "i187",
+      "target": "στις",
+      "meaning": "at (a time)",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25,
+        26,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i188",
+      "target": "τι ώρα;",
+      "meaning": "at what time?",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "id": "i189",
+      "target": "ταξίδι",
+      "meaning": "trip",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "i190",
+      "target": "καλό ταξίδι",
+      "meaning": "have a good trip",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "i191",
+      "target": "ποδήλατο",
+      "meaning": "bicycle",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "i192",
+      "target": "θα πάμε",
+      "meaning": "we will go",
+      "introduced": 24,
+      "heardInLessons": [
+        24,
+        25,
+        26,
+        29
+      ]
+    },
+    {
+      "id": "i193",
+      "target": "μεγάλο",
+      "meaning": "big",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "i194",
+      "target": "μικρό",
+      "meaning": "small",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "id": "i195",
+      "target": "χρώμα",
+      "meaning": "colour",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26,
+        27,
+        30
+      ]
+    },
+    {
+      "id": "i196",
+      "target": "ακριβό",
+      "meaning": "expensive",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26,
+        27,
+        30
+      ]
+    },
+    {
+      "id": "i197",
+      "target": "φθηνό",
+      "meaning": "cheap",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26,
+        27,
+        30
+      ]
+    },
+    {
+      "id": "i198",
+      "target": "το παίρνω",
+      "meaning": "I'll take it",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26,
+        27,
+        30
+      ]
+    },
+    {
+      "id": "i199",
+      "target": "μπλε",
+      "meaning": "blue",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "i200",
+      "target": "κόκκινο",
+      "meaning": "red",
+      "introduced": 25,
+      "heardInLessons": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "i201",
+      "target": "κουρασμένος",
+      "meaning": "tired (male)",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i202",
+      "target": "πονάει",
+      "meaning": "it hurts",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "i203",
+      "target": "το κεφάλι μου",
+      "meaning": "my head",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "i204",
+      "target": "φαρμακείο",
+      "meaning": "pharmacy",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i205",
+      "target": "γιατρός",
+      "meaning": "doctor",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i206",
+      "target": "πυρετός",
+      "meaning": "fever",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i207",
+      "target": "άρρωστος",
+      "meaning": "sick (male)",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i208",
+      "target": "λυπάμαι",
+      "meaning": "I'm sorry",
+      "introduced": 26,
+      "heardInLessons": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i209",
+      "target": "θέλεις;",
+      "meaning": "do you want?",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i210",
+      "target": "με χαρά",
+      "meaning": "with pleasure",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i211",
+      "target": "έλα",
+      "meaning": "come",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i212",
+      "target": "καθόλου",
+      "meaning": "not at all",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i213",
+      "target": "πάντα",
+      "meaning": "always",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i214",
+      "target": "ίσως",
+      "meaning": "maybe",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i215",
+      "target": "εντάξει",
+      "meaning": "OK",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "i216",
+      "target": "ευχαρίστως",
+      "meaning": "gladly",
+      "introduced": 27,
+      "heardInLessons": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i217",
+      "target": "πρέπει",
+      "meaning": "must",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i218",
+      "target": "να",
+      "meaning": "to",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i219",
+      "target": "βλέπω",
+      "meaning": "I see",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i220",
+      "target": "δουλειά",
+      "meaning": "work",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i221",
+      "target": "σχολείο",
+      "meaning": "school",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i222",
+      "target": "δουλεύω",
+      "meaning": "I work",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i223",
+      "target": "αύριο το πρωί",
+      "meaning": "tomorrow morning",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i224",
+      "target": "πάω στο σχολείο",
+      "meaning": "I go to school",
+      "introduced": 28,
+      "heardInLessons": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "i225",
+      "target": "πάρε με",
+      "meaning": "call me (informal)",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i226",
+      "target": "τηλεφωνώ",
+      "meaning": "I call",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i227",
+      "target": "θα τα πούμε",
+      "meaning": "talk to you later",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i228",
+      "target": "γεια",
+      "meaning": "bye",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i229",
+      "target": "μήνυμα",
+      "meaning": "message",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i230",
+      "target": "λεπτά",
+      "meaning": "minutes",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i231",
+      "target": "σύντομα",
+      "meaning": "soon",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i232",
+      "target": "πολύ ωραία",
+      "meaning": "very nice",
+      "introduced": 29,
+      "heardInLessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "i233",
+      "target": "όλη μέρα",
+      "meaning": "all day",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    },
+    {
+      "id": "i234",
+      "target": "καλό βράδυ",
+      "meaning": "good evening, good night",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    },
+    {
+      "id": "i235",
+      "target": "ευτυχισμένος",
+      "meaning": "happy (male)",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    },
+    {
+      "id": "i236",
+      "target": "αντίο",
+      "meaning": "goodbye",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    },
+    {
+      "id": "i237",
+      "target": "τα λέμε",
+      "meaning": "see you",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    },
+    {
+      "id": "i238",
+      "target": "καλή τύχη",
+      "meaning": "good luck",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    },
+    {
+      "id": "i239",
+      "target": "χαίρομαι",
+      "meaning": "I'm glad",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    },
+    {
+      "id": "i240",
+      "target": "πολύ καλά",
+      "meaning": "very well",
+      "introduced": 30,
+      "heardInLessons": [
+        30
+      ]
+    }
+  ]
+}

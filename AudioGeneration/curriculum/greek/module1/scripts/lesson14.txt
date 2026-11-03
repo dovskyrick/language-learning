@@ -1,0 +1,757 @@
+Greek, Module 1 — Lesson 14
+
+Today you shop at the market: fruit, a kilo, this one, that one, and how much.
+[pause 2s]
+
+Listen to a customer at the fruit stall.
+[pause 2s]
+
+"Γεια σας. Φρούτα, παρακαλώ...."
+[pause 7s]
+
+"Ένα κιλό μήλα...."
+[pause 7s]
+
+"Αυτό, ή εκείνο;..."
+[pause 7s]
+
+"Πορτοκάλια και ντομάτες...."
+[pause 7s]
+
+"Μισό κιλό...."
+[pause 6s]
+
+"Πόσο κάνει;..."
+[pause 6s]
+
+"Ευχαριστώ...."
+[pause 6s]
+
+The word for fruit is:
+[pause 2s]
+
+"Φρούτα...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Φρούτα...."
+[pause 6s]
+
+Greet politely, then fruit.
+[pause 6s]
+
+"Γεια σας. Φρούτα...."
+[pause 6s]
+
+How do you say fruit?
+[pause 6s]
+
+"Φρούτα...."
+[pause 6s]
+
+Fruit.
+[pause 6s]
+
+"Φρούτα...."
+[pause 6s]
+
+Eight.
+[pause 6s]
+
+"Οκτώ...."
+[pause 6s]
+
+Good morning, fruit, a coffee.
+[pause 6s]
+
+"Καλημέρα. Φρούτα. Ένας καφές...."
+[pause 7s]
+
+I want fruit.
+[pause 6s]
+
+"Θέλω φρούτα...."
+[pause 6s]
+
+The word for kilo is:
+[pause 2s]
+
+"Κιλό...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Κιλό...."
+[pause 6s]
+
+Fruit.
+[pause 6s]
+
+"Φρούτα...."
+[pause 6s]
+
+How do you say kilo?
+[pause 6s]
+
+"Κιλό...."
+[pause 6s]
+
+Nine.
+[pause 6s]
+
+"Εννιά...."
+[pause 6s]
+
+Kilo.
+[pause 6s]
+
+"Κιλό...."
+[pause 6s]
+
+Ten.
+[pause 6s]
+
+"Δέκα...."
+[pause 6s]
+
+Please, kilo, thank you.
+[pause 6s]
+
+"Παρακαλώ. Κιλό. Ευχαριστώ...."
+[pause 7s]
+
+Yes, fruit.
+[pause 6s]
+
+"Ναι. Φρούτα...."
+[pause 6s]
+
+This one. The word is:
+[pause 2s]
+
+"Αυτό...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Αυτό...."
+[pause 6s]
+
+Kilo.
+[pause 6s]
+
+"Κιλό...."
+[pause 6s]
+
+How do you say this one?
+[pause 6s]
+
+"Αυτό...."
+[pause 6s]
+
+Phone.
+[pause 6s]
+
+"Τηλέφωνο...."
+[pause 6s]
+
+This one.
+[pause 6s]
+
+"Αυτό...."
+[pause 6s]
+
+Number.
+[pause 6s]
+
+"Αριθμός...."
+[pause 6s]
+
+No, this one, water.
+[pause 6s]
+
+"Όχι. Αυτό. Νερό...."
+[pause 7s]
+
+How much is it, fruit.
+[pause 6s]
+
+"Πόσο κάνει; Φρούτα...."
+[pause 6s]
+
+That one. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"νο..."
+[pause 3s]
+
+"ίνο..."
+[pause 3s]
+
+"είνο..."
+[pause 3s]
+
+"Εκείνο...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Εκείνο...."
+[pause 6s]
+
+This one.
+[pause 6s]
+
+"Αυτό...."
+[pause 6s]
+
+How do you say that one?
+[pause 6s]
+
+"Εκείνο...."
+[pause 6s]
+
+My number.
+[pause 6s]
+
+"Ο αριθμός μου...."
+[pause 7s]
+
+That one.
+[pause 6s]
+
+"Εκείνο...."
+[pause 6s]
+
+Six, this one, and.
+[pause 6s]
+
+"Έξι. Αυτό. Και...."
+[pause 7s]
+
+One, that one, and.
+[pause 6s]
+
+"Ένα. Εκείνο. Και...."
+[pause 7s]
+
+A tea, fruit.
+[pause 6s]
+
+"Ένα τσάι. Φρούτα...."
+[pause 7s]
+
+The word for apples is:
+[pause 2s]
+
+"Μήλα...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Μήλα...."
+[pause 6s]
+
+That one.
+[pause 6s]
+
+"Εκείνο...."
+[pause 6s]
+
+How do you say apples?
+[pause 6s]
+
+"Μήλα...."
+[pause 6s]
+
+Seven, again.
+[pause 6s]
+
+"Επτά. Ξανά...."
+[pause 6s]
+
+Apples.
+[pause 6s]
+
+"Μήλα...."
+[pause 6s]
+
+Evening, for you, yesterday, ten.
+[pause 6s]
+
+"Βράδυ. Για σένα. Χθες. Δέκα...."
+[pause 7s]
+
+For you, apples, a little.
+[pause 6s]
+
+"Για σένα. Μήλα. Λίγο...."
+[pause 7s]
+
+Fruit.
+[pause 6s]
+
+"Φρούτα...."
+[pause 6s]
+
+Listen to the pieces, starting from the end.
+[pause 2s]
+
+"άλια..."
+[pause 3s]
+
+"καλια..."
+[pause 3s]
+
+"τοκάλια..."
+[pause 3s]
+
+"Πορτοκάλια...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Πορτοκάλια...."
+[pause 6s]
+
+Apples.
+[pause 6s]
+
+"Μήλα...."
+[pause 6s]
+
+How do you say oranges?
+[pause 6s]
+
+"Πορτοκάλια...."
+[pause 6s]
+
+When?
+[pause 6s]
+
+"Πότε;..."
+[pause 6s]
+
+Oranges.
+[pause 6s]
+
+"Πορτοκάλια...."
+[pause 6s]
+
+In one hour.
+[pause 6s]
+
+"Σε μία ώρα...."
+[pause 7s]
+
+Kilo.
+[pause 6s]
+
+"Κιλό...."
+[pause 6s]
+
+One more, apples.
+[pause 6s]
+
+"Ακόμα ένα. Μήλα...."
+[pause 7s]
+
+The word for half is:
+[pause 2s]
+
+"Μισό...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Μισό...."
+[pause 6s]
+
+Oranges.
+[pause 6s]
+
+"Πορτοκάλια...."
+[pause 6s]
+
+Half.
+[pause 6s]
+
+"Μισό...."
+[pause 6s]
+
+Every day.
+[pause 6s]
+
+"Κάθε μέρα...."
+[pause 6s]
+
+Half.
+[pause 6s]
+
+"Μισό...."
+[pause 6s]
+
+My name is, apples, what is your name?
+[pause 6s]
+
+"Με λένε. Μήλα. Πώς σε λένε;..."
+[pause 7s]
+
+This one.
+[pause 6s]
+
+"Αυτό...."
+[pause 6s]
+
+Yesterday.
+[pause 6s]
+
+"Χθες...."
+[pause 6s]
+
+The word for tomatoes. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"άτες..."
+[pause 3s]
+
+"ματες..."
+[pause 3s]
+
+"ομάτες..."
+[pause 3s]
+
+"Ντομάτες...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Ντομάτες...."
+[pause 6s]
+
+Half.
+[pause 6s]
+
+"Μισό...."
+[pause 6s]
+
+Tomatoes.
+[pause 6s]
+
+"Ντομάτες...."
+[pause 6s]
+
+Straight ahead.
+[pause 6s]
+
+"Ευθεία...."
+[pause 6s]
+
+Tomatoes.
+[pause 6s]
+
+"Ντομάτες...."
+[pause 6s]
+
+Nice to meet you, apples.
+[pause 6s]
+
+"Χάρηκα. Μήλα...."
+[pause 6s]
+
+You, orange, I.
+[pause 6s]
+
+"Εσύ; Πορτοκάλια. Εγώ...."
+[pause 7s]
+
+That one.
+[pause 6s]
+
+"Εκείνο...."
+[pause 6s]
+
+There.
+[pause 6s]
+
+"Εκεί...."
+[pause 6s]
+
+Nikos, half.
+[pause 6s]
+
+"Νίκος. Μισό...."
+[pause 6s]
+
+Tomatoes.
+[pause 6s]
+
+"Ντομάτες...."
+[pause 6s]
+
+Down.
+[pause 6s]
+
+"Κάτω...."
+[pause 6s]
+
+Maria, tomatoes, my name is formal.
+[pause 6s]
+
+"Μαρία. Ντομάτες. Ονομάζομαι...."
+[pause 7s]
+
+I am, fruit.
+[pause 6s]
+
+"Είμαι. Φρούτα...."
+[pause 6s]
+
+Greece, kilo, Germany.
+[pause 6s]
+
+"Ελλάδα. Κιλό. Γερμανία...."
+[pause 7s]
+
+Apples.
+[pause 6s]
+
+"Μήλα...."
+[pause 6s]
+
+Up.
+[pause 6s]
+
+"Πάνω...."
+[pause 6s]
+
+Thessaloniki, this one.
+[pause 6s]
+
+"Θεσσαλονίκη. Αυτό...."
+[pause 6s]
+
+I live, that one, where?
+[pause 6s]
+
+"Μένω. Εκείνο. Πού;..."
+[pause 7s]
+
+From, apples.
+[pause 6s]
+
+"Από. Μήλα...."
+[pause 6s]
+
+Germany.
+[pause 6s]
+
+"Γερμανία...."
+[pause 6s]
+
+Athens, oranges, two.
+[pause 6s]
+
+"Αθήνα. Πορτοκάλια. Δύο...."
+[pause 7s]
+
+Three, half.
+[pause 6s]
+
+"Τρία. Μισό...."
+[pause 6s]
+
+Oranges.
+[pause 6s]
+
+"Πορτοκάλια...."
+[pause 6s]
+
+Thessaloniki.
+[pause 6s]
+
+"Θεσσαλονίκη...."
+[pause 6s]
+
+Four, tomatoes, five.
+[pause 6s]
+
+"Τέσσερα. Ντομάτες. Πέντε...."
+[pause 7s]
+
+How many, fruit.
+[pause 6s]
+
+"Πόσα; Φρούτα...."
+[pause 6s]
+
+Kiosk, kilo, here.
+[pause 6s]
+
+"Περίπτερο. Κιλό. Εδώ...."
+[pause 7s]
+
+I live.
+[pause 6s]
+
+"Μένω...."
+[pause 6s]
+
+A pack, this one.
+[pause 6s]
+
+"Ένα πακέτο. Αυτό...."
+[pause 7s]
+
+Half.
+[pause 6s]
+
+"Μισό...."
+[pause 6s]
+
+Bread, that one, koulouri.
+[pause 6s]
+
+"Ψωμί. Εκείνο. Κουλούρι...."
+[pause 7s]
+
+Or, apples.
+[pause 6s]
+
+"Ή. Μήλα...."
+[pause 6s]
+
+You want, oranges, how much.
+[pause 6s]
+
+"Θέλετε; Πορτοκάλια. Πόσο;..."
+[pause 7s]
+
+You are at the market. The stall owner greets you.
+[pause 2s]
+
+Greet him politely.
+[pause 6s]
+
+"Γεια σας...."
+[pause 6s]
+
+Ask for fruit, please.
+[pause 6s]
+
+"Φρούτα, παρακαλώ...."
+[pause 6s]
+
+Ask for one kilo of apples.
+[pause 6s]
+
+"Ένα κιλό μήλα...."
+[pause 7s]
+
+He asks: this one or that one? Answer: that one.
+[pause 6s]
+
+"Εκείνο...."
+[pause 6s]
+
+Ask for half a kilo of tomatoes.
+[pause 6s]
+
+"Μισό κιλό ντομάτες...."
+[pause 7s]
+
+Ask how much it is.
+[pause 6s]
+
+"Πόσο κάνει;..."
+[pause 6s]
+
+He says: ten. Say: thank you.
+[pause 6s]
+
+"Ευχαριστώ...."
+[pause 6s]
+
+Ask for oranges.
+[pause 6s]
+
+"Πορτοκάλια, παρακαλώ...."
+[pause 7s]
+
+Say: this one, please.
+[pause 6s]
+
+"Αυτό, παρακαλώ...."
+[pause 6s]
+
+Say: yes, and fresh.
+[pause 6s]
+
+"Ναι. Και φρέσκο...."
+[pause 6s]
+
+Say: no, thank you.
+[pause 6s]
+
+"Όχι, ευχαριστώ...."
+[pause 6s]
+
+Say: I live in Athens. How many? Two.
+[pause 6s]
+
+"Μένω στην Αθήνα. Δύο...."
+[pause 7s]
+
+Say: my number is six, seven, eight.
+[pause 6s]
+
+"Ο αριθμός μου: έξι, επτά, οκτώ...."
+[pause 7s]
+
+Say: good morning, goodbye.
+[pause 6s]
+
+"Καλημέρα. Καληνύχτα...."
+[pause 6s]
+
+Say: here, please.
+[pause 6s]
+
+"Εδώ, παρακαλώ...."
+[pause 6s]
+
+Say: one more, please.
+[pause 6s]
+
+"Ακόμα ένα, παρακαλώ...."
+[pause 7s]
+
+Say: this one or that one, please.
+[pause 6s]
+
+"Αυτό ή εκείνο, παρακαλώ...."
+[pause 7s]
+
+Ask: when is it ready?
+[pause 6s]
+
+"Πότε;..."
+[pause 6s]
+
+Say: in one hour.
+[pause 6s]
+
+"Σε μία ώρα...."
+[pause 6s]
+
+Well done. You can now shop at the market, ask for fruit, and say how much. See you in the next lesson.
+[pause 2s]

@@ -1,0 +1,739 @@
+Greek, Module 1 — Lesson 17
+
+Today you order food and drink: beer, milk, chicken, yogurt, cheese, juice, and something sweet.
+[pause 2s]
+
+Listen to a family ordering at the taverna.
+[pause 2s]
+
+"Γεια σας. Μπύρα ή γάλα;..."
+[pause 7s]
+
+"Το κοτόπουλο, παρακαλώ...."
+[pause 6s]
+
+"Γιαούρτι και τυρί...."
+[pause 6s]
+
+"Ένα γλυκό, για σένα...."
+[pause 6s]
+
+"Χυμός;..."
+[pause 6s]
+
+"Ευχαριστώ...."
+[pause 6s]
+
+Beer is:
+[pause 2s]
+
+"Μπύρα...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Μπύρα...."
+[pause 6s]
+
+Greet politely, then beer.
+[pause 6s]
+
+"Γεια σας. Μπύρα...."
+[pause 6s]
+
+How do you say beer?
+[pause 6s]
+
+"Μπύρα...."
+[pause 6s]
+
+Beer.
+[pause 6s]
+
+"Μπύρα...."
+[pause 6s]
+
+Bill.
+[pause 6s]
+
+"Λογαριασμός...."
+[pause 6s]
+
+Good morning, beer, a coffee.
+[pause 6s]
+
+"Καλημέρα. Μπύρα. Ένας καφές...."
+[pause 7s]
+
+I want beer.
+[pause 6s]
+
+"Θέλω μπύρα...."
+[pause 6s]
+
+Milk is:
+[pause 2s]
+
+"Γάλα...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Γάλα...."
+[pause 6s]
+
+Beer.
+[pause 6s]
+
+"Μπύρα...."
+[pause 6s]
+
+How do you say milk?
+[pause 6s]
+
+"Γάλα...."
+[pause 6s]
+
+A glass.
+[pause 6s]
+
+"Ένα ποτήρι...."
+[pause 6s]
+
+Milk.
+[pause 6s]
+
+"Γάλα...."
+[pause 6s]
+
+Fish.
+[pause 6s]
+
+"Ψάρι...."
+[pause 6s]
+
+Please, milk, thank you.
+[pause 6s]
+
+"Παρακαλώ. Γάλα. Ευχαριστώ...."
+[pause 7s]
+
+Yes, beer.
+[pause 6s]
+
+"Ναι. Μπύρα...."
+[pause 6s]
+
+Chicken. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"πουλο..."
+[pause 3s]
+
+"τόπουλο..."
+[pause 3s]
+
+"οτόπουλο..."
+[pause 3s]
+
+"Κοτόπουλο...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Κοτόπουλο...."
+[pause 6s]
+
+Milk.
+[pause 6s]
+
+"Γάλα...."
+[pause 6s]
+
+How do you say chicken?
+[pause 6s]
+
+"Κοτόπουλο...."
+[pause 6s]
+
+Salad.
+[pause 6s]
+
+"Σαλάτα...."
+[pause 6s]
+
+Chicken.
+[pause 6s]
+
+"Κοτόπουλο...."
+[pause 6s]
+
+Wine.
+[pause 6s]
+
+"Κρασί...."
+[pause 6s]
+
+No, chicken, water.
+[pause 6s]
+
+"Όχι. Κοτόπουλο. Νερό...."
+[pause 7s]
+
+How much is it, beer.
+[pause 6s]
+
+"Πόσο κάνει; Μπύρα...."
+[pause 6s]
+
+Yogurt. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"ρτι..."
+[pause 3s]
+
+"ούρτι..."
+[pause 3s]
+
+"αούρτι..."
+[pause 3s]
+
+"Γιαούρτι...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Γιαούρτι...."
+[pause 6s]
+
+Chicken.
+[pause 6s]
+
+"Κοτόπουλο...."
+[pause 6s]
+
+How do you say yogurt?
+[pause 6s]
+
+"Γιαούρτι...."
+[pause 6s]
+
+Table.
+[pause 6s]
+
+"Τραπέζι...."
+[pause 6s]
+
+Yogurt.
+[pause 6s]
+
+"Γιαούρτι...."
+[pause 6s]
+
+For two.
+[pause 6s]
+
+"Για δύο...."
+[pause 6s]
+
+One, yogurt, and.
+[pause 6s]
+
+"Ένα. Γιαούρτι. Και...."
+[pause 7s]
+
+A tea, beer.
+[pause 6s]
+
+"Ένα τσάι. Μπύρα...."
+[pause 6s]
+
+A dessert is:
+[pause 2s]
+
+"Ένα γλυκό...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Ένα γλυκό...."
+[pause 6s]
+
+Yogurt.
+[pause 6s]
+
+"Γιαούρτι...."
+[pause 6s]
+
+How do you say a dessert?
+[pause 6s]
+
+"Ένα γλυκό...."
+[pause 6s]
+
+Menu.
+[pause 6s]
+
+"Κατάλογος...."
+[pause 6s]
+
+A dessert.
+[pause 6s]
+
+"Ένα γλυκό...."
+[pause 6s]
+
+Better.
+[pause 6s]
+
+"Καλύτερα...."
+[pause 6s]
+
+Beer.
+[pause 6s]
+
+"Μπύρα...."
+[pause 6s]
+
+For you, a dessert, a little.
+[pause 6s]
+
+"Για σένα. Ένα γλυκό. Λίγο...."
+[pause 7s]
+
+Cheese is:
+[pause 2s]
+
+"Τυρί...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Τυρί...."
+[pause 6s]
+
+A dessert.
+[pause 6s]
+
+"Ένα γλυκό...."
+[pause 6s]
+
+How do you say cheese?
+[pause 6s]
+
+"Τυρί...."
+[pause 6s]
+
+Sweet.
+[pause 6s]
+
+"Γλυκό...."
+[pause 6s]
+
+Cheese.
+[pause 6s]
+
+"Τυρί...."
+[pause 6s]
+
+Hot.
+[pause 6s]
+
+"Ζεστό...."
+[pause 6s]
+
+Milk.
+[pause 6s]
+
+"Γάλα...."
+[pause 6s]
+
+One more, a dessert.
+[pause 6s]
+
+"Ακόμα ένα. Ένα γλυκό...."
+[pause 6s]
+
+Juice is:
+[pause 2s]
+
+"Χυμός...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Χυμός...."
+[pause 6s]
+
+Cheese.
+[pause 6s]
+
+"Τυρί...."
+[pause 6s]
+
+How do you say juice?
+[pause 6s]
+
+"Χυμός...."
+[pause 6s]
+
+Cold.
+[pause 6s]
+
+"Κρύο...."
+[pause 6s]
+
+Juice.
+[pause 6s]
+
+"Χυμός...."
+[pause 6s]
+
+My name is, a dessert, what is your name?
+[pause 7s]
+
+"Με λένε. Ένα γλυκό. Πώς σε λένε;..."
+[pause 7s]
+
+Nice to meet you, cheese.
+[pause 6s]
+
+"Χάρηκα. Τυρί...."
+[pause 6s]
+
+Chicken.
+[pause 6s]
+
+"Κοτόπουλο...."
+[pause 6s]
+
+You speak, polite. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"λάτε..."
+[pause 3s]
+
+"ιλάτε..."
+[pause 3s]
+
+"Μιλάτε...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Μιλάτε...."
+[pause 6s]
+
+Juice.
+[pause 6s]
+
+"Χυμός...."
+[pause 6s]
+
+How do you say you speak?
+[pause 6s]
+
+"Μιλάτε...."
+[pause 6s]
+
+Nice.
+[pause 6s]
+
+"Ωραίο...."
+[pause 6s]
+
+You speak.
+[pause 6s]
+
+"Μιλάτε...."
+[pause 6s]
+
+When?
+[pause 6s]
+
+"Πότε;..."
+[pause 6s]
+
+You, cheese, I.
+[pause 6s]
+
+"Εσύ; Τυρί. Εγώ...."
+[pause 7s]
+
+In one hour.
+[pause 6s]
+
+"Σε μία ώρα...."
+[pause 6s]
+
+Yogurt.
+[pause 6s]
+
+"Γιαούρτι...."
+[pause 6s]
+
+Nikos, juice.
+[pause 6s]
+
+"Νίκος. Χυμός...."
+[pause 6s]
+
+You speak.
+[pause 6s]
+
+"Μιλάτε...."
+[pause 6s]
+
+Every day.
+[pause 6s]
+
+"Κάθε μέρα...."
+[pause 6s]
+
+Maria, you speak, my name is formal.
+[pause 6s]
+
+"Μαρία. Μιλάτε. Ονομάζομαι...."
+[pause 7s]
+
+I am, beer.
+[pause 6s]
+
+"Είμαι. Μπύρα...."
+[pause 6s]
+
+Greece, milk, Germany.
+[pause 6s]
+
+"Ελλάδα. Γάλα. Γερμανία...."
+[pause 7s]
+
+Yesterday.
+[pause 6s]
+
+"Χθες...."
+[pause 6s]
+
+A dessert.
+[pause 6s]
+
+"Ένα γλυκό...."
+[pause 6s]
+
+Thessaloniki, chicken.
+[pause 6s]
+
+"Θεσσαλονίκη. Κοτόπουλο...."
+[pause 6s]
+
+I live, yogurt, where?
+[pause 6s]
+
+"Μένω. Γιαούρτι. Πού;..."
+[pause 7s]
+
+From, a dessert.
+[pause 6s]
+
+"Από. Ένα γλυκό...."
+[pause 6s]
+
+So-so.
+[pause 6s]
+
+"Έτσι κι έτσι...."
+[pause 6s]
+
+Athens, cheese, two.
+[pause 6s]
+
+"Αθήνα. Τυρί. Δύο...."
+[pause 7s]
+
+Three, juice.
+[pause 6s]
+
+"Τρία. Χυμός...."
+[pause 6s]
+
+Cheese.
+[pause 6s]
+
+"Τυρί...."
+[pause 6s]
+
+And you?
+[pause 6s]
+
+"Κι εσύ;..."
+[pause 6s]
+
+Four, you speak, five.
+[pause 6s]
+
+"Τέσσερα. Μιλάτε. Πέντε...."
+[pause 7s]
+
+How many, beer.
+[pause 6s]
+
+"Πόσα; Μπύρα...."
+[pause 6s]
+
+Kiosk, milk, here.
+[pause 6s]
+
+"Περίπτερο. Γάλα. Εδώ...."
+[pause 7s]
+
+Today.
+[pause 6s]
+
+"Σήμερα...."
+[pause 6s]
+
+A pack, chicken.
+[pause 6s]
+
+"Ένα πακέτο. Κοτόπουλο...."
+[pause 6s]
+
+Juice.
+[pause 6s]
+
+"Χυμός...."
+[pause 6s]
+
+Bread, yogurt, koulouri.
+[pause 6s]
+
+"Ψωμί. Γιαούρτι. Κουλούρι...."
+[pause 7s]
+
+Or, a dessert.
+[pause 6s]
+
+"Ή. Ένα γλυκό...."
+[pause 6s]
+
+You want, cheese, how much?
+[pause 6s]
+
+"Θέλετε; Τυρί. Πόσο;..."
+[pause 7s]
+
+You are at a taverna with friends. The waiter asks what you want.
+[pause 2s]
+
+Greet him politely.
+[pause 6s]
+
+"Γεια σας...."
+[pause 6s]
+
+Ask: beer or milk?
+[pause 6s]
+
+"Μπύρα ή γάλα;..."
+[pause 7s]
+
+Say: chicken, please.
+[pause 6s]
+
+"Κοτόπουλο, παρακαλώ...."
+[pause 6s]
+
+Say: yogurt and cheese, please.
+[pause 6s]
+
+"Γιαούρτι και τυρί, παρακαλώ...."
+[pause 7s]
+
+Say: juice.
+[pause 6s]
+
+"Χυμός...."
+[pause 6s]
+
+Say: a dessert, for you.
+[pause 6s]
+
+"Ένα γλυκό, για σένα...."
+[pause 6s]
+
+Say: I like it, very much.
+[pause 6s]
+
+"Μου αρέσει πάρα πολύ...."
+[pause 7s]
+
+Say: a table for two, please.
+[pause 6s]
+
+"Τραπέζι για δύο, παρακαλώ...."
+[pause 7s]
+
+Say: the menu, please.
+[pause 6s]
+
+"Κατάλογος, παρακαλώ...."
+[pause 6s]
+
+Say: bread and milk, please.
+[pause 6s]
+
+"Ψωμί και γάλα, παρακαλώ...."
+[pause 7s]
+
+Say: yes, wine.
+[pause 6s]
+
+"Ναι. Κρασί...."
+[pause 6s]
+
+Say: fish, please.
+[pause 6s]
+
+"Ψάρι, παρακαλώ...."
+[pause 6s]
+
+Ask: when?
+[pause 6s]
+
+"Πότε;..."
+[pause 6s]
+
+Say: in one hour.
+[pause 6s]
+
+"Σε μία ώρα...."
+[pause 6s]
+
+Say: every day, sweet.
+[pause 6s]
+
+"Κάθε μέρα. Γλυκό...."
+[pause 6s]
+
+Say: today, so-so.
+[pause 6s]
+
+"Σήμερα. Έτσι κι έτσι...."
+[pause 6s]
+
+Say: thank you, good night.
+[pause 6s]
+
+"Ευχαριστώ. Καληνύχτα...."
+[pause 6s]
+
+Well done. You can now order food and drink at a taverna. See you in the next lesson.
+[pause 2s]

@@ -1,0 +1,787 @@
+Greek, Module 1 — Lesson 25
+
+Today you shop: big, small, a colour, too expensive, cheap, and I'll take it.
+[pause 2s]
+
+Listen to a customer in a clothes shop.
+[pause 2s]
+
+"Γεια σας. Το κόκκινο, παρακαλώ...."
+[pause 7s]
+
+"Μεγάλο ή μικρό;..."
+[pause 7s]
+
+"Ακριβό!..."
+[pause 6s]
+
+"Φθηνό;..."
+[pause 6s]
+
+"Το μπλε...."
+[pause 6s]
+
+"Το παίρνω...."
+[pause 6s]
+
+"Ευχαριστώ...."
+[pause 6s]
+
+Big. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"λο..."
+[pause 3s]
+
+"γάλο..."
+[pause 3s]
+
+"εγάλο..."
+[pause 3s]
+
+"Μεγάλο...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Μεγάλο...."
+[pause 6s]
+
+At what time?
+[pause 6s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+How do you say big?
+[pause 6s]
+
+"Μεγάλο...."
+[pause 6s]
+
+Big.
+[pause 6s]
+
+"Μεγάλο...."
+[pause 6s]
+
+Greet politely, big.
+[pause 6s]
+
+"Γεια σας. Μεγάλο...."
+[pause 6s]
+
+Good morning, big, a coffee.
+[pause 6s]
+
+"Καλημέρα. Μεγάλο. Ένας καφές...."
+[pause 7s]
+
+Trip.
+[pause 6s]
+
+"Ταξίδι...."
+[pause 6s]
+
+Small is:
+[pause 2s]
+
+"Μικρό...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Μικρό...."
+[pause 6s]
+
+I want big.
+[pause 6s]
+
+"Θέλω μεγάλο...."
+[pause 6s]
+
+Big.
+[pause 6s]
+
+"Μεγάλο...."
+[pause 6s]
+
+How do you say small?
+[pause 6s]
+
+"Μικρό...."
+[pause 6s]
+
+Small.
+[pause 6s]
+
+"Μικρό...."
+[pause 6s]
+
+Have a good trip.
+[pause 6s]
+
+"Καλό ταξίδι...."
+[pause 6s]
+
+Please, small, thank you.
+[pause 6s]
+
+"Παρακαλώ. Μικρό. Ευχαριστώ...."
+[pause 7s]
+
+Colour is:
+[pause 2s]
+
+"Χρώμα...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Χρώμα...."
+[pause 6s]
+
+Bicycle.
+[pause 6s]
+
+"Ποδήλατο...."
+[pause 6s]
+
+Small.
+[pause 6s]
+
+"Μικρό...."
+[pause 6s]
+
+How do you say colour?
+[pause 6s]
+
+"Χρώμα...."
+[pause 6s]
+
+Colour.
+[pause 6s]
+
+"Χρώμα...."
+[pause 6s]
+
+We will go.
+[pause 6s]
+
+"Θα πάμε...."
+[pause 6s]
+
+Yes, small.
+[pause 6s]
+
+"Ναι. Μικρό...."
+[pause 6s]
+
+No, colour, water.
+[pause 6s]
+
+"Όχι. Χρώμα. Νερό...."
+[pause 7s]
+
+Expensive. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"ιβό..."
+[pause 3s]
+
+"ριβό..."
+[pause 3s]
+
+"κριβό..."
+[pause 3s]
+
+"Ακριβό...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Ακριβό...."
+[pause 6s]
+
+Colour.
+[pause 6s]
+
+"Χρώμα...."
+[pause 6s]
+
+How do you say expensive?
+[pause 6s]
+
+"Ακριβό...."
+[pause 6s]
+
+Boat.
+[pause 6s]
+
+"Βάρκα...."
+[pause 6s]
+
+Expensive.
+[pause 6s]
+
+"Ακριβό...."
+[pause 6s]
+
+Island.
+[pause 6s]
+
+"Νησί...."
+[pause 6s]
+
+How much is it, colour.
+[pause 6s]
+
+"Πόσο κάνει; Χρώμα...."
+[pause 6s]
+
+One, expensive, and.
+[pause 6s]
+
+"Ένα. Ακριβό. Και...."
+[pause 7s]
+
+Cheap is:
+[pause 2s]
+
+"Φθηνό...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Φθηνό...."
+[pause 6s]
+
+Expensive.
+[pause 6s]
+
+"Ακριβό...."
+[pause 6s]
+
+How do you say cheap?
+[pause 6s]
+
+"Φθηνό...."
+[pause 6s]
+
+At.
+[pause 6s]
+
+"Στις...."
+[pause 6s]
+
+Cheap.
+[pause 6s]
+
+"Φθηνό...."
+[pause 6s]
+
+Heat.
+[pause 6s]
+
+"Ζέστη...."
+[pause 6s]
+
+A tea, expensive.
+[pause 6s]
+
+"Ένα τσάι. Ακριβό...."
+[pause 6s]
+
+For you, cheap, a little.
+[pause 6s]
+
+"Για σένα. Φθηνό. Λίγο...."
+[pause 7s]
+
+Big.
+[pause 6s]
+
+"Μεγάλο...."
+[pause 6s]
+
+I'll take it is:
+[pause 2s]
+
+"Το παίρνω...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Το παίρνω...."
+[pause 6s]
+
+Cheap.
+[pause 6s]
+
+"Φθηνό...."
+[pause 6s]
+
+How do you say I'll take it?
+[pause 6s]
+
+"Το παίρνω...."
+[pause 6s]
+
+Weather.
+[pause 6s]
+
+"Καιρός...."
+[pause 6s]
+
+I'll take it.
+[pause 6s]
+
+"Το παίρνω...."
+[pause 6s]
+
+Wind.
+[pause 6s]
+
+"Αέρας...."
+[pause 6s]
+
+One more, cheap.
+[pause 6s]
+
+"Ακόμα ένα. Φθηνό...."
+[pause 6s]
+
+Small.
+[pause 6s]
+
+"Μικρό...."
+[pause 6s]
+
+Blue is:
+[pause 2s]
+
+"Μπλε...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Μπλε...."
+[pause 6s]
+
+I'll take it.
+[pause 6s]
+
+"Το παίρνω...."
+[pause 6s]
+
+How do you say blue?
+[pause 6s]
+
+"Μπλε...."
+[pause 6s]
+
+Clouds.
+[pause 6s]
+
+"Σύννεφα...."
+[pause 6s]
+
+Blue.
+[pause 6s]
+
+"Μπλε...."
+[pause 6s]
+
+My name is, cheap, what is your name?
+[pause 7s]
+
+"Με λένε. Φθηνό. Πώς σε λένε;..."
+[pause 7s]
+
+Colour.
+[pause 6s]
+
+"Χρώμα...."
+[pause 6s]
+
+Nice weather.
+[pause 6s]
+
+"Ωραίος καιρός...."
+[pause 6s]
+
+Red. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"ινο..."
+[pause 3s]
+
+"κινο..."
+[pause 3s]
+
+"κκινο..."
+[pause 3s]
+
+"Κόκκινο...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Κόκκινο...."
+[pause 6s]
+
+Blue.
+[pause 6s]
+
+"Μπλε...."
+[pause 6s]
+
+How do you say red?
+[pause 6s]
+
+"Κόκκινο...."
+[pause 6s]
+
+Sister.
+[pause 6s]
+
+"Αδερφή...."
+[pause 6s]
+
+Red.
+[pause 6s]
+
+"Κόκκινο...."
+[pause 6s]
+
+Nice to meet you, cheap.
+[pause 6s]
+
+"Χάρηκα. Φθηνό...."
+[pause 6s]
+
+You, I'll take it, I.
+[pause 7s]
+
+"Εσύ; Το παίρνω. Εγώ...."
+[pause 7s]
+
+Expensive.
+[pause 6s]
+
+"Ακριβό...."
+[pause 6s]
+
+What will you have?
+[pause 6s]
+
+"Τι θα πάρετε;..."
+[pause 7s]
+
+Nikos, blue.
+[pause 6s]
+
+"Νίκος. Μπλε...."
+[pause 6s]
+
+Red.
+[pause 6s]
+
+"Κόκκινο...."
+[pause 6s]
+
+Let's go.
+[pause 6s]
+
+"Πάμε...."
+[pause 6s]
+
+Maria, red, my name is formal.
+[pause 7s]
+
+"Μαρία. Κόκκινο. Ονομάζομαι...."
+[pause 7s]
+
+I am, big.
+[pause 6s]
+
+"Είμαι. Μεγάλο...."
+[pause 6s]
+
+Greece, small, Germany.
+[pause 6s]
+
+"Ελλάδα. Μικρό. Γερμανία...."
+[pause 7s]
+
+Cheap.
+[pause 6s]
+
+"Φθηνό...."
+[pause 6s]
+
+Enjoy your meal.
+[pause 6s]
+
+"Καλή όρεξη...."
+[pause 6s]
+
+Thessaloniki, colour.
+[pause 6s]
+
+"Θεσσαλονίκη. Χρώμα...."
+[pause 6s]
+
+I live, expensive, where?
+[pause 7s]
+
+"Μένω. Ακριβό. Πού;..."
+[pause 7s]
+
+From, cheap.
+[pause 6s]
+
+"Από. Φθηνό...."
+[pause 6s]
+
+Better.
+[pause 6s]
+
+"Καλύτερα...."
+[pause 6s]
+
+Athens, I'll take it, two.
+[pause 7s]
+
+"Αθήνα. Το παίρνω. Δύο...."
+[pause 7s]
+
+Three, blue.
+[pause 6s]
+
+"Τρία. Μπλε...."
+[pause 6s]
+
+I'll take it.
+[pause 6s]
+
+"Το παίρνω...."
+[pause 6s]
+
+Sweet.
+[pause 6s]
+
+"Γλυκό...."
+[pause 6s]
+
+Four, red, five.
+[pause 7s]
+
+"Τέσσερα. Κόκκινο. Πέντε...."
+[pause 7s]
+
+How many, big.
+[pause 6s]
+
+"Πόσα; Μεγάλο...."
+[pause 6s]
+
+Kiosk, small, here.
+[pause 6s]
+
+"Περίπτερο. Μικρό. Εδώ...."
+[pause 7s]
+
+Hot.
+[pause 6s]
+
+"Ζεστό...."
+[pause 6s]
+
+A pack, colour.
+[pause 6s]
+
+"Ένα πακέτο. Χρώμα...."
+[pause 6s]
+
+Blue.
+[pause 6s]
+
+"Μπλε...."
+[pause 6s]
+
+Bread, expensive, koulouri.
+[pause 7s]
+
+"Ψωμί. Ακριβό. Κουλούρι...."
+[pause 7s]
+
+Or, cheap.
+[pause 6s]
+
+"Ή. Φθηνό...."
+[pause 6s]
+
+You want, I'll take it, how much?
+[pause 7s]
+
+"Θέλετε; Το παίρνω. Πόσο;..."
+[pause 7s]
+
+You are shopping for clothes. The shop assistant greets you.
+[pause 2s]
+
+Greet her politely.
+[pause 6s]
+
+"Γεια σας...."
+[pause 6s]
+
+Ask for the red one, please.
+[pause 6s]
+
+"Κόκκινο, παρακαλώ...."
+[pause 6s]
+
+She shows a big one. Say: big, yes.
+[pause 6s]
+
+"Μεγάλο. Ναι...."
+[pause 6s]
+
+Say: small, no.
+[pause 6s]
+
+"Μικρό. Όχι...."
+[pause 6s]
+
+Ask: what colour is it?
+[pause 6s]
+
+"Χρώμα;..."
+[pause 6s]
+
+Say: blue.
+[pause 6s]
+
+"Μπλε...."
+[pause 6s]
+
+Ask: how much is it?
+[pause 6s]
+
+"Πόσο κάνει;..."
+[pause 6s]
+
+She says: expensive. Answer: cheap, please.
+[pause 6s]
+
+"Ακριβό. Φθηνό, παρακαλώ...."
+[pause 7s]
+
+Say: I'll take it.
+[pause 6s]
+
+"Το παίρνω...."
+[pause 6s]
+
+Say: thank you, enjoy your meal.
+[pause 6s]
+
+"Ευχαριστώ. Καλή όρεξη...."
+[pause 6s]
+
+Say: my name is Maria.
+[pause 6s]
+
+"Με λένε Μαρία...."
+[pause 6s]
+
+Ask: what is your name?
+[pause 6s]
+
+"Πώς σε λένε;..."
+[pause 6s]
+
+Say: a little, cheap.
+[pause 6s]
+
+"Λίγο. Φθηνό...."
+[pause 6s]
+
+Say: today, so-so.
+[pause 6s]
+
+"Σήμερα. Έτσι κι έτσι...."
+[pause 6s]
+
+Say: the bill, please.
+[pause 6s]
+
+"Λογαριασμός, παρακαλώ...."
+[pause 6s]
+
+Say: I want a table for two.
+[pause 6s]
+
+"Θέλω τραπέζι για δύο...."
+[pause 7s]
+
+Say: fish, wine.
+[pause 6s]
+
+"Ψάρι, κρασί...."
+[pause 6s]
+
+Say: better, sweet.
+[pause 6s]
+
+"Καλύτερα, γλυκό...."
+[pause 6s]
+
+Say: hot, very much.
+[pause 6s]
+
+"Ζεστό, πάρα πολύ...."
+[pause 6s]
+
+Say: the island.
+[pause 6s]
+
+"Νησί...."
+[pause 6s]
+
+Say: the boat, at ten.
+[pause 6s]
+
+"Βάρκα. Στις δέκα...."
+[pause 7s]
+
+Say: good night.
+[pause 6s]
+
+"Καληνύχτα...."
+[pause 6s]
+
+Ask: which stop?
+[pause 6s]
+
+"Ποια στάση;..."
+[pause 6s]
+
+Say: one, two.
+[pause 6s]
+
+"Ένα, δύο...."
+[pause 6s]
+
+Well done. You can now shop, compare sizes and colours, and say I'll take it. See you in the next lesson.
+[pause 2s]

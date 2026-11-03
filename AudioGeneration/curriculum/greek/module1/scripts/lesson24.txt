@@ -1,0 +1,772 @@
+Greek, Module 1 — Lesson 24
+
+Today you plan a day trip by boat to an island: the boat, the island, at what time, and have a good trip.
+[pause 2s]
+
+Listen to friends planning a day trip.
+[pause 2s]
+
+"Γεια σας. Θα πάμε, νησί...."
+[pause 7s]
+
+"Με τη βάρκα;..."
+[pause 6s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+"Στις δέκα...."
+[pause 6s]
+
+"Καλό ταξίδι!..."
+[pause 6s]
+
+"Ποδήλατο;..."
+[pause 6s]
+
+"Ευχαριστώ...."
+[pause 6s]
+
+Boat is:
+[pause 2s]
+
+"Βάρκα...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Βάρκα...."
+[pause 6s]
+
+Greet politely, boat.
+[pause 6s]
+
+"Γεια σας. Βάρκα...."
+[pause 6s]
+
+How do you say boat?
+[pause 6s]
+
+"Βάρκα...."
+[pause 6s]
+
+Boat.
+[pause 6s]
+
+"Βάρκα...."
+[pause 6s]
+
+Sun.
+[pause 6s]
+
+"Ήλιος...."
+[pause 6s]
+
+Good morning, boat, a coffee.
+[pause 6s]
+
+"Καλημέρα. Βάρκα. Ένας καφές...."
+[pause 7s]
+
+I want a boat.
+[pause 6s]
+
+"Θέλω βάρκα...."
+[pause 6s]
+
+Island is:
+[pause 2s]
+
+"Νησί...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Νησί...."
+[pause 6s]
+
+Boat.
+[pause 6s]
+
+"Βάρκα...."
+[pause 6s]
+
+How do you say island?
+[pause 6s]
+
+"Νησί...."
+[pause 6s]
+
+Rain.
+[pause 6s]
+
+"Βροχή...."
+[pause 6s]
+
+Island.
+[pause 6s]
+
+"Νησί...."
+[pause 6s]
+
+Sea.
+[pause 6s]
+
+"Θάλασσα...."
+[pause 6s]
+
+Please, island, thank you.
+[pause 6s]
+
+"Παρακαλώ. Νησί. Ευχαριστώ...."
+[pause 7s]
+
+Yes, boat.
+[pause 6s]
+
+"Ναι. Βάρκα...."
+[pause 6s]
+
+At, at a time, is:
+[pause 2s]
+
+"Στις...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Στις...."
+[pause 6s]
+
+Island.
+[pause 6s]
+
+"Νησί...."
+[pause 6s]
+
+How do you say at?
+[pause 6s]
+
+"Στις...."
+[pause 6s]
+
+Heat.
+[pause 6s]
+
+"Ζέστη...."
+[pause 6s]
+
+At.
+[pause 6s]
+
+"Στις...."
+[pause 6s]
+
+Weather.
+[pause 6s]
+
+"Καιρός...."
+[pause 6s]
+
+No, at, water.
+[pause 6s]
+
+"Όχι. Στις. Νερό...."
+[pause 7s]
+
+How much is it, boat.
+[pause 6s]
+
+"Πόσο κάνει; Βάρκα...."
+[pause 6s]
+
+At what time, is:
+[pause 2s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+At.
+[pause 6s]
+
+"Στις...."
+[pause 6s]
+
+How do you ask at what time?
+[pause 6s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+Wind.
+[pause 6s]
+
+"Αέρας...."
+[pause 6s]
+
+At what time?
+[pause 6s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+One, at what time, and.
+[pause 6s]
+
+"Ένα. Τι ώρα; Και...."
+[pause 7s]
+
+Clouds.
+[pause 6s]
+
+"Σύννεφα...."
+[pause 6s]
+
+A tea, boat.
+[pause 6s]
+
+"Ένα τσάι. Βάρκα...."
+[pause 6s]
+
+Trip. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"ιδι..."
+[pause 3s]
+
+"ξίδι..."
+[pause 3s]
+
+"αξίδι..."
+[pause 3s]
+
+"Ταξίδι...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Ταξίδι...."
+[pause 6s]
+
+At what time?
+[pause 6s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+How do you say trip?
+[pause 6s]
+
+"Ταξίδι...."
+[pause 6s]
+
+Nice weather.
+[pause 6s]
+
+"Ωραίος καιρός...."
+[pause 6s]
+
+Trip.
+[pause 6s]
+
+"Ταξίδι...."
+[pause 6s]
+
+Monday.
+[pause 6s]
+
+"Δευτέρα...."
+[pause 6s]
+
+For you, trip, a little.
+[pause 6s]
+
+"Για σένα. Ταξίδι. Λίγο...."
+[pause 7s]
+
+Boat.
+[pause 6s]
+
+"Βάρκα...."
+[pause 6s]
+
+Have a good trip is:
+[pause 2s]
+
+"Καλό ταξίδι...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Καλό ταξίδι...."
+[pause 6s]
+
+Trip.
+[pause 6s]
+
+"Ταξίδι...."
+[pause 6s]
+
+How do you say have a good trip?
+[pause 6s]
+
+"Καλό ταξίδι...."
+[pause 6s]
+
+Tuesday.
+[pause 6s]
+
+"Τρίτη...."
+[pause 6s]
+
+Have a good trip.
+[pause 6s]
+
+"Καλό ταξίδι...."
+[pause 6s]
+
+One more, trip.
+[pause 6s]
+
+"Ακόμα ένα. Ταξίδι...."
+[pause 6s]
+
+Wednesday.
+[pause 6s]
+
+"Τετάρτη...."
+[pause 6s]
+
+Island.
+[pause 6s]
+
+"Νησί...."
+[pause 6s]
+
+Bicycle. Listen to the pieces, starting from the end.
+[pause 2s]
+
+"δήλατο..."
+[pause 3s]
+
+"ήλατο..."
+[pause 3s]
+
+"λατο..."
+[pause 3s]
+
+"Ποδήλατο...."
+[pause 4s]
+
+Repeat the whole word.
+[pause 1s]
+
+"Ποδήλατο...."
+[pause 6s]
+
+Have a good trip.
+[pause 6s]
+
+"Καλό ταξίδι...."
+[pause 6s]
+
+How do you say bicycle?
+[pause 6s]
+
+"Ποδήλατο...."
+[pause 6s]
+
+Thursday.
+[pause 6s]
+
+"Πέμπτη...."
+[pause 6s]
+
+Bicycle.
+[pause 6s]
+
+"Ποδήλατο...."
+[pause 6s]
+
+My name is, trip, what is your name?
+[pause 7s]
+
+"Με λένε. Ταξίδι. Πώς σε λένε;..."
+[pause 7s]
+
+At.
+[pause 6s]
+
+"Στις...."
+[pause 6s]
+
+Friday.
+[pause 6s]
+
+"Παρασκευή...."
+[pause 6s]
+
+We will go is:
+[pause 2s]
+
+"Θα πάμε...."
+[pause 6s]
+
+Repeat after the voice.
+[pause 1s]
+
+"Θα πάμε...."
+[pause 6s]
+
+Bicycle.
+[pause 6s]
+
+"Ποδήλατο...."
+[pause 6s]
+
+How do you say we will go?
+[pause 6s]
+
+"Θα πάμε...."
+[pause 6s]
+
+Spouse.
+[pause 6s]
+
+"Σύζυγος...."
+[pause 6s]
+
+We will go.
+[pause 6s]
+
+"Θα πάμε...."
+[pause 6s]
+
+Nice to meet you, trip.
+[pause 6s]
+
+"Χάρηκα. Ταξίδι...."
+[pause 6s]
+
+You, have a good trip, I.
+[pause 6s]
+
+"Εσύ; Καλό ταξίδι. Εγώ...."
+[pause 7s]
+
+At what time?
+[pause 6s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+Children.
+[pause 6s]
+
+"Παιδιά...."
+[pause 6s]
+
+Nikos, bicycle.
+[pause 6s]
+
+"Νίκος. Ποδήλατο...."
+[pause 6s]
+
+We will go.
+[pause 6s]
+
+"Θα πάμε...."
+[pause 6s]
+
+Maria, we will go, my name is formal.
+[pause 7s]
+
+"Μαρία. Θα πάμε. Ονομάζομαι...."
+[pause 7s]
+
+Friend.
+[pause 6s]
+
+"Φίλος...."
+[pause 6s]
+
+I am, boat.
+[pause 6s]
+
+"Είμαι. Βάρκα...."
+[pause 6s]
+
+Greece, island, Germany.
+[pause 6s]
+
+"Ελλάδα. Νησί. Γερμανία...."
+[pause 7s]
+
+Thessaloniki, at.
+[pause 6s]
+
+"Θεσσαλονίκη. Στις...."
+[pause 6s]
+
+Trip.
+[pause 6s]
+
+"Ταξίδι...."
+[pause 6s]
+
+My wife.
+[pause 6s]
+
+"Η γυναίκα μου...."
+[pause 6s]
+
+I live, at what time, where?
+[pause 7s]
+
+"Μένω. Τι ώρα; Πού;..."
+[pause 7s]
+
+From, trip.
+[pause 6s]
+
+"Από. Ταξίδι...."
+[pause 6s]
+
+Athens, have a good trip, two.
+[pause 7s]
+
+"Αθήνα. Καλό ταξίδι. Δύο...."
+[pause 7s]
+
+Fruit.
+[pause 6s]
+
+"Φρούτα...."
+[pause 6s]
+
+Three, bicycle.
+[pause 6s]
+
+"Τρία. Ποδήλατο...."
+[pause 6s]
+
+Have a good trip.
+[pause 6s]
+
+"Καλό ταξίδι...."
+[pause 6s]
+
+Four, we will go, five.
+[pause 7s]
+
+"Τέσσερα. Θα πάμε. Πέντε...."
+[pause 7s]
+
+Kilo.
+[pause 6s]
+
+"Κιλό...."
+[pause 6s]
+
+How many, boat.
+[pause 6s]
+
+"Πόσα; Βάρκα...."
+[pause 6s]
+
+Kiosk, island, here.
+[pause 6s]
+
+"Περίπτερο. Νησί. Εδώ...."
+[pause 7s]
+
+A pack, at.
+[pause 6s]
+
+"Ένα πακέτο. Στις...."
+[pause 6s]
+
+This one.
+[pause 6s]
+
+"Αυτό...."
+[pause 6s]
+
+Bread, at what time, koulouri.
+[pause 7s]
+
+"Ψωμί. Τι ώρα; Κουλούρι...."
+[pause 7s]
+
+Bicycle.
+[pause 6s]
+
+"Ποδήλατο...."
+[pause 6s]
+
+Or, trip.
+[pause 6s]
+
+"Ή. Ταξίδι...."
+[pause 6s]
+
+You want, have a good trip, how much?
+[pause 7s]
+
+"Θέλετε; Καλό ταξίδι. Πόσο;..."
+[pause 7s]
+
+Fresh, bicycle.
+[pause 6s]
+
+"Φρέσκο. Ποδήλατο...."
+[pause 6s]
+
+You plan a day trip with a friend. Make plans for the boat and the island.
+[pause 2s]
+
+Greet your friend politely.
+[pause 6s]
+
+"Γεια σας...."
+[pause 6s]
+
+Ask: shall we go by boat?
+[pause 6s]
+
+"Θα πάμε με τη βάρκα;..."
+[pause 7s]
+
+Say: yes, let's go to the island.
+[pause 6s]
+
+"Ναι. Πάμε, νησί...."
+[pause 6s]
+
+Ask: at what time?
+[pause 6s]
+
+"Τι ώρα;..."
+[pause 6s]
+
+Answer: at ten.
+[pause 6s]
+
+"Στις δέκα...."
+[pause 6s]
+
+Ask: is the weather good?
+[pause 6s]
+
+"Ο καιρός είναι ωραίος;..."
+[pause 7s]
+
+Say: the sun, the sea, great.
+[pause 6s]
+
+"Ήλιος, θάλασσα. Ωραία...."
+[pause 7s]
+
+Say: a little rain.
+[pause 6s]
+
+"Λίγο, βροχή...."
+[pause 6s]
+
+Say: bicycle, please.
+[pause 6s]
+
+"Ποδήλατο, παρακαλώ...."
+[pause 6s]
+
+Ask: how much is it?
+[pause 6s]
+
+"Πόσο κάνει;..."
+[pause 6s]
+
+Say: thank you, have a good trip.
+[pause 6s]
+
+"Ευχαριστώ. Καλό ταξίδι...."
+[pause 6s]
+
+Say: I like it, very much.
+[pause 6s]
+
+"Μου αρέσει πάρα πολύ...."
+[pause 7s]
+
+Say: at what time, Monday?
+[pause 6s]
+
+"Τι ώρα; Δευτέρα;..."
+[pause 6s]
+
+Say: Tuesday, Wednesday.
+[pause 6s]
+
+"Τρίτη, Τετάρτη...."
+[pause 6s]
+
+Say: my wife, the children.
+[pause 6s]
+
+"Η γυναίκα μου. Παιδιά...."
+[pause 6s]
+
+Say: can you repeat it?
+[pause 6s]
+
+"Μπορείτε να το επαναλάβετε;..."
+[pause 7s]
+
+Say: slowly, please.
+[pause 6s]
+
+"Αργά, παρακαλώ...."
+[pause 6s]
+
+Say: today, so-so.
+[pause 6s]
+
+"Σήμερα. Έτσι κι έτσι...."
+[pause 6s]
+
+Say: the menu.
+[pause 6s]
+
+"Κατάλογος...."
+[pause 6s]
+
+Ask: what is your name?
+[pause 6s]
+
+"Πώς σε λένε;..."
+[pause 6s]
+
+Say: my name is Maria.
+[pause 6s]
+
+"Με λένε Μαρία...."
+[pause 6s]
+
+Say: good night.
+[pause 6s]
+
+"Καληνύχτα...."
+[pause 6s]
+
+Well done. You can now plan a day trip, ask the time, and wish someone a good trip. See you in the next lesson.
+[pause 2s]
