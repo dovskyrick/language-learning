@@ -1,0 +1,1811 @@
+{
+  "lesson": 27,
+  "title": "Invitations",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you invite people and answer invitations: do you want, come, with pleasure, never, always, maybe, OK, gladly.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a friend inviting someone.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Θέλεις; Καφέ;",
+      "items": [
+        "i001",
+        "i209",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Με χαρά!",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Έλα!",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πάντα;",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Do you want? is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Θέλεις;",
+      "items": [
+        "i001",
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you ask a friend if he wants?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "It hurts.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Πονάει.",
+      "items": [
+        "i202"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, do you want, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Θέλεις; Ένας καφές.",
+      "items": [
+        "i002",
+        "i209",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "My head.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Το κεφάλι μου.",
+      "items": [
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b010",
+      "say": "With pleasure is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I want, do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω. Θέλεις;",
+      "items": [
+        "i004",
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say with pleasure?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "With pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Pharmacy.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, with pleasure, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Με χαρά. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i210",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Come is:",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Doctor.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "With pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say come?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Come.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Fever.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, with pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Με χαρά.",
+      "items": [
+        "i007",
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, come, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Έλα. Νερό.",
+      "items": [
+        "i008",
+        "i211",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Not at all. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "λου",
+      "items": [
+        "i212"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "όλου",
+      "items": [
+        "i212"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "θόλου",
+      "items": [
+        "i212"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Come.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say not at all?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Not at all.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "I'm sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, come.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Έλα.",
+      "items": [
+        "i010",
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "Tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Always is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Πάντα.",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Πάντα.",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Not at all.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say always?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Πάντα.",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Small.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Μικρό.",
+      "items": [
+        "i194"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Always.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Πάντα.",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "One, come, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ένα. Έλα. Και.",
+      "items": [
+        "i011",
+        "i211",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, not at all.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Καθόλου.",
+      "items": [
+        "i013",
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Maybe is:",
+      "pause": 2
+    },
+    {
+      "beat": "b040",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b040",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Always.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Πάντα.",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say maybe?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Maybe.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Colour.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Χρώμα.",
+      "items": [
+        "i195"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Expensive.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Ακριβό.",
+      "items": [
+        "i196"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "For you, not at all, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Για σένα. Καθόλου. Λίγο.",
+      "items": [
+        "i014",
+        "i212",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "OK. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b048",
+      "target": "ξει",
+      "items": [
+        "i215"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b048",
+      "target": "τάξει",
+      "items": [
+        "i215"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b048",
+      "target": "ντάξει",
+      "items": [
+        "i215"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b048",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b048",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b048",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "With pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Maybe.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say OK?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "OK.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Cheap.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Φθηνό.",
+      "items": [
+        "i197"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "I'll take it.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Το παίρνω.",
+      "items": [
+        "i198"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "One more, not at all.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Ακόμα ένα. Καθόλου.",
+      "items": [
+        "i016",
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Come.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Gladly. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b057",
+      "target": "χαρίστως",
+      "items": [
+        "i216"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "αρίστως",
+      "items": [
+        "i216"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "ρίστως",
+      "items": [
+        "i216"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b057",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b057",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "OK.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say gladly?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Gladly.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "My name is, not at all, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "target": "Με λένε. Καθόλου. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i212",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "say": "Not at all.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Nice to meet you, always.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Χάρηκα. Πάντα.",
+      "items": [
+        "i019",
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Gladly.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "You, maybe, I.",
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "target": "Εσύ; Ίσως. Εγώ.",
+      "items": [
+        "i020",
+        "i214",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Nikos, OK.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Νίκος. Εντάξει.",
+      "items": [
+        "i022",
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Maria, gladly, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "target": "Μαρία. Ευχαρίστως. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i216",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b072",
+      "say": "Always.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Πάντα.",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "say": "Milk.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "I am, do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Είμαι. Θέλεις;",
+      "items": [
+        "i025",
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Greece, with pleasure, Germany.",
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "target": "Ελλάδα. Με χαρά. Γερμανία.",
+      "items": [
+        "i026",
+        "i210",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "Chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "Thessaloniki, come.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Θεσσαλονίκη. Έλα.",
+      "items": [
+        "i028",
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "I live, not at all, where?",
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "target": "Μένω. Καθόλου. Πού;",
+      "items": [
+        "i029",
+        "i212",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "Maybe.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Yogurt.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "From, always.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Από. Πάντα.",
+      "items": [
+        "i031",
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Athens, maybe, two.",
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "target": "Αθήνα. Ίσως. Δύο.",
+      "items": [
+        "i032",
+        "i214",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Three, OK.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τρία. Εντάξει.",
+      "items": [
+        "i034",
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "How much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Four, gladly, five.",
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "target": "Τέσσερα. Ευχαρίστως. Πέντε.",
+      "items": [
+        "i035",
+        "i216",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "How many, do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Πόσα; Θέλεις;",
+      "items": [
+        "i037",
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "OK.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "One.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ένα.",
+      "items": [
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Kiosk, with pleasure, here.",
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "target": "Περίπτερο. Με χαρά. Εδώ.",
+      "items": [
+        "i038",
+        "i210",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "A pack, come.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ένα πακέτο. Έλα.",
+      "items": [
+        "i040",
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Bread, not at all, koulouri.",
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "target": "Ψωμί. Καθόλου. Κουλούρι.",
+      "items": [
+        "i041",
+        "i212",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Or, always.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ή. Πάντα.",
+      "items": [
+        "i043",
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "A friend invites you out this evening. Answer the invitation.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet your friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: do you want? Come.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θέλεις; Έλα.",
+      "items": [
+        "i209",
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: with pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με χαρά!",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: tonight, together.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Απόψε, μαζί.",
+      "items": [
+        "i153",
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: always?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πάντα;",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: maybe.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: never.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: OK, gladly.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Εντάξει. Ευχαρίστως.",
+      "items": [
+        "i215",
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: thank you very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ευχαριστώ πολύ.",
+      "items": [
+        "i006",
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I want a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θέλω ένα καφέ.",
+      "items": [
+        "i004",
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the bill, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λογαριασμός, παρακαλώ.",
+      "items": [
+        "i124",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: tired, my head.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Κουρασμένος. Το κεφάλι μου.",
+      "items": [
+        "i201",
+        "i203"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: sorry, I'm sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λυπάμαι. Άρρωστος.",
+      "items": [
+        "i208",
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the pharmacy, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Φαρμακείο, παρακαλώ.",
+      "items": [
+        "i204",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: fever? no.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πυρετός; Όχι.",
+      "items": [
+        "i206",
+        "i008"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: Tuesday and Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τρίτη και Πέμπτη.",
+      "items": [
+        "i170",
+        "i012",
+        "i172"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: chicken, yogurt.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Κοτόπουλο, γιαούρτι.",
+      "items": [
+        "i131",
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: one, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ένα, και.",
+      "items": [
+        "i011",
+        "i012"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You can now invite people and answer invitations. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

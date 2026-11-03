@@ -1,0 +1,1784 @@
+{
+  "lesson": 28,
+  "title": "Tomorrow: I must, I will go, I see",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you talk about tomorrow: I must, to, I see, work, school, I work, tomorrow morning, I go to school.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to two friends talking about tomorrow.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Πρέπει να δουλεύω αύριο.",
+      "items": [
+        "i001",
+        "i217",
+        "i218",
+        "i222",
+        "i086"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Βλέπω, πάω στο σχολείο.",
+      "items": [
+        "i219",
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Δουλειά;",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Αύριο το πρωί;",
+      "items": [
+        "i223"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "I must, one has to, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Πρέπει.",
+      "items": [
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Πρέπει.",
+      "items": [
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, must.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Πρέπει.",
+      "items": [
+        "i001",
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say must?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Πρέπει.",
+      "items": [
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Must.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Πρέπει.",
+      "items": [
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Always.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Πάντα.",
+      "items": [
+        "i213"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, must, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Πρέπει. Ένας καφές.",
+      "items": [
+        "i002",
+        "i217",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Maybe.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Ίσως.",
+      "items": [
+        "i214"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "To is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Να.",
+      "items": [
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Να.",
+      "items": [
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I want, must.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω. Πρέπει.",
+      "items": [
+        "i004",
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Must.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Πρέπει.",
+      "items": [
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say to?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Να.",
+      "items": [
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "To.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Να.",
+      "items": [
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "OK.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Εντάξει.",
+      "items": [
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, to, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Να. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i218",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "I see is:",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Gladly.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Ευχαρίστως.",
+      "items": [
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "To.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Να.",
+      "items": [
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say I see?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Θέλεις;",
+      "items": [
+        "i209"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, to.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Να.",
+      "items": [
+        "i007",
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, I see, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Βλέπω. Νερό.",
+      "items": [
+        "i008",
+        "i219",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Work. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "ειά",
+      "items": [
+        "i220"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "λειά",
+      "items": [
+        "i220"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ουλειά",
+      "items": [
+        "i220"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say work?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "With pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Work.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Come.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Έλα.",
+      "items": [
+        "i211"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Βλέπω.",
+      "items": [
+        "i010",
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "Not at all.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Καθόλου.",
+      "items": [
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "School. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "είο",
+      "items": [
+        "i221"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "λείο",
+      "items": [
+        "i221"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "ολείο",
+      "items": [
+        "i221"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Work.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say school?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Doctor.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Γιατρός.",
+      "items": [
+        "i205"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "School.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "One, I see, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ένα. Βλέπω. Και.",
+      "items": [
+        "i011",
+        "i219",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b039",
+      "say": "Fever.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Πυρετός.",
+      "items": [
+        "i206"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Must.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Πρέπει.",
+      "items": [
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "I work. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "εύω",
+      "items": [
+        "i222"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "λεύω",
+      "items": [
+        "i222"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "ουλεύω",
+      "items": [
+        "i222"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "School.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say I work?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Sick.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Άρρωστος.",
+      "items": [
+        "i207"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "I work.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "A tea, I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Ένα τσάι. Βλέπω.",
+      "items": [
+        "i013",
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "To.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Να.",
+      "items": [
+        "i218"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "I'm sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Λυπάμαι.",
+      "items": [
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Tomorrow morning is:",
+      "pause": 2
+    },
+    {
+      "beat": "b049",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b049",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b049",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b050",
+      "say": "I work.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say tomorrow morning?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b052",
+      "say": "Tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Κουρασμένος.",
+      "items": [
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Tomorrow morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b054",
+      "say": "For you, I see, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Για σένα. Βλέπω. Λίγο.",
+      "items": [
+        "i014",
+        "i219",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b055",
+      "say": "I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Βλέπω.",
+      "items": [
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "I go to school is:",
+      "pause": 2
+    },
+    {
+      "beat": "b057",
+      "target": "Πάω στο σχολείο.",
+      "items": [
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b057",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b057",
+      "target": "Πάω στο σχολείο.",
+      "items": [
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b058",
+      "say": "Tomorrow morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say I go to school?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Πάω στο σχολείο.",
+      "items": [
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b060",
+      "say": "Wind.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "I go to school.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Πάω στο σχολείο.",
+      "items": [
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b062",
+      "say": "One more, I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Ακόμα ένα. Βλέπω.",
+      "items": [
+        "i016",
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "My name is, work, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "target": "Με λένε. Δουλειά. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i220",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "say": "Work.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Δουλειά.",
+      "items": [
+        "i220"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Nice to meet you, school.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Χάρηκα. Σχολείο.",
+      "items": [
+        "i019",
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "I go to school.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Πάω στο σχολείο.",
+      "items": [
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b068",
+      "say": "Nice weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "You, I work, I.",
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "target": "Εσύ; Δουλεύω. Εγώ.",
+      "items": [
+        "i020",
+        "i222",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Nikos, tomorrow morning.",
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "target": "Νίκος. Αύριο το πρωί.",
+      "items": [
+        "i022",
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "Maria, I go to school, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "target": "Μαρία. Πάω στο σχολείο. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i224",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b072",
+      "say": "English.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "say": "School.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Σχολείο.",
+      "items": [
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "I am, must.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Είμαι. Πρέπει.",
+      "items": [
+        "i025",
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Greece, to, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Ελλάδα. Να. Γερμανία.",
+      "items": [
+        "i026",
+        "i218",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "I know.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "Thessaloniki, I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Θεσσαλονίκη. Βλέπω.",
+      "items": [
+        "i028",
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "I live, work, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Μένω. Δουλειά. Πού;",
+      "items": [
+        "i029",
+        "i220",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "From, school.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Από. Σχολείο.",
+      "items": [
+        "i031",
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "A few.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "I work.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Δουλεύω.",
+      "items": [
+        "i222"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Athens, I work, two.",
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "target": "Αθήνα. Δουλεύω. Δύο.",
+      "items": [
+        "i032",
+        "i222",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Three, tomorrow morning.",
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "target": "Τρία. Αύριο το πρωί.",
+      "items": [
+        "i034",
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "I.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Εγώ.",
+      "items": [
+        "i021"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Four, I go to school, five.",
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "target": "Τέσσερα. Πάω στο σχολείο. Πέντε.",
+      "items": [
+        "i035",
+        "i224",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "How many, must.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Πόσα; Πρέπει.",
+      "items": [
+        "i037",
+        "i217"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Νίκος.",
+      "items": [
+        "i022"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Kiosk, to, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Περίπτερο. Να. Εδώ.",
+      "items": [
+        "i038",
+        "i218",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Tomorrow morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Αύριο το πρωί.",
+      "items": [
+        "i223"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "A pack, I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ένα πακέτο. Βλέπω.",
+      "items": [
+        "i040",
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Bread, work, koulouri.",
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "target": "Ψωμί. Δουλειά. Κουλούρι.",
+      "items": [
+        "i041",
+        "i220",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Or, school.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ή. Σχολείο.",
+      "items": [
+        "i043",
+        "i221"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "You talk with a friend about tomorrow: work, school, and plans.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet your friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I must work tomorrow.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πρέπει να δουλεύω αύριο.",
+      "items": [
+        "i217",
+        "i218",
+        "i222",
+        "i086"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: do you want? I see.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θέλεις; Βλέπω.",
+      "items": [
+        "i209",
+        "i219"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: with pleasure.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με χαρά.",
+      "items": [
+        "i210"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: tomorrow morning, school.",
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "target": "Αύριο το πρωί. Σχολείο.",
+      "items": [
+        "i223",
+        "i221"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: is it far?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Είναι μακριά;",
+      "items": [
+        "i064",
+        "i063"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: maybe, OK.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ίσως. Εντάξει.",
+      "items": [
+        "i214",
+        "i215"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: always, never.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πάντα. Καθόλου.",
+      "items": [
+        "i213",
+        "i212"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I go to school.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πάω στο σχολείο.",
+      "items": [
+        "i224"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my work, from Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Δουλειά. Από Δευτέρα.",
+      "items": [
+        "i220",
+        "i031",
+        "i169"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: at ten, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Στις δέκα, παρακαλώ.",
+      "items": [
+        "i187",
+        "i101",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: thank you, gladly.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ευχαριστώ. Ευχαρίστως.",
+      "items": [
+        "i006",
+        "i216"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I am tired.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Είμαι κουρασμένος.",
+      "items": [
+        "i025",
+        "i201"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: a little, one.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λίγο. Ένα.",
+      "items": [
+        "i015",
+        "i011"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the pharmacy.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Φαρμακείο.",
+      "items": [
+        "i204"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: sick, sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Άρρωστος. Λυπάμαι.",
+      "items": [
+        "i207",
+        "i208"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the weather is nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You can now talk about tomorrow: what you must do, what you see, and where you go. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
