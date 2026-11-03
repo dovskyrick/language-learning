@@ -1,0 +1,1791 @@
+{
+  "lesson": 21,
+  "title": "At the hotel",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you check into a hotel: a room, the key, three nights, breakfast, the floor, and the lift.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a guest at the hotel desk.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Ένα δωμάτιο για τρεις νύχτες, παρακαλώ.",
+      "items": [
+        "i001",
+        "i011",
+        "i161",
+        "i163",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Το κλειδί, παρακαλώ.",
+      "items": [
+        "i162",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Το πρωινό;",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ο όροφος;",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Το ασανσέρ είναι εκεί.",
+      "items": [
+        "i167",
+        "i064",
+        "i068"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Room. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "τιο",
+      "items": [
+        "i161"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ατιο",
+      "items": [
+        "i161"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ωμάτιο",
+      "items": [
+        "i161"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Will.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Θα.",
+      "items": [
+        "i160"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say room?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Room.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, room.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Δωμάτιο.",
+      "items": [
+        "i001",
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, room, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Δωμάτιο. Ένας καφές.",
+      "items": [
+        "i002",
+        "i161",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Tonight.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Απόψε.",
+      "items": [
+        "i153"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Key. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "ιδί",
+      "items": [
+        "i162"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "ειδί",
+      "items": [
+        "i162"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "λειδί",
+      "items": [
+        "i162"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Room.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say key?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Together.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Μαζί.",
+      "items": [
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Key.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "I want a room.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Θέλω δωμάτιο.",
+      "items": [
+        "i004",
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Great.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Please, key, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Παρακαλώ. Κλειδί. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i162",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "For three nights is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b019",
+      "say": "Key.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say for three nights?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b021",
+      "say": "Sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "For three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, key.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Κλειδί.",
+      "items": [
+        "i007",
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, three nights, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Για τρεις νύχτες. Νερό.",
+      "items": [
+        "i008",
+        "i163",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Breakfast. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "ινό",
+      "items": [
+        "i164"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ρωινό",
+      "items": [
+        "i164"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ωινό",
+      "items": [
+        "i164"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Πρωινό.",
+      "items": [
+        "i164"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Πρωινό.",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "For three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say breakfast?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Πρωινό.",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "What will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b029",
+      "say": "Breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Πρωινό.",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Για τρεις νύχτες.",
+      "items": [
+        "i010",
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "One, breakfast, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Πρωινό. Και.",
+      "items": [
+        "i011",
+        "i164",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "Night is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Νύχτα.",
+      "items": [
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Νύχτα.",
+      "items": [
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Πρωινό.",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say night?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Νύχτα.",
+      "items": [
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Night.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Νύχτα.",
+      "items": [
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Brother.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Αδερφός.",
+      "items": [
+        "i152"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Πρωινό.",
+      "items": [
+        "i013",
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Room.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Floor. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "ροφος",
+      "items": [
+        "i166"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "οφος",
+      "items": [
+        "i166"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "ροφ",
+      "items": [
+        "i166"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Night.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Νύχτα.",
+      "items": [
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say floor?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Spouse.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Σύζυγος.",
+      "items": [
+        "i145"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Floor.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Children.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Παιδιά.",
+      "items": [
+        "i146"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "For you, breakfast, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Για σένα. Πρωινό. Λίγο.",
+      "items": [
+        "i014",
+        "i164",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "Key.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Lift, elevator. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b049",
+      "target": "σανσέρ",
+      "items": [
+        "i167"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "νσέρ",
+      "items": [
+        "i167"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "ανσέρ",
+      "items": [
+        "i167"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b049",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b049",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Floor.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say lift?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Φίλος.",
+      "items": [
+        "i147"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "My wife.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Η γυναίκα μου.",
+      "items": [
+        "i148"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "For three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "One more, breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Ακόμα ένα. Πρωινό.",
+      "items": [
+        "i016",
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Quiet. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b057",
+      "target": "χο",
+      "items": [
+        "i168"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "ύχο",
+      "items": [
+        "i168"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "συχο",
+      "items": [
+        "i168"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b057",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b057",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say quiet?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Table.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Πρωινό.",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "My name is, breakfast, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "target": "Με λένε. Πρωινό. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i164",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Nice to meet you, night.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Χάρηκα. Νύχτα.",
+      "items": [
+        "i019",
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "For two.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "You, floor, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Εσύ; Όροφος. Εγώ.",
+      "items": [
+        "i020",
+        "i166",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "say": "Nikos, lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Νίκος. Ασανσέρ.",
+      "items": [
+        "i022",
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Night.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Νύχτα.",
+      "items": [
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Maria, quiet, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Μαρία. Ήσυχο. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i168",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "I am, room.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Είμαι. Δωμάτιο.",
+      "items": [
+        "i025",
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Greece, key, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ελλάδα. Κλειδί. Γερμανία.",
+      "items": [
+        "i026",
+        "i162",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "Taxi.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Ταξί.",
+      "items": [
+        "i088"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "Thessaloniki, for three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Θεσσαλονίκη. Για τρεις νύχτες.",
+      "items": [
+        "i028",
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "I live, breakfast, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Μένω. Πρωινό. Πού;",
+      "items": [
+        "i029",
+        "i164",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "From, night.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Από. Νύχτα.",
+      "items": [
+        "i031",
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Floor.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Bus.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Λεωφορείο.",
+      "items": [
+        "i081"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Athens, floor, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Αθήνα. Όροφος. Δύο.",
+      "items": [
+        "i032",
+        "i166",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Three, lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Τρία. Ασανσέρ.",
+      "items": [
+        "i034",
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "To the centre.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Στο κέντρο.",
+      "items": [
+        "i082"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Four, quiet, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Τέσσερα. Ήσυχο. Πέντε.",
+      "items": [
+        "i035",
+        "i168",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "How many, room.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Πόσα; Δωμάτιο.",
+      "items": [
+        "i037",
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "Kiosk, key, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Περίπτερο. Κλειδί. Εδώ.",
+      "items": [
+        "i038",
+        "i162",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "say": "Lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "A pack, three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ένα πακέτο. Για τρεις νύχτες.",
+      "items": [
+        "i040",
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "You arrive at a hotel. The receptionist greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b089",
+      "say": "Greet her politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask for a room, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ένα δωμάτιο, παρακαλώ.",
+      "items": [
+        "i011",
+        "i161",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: for three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: is there breakfast?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πρωινό;",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: which floor?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Όροφος;",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: where is the lift?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πού είναι το ασανσέρ;",
+      "items": [
+        "i030",
+        "i064",
+        "i167"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: the key, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Το κλειδί, παρακαλώ.",
+      "items": [
+        "i162",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: thank you, quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ευχαριστώ. Ήσυχο.",
+      "items": [
+        "i006",
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: tonight, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Απόψε. Ωραία.",
+      "items": [
+        "i153",
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: together, breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Μαζί. Πρωινό.",
+      "items": [
+        "i154",
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I want a table for two.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Θέλω τραπέζι για δύο.",
+      "items": [
+        "i004",
+        "i121",
+        "i122"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: my wife and my husband.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Η γυναίκα μου και ο άντρας μου.",
+      "items": [
+        "i148",
+        "i012",
+        "i149"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: night, sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Νύχτα. Αδερφή.",
+      "items": [
+        "i165",
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I like it.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: a little Greek.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Λίγα ελληνικά.",
+      "items": [
+        "i143",
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Well done. You can now check into a hotel and ask for a room, a key, and breakfast. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

@@ -1,0 +1,1785 @@
+{
+  "lesson": 22,
+  "title": "Days of the week",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you name the days of the week and make plans for the week.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to two people making plans for the week.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Τι μέρα είναι;",
+      "items": [
+        "i001",
+        "i096",
+        "i064"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Δευτέρα, Τρίτη, Τετάρτη.",
+      "items": [
+        "i169",
+        "i170",
+        "i171"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Πέμπτη;",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Παρασκευή, Σάββατο, Κυριακή.",
+      "items": [
+        "i173",
+        "i174",
+        "i175"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Η εβδομάδα.",
+      "items": [
+        "i176"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Monday. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "τερ",
+      "items": [
+        "i169"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "τέρα",
+      "items": [
+        "i169"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ευτέρα",
+      "items": [
+        "i169"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "For three nights.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Για τρεις νύχτες.",
+      "items": [
+        "i163"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say Monday?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Δευτέρα.",
+      "items": [
+        "i001",
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, Monday, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Δευτέρα. Ένας καφές.",
+      "items": [
+        "i002",
+        "i169",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Πρωινό.",
+      "items": [
+        "i164"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Tuesday is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I want Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω Δευτέρα.",
+      "items": [
+        "i004",
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say Tuesday?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Night.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Νύχτα.",
+      "items": [
+        "i165"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, Tuesday, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Τρίτη. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i170",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Wednesday. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "άρτη",
+      "items": [
+        "i171"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "τάρτη",
+      "items": [
+        "i171"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "ετάρτη",
+      "items": [
+        "i171"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "How do you say Wednesday?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "Floor.",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Τρίτη.",
+      "items": [
+        "i007",
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, Wednesday, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Τετάρτη. Νερό.",
+      "items": [
+        "i008",
+        "i171",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Thursday is:",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say Thursday?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Room.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Τετάρτη.",
+      "items": [
+        "i010",
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, Thursday, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Πέμπτη. Και.",
+      "items": [
+        "i011",
+        "i172",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "Friday. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "σκευή",
+      "items": [
+        "i173"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "ρασκευή",
+      "items": [
+        "i173"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "αρασκευή",
+      "items": [
+        "i173"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say Friday?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Key.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Great.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ωραία.",
+      "items": [
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Πέμπτη.",
+      "items": [
+        "i013",
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Saturday. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "βατο",
+      "items": [
+        "i174"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "ββατο",
+      "items": [
+        "i174"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "άββατο",
+      "items": [
+        "i174"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b041",
+      "target": "Σάββατο.",
+      "items": [
+        "i174"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Σάββατο.",
+      "items": [
+        "i174"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say Saturday?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Σάββατο.",
+      "items": [
+        "i174"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Sister.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Αδερφή.",
+      "items": [
+        "i156"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Saturday.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Σάββατο.",
+      "items": [
+        "i174"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "What will you have?",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Τι θα πάρετε;",
+      "items": [
+        "i157"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b047",
+      "say": "Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "For you, Thursday, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Για σένα. Πέμπτη. Λίγο.",
+      "items": [
+        "i014",
+        "i172",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b049",
+      "say": "Sunday. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b049",
+      "target": "ακή",
+      "items": [
+        "i175"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "ιακή",
+      "items": [
+        "i175"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "ριακή",
+      "items": [
+        "i175"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "Κυριακή.",
+      "items": [
+        "i175"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b049",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b049",
+      "target": "Κυριακή.",
+      "items": [
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Saturday.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Σάββατο.",
+      "items": [
+        "i174"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say Sunday?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Κυριακή.",
+      "items": [
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Πάμε.",
+      "items": [
+        "i158"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Sunday.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Κυριακή.",
+      "items": [
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Enjoy your meal.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Καλή όρεξη.",
+      "items": [
+        "i159"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "One more, Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Ακόμα ένα. Πέμπτη.",
+      "items": [
+        "i016",
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Week. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b057",
+      "target": "δομάδα",
+      "items": [
+        "i176"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "βδομάδα",
+      "items": [
+        "i176"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "ομάδα",
+      "items": [
+        "i176"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b057",
+      "target": "Εβδομάδα.",
+      "items": [
+        "i176"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b057",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b057",
+      "target": "Εβδομάδα.",
+      "items": [
+        "i176"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Sunday.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Κυριακή.",
+      "items": [
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say week?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Εβδομάδα.",
+      "items": [
+        "i176"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Week.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Εβδομάδα.",
+      "items": [
+        "i176"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Yogurt.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "My name is, Thursday, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b064",
+      "target": "Με λένε. Πέμπτη. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i172",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Nice to meet you, Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Χάρηκα. Παρασκευή.",
+      "items": [
+        "i019",
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "A dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Week.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Εβδομάδα.",
+      "items": [
+        "i176"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "You, Saturday, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Εσύ; Σάββατο. Εγώ.",
+      "items": [
+        "i020",
+        "i174",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "say": "Nikos, Sunday.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Νίκος. Κυριακή.",
+      "items": [
+        "i022",
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Cheese.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Maria, week, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Μαρία. Εβδομάδα. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i176",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "I am, Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Είμαι. Δευτέρα.",
+      "items": [
+        "i025",
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Greece, Tuesday, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ελλάδα. Τρίτη. Γερμανία.",
+      "items": [
+        "i026",
+        "i170",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "Evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Βράδυ.",
+      "items": [
+        "i091"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "Thessaloniki, Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Θεσσαλονίκη. Τετάρτη.",
+      "items": [
+        "i028",
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "I live, Thursday, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Μένω. Πέμπτη. Πού;",
+      "items": [
+        "i029",
+        "i172",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "say": "From, Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Από. Παρασκευή.",
+      "items": [
+        "i031",
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Saturday.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Σάββατο.",
+      "items": [
+        "i174"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "When?",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Athens, Saturday, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Αθήνα. Σάββατο. Δύο.",
+      "items": [
+        "i032",
+        "i174",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Three, Sunday.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Τρία. Κυριακή.",
+      "items": [
+        "i034",
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "In one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Four, week, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Τέσσερα. Εβδομάδα. Πέντε.",
+      "items": [
+        "i035",
+        "i176",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "How many, Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Πόσα; Δευτέρα.",
+      "items": [
+        "i037",
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "Kiosk, Tuesday, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Περίπτερο. Τρίτη. Εδώ.",
+      "items": [
+        "i038",
+        "i170",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "say": "Sunday.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Κυριακή.",
+      "items": [
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "A pack, Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ένα πακέτο. Τετάρτη.",
+      "items": [
+        "i040",
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "A friend asks what you are doing this week. Answer, and make plans.",
+      "pause": 2
+    },
+    {
+      "beat": "b089",
+      "say": "Greet your friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: what day is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Τι μέρα είναι;",
+      "items": [
+        "i096",
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Answer: Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: Tuesday or Wednesday?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Τρίτη ή Τετάρτη;",
+      "items": [
+        "i170",
+        "i043",
+        "i171"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: Thursday, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πέμπτη, παρακαλώ.",
+      "items": [
+        "i172",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: Friday and Saturday.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Παρασκευή και Σάββατο.",
+      "items": [
+        "i173",
+        "i012",
+        "i174"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: Sunday, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Κυριακή. Ωραία.",
+      "items": [
+        "i175",
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: the week, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Εβδομάδα. Ωραία.",
+      "items": [
+        "i176",
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: I want Sunday. Let's go.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Θέλω Κυριακή. Πάμε.",
+      "items": [
+        "i004",
+        "i175",
+        "i158"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: at night, the room is quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Το βράδυ, ήσυχο.",
+      "items": [
+        "i091",
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: for three nights, the key.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Για τρεις νύχτες. Κλειδί.",
+      "items": [
+        "i163",
+        "i162"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: tomorrow, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Αύριο, παρακαλώ.",
+      "items": [
+        "i086",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: at what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Τι ώρα;",
+      "items": [
+        "i087"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: yes, fine.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ναι. Καλά.",
+      "items": [
+        "i007",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: a coffee and breakfast.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ένας καφές και πρωινό.",
+      "items": [
+        "i003",
+        "i012",
+        "i164"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Say: a little, Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Λίγο, Δευτέρα.",
+      "items": [
+        "i015",
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: one more.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Say: tonight, together.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Απόψε, μαζί.",
+      "items": [
+        "i153",
+        "i154"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Well done. You can now name the days of the week and make plans. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
