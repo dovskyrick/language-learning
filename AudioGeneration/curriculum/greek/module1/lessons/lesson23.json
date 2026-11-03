@@ -1,0 +1,1742 @@
+{
+  "lesson": 23,
+  "title": "Weather: sun, rain, sea",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you talk about the weather: sun, rain, the sea, heat, wind, clouds, and nice weather.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to two people talking about the weather.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Ωραίος καιρός!",
+      "items": [
+        "i001",
+        "i184"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ήλιος ή βροχή;",
+      "items": [
+        "i177",
+        "i043",
+        "i178"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Θάλασσα, παρακαλώ.",
+      "items": [
+        "i179",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ζέστη!",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Αέρας και σύννεφα.",
+      "items": [
+        "i182",
+        "i012",
+        "i183"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Sun. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "ιος",
+      "items": [
+        "i177"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "λιος",
+      "items": [
+        "i177"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ήλι",
+      "items": [
+        "i177"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Ήλιος.",
+      "items": [
+        "i177"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Ήλιος.",
+      "items": [
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Saturday.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Σάββατο.",
+      "items": [
+        "i174"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say sun?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Ήλιος.",
+      "items": [
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Ήλιος.",
+      "items": [
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Ήλιος.",
+      "items": [
+        "i001",
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, sun, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Ήλιος. Ένας καφές.",
+      "items": [
+        "i002",
+        "i177",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "Sunday.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Κυριακή.",
+      "items": [
+        "i175"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Rain is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Βροχή.",
+      "items": [
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Βροχή.",
+      "items": [
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I want sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω ήλιος.",
+      "items": [
+        "i004",
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Ήλιος.",
+      "items": [
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How do you say rain?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Βροχή.",
+      "items": [
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Rain.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Βροχή.",
+      "items": [
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Week.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Εβδομάδα.",
+      "items": [
+        "i176"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, rain, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Βροχή. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i178",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Sea. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "σσα",
+      "items": [
+        "i179"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "ασσα",
+      "items": [
+        "i179"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "λασσα",
+      "items": [
+        "i179"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "Θάλασσα.",
+      "items": [
+        "i179"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Θάλασσα.",
+      "items": [
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Rain.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Βροχή.",
+      "items": [
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "How do you say sea?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Θάλασσα.",
+      "items": [
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Sea.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Θάλασσα.",
+      "items": [
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, rain.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Βροχή.",
+      "items": [
+        "i007",
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, sea, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Θάλασσα. Νερό.",
+      "items": [
+        "i008",
+        "i179",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Heat is:",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Sea.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Θάλασσα.",
+      "items": [
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say heat?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Heat.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, sea.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Θάλασσα.",
+      "items": [
+        "i010",
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, heat, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Ζέστη. Και.",
+      "items": [
+        "i011",
+        "i180",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "Weather is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Heat.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say weather?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Floor.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Όροφος.",
+      "items": [
+        "i166"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, heat.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Ζέστη.",
+      "items": [
+        "i013",
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "For you, weather, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Καιρός. Λίγο.",
+      "items": [
+        "i014",
+        "i181",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "Sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Ήλιος.",
+      "items": [
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Wind is:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say wind?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Lift.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Ασανσέρ.",
+      "items": [
+        "i167"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Wind.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Ήσυχο.",
+      "items": [
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "One more, weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Ακόμα ένα. Καιρός.",
+      "items": [
+        "i016",
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Rain.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Βροχή.",
+      "items": [
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Clouds. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "εφα",
+      "items": [
+        "i183"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "νεφα",
+      "items": [
+        "i183"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "ννεφα",
+      "items": [
+        "i183"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Wind.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say clouds?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Room.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Δωμάτιο.",
+      "items": [
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, weather, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Καιρός. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i181",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "Sea.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Θάλασσα.",
+      "items": [
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Key.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Κλειδί.",
+      "items": [
+        "i162"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Nice weather is:",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say nice weather?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "I know.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Nice weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Nice to meet you, weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Χάρηκα. Καιρός.",
+      "items": [
+        "i019",
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, wind, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Αέρας. Εγώ.",
+      "items": [
+        "i020",
+        "i182",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Heat.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "A few.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Nikos, clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Νίκος. Σύννεφα.",
+      "items": [
+        "i022",
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Nice weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Slowly, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Maria, nice weather, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "target": "Μαρία. Ωραίος καιρός. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i184",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "I am, sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Ήλιος.",
+      "items": [
+        "i025",
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, rain, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Βροχή. Γερμανία.",
+      "items": [
+        "i026",
+        "i178",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "Thessaloniki, sea.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Θεσσαλονίκη. Θάλασσα.",
+      "items": [
+        "i028",
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, heat, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Ζέστη. Πού;",
+      "items": [
+        "i029",
+        "i180",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Καιρός.",
+      "items": [
+        "i031",
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Athens, wind, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Αθήνα. Αέρας. Δύο.",
+      "items": [
+        "i032",
+        "i182",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Three, clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Σύννεφα.",
+      "items": [
+        "i034",
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Wind.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Number.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Four, nice weather, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τέσσερα. Ωραίος καιρός. Πέντε.",
+      "items": [
+        "i035",
+        "i184",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "How many, sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Ήλιος.",
+      "items": [
+        "i037",
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, rain, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Βροχή. Εδώ.",
+      "items": [
+        "i038",
+        "i178",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "My number.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "A pack, sea.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα πακέτο. Θάλασσα.",
+      "items": [
+        "i040",
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Bread, heat, koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ψωμί. Ζέστη. Κουλούρι.",
+      "items": [
+        "i041",
+        "i180",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Or, weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ή. Καιρός.",
+      "items": [
+        "i043",
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, wind, how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Αέρας. Πόσο;",
+      "items": [
+        "i044",
+        "i182",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "You are on a day trip and the weather changes. A friend talks about it.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet your friend politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: nice weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: sun or rain?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ήλιος ή βροχή;",
+      "items": [
+        "i177",
+        "i043",
+        "i178"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the sea, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Θάλασσα, παρακαλώ.",
+      "items": [
+        "i179",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: it is hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the wind and the clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Αέρας και σύννεφα.",
+      "items": [
+        "i182",
+        "i012",
+        "i183"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: yes, the weather is nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ναι. Καιρός ωραίος.",
+      "items": [
+        "i007",
+        "i181",
+        "i184"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: Monday, Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Δευτέρα, Τρίτη.",
+      "items": [
+        "i169",
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: Sunday, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κυριακή. Ωραία.",
+      "items": [
+        "i175",
+        "i155"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: a little, slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Λίγα, αργά.",
+      "items": [
+        "i143",
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the key, the room.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κλειδί. Δωμάτιο.",
+      "items": [
+        "i162",
+        "i161"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the lift, quiet.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ασανσέρ. Ήσυχο.",
+      "items": [
+        "i167",
+        "i168"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: my phone number.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ο αριθμός μου. Τηλέφωνο.",
+      "items": [
+        "i104",
+        "i102"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: number, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Αριθμός. Δύο.",
+      "items": [
+        "i103",
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: four, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Τέσσερα, πέντε.",
+      "items": [
+        "i035",
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now talk about the weather and the sea. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

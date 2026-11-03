@@ -1,0 +1,1762 @@
+{
+  "lesson": 24,
+  "title": "A day trip",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you plan a day trip by boat to an island: the boat, the island, at what time, and have a good trip.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to friends planning a day trip.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Θα πάμε, νησί.",
+      "items": [
+        "i001",
+        "i192",
+        "i186"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Με τη βάρκα;",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Στις δέκα.",
+      "items": [
+        "i187",
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Καλό ταξίδι!",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ποδήλατο;",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Boat is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Βάρκα.",
+      "items": [
+        "i001",
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say boat?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Sun.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Ήλιος.",
+      "items": [
+        "i177"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, boat, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Βάρκα. Ένας καφές.",
+      "items": [
+        "i002",
+        "i185",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want a boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω βάρκα.",
+      "items": [
+        "i004",
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Island is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say island?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Rain.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Βροχή.",
+      "items": [
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Island.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Sea.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Θάλασσα.",
+      "items": [
+        "i179"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, island, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Νησί. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i186",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Βάρκα.",
+      "items": [
+        "i007",
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "At, at a time, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Island.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say at?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Heat.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Ζέστη.",
+      "items": [
+        "i180"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "At.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Καιρός.",
+      "items": [
+        "i181"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, at, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Στις. Νερό.",
+      "items": [
+        "i008",
+        "i187",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "How much is it, boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Πόσο κάνει; Βάρκα.",
+      "items": [
+        "i010",
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "At what time, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "At.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you ask at what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Wind.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Αέρας.",
+      "items": [
+        "i182"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "At what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "One, at what time, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα. Τι ώρα; Και.",
+      "items": [
+        "i011",
+        "i188",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "Clouds.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Σύννεφα.",
+      "items": [
+        "i183"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "A tea, boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα τσάι. Βάρκα.",
+      "items": [
+        "i013",
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Trip. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b034",
+      "target": "ιδι",
+      "items": [
+        "i189"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "ξίδι",
+      "items": [
+        "i189"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "αξίδι",
+      "items": [
+        "i189"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b034",
+      "target": "Ταξίδι.",
+      "items": [
+        "i189"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b034",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b034",
+      "target": "Ταξίδι.",
+      "items": [
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "At what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say trip?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Ταξίδι.",
+      "items": [
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Nice weather.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ωραίος καιρός.",
+      "items": [
+        "i184"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ταξίδι.",
+      "items": [
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Monday.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Δευτέρα.",
+      "items": [
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "For you, trip, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Ταξίδι. Λίγο.",
+      "items": [
+        "i014",
+        "i189",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "Boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Βάρκα.",
+      "items": [
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Have a good trip is:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Καλό ταξίδι.",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Καλό ταξίδι.",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Ταξίδι.",
+      "items": [
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say have a good trip?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Καλό ταξίδι.",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Tuesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Τρίτη.",
+      "items": [
+        "i170"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Have a good trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Καλό ταξίδι.",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "One more, trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Ακόμα ένα. Ταξίδι.",
+      "items": [
+        "i016",
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Τετάρτη.",
+      "items": [
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Island.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Νησί.",
+      "items": [
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Bicycle. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "δήλατο",
+      "items": [
+        "i191"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "ήλατο",
+      "items": [
+        "i191"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "λατο",
+      "items": [
+        "i191"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b050",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Have a good trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Καλό ταξίδι.",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say bicycle?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Thursday.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Πέμπτη.",
+      "items": [
+        "i172"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, trip, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Ταξίδι. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i189",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "At.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Στις.",
+      "items": [
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Friday.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Παρασκευή.",
+      "items": [
+        "i173"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "We will go is:",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say we will go?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Spouse.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Σύζυγος.",
+      "items": [
+        "i145"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "We will go.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Nice to meet you, trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Χάρηκα. Ταξίδι.",
+      "items": [
+        "i019",
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, have a good trip, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Καλό ταξίδι. Εγώ.",
+      "items": [
+        "i020",
+        "i190",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "At what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Children.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Παιδιά.",
+      "items": [
+        "i146"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Nikos, bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Νίκος. Ποδήλατο.",
+      "items": [
+        "i022",
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "We will go.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Θα πάμε.",
+      "items": [
+        "i192"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Maria, we will go, my name is formal.",
+      "pause": 7
+    },
+    {
+      "beat": "b069",
+      "target": "Μαρία. Θα πάμε. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i192",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Friend.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Φίλος.",
+      "items": [
+        "i147"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "I am, boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Βάρκα.",
+      "items": [
+        "i025",
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, island, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Νησί. Γερμανία.",
+      "items": [
+        "i026",
+        "i186",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Thessaloniki, at.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Θεσσαλονίκη. Στις.",
+      "items": [
+        "i028",
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ταξίδι.",
+      "items": [
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "My wife.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Η γυναίκα μου.",
+      "items": [
+        "i148"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, at what time, where?",
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Τι ώρα; Πού;",
+      "items": [
+        "i029",
+        "i188",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Ταξίδι.",
+      "items": [
+        "i031",
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Athens, have a good trip, two.",
+      "pause": 7
+    },
+    {
+      "beat": "b078",
+      "target": "Αθήνα. Καλό ταξίδι. Δύο.",
+      "items": [
+        "i032",
+        "i190",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "Fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Three, bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Ποδήλατο.",
+      "items": [
+        "i034",
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Have a good trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Καλό ταξίδι.",
+      "items": [
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Four, we will go, five.",
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "target": "Τέσσερα. Θα πάμε. Πέντε.",
+      "items": [
+        "i035",
+        "i192",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Kilo.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "How many, boat.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Βάρκα.",
+      "items": [
+        "i037",
+        "i185"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, island, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Νησί. Εδώ.",
+      "items": [
+        "i038",
+        "i186",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "A pack, at.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Ένα πακέτο. Στις.",
+      "items": [
+        "i040",
+        "i187"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "This one.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Bread, at what time, koulouri.",
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "target": "Ψωμί. Τι ώρα; Κουλούρι.",
+      "items": [
+        "i041",
+        "i188",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ποδήλατο.",
+      "items": [
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Or, trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ή. Ταξίδι.",
+      "items": [
+        "i043",
+        "i189"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, have a good trip, how much?",
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Καλό ταξίδι. Πόσο;",
+      "items": [
+        "i044",
+        "i190",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Fresh, bicycle.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Φρέσκο. Ποδήλατο.",
+      "items": [
+        "i046",
+        "i191"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "You plan a day trip with a friend. Make plans for the boat and the island.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet your friend politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: shall we go by boat?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Θα πάμε με τη βάρκα;",
+      "items": [
+        "i192",
+        "i185"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: yes, let's go to the island.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ναι. Πάμε, νησί.",
+      "items": [
+        "i007",
+        "i158",
+        "i186"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: at what time?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τι ώρα;",
+      "items": [
+        "i188"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Answer: at ten.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Στις δέκα.",
+      "items": [
+        "i187",
+        "i101"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: is the weather good?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ο καιρός είναι ωραίος;",
+      "items": [
+        "i181",
+        "i184"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the sun, the sea, great.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ήλιος, θάλασσα. Ωραία.",
+      "items": [
+        "i177",
+        "i179",
+        "i155"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: a little rain.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Λίγο, βροχή.",
+      "items": [
+        "i015",
+        "i178"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: bicycle, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ποδήλατο, παρακαλώ.",
+      "items": [
+        "i191",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: thank you, have a good trip.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ευχαριστώ. Καλό ταξίδι.",
+      "items": [
+        "i006",
+        "i190"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: I like it, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μου αρέσει πάρα πολύ.",
+      "items": [
+        "i113",
+        "i115"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: at what time, Monday?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τι ώρα; Δευτέρα;",
+      "items": [
+        "i188",
+        "i169"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: Tuesday, Wednesday.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τρίτη, Τετάρτη.",
+      "items": [
+        "i170",
+        "i171"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my wife, the children.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Η γυναίκα μου. Παιδιά.",
+      "items": [
+        "i148",
+        "i146"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: slowly, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: the menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You can now plan a day trip, ask the time, and wish someone a good trip. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
