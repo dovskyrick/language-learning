@@ -1,0 +1,1698 @@
+{
+  "lesson": 17,
+  "title": "Food and drink",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you order food and drink: beer, milk, chicken, yogurt, cheese, juice, and something sweet.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a family ordering at the taverna.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Μπύρα ή γάλα;",
+      "items": [
+        "i001",
+        "i129",
+        "i043",
+        "i130"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Το κοτόπουλο, παρακαλώ.",
+      "items": [
+        "i131",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Γιαούρτι και τυρί.",
+      "items": [
+        "i132",
+        "i012",
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ένα γλυκό, για σένα.",
+      "items": [
+        "i133",
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Χυμός;",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Beer is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Μπύρα.",
+      "items": [
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Μπύρα.",
+      "items": [
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Μπύρα.",
+      "items": [
+        "i001",
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say beer?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Μπύρα.",
+      "items": [
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Μπύρα.",
+      "items": [
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Bill.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Λογαριασμός.",
+      "items": [
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, beer, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Μπύρα. Ένας καφές.",
+      "items": [
+        "i002",
+        "i129",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω μπύρα.",
+      "items": [
+        "i004",
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Milk is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Μπύρα.",
+      "items": [
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say milk?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "A glass.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Ένα ποτήρι.",
+      "items": [
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Milk.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Fish.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Ψάρι.",
+      "items": [
+        "i126"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, milk, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Γάλα. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i130",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Μπύρα.",
+      "items": [
+        "i007",
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Chicken. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "πουλο",
+      "items": [
+        "i131"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b018",
+      "target": "τόπουλο",
+      "items": [
+        "i131"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b018",
+      "target": "οτόπουλο",
+      "items": [
+        "i131"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b018",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Milk.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say chicken?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, chicken, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Κοτόπουλο. Νερό.",
+      "items": [
+        "i008",
+        "i131",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "How much is it, beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Πόσο κάνει; Μπύρα.",
+      "items": [
+        "i010",
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Yogurt. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "ρτι",
+      "items": [
+        "i132"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "ούρτι",
+      "items": [
+        "i132"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "αούρτι",
+      "items": [
+        "i132"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "Chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say yogurt?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Table.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Yogurt.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "For two.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, yogurt, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Γιαούρτι. Και.",
+      "items": [
+        "i011",
+        "i132",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "A tea, beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα τσάι. Μπύρα.",
+      "items": [
+        "i013",
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "A dessert is:",
+      "pause": 2
+    },
+    {
+      "beat": "b034",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b034",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "Yogurt.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say a dessert?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "A dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Better.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Μπύρα.",
+      "items": [
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "For you, a dessert, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Για σένα. Ένα γλυκό. Λίγο.",
+      "items": [
+        "i014",
+        "i133",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b042",
+      "say": "Cheese is:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "A dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say cheese?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Cheese.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "Hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Milk.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "One more, a dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Ακόμα ένα. Ένα γλυκό.",
+      "items": [
+        "i016",
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Juice is:",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Cheese.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say juice?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Juice.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, a dessert, what is your name?",
+      "pause": 7
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Ένα γλυκό. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i133",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "Nice to meet you, cheese.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Χάρηκα. Τυρί.",
+      "items": [
+        "i019",
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "You speak, polite. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "λάτε",
+      "items": [
+        "i136"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "ιλάτε",
+      "items": [
+        "i136"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b058",
+      "target": "Μιλάτε.",
+      "items": [
+        "i136"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Μιλάτε.",
+      "items": [
+        "i136"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Juice.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say you speak?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Μιλάτε.",
+      "items": [
+        "i136"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "You speak.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Μιλάτε.",
+      "items": [
+        "i136"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "When?",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, cheese, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Τυρί. Εγώ.",
+      "items": [
+        "i020",
+        "i134",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "In one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Yogurt.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Nikos, juice.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Νίκος. Χυμός.",
+      "items": [
+        "i022",
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "You speak.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Μιλάτε.",
+      "items": [
+        "i136"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Every day.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Κάθε μέρα.",
+      "items": [
+        "i094"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Maria, you speak, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Μαρία. Μιλάτε. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i136",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "I am, beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Μπύρα.",
+      "items": [
+        "i025",
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, milk, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Γάλα. Γερμανία.",
+      "items": [
+        "i026",
+        "i130",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Yesterday.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Χθες.",
+      "items": [
+        "i095"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "A dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Thessaloniki, chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Θεσσαλονίκη. Κοτόπουλο.",
+      "items": [
+        "i028",
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, yogurt, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Γιαούρτι. Πού;",
+      "items": [
+        "i029",
+        "i132",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, a dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Ένα γλυκό.",
+      "items": [
+        "i031",
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "So-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Athens, cheese, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Αθήνα. Τυρί. Δύο.",
+      "items": [
+        "i032",
+        "i134",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Three, juice.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Χυμός.",
+      "items": [
+        "i034",
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Cheese.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "And you?",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Four, you speak, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τέσσερα. Μιλάτε. Πέντε.",
+      "items": [
+        "i035",
+        "i136",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "How many, beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Μπύρα.",
+      "items": [
+        "i037",
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, milk, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Γάλα. Εδώ.",
+      "items": [
+        "i038",
+        "i130",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "Today.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "A pack, chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα πακέτο. Κοτόπουλο.",
+      "items": [
+        "i040",
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Juice.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Bread, yogurt, koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ψωμί. Γιαούρτι. Κουλούρι.",
+      "items": [
+        "i041",
+        "i132",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Or, a dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ή. Ένα γλυκό.",
+      "items": [
+        "i043",
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, cheese, how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Τυρί. Πόσο;",
+      "items": [
+        "i044",
+        "i134",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "You are at a taverna with friends. The waiter asks what you want.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet him politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: beer or milk?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μπύρα ή γάλα;",
+      "items": [
+        "i129",
+        "i043",
+        "i130"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: chicken, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κοτόπουλο, παρακαλώ.",
+      "items": [
+        "i131",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: yogurt and cheese, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γιαούρτι και τυρί, παρακαλώ.",
+      "items": [
+        "i132",
+        "i012",
+        "i134",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: juice.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: a dessert, for you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ένα γλυκό, για σένα.",
+      "items": [
+        "i133",
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I like it, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μου αρέσει πάρα πολύ.",
+      "items": [
+        "i113",
+        "i115"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: a table for two, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Τραπέζι για δύο, παρακαλώ.",
+      "items": [
+        "i121",
+        "i122",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the menu, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κατάλογος, παρακαλώ.",
+      "items": [
+        "i123",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: bread and milk, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ψωμί και γάλα, παρακαλώ.",
+      "items": [
+        "i041",
+        "i012",
+        "i130",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: yes, wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ναι. Κρασί.",
+      "items": [
+        "i007",
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: fish, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ψάρι, παρακαλώ.",
+      "items": [
+        "i126",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: when?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: in one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: every day, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κάθε μέρα. Γλυκό.",
+      "items": [
+        "i094",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: thank you, good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ευχαριστώ. Καληνύχτα.",
+      "items": [
+        "i006",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now order food and drink at a taverna. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

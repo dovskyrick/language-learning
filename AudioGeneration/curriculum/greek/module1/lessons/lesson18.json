@@ -1,0 +1,1757 @@
+{
+  "lesson": 18,
+  "title": "Can you say that again?",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you learn to ask for help with language: can you repeat it, slowly please, I don't understand, and do you know Greek or English.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a tourist asking for help.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Λίγα ελληνικά.",
+      "items": [
+        "i143",
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ξέρω αγγλικά;",
+      "items": [
+        "i142",
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "To ask someone to repeat, politely, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then ask them to repeat it.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i001",
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you ask someone to repeat?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b006",
+      "say": "Can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b007",
+      "say": "Juice.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Χυμός.",
+      "items": [
+        "i135"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, repeat it, a coffee.",
+      "pause": 7
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Μπορείτε να το επαναλάβετε; Ένας καφές.",
+      "items": [
+        "i002",
+        "i137",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want, can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω. Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i004",
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b010",
+      "say": "I understand. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "λαβαίνω",
+      "items": [
+        "i138"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "ταλαβαίνω",
+      "items": [
+        "i138"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "αταλαβαίνω",
+      "items": [
+        "i138"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say I understand?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "You speak.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Μιλάτε.",
+      "items": [
+        "i136"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "I understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Beer.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Μπύρα.",
+      "items": [
+        "i129"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, I understand, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Καταλαβαίνω. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i138",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Milk.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Γάλα.",
+      "items": [
+        "i130"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "I don't understand, is said:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "I understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say I don't understand?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Yes, I understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Ναι. Καταλαβαίνω.",
+      "items": [
+        "i007",
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "I don't understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Chicken.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Κοτόπουλο.",
+      "items": [
+        "i131"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, I don't understand, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Δεν καταλαβαίνω. Νερό.",
+      "items": [
+        "i008",
+        "i139",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "Greek, the language. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "νικά",
+      "items": [
+        "i140"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ηνικά",
+      "items": [
+        "i140"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ληνικά",
+      "items": [
+        "i140"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Ελληνικά.",
+      "items": [
+        "i140"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Ελληνικά.",
+      "items": [
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "I don't understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say Greek?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Ελληνικά.",
+      "items": [
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Yogurt.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Γιαούρτι.",
+      "items": [
+        "i132"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Greek.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Ελληνικά.",
+      "items": [
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "A dessert.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Ένα γλυκό.",
+      "items": [
+        "i133"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, I don't understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Δεν καταλαβαίνω.",
+      "items": [
+        "i010",
+        "i139"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "One, Greek, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Ελληνικά. Και.",
+      "items": [
+        "i011",
+        "i140",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "English, the language. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "λικά",
+      "items": [
+        "i141"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "γλικά",
+      "items": [
+        "i141"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "γγλικά",
+      "items": [
+        "i141"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Greek.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Ελληνικά.",
+      "items": [
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say English?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Cheese.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Τυρί.",
+      "items": [
+        "i134"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "English.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b040",
+      "say": "A tea, Greek.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Ένα τσάι. Ελληνικά.",
+      "items": [
+        "i013",
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "I know is:",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "English.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say I know?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "I know.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Table.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "For you, Greek, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Για σένα. Ελληνικά. Λίγο.",
+      "items": [
+        "i014",
+        "i140",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "I understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "A few, a little is:",
+      "pause": 2
+    },
+    {
+      "beat": "b049",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b049",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "I know.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say a few?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "For two.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "A few.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "One more, Greek.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Ακόμα ένα. Ελληνικά.",
+      "items": [
+        "i016",
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, English, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Αγγλικά. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i141",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "I don't understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Slowly, please, is said:",
+      "pause": 2
+    },
+    {
+      "beat": "b057",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b057",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "A few.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say slowly, please?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Slowly, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Number.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Nice to meet you, English.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Χάρηκα. Αγγλικά.",
+      "items": [
+        "i019",
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, I know, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Ξέρω. Εγώ.",
+      "items": [
+        "i020",
+        "i142",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Greek.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Ελληνικά.",
+      "items": [
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "My number.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Slowly, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Nikos, a few.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Νίκος. Λίγα.",
+      "items": [
+        "i022",
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Six.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Maria, slowly please, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Μαρία. Αργά, παρακαλώ. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i144",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "I am, can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i025",
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, I understand, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Καταλαβαίνω. Γερμανία.",
+      "items": [
+        "i026",
+        "i138",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Seven.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "English.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Αγγλικά.",
+      "items": [
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Thessaloniki, I don't understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Θεσσαλονίκη. Δεν καταλαβαίνω.",
+      "items": [
+        "i028",
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, Greek, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Ελληνικά. Πού;",
+      "items": [
+        "i029",
+        "i140",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "From, English.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Αγγλικά.",
+      "items": [
+        "i031",
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Far.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Athens, I know, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Αθήνα. Ξέρω. Δύο.",
+      "items": [
+        "i032",
+        "i142",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Three, a few.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Τρία. Λίγα.",
+      "items": [
+        "i034",
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "I know.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Ξέρω.",
+      "items": [
+        "i142"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Is.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Four, slowly please, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τέσσερα. Αργά, παρακαλώ. Πέντε.",
+      "items": [
+        "i035",
+        "i144",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "How many, can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i037",
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "Kiosk, I understand, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Περίπτερο. Καταλαβαίνω. Εδώ.",
+      "items": [
+        "i038",
+        "i138",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "Where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "A pack, I don't understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα πακέτο. Δεν καταλαβαίνω.",
+      "items": [
+        "i040",
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "A few.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Λίγα.",
+      "items": [
+        "i143"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Bread, Greek, koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ψωμί. Ελληνικά. Κουλούρι.",
+      "items": [
+        "i041",
+        "i140",
+        "i042"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Or, English.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ή. Αγγλικά.",
+      "items": [
+        "i043",
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You want, I know, how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλετε; Ξέρω. Πόσο;",
+      "items": [
+        "i044",
+        "i142",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "You are a tourist in a shop. The shop assistant speaks quickly.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet her politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask her to speak slowly, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Αργά, παρακαλώ.",
+      "items": [
+        "i144"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: can you repeat it?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μπορείτε να το επαναλάβετε;",
+      "items": [
+        "i137"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I don't understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Δεν καταλαβαίνω.",
+      "items": [
+        "i139"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: a little Greek.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Λίγα ελληνικά.",
+      "items": [
+        "i143",
+        "i140"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I know a little English.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ξέρω αγγλικά.",
+      "items": [
+        "i142",
+        "i141"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "She says: good. Say: I understand.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καταλαβαίνω.",
+      "items": [
+        "i138"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask her: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: a table for two, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Τραπέζι για δύο, παρακαλώ.",
+      "items": [
+        "i121",
+        "i122",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: the menu, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κατάλογος, παρακαλώ.",
+      "items": [
+        "i123",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: bread and milk, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ψωμί και γάλα, παρακαλώ.",
+      "items": [
+        "i041",
+        "i012",
+        "i130",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: yes, wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ναι. Κρασί.",
+      "items": [
+        "i007",
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: fish, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ψάρι, παρακαλώ.",
+      "items": [
+        "i126",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: when?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πότε;",
+      "items": [
+        "i092"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: in one hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σε μία ώρα.",
+      "items": [
+        "i093"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: every day, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κάθε μέρα. Γλυκό.",
+      "items": [
+        "i094",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: today, so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σήμερα. Έτσι κι έτσι.",
+      "items": [
+        "i054",
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: thank you, good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ευχαριστώ. Καληνύχτα.",
+      "items": [
+        "i006",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask her: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: chicken, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Κοτόπουλο, παρακαλώ.",
+      "items": [
+        "i131",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now ask people to repeat, and say what you understand. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
