@@ -1,0 +1,1672 @@
+{
+  "lesson": 15,
+  "title": "I like it, I don't like it",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you say what you like and what you do not like: sweet, hot, cold, nice, very much.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to two friends talking about food and weather.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Μου αρέσει το ζεστό νερό.",
+      "items": [
+        "i001",
+        "i113",
+        "i118",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Δεν μου αρέσει το κρύο.",
+      "items": [
+        "i114",
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Μου αρέσει πάρα πολύ το γλυκό.",
+      "items": [
+        "i113",
+        "i115",
+        "i117"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Καλύτερα;",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ωραίο!",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "To say I like, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Μου αρέσει.",
+      "items": [
+        "i001",
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say I like?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Oranges.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Πορτοκάλια.",
+      "items": [
+        "i110"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, I like, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Μου αρέσει. Ένας καφές.",
+      "items": [
+        "i002",
+        "i113",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want, I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω. Μου αρέσει.",
+      "items": [
+        "i004",
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "To say I don't like, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Δεν μου αρέσει.",
+      "items": [
+        "i114"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Δεν μου αρέσει.",
+      "items": [
+        "i114"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say I don't like?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Δεν μου αρέσει.",
+      "items": [
+        "i114"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Half.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Μισό.",
+      "items": [
+        "i111"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "I don't like.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Δεν μου αρέσει.",
+      "items": [
+        "i114"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Tomatoes.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Ντομάτες.",
+      "items": [
+        "i112"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, I don't like, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Δεν μου αρέσει. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i114",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Μου αρέσει.",
+      "items": [
+        "i007",
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Very much, is said:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Πάρα πολύ.",
+      "items": [
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Πάρα πολύ.",
+      "items": [
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "I don't like.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Δεν μου αρέσει.",
+      "items": [
+        "i114"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say very much?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Πάρα πολύ.",
+      "items": [
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Πάρα πολύ.",
+      "items": [
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Kilo.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, very much, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Πάρα πολύ. Νερό.",
+      "items": [
+        "i008",
+        "i115",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "How much is it, I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Πόσο κάνει; Μου αρέσει.",
+      "items": [
+        "i010",
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Better. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "τερα",
+      "items": [
+        "i116"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "ύτερα",
+      "items": [
+        "i116"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "λύτερα",
+      "items": [
+        "i116"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b026",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "Very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Πάρα πολύ.",
+      "items": [
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say better?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "This one.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Better.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "That one.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, better, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Καλύτερα. Και.",
+      "items": [
+        "i011",
+        "i116",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "A tea, I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα τσάι. Μου αρέσει.",
+      "items": [
+        "i013",
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Sweet is:",
+      "pause": 2
+    },
+    {
+      "beat": "b034",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b034",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "Better.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say sweet?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "Phone.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Τηλέφωνο.",
+      "items": [
+        "i102"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "For you, sweet, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Γλυκό. Λίγο.",
+      "items": [
+        "i014",
+        "i117",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Hot is:",
+      "pause": 2
+    },
+    {
+      "beat": "b042",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b042",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "Sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "How do you say hot?",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Number.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Αριθμός.",
+      "items": [
+        "i103"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "One more, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Ακόμα ένα. Γλυκό.",
+      "items": [
+        "i016",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "My number.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Ο αριθμός μου.",
+      "items": [
+        "i104"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "I don't like.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Δεν μου αρέσει.",
+      "items": [
+        "i114"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Cold is:",
+      "pause": 2
+    },
+    {
+      "beat": "b050",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b050",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "Hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "How do you say cold?",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Six.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Έξι.",
+      "items": [
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "My name is, sweet, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Με λένε. Γλυκό. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i117",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "Nice to meet you, hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Χάρηκα. Ζεστό.",
+      "items": [
+        "i019",
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Πάρα πολύ.",
+      "items": [
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Nice, beautiful is:",
+      "pause": 2
+    },
+    {
+      "beat": "b058",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b058",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "Cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "How do you say nice?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Seven.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Επτά.",
+      "items": [
+        "i098"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "You, hot, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Εσύ; Ζεστό. Εγώ.",
+      "items": [
+        "i020",
+        "i118",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "Nikos, cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Νίκος. Κρύο.",
+      "items": [
+        "i022",
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Maria, nice, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Μαρία. Ωραίο. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i120",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Better.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "I am, I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Είμαι. Μου αρέσει.",
+      "items": [
+        "i025",
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Not.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Δεν.",
+      "items": [
+        "i080"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Greece, I don't like, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ελλάδα. Δεν μου αρέσει. Γερμανία.",
+      "items": [
+        "i026",
+        "i114",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Thessaloniki, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Θεσσαλονίκη. Πάρα πολύ.",
+      "items": [
+        "i028",
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "I live, better, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Μένω. Καλύτερα. Πού;",
+      "items": [
+        "i029",
+        "i116",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "Sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "Metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "From, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Από. Γλυκό.",
+      "items": [
+        "i031",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Athens, hot, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Αθήνα. Ζεστό. Δύο.",
+      "items": [
+        "i032",
+        "i118",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "Three, cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Τρία. Κρύο.",
+      "items": [
+        "i034",
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Kiosk.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Four, nice, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Τέσσερα. Ωραίο. Πέντε.",
+      "items": [
+        "i035",
+        "i120",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "Hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "How many, I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Πόσα; Μου αρέσει.",
+      "items": [
+        "i037",
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Here.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "A pack, I don't like, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Ένα πακέτο. Δεν μου αρέσει. Ψωμί.",
+      "items": [
+        "i040",
+        "i114",
+        "i041"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "Koulouri, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Κουλούρι. Πάρα πολύ.",
+      "items": [
+        "i042",
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "Or, better, you want.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ή. Καλύτερα. Θέλετε;",
+      "items": [
+        "i043",
+        "i116",
+        "i044"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "say": "A pack.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "Cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "How much, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Πόσο; Γλυκό.",
+      "items": [
+        "i045",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Fresh, hot, very.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Φρέσκο. Ζεστό. Πολύ.",
+      "items": [
+        "i046",
+        "i118",
+        "i047"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Good, cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καλό. Κρύο.",
+      "items": [
+        "i048",
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Good evening, nice, how are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καλησπέρα. Ωραίο. Τι κάνεις;",
+      "items": [
+        "i049",
+        "i120",
+        "i050"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "You are at a taverna. The waiter asks what you like.",
+      "pause": 2
+    },
+    {
+      "beat": "b094",
+      "say": "Greet him politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "He asks what you like. Say: I like it, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Μου αρέσει πάρα πολύ.",
+      "items": [
+        "i113",
+        "i115"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: I don't like cold water.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Δεν μου αρέσει το κρύο νερό.",
+      "items": [
+        "i114",
+        "i119",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: I like the hot water.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Μου αρέσει το ζεστό νερό.",
+      "items": [
+        "i113",
+        "i118",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: sweet, better.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Γλυκό, καλύτερα.",
+      "items": [
+        "i117",
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "He asks: sweet or not? Answer: sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: that one, not this one.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Εκείνο, όχι αυτό.",
+      "items": [
+        "i108",
+        "i008",
+        "i107"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: fruit, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Φρούτα, παρακαλώ.",
+      "items": [
+        "i105",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: apples and oranges, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Μήλα και πορτοκάλια, παρακαλώ.",
+      "items": [
+        "i109",
+        "i012",
+        "i110",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: one kilo, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Ένα κιλό, παρακαλώ.",
+      "items": [
+        "i011",
+        "i106",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b094",
+      "say": "Say: a little, nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Λίγο, ωραίο.",
+      "items": [
+        "i015",
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: it is hot, nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Ζεστό, ωραίο.",
+      "items": [
+        "i118",
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: good evening, how are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Καλησπέρα. Τι κάνεις;",
+      "items": [
+        "i049",
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Say: I like the number six.",
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "target": "Μου αρέσει το έξι.",
+      "items": [
+        "i113",
+        "i097"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b095",
+      "say": "Well done. You can now say what you like and what you do not like. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

@@ -1,0 +1,1698 @@
+{
+  "lesson": 16,
+  "title": "At the taverna",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you are at a taverna: a table for two, the menu, wine, fish, salad, and the bill.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a couple at the taverna.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Ένα τραπέζι για δύο, παρακαλώ.",
+      "items": [
+        "i001",
+        "i011",
+        "i121",
+        "i122",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Κατάλογος, παρακαλώ.",
+      "items": [
+        "i123",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ένα ποτήρι κρασί.",
+      "items": [
+        "i125",
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ψάρι και σαλάτα.",
+      "items": [
+        "i126",
+        "i012",
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Λογαριασμός, παρακαλώ.",
+      "items": [
+        "i124",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "The table. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "απέζι",
+      "items": [
+        "i121"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "πέζι",
+      "items": [
+        "i121"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ραπέζι",
+      "items": [
+        "i121"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "I like.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Μου αρέσει.",
+      "items": [
+        "i113"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say table?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Table.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, then table.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Τραπέζι.",
+      "items": [
+        "i001",
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, table, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Τραπέζι. Ένας καφές.",
+      "items": [
+        "i002",
+        "i121",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I don't like.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Δεν μου αρέσει.",
+      "items": [
+        "i114"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "For two is:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "I want a table.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Θέλω τραπέζι.",
+      "items": [
+        "i004",
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "Table.",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "For two.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "How do you say for two?",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Πάρα πολύ.",
+      "items": [
+        "i115"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, for two, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Για δύο. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i122",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "The menu. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b017",
+      "target": "λογος",
+      "items": [
+        "i123"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "τάλογος",
+      "items": [
+        "i123"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "ατάλογος",
+      "items": [
+        "i123"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b017",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b017",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b017",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "For two.",
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "How do you say menu?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "Better.",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Καλύτερα.",
+      "items": [
+        "i116"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Γλυκό.",
+      "items": [
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "Yes, for two.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Ναι. Για δύο.",
+      "items": [
+        "i007",
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, menu, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Κατάλογος. Νερό.",
+      "items": [
+        "i008",
+        "i123",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "The bill. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "σμός",
+      "items": [
+        "i124"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ασμός",
+      "items": [
+        "i124"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ριασμός",
+      "items": [
+        "i124"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Λογαριασμός.",
+      "items": [
+        "i124"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Λογαριασμός.",
+      "items": [
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say bill?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Λογαριασμός.",
+      "items": [
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Hot.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Ζεστό.",
+      "items": [
+        "i118"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Bill.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Λογαριασμός.",
+      "items": [
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Cold.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Κρύο.",
+      "items": [
+        "i119"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "How much is it, menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Πόσο κάνει; Κατάλογος.",
+      "items": [
+        "i010",
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "One, bill, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα. Λογαριασμός. Και.",
+      "items": [
+        "i011",
+        "i124",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b033",
+      "say": "A glass is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα ποτήρι.",
+      "items": [
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Ένα ποτήρι.",
+      "items": [
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Bill.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Λογαριασμός.",
+      "items": [
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say a glass?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Ένα ποτήρι.",
+      "items": [
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Nice.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Ωραίο.",
+      "items": [
+        "i120"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "A glass.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ένα ποτήρι.",
+      "items": [
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Fruit.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Φρούτα.",
+      "items": [
+        "i105"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "A tea, bill.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ένα τσάι. Λογαριασμός.",
+      "items": [
+        "i013",
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Table.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Τραπέζι.",
+      "items": [
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Fish is:",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "Ψάρι.",
+      "items": [
+        "i126"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Ψάρι.",
+      "items": [
+        "i126"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "A glass.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Ένα ποτήρι.",
+      "items": [
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say fish?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Ψάρι.",
+      "items": [
+        "i126"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Kilo.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Κιλό.",
+      "items": [
+        "i106"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Fish.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Ψάρι.",
+      "items": [
+        "i126"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "This one.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Αυτό.",
+      "items": [
+        "i107"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "For you, bill, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Για σένα. Λογαριασμός. Λίγο.",
+      "items": [
+        "i014",
+        "i124",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "For two.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Για δύο.",
+      "items": [
+        "i122"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Salad. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b049",
+      "target": "άτα",
+      "items": [
+        "i127"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "λάτα",
+      "items": [
+        "i127"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "αλάτα",
+      "items": [
+        "i127"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b049",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b049",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b049",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Fish.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Ψάρι.",
+      "items": [
+        "i126"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say salad?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "That one.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Εκείνο.",
+      "items": [
+        "i108"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "One more, bill.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Ακόμα ένα. Λογαριασμός.",
+      "items": [
+        "i016",
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Κατάλογος.",
+      "items": [
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Μήλα.",
+      "items": [
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Wine is:",
+      "pause": 2
+    },
+    {
+      "beat": "b057",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b057",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say wine?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Bus.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Λεωφορείο.",
+      "items": [
+        "i081"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "My name is, bill, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Με λένε. Λογαριασμός. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i124",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "say": "Nice to meet you, a glass.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Χάρηκα. Ένα ποτήρι.",
+      "items": [
+        "i019",
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "To the centre.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Στο κέντρο.",
+      "items": [
+        "i082"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Bill.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Λογαριασμός.",
+      "items": [
+        "i124"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "You, fish, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Εσύ; Ψάρι. Εγώ.",
+      "items": [
+        "i020",
+        "i126",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "Which stop?",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Ποια στάση;",
+      "items": [
+        "i083"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Nikos, salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Νίκος. Σαλάτα.",
+      "items": [
+        "i022",
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Maria, wine, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Μαρία. Κρασί. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i128",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "I am, table.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Είμαι. Τραπέζι.",
+      "items": [
+        "i025",
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Hour.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Ώρα.",
+      "items": [
+        "i084"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "say": "A glass.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Ένα ποτήρι.",
+      "items": [
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Greece, for two, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Ελλάδα. Για δύο. Γερμανία.",
+      "items": [
+        "i026",
+        "i122",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b075",
+      "say": "Thessaloniki, menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Θεσσαλονίκη. Κατάλογος.",
+      "items": [
+        "i028",
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "I live, bill, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Μένω. Λογαριασμός. Πού;",
+      "items": [
+        "i029",
+        "i124",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "Bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "From, a glass.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Από. Ένα ποτήρι.",
+      "items": [
+        "i031",
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Athens, fish, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Αθήνα. Ψάρι. Δύο.",
+      "items": [
+        "i032",
+        "i126",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Fish.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Ψάρι.",
+      "items": [
+        "i126"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Three, salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Τρία. Σαλάτα.",
+      "items": [
+        "i034",
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Four, wine, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Τέσσερα. Κρασί. Πέντε.",
+      "items": [
+        "i035",
+        "i128",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b084",
+      "say": "How many, table.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Πόσα; Τραπέζι.",
+      "items": [
+        "i037",
+        "i121"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Or.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "Kiosk, for two, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Περίπτερο. Για δύο. Εδώ.",
+      "items": [
+        "i038",
+        "i122",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b087",
+      "say": "A pack, menu.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Ένα πακέτο. Κατάλογος.",
+      "items": [
+        "i040",
+        "i123"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Salad.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Σαλάτα.",
+      "items": [
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "You want, bill, how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Θέλετε; Λογαριασμός. Πόσο;",
+      "items": [
+        "i044",
+        "i124",
+        "i045"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Fresh, a glass.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Φρέσκο. Ένα ποτήρι.",
+      "items": [
+        "i046",
+        "i125"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "You are at a taverna. The waiter greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b091",
+      "say": "Greet him politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: a table for two, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Τραπέζι για δύο, παρακαλώ.",
+      "items": [
+        "i121",
+        "i122",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "He gives you the menu. Say: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "He asks: wine or water? Answer: wine.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Κρασί.",
+      "items": [
+        "i128"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Ask for fish, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ψάρι, παρακαλώ.",
+      "items": [
+        "i126",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Ask: and a salad?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Και σαλάτα;",
+      "items": [
+        "i012",
+        "i127"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: I like it, very much.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Μου αρέσει πάρα πολύ.",
+      "items": [
+        "i113",
+        "i115"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: a glass, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ένα ποτήρι, παρακαλώ.",
+      "items": [
+        "i125",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: the bill, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Λογαριασμός, παρακαλώ.",
+      "items": [
+        "i124",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: better, sweet.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Καλύτερα, γλυκό.",
+      "items": [
+        "i116",
+        "i117"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: fruit, apples.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Φρούτα, μήλα.",
+      "items": [
+        "i105",
+        "i109"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: that one, not this one.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Εκείνο, όχι αυτό.",
+      "items": [
+        "i108",
+        "i008",
+        "i107"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Ask: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: my name is Maria.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Με λένε Μαρία.",
+      "items": [
+        "i017",
+        "i023"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: I live in Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Μένω στην Αθήνα.",
+      "items": [
+        "i029",
+        "i032"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Well done. You can now order at a taverna: a table, the menu, wine, fish, and the bill. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
