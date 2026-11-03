@@ -1,0 +1,1659 @@
+{
+  "lesson": 10,
+  "title": "Morning in the city",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you take the metro in the city. You buy a ticket, and you ask people to speak slowly and to repeat.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a traveller at the metro station.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Θέλω ένα εισιτήριο, παρακαλώ.",
+      "items": [
+        "i001",
+        "i004",
+        "i011",
+        "i074",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Πού είναι το μετρό;",
+      "items": [
+        "i057",
+        "i058",
+        "i073"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Μπορώ, ναι.",
+      "items": [
+        "i075",
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Μπορείτε αργά, παρακαλώ;",
+      "items": [
+        "i076",
+        "i078",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ξανά, παρακαλώ.",
+      "items": [
+        "i077",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Δεν είναι εδώ.",
+      "items": [
+        "i080",
+        "i064",
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πάω, ευχαριστώ.",
+      "items": [
+        "i079",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "The metro. The word is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then the metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Μετρό.",
+      "items": [
+        "i001",
+        "i073"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say metro?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Then.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Μετά.",
+      "items": [
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, metro, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Μετρό. Ένας καφές.",
+      "items": [
+        "i002",
+        "i073",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want the metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω μετρό.",
+      "items": [
+        "i004",
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The ticket. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "ιτήριο",
+      "items": [
+        "i074"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "τήριο",
+      "items": [
+        "i074"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "σιτήριο",
+      "items": [
+        "i074"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Εισιτήριο.",
+      "items": [
+        "i074"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Εισιτήριο.",
+      "items": [
+        "i074"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say ticket?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Εισιτήριο.",
+      "items": [
+        "i074"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Exactly.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Ακριβώς.",
+      "items": [
+        "i072"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Ticket.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Εισιτήριο.",
+      "items": [
+        "i074"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Left.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Αριστερά.",
+      "items": [
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, ticket, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Εισιτήριο. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i074",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Μετρό.",
+      "items": [
+        "i007",
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "The word for I can is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Μπορώ.",
+      "items": [
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Μπορώ.",
+      "items": [
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Ticket.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Εισιτήριο.",
+      "items": [
+        "i074"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say I can?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Μπορώ.",
+      "items": [
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Right.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Δεξιά.",
+      "items": [
+        "i066"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "I can.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Μπορώ.",
+      "items": [
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "No, I can, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Όχι. Μπορώ. Νερό.",
+      "items": [
+        "i008",
+        "i075",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b024",
+      "say": "How much is it, metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Πόσο κάνει; Μετρό.",
+      "items": [
+        "i010",
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "You can, polite. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "ρείτε",
+      "items": [
+        "i076"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ορείτε",
+      "items": [
+        "i076"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "πορείτε",
+      "items": [
+        "i076"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Μπορείτε.",
+      "items": [
+        "i076"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Μπορείτε.",
+      "items": [
+        "i076"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "I can.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Μπορώ.",
+      "items": [
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you ask a lady if she can?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Μπορείτε;",
+      "items": [
+        "i076"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Can you, polite?",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Μπορείτε;",
+      "items": [
+        "i076"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "There.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "One, can you, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα και μπορείτε;",
+      "items": [
+        "i011",
+        "i076",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "A tea, metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα τσάι. Μετρό.",
+      "items": [
+        "i013",
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "The word for again is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Can you?",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Μπορείτε;",
+      "items": [
+        "i076"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say again?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Down.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Again.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "For you, again, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Για σένα. Ξανά. Λίγο.",
+      "items": [
+        "i014",
+        "i077",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b039",
+      "say": "Metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Μετρό.",
+      "items": [
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Up.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "The word for slowly is:",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Again.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say slowly?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Far.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "One more, again.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Ακόμα ένα. Ξανά.",
+      "items": [
+        "i016",
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "My name is, slowly, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Με λένε. Αργά. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i078",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "The word for I go is:",
+      "pause": 2
+    },
+    {
+      "beat": "b048",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b048",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Ticket.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Εισιτήριο.",
+      "items": [
+        "i074"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say I go?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Is.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Nice to meet you, slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Χάρηκα. Αργά.",
+      "items": [
+        "i019",
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "The word for not is:",
+      "pause": 2
+    },
+    {
+      "beat": "b056",
+      "target": "Δεν.",
+      "items": [
+        "i080"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b056",
+      "target": "Δεν.",
+      "items": [
+        "i080"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "I can.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Μπορώ.",
+      "items": [
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say not?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Δεν.",
+      "items": [
+        "i080"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Not.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Δεν.",
+      "items": [
+        "i080"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Hotel.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "You, slowly, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Εσύ; Αργά. Εγώ.",
+      "items": [
+        "i020",
+        "i078",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "say": "Nikos, I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Νίκος. Πάω.",
+      "items": [
+        "i022",
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "Maria, not, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Μαρία. Δεν. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i080",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "You can?",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Μπορείτε;",
+      "items": [
+        "i076"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Not.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Δεν.",
+      "items": [
+        "i080"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Bus stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "I am, metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Είμαι. Μετρό.",
+      "items": [
+        "i025",
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Greece, ticket, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Ελλάδα. Εισιτήριο. Γερμανία.",
+      "items": [
+        "i026",
+        "i074",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Thessaloniki, I can.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Θεσσαλονίκη. Μπορώ.",
+      "items": [
+        "i028",
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Here.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "I live, you can, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Μένω. Μπορείτε; Πού;",
+      "items": [
+        "i029",
+        "i076",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Again.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Ξανά.",
+      "items": [
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "From, again.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Από. Ξανά.",
+      "items": [
+        "i031",
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Athens, slowly, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Αθήνα. Αργά. Δύο.",
+      "items": [
+        "i032",
+        "i078",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "A pack.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "Three, I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Τρία. Πάω.",
+      "items": [
+        "i034",
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Four, not, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Τέσσερα. Δεν. Πέντε.",
+      "items": [
+        "i035",
+        "i080",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "How many, metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Πόσα; Μετρό.",
+      "items": [
+        "i037",
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Αργά.",
+      "items": [
+        "i078"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Two.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Kiosk, ticket, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Περίπτερο. Εισιτήριο. Ψωμί.",
+      "items": [
+        "i038",
+        "i074",
+        "i041"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "Koulouri, I can.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Κουλούρι. Μπορώ.",
+      "items": [
+        "i042",
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Or, you can, you want.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Ή. Μπορείτε; Θέλετε;",
+      "items": [
+        "i043",
+        "i076",
+        "i044"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "Three.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "How much, again.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Πόσο; Ξανά.",
+      "items": [
+        "i045",
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Πάω.",
+      "items": [
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "Fresh, slowly, very.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Φρέσκο. Αργά. Πολύ.",
+      "items": [
+        "i046",
+        "i078",
+        "i047"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Good, I go.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Καλό. Πάω.",
+      "items": [
+        "i048",
+        "i079"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Good evening, not, how are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Καλησπέρα. Δεν. Τι κάνεις;",
+      "items": [
+        "i049",
+        "i080",
+        "i050"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Well, metro.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Καλά. Μετρό.",
+      "items": [
+        "i051",
+        "i073"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "You are at the metro station. A man greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet him politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask: where is the metro?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πού είναι το μετρό;",
+      "items": [
+        "i057",
+        "i058",
+        "i073"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "He says: over there. Answer: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for a ticket, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ένα εισιτήριο, παρακαλώ.",
+      "items": [
+        "i011",
+        "i074",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Ask him to speak slowly.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μπορείτε αργά, παρακαλώ;",
+      "items": [
+        "i076",
+        "i078",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "He says the price. Say: again, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ξανά, παρακαλώ.",
+      "items": [
+        "i077",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I can.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Μπορώ.",
+      "items": [
+        "i075"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: it is not here.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Δεν είναι εδώ.",
+      "items": [
+        "i080",
+        "i064",
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I go to the square.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πάω στην πλατεία.",
+      "items": [
+        "i079",
+        "i029",
+        "i060"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: sorry, slowly, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Συγγνώμη. Αργά, παρακαλώ.",
+      "items": [
+        "i061",
+        "i078",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: today, I am fine.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Σήμερα, καλά.",
+      "items": [
+        "i054",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: one, two, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ένα, δύο, παρακαλώ.",
+      "items": [
+        "i011",
+        "i033",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: where is it, again?",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πού είναι; Ξανά;",
+      "items": [
+        "i057",
+        "i077"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say goodbye: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now use the metro and ask people to repeat slowly. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

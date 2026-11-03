@@ -1,0 +1,1672 @@
+{
+  "lesson": 8,
+  "title": "Asking the way",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you ask the way to the hotel, the bus stop and the square.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a tourist asking the way.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Συγγνώμη, πού είναι το ξενοδοχείο;",
+      "items": [
+        "i061",
+        "i057",
+        "i058"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Είναι κοντά.",
+      "items": [
+        "i064",
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Η στάση είναι μακριά.",
+      "items": [
+        "i059",
+        "i064",
+        "i063"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Πού είναι η πλατεία;",
+      "items": [
+        "i057",
+        "i060"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ πολύ.",
+      "items": [
+        "i006",
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "To ask where something is, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then ask where it is.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Πού είναι;",
+      "items": [
+        "i001",
+        "i057"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you ask where something is?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, where is it, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Πού είναι; Ένας καφές.",
+      "items": [
+        "i002",
+        "i057",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want to know where it is.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω. Πού είναι;",
+      "items": [
+        "i004",
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The hotel. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "χείο",
+      "items": [
+        "i058"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "δοχείο",
+      "items": [
+        "i058"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "νοδοχείο",
+      "items": [
+        "i058"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say hotel?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "How are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Hotel.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Fine.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Καλά.",
+      "items": [
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, hotel, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Ξενοδοχείο. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i058",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Πού είναι;",
+      "items": [
+        "i007",
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "The bus stop. The word is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Hotel.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say stop?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "So-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "No, stop, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Όχι. Στάση. Νερό.",
+      "items": [
+        "i008",
+        "i059",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b024",
+      "say": "How much is it, where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Πόσο κάνει; Πού είναι;",
+      "items": [
+        "i010",
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "The square. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "τεία",
+      "items": [
+        "i060"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "λατεία",
+      "items": [
+        "i060"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Πλατεία.",
+      "items": [
+        "i060"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Πλατεία.",
+      "items": [
+        "i060"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you say square?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Πλατεία.",
+      "items": [
+        "i060"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "And you?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Square.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Πλατεία.",
+      "items": [
+        "i060"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "Today.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "One and square.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα και πλατεία.",
+      "items": [
+        "i011",
+        "i060",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "A tea, where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα τσάι. Πού είναι;",
+      "items": [
+        "i013",
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "To say sorry, or excuse me. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "ώμη",
+      "items": [
+        "i061"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "νώμη",
+      "items": [
+        "i061"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "γγνώμη",
+      "items": [
+        "i061"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b033",
+      "target": "Συγγνώμη.",
+      "items": [
+        "i061"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Συγγνώμη.",
+      "items": [
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Square.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Πλατεία.",
+      "items": [
+        "i060"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say excuse me?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Συγγνώμη.",
+      "items": [
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Συγγνώμη.",
+      "items": [
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "In the morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "For you, sorry, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Για σένα. Συγγνώμη. Λίγο.",
+      "items": [
+        "i014",
+        "i061",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b041",
+      "say": "The word for near is:",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "Κοντά.",
+      "items": [
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Κοντά.",
+      "items": [
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Συγγνώμη.",
+      "items": [
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say near?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Κοντά.",
+      "items": [
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Near.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Κοντά.",
+      "items": [
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "One more, sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Ακόμα ένα. Συγγνώμη.",
+      "items": [
+        "i016",
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "My name is, near, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Με λένε. Κοντά. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i062",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "Hotel.",
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "The word for far is:",
+      "pause": 2
+    },
+    {
+      "beat": "b049",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b049",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Near.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Κοντά.",
+      "items": [
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say far?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Far.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Or.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Nice to meet you, near.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Χάρηκα. Κοντά.",
+      "items": [
+        "i019",
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "The word for it is, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b057",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b057",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Far.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say is?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "You want?",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Θέλετε;",
+      "items": [
+        "i044"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Is.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "You, near, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Εσύ; Κοντά. Εγώ.",
+      "items": [
+        "i020",
+        "i062",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "say": "Nikos, far.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Νίκος. Μακριά.",
+      "items": [
+        "i022",
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "Square.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Πλατεία.",
+      "items": [
+        "i060"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "How much?",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Maria, it is, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Μαρία. Είναι. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i064",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b067",
+      "say": "Is.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "I am, where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Είμαι. Πού είναι;",
+      "items": [
+        "i025",
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Greece, hotel, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Ελλάδα. Ξενοδοχείο. Γερμανία.",
+      "items": [
+        "i026",
+        "i058",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "My name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Με λένε.",
+      "items": [
+        "i017"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "Thessaloniki, the stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Θεσσαλονίκη. Στάση.",
+      "items": [
+        "i028",
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "I live, square, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Μένω. Πλατεία. Πού;",
+      "items": [
+        "i029",
+        "i060",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "Sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Συγγνώμη.",
+      "items": [
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "From, sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Από. Συγγνώμη.",
+      "items": [
+        "i031",
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "What is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "Athens, near, two.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Αθήνα. Κοντά. Δύο.",
+      "items": [
+        "i032",
+        "i062",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "Three, far.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Τρία. Μακριά.",
+      "items": [
+        "i034",
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Four, is, five.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Τέσσερα. Είναι. Πέντε.",
+      "items": [
+        "i035",
+        "i064",
+        "i036"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "Nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Χάρηκα.",
+      "items": [
+        "i019"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "How many, where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Πόσα; Πού είναι;",
+      "items": [
+        "i037",
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Near.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Κοντά.",
+      "items": [
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Kiosk, hotel, here.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Περίπτερο. Ξενοδοχείο. Εδώ.",
+      "items": [
+        "i038",
+        "i058",
+        "i039"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "A pack, the stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Ένα πακέτο. Στάση.",
+      "items": [
+        "i040",
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "You?",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Εσύ;",
+      "items": [
+        "i020"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Fresh, square, very.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Φρέσκο. Πλατεία. Πολύ.",
+      "items": [
+        "i046",
+        "i060",
+        "i047"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "Good, sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Καλό. Συγγνώμη.",
+      "items": [
+        "i048",
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "Hello, near, good morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Γεια σας. Κοντά. Καλημέρα.",
+      "items": [
+        "i001",
+        "i062",
+        "i002"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b088",
+      "say": "Far.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "say": "A coffee, far.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Ένας καφές. Μακριά.",
+      "items": [
+        "i003",
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "I want, is, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Θέλω. Είναι, παρακαλώ.",
+      "items": [
+        "i004",
+        "i064",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "You are lost in the city. A man passes by.",
+      "pause": 2
+    },
+    {
+      "beat": "b091",
+      "say": "Greet him politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Ask him where the hotel is.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Συγγνώμη, πού είναι το ξενοδοχείο;",
+      "items": [
+        "i061",
+        "i057",
+        "i058"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "He says: it is near. Answer: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Ask him where the bus stop is.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πού είναι η στάση;",
+      "items": [
+        "i057",
+        "i059"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Ask: is it far?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Είναι μακριά;",
+      "items": [
+        "i064",
+        "i063"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Ask him where the square is.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πού είναι η πλατεία;",
+      "items": [
+        "i057",
+        "i060"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: please, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Παρακαλώ. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: sorry, how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Συγγνώμη. Πόσο κάνει;",
+      "items": [
+        "i061",
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: I want water, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Θέλω νερό, παρακαλώ.",
+      "items": [
+        "i004",
+        "i009",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: good evening, where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Καλησπέρα. Πού είναι;",
+      "items": [
+        "i049",
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: near here.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Κοντά, εδώ.",
+      "items": [
+        "i062",
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say: the stop is far.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Η στάση είναι μακριά.",
+      "items": [
+        "i059",
+        "i064",
+        "i063"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: one, two, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Ένα, δύο, παρακαλώ.",
+      "items": [
+        "i011",
+        "i033",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Say: today, I am fine.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Σήμερα, καλά.",
+      "items": [
+        "i054",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Say goodbye: good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Ask the man: what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πώς σε λένε;",
+      "items": [
+        "i018"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Well done. You can now ask the way to places in a city. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

@@ -1,0 +1,1622 @@
+{
+  "lesson": 7,
+  "title": "Good evening, how are you?",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you greet people at different times of day, and you answer how you are.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to two people at the café.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Καλησπέρα. Τι κάνεις;",
+      "items": [
+        "i049",
+        "i050"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Καλά, ευχαριστώ. Κι εσύ;",
+      "items": [
+        "i051",
+        "i006",
+        "i053"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Σήμερα, καλά.",
+      "items": [
+        "i054",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Καλό πρωί.",
+      "items": [
+        "i048",
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "To say good evening, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then say good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Καλησπέρα.",
+      "items": [
+        "i001",
+        "i049"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say good evening?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Fresh.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Φρέσκο.",
+      "items": [
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, good evening, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Καλησπέρα. Ένας καφές.",
+      "items": [
+        "i002",
+        "i049",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω. Καλησπέρα.",
+      "items": [
+        "i004",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "To ask how someone is, informal, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you ask a friend how he is?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Very.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Πολύ.",
+      "items": [
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "How are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Please, how are you, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Παρακαλώ. Τι κάνεις; Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i050",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b016",
+      "say": "Good.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Καλό.",
+      "items": [
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Καλησπέρα.",
+      "items": [
+        "i007",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "To say well, or fine, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Καλά.",
+      "items": [
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Καλά.",
+      "items": [
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "How are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say well?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Καλά.",
+      "items": [
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Fine.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Καλά.",
+      "items": [
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "No, fine, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Όχι. Καλά. Νερό.",
+      "items": [
+        "i008",
+        "i051",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b024",
+      "say": "How much is it, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Πόσο κάνει; Καλησπέρα.",
+      "items": [
+        "i010",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "To say so-so, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "Well.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Καλά.",
+      "items": [
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say so-so?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "So-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "One, so-so, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Ένα. Έτσι κι έτσι. Και.",
+      "items": [
+        "i011",
+        "i052",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b031",
+      "say": "Or.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "say": "A tea, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα τσάι. Καλησπέρα.",
+      "items": [
+        "i013",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "To say and you, informal, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "So-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you say and you?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "You want.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Θέλετε;",
+      "items": [
+        "i044"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "And you?",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "For you, and you, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Για σένα. Κι εσύ; Λίγο.",
+      "items": [
+        "i014",
+        "i053",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b039",
+      "say": "One more, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ακόμα ένα. Καλησπέρα.",
+      "items": [
+        "i016",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "The word for today. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b040",
+      "target": "ερα",
+      "items": [
+        "i054"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b040",
+      "target": "μερα",
+      "items": [
+        "i054"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b040",
+      "target": "ήμερα",
+      "items": [
+        "i054"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b040",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b040",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b040",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "And you?",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say today?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Today.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "How much?",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "Kiosk.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "My name is, today, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Με λένε. Σήμερα. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i054",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "To say good night, say:",
+      "pause": 2
+    },
+    {
+      "beat": "b048",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b048",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "How are you?",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Today.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say good night?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Here.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Nice to meet you, today.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Χάρηκα. Σήμερα.",
+      "items": [
+        "i019",
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "You, good night, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Εσύ; Καληνύχτα. Εγώ.",
+      "items": [
+        "i020",
+        "i055",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b056",
+      "say": "The word for in the morning is:",
+      "pause": 2
+    },
+    {
+      "beat": "b056",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b056",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Well.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Καλά.",
+      "items": [
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say in the morning?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "In the morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "A pack.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "Two.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "say": "Nikos, good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Νίκος. Καληνύχτα.",
+      "items": [
+        "i022",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "So-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "Maria, in the morning, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Μαρία. Πρωί. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i056",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b066",
+      "say": "In the morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Three.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "I am, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Είμαι. Καλησπέρα.",
+      "items": [
+        "i025",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Greece, how are you, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Ελλάδα. Τι κάνεις; Γερμανία.",
+      "items": [
+        "i026",
+        "i050",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Thessaloniki, well.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Θεσσαλονίκη. Καλά.",
+      "items": [
+        "i028",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "I live, so-so, where?",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Μένω. Έτσι κι έτσι. Πού;",
+      "items": [
+        "i029",
+        "i052",
+        "i030"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b072",
+      "say": "And you?",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "say": "For you.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Για σένα.",
+      "items": [
+        "i014"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "From, and you.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Από. Κι εσύ;",
+      "items": [
+        "i031",
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Athens, today, four.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Αθήνα. Σήμερα. Τέσσερα.",
+      "items": [
+        "i032",
+        "i054",
+        "i035"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "Five, good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Πέντε. Καληνύχτα.",
+      "items": [
+        "i036",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "A little.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Λίγο.",
+      "items": [
+        "i015"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "How many, in the morning, hello.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Πόσα; Πρωί. Γεια σας.",
+      "items": [
+        "i037",
+        "i056",
+        "i001"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "Good morning, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Καλημέρα. Καλησπέρα.",
+      "items": [
+        "i002",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Today.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "A coffee, how are you, I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Ένας καφές. Τι κάνεις; Θέλω.",
+      "items": [
+        "i003",
+        "i050",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b082",
+      "say": "One more.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Ακόμα ένα.",
+      "items": [
+        "i016"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "say": "Please, well.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Παρακαλώ. Καλά.",
+      "items": [
+        "i005",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Thank you, so-so, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Ευχαριστώ. Έτσι κι έτσι. Ναι.",
+      "items": [
+        "i006",
+        "i052",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "No, and you.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Όχι. Κι εσύ;",
+      "items": [
+        "i008",
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "Water.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Νερό.",
+      "items": [
+        "i009"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "Good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "How much, today, one.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Πόσο κάνει; Σήμερα. Ένα.",
+      "items": [
+        "i010",
+        "i054",
+        "i011"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "And, good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Και καληνύχτα.",
+      "items": [
+        "i012",
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "A tea, in the morning, my name is.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ένα τσάι. Πρωί. Με λένε.",
+      "items": [
+        "i013",
+        "i056",
+        "i017"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "What is your name, good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Πώς σε λένε; Καλησπέρα.",
+      "items": [
+        "i018",
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Nice to meet you, how are you, you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Χάρηκα. Τι κάνεις; Εσύ;",
+      "items": [
+        "i019",
+        "i050",
+        "i020"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "A man greets you in the evening.",
+      "pause": 2
+    },
+    {
+      "beat": "b093",
+      "say": "Greet him back: good evening.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καλησπέρα.",
+      "items": [
+        "i049"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "He asks how you are. Answer: so-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "He asks: and you? Answer: well, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καλά, ευχαριστώ. Κι εσύ;",
+      "items": [
+        "i051",
+        "i006",
+        "i053"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "He says: I am well. Answer: good.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καλό.",
+      "items": [
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask him how he is, informal.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Τι κάνεις;",
+      "items": [
+        "i050"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "He asks if you want a coffee. Say: yes, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ναι, παρακαλώ.",
+      "items": [
+        "i007",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Ask: how much is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πόσο κάνει;",
+      "items": [
+        "i010"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: today, fine.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Σήμερα καλά.",
+      "items": [
+        "i054",
+        "i051"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: good night, see you tomorrow.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say the word for in the morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "say": "Say: fresh bread, very good.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Φρέσκο ψωμί. Πολύ καλό.",
+      "items": [
+        "i046",
+        "i041",
+        "i047",
+        "i048"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: one, two, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Ένα, δύο, παρακαλώ.",
+      "items": [
+        "i011",
+        "i033",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Say: here, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b093",
+      "target": "Εδώ, παρακαλώ.",
+      "items": [
+        "i039",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b094",
+      "say": "Well done. You can now greet people at different times of the day and answer how you are. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

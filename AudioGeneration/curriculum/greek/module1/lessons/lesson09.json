@@ -1,0 +1,1664 @@
+{
+  "lesson": 9,
+  "title": "Left, right, straight ahead",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you give and follow directions: left, right, straight ahead, there, down, up.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to someone giving directions.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Συγγνώμη, πού είναι η πλατεία;",
+      "items": [
+        "i061",
+        "i057",
+        "i060"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ευθεία, μετά αριστερά.",
+      "items": [
+        "i067",
+        "i071",
+        "i065"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Και μετά δεξιά.",
+      "items": [
+        "i012",
+        "i071",
+        "i066"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Είναι εκεί, ακριβώς.",
+      "items": [
+        "i064",
+        "i068",
+        "i072"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Κάτω, πάνω.",
+      "items": [
+        "i069",
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "The word for left. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "ερά",
+      "items": [
+        "i065"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "τερά",
+      "items": [
+        "i065"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "στερά",
+      "items": [
+        "i065"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "Αριστερά.",
+      "items": [
+        "i065"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Αριστερά.",
+      "items": [
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "The square.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Πλατεία.",
+      "items": [
+        "i060"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say left?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Αριστερά.",
+      "items": [
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Left.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Αριστερά.",
+      "items": [
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Greet politely, then left.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Γεια σας. Αριστερά.",
+      "items": [
+        "i001",
+        "i065"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, left, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Αριστερά. Ένας καφές.",
+      "items": [
+        "i002",
+        "i065",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want left.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω αριστερά.",
+      "items": [
+        "i004",
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The word for right. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "ιά",
+      "items": [
+        "i066"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "ξιά",
+      "items": [
+        "i066"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "εξιά",
+      "items": [
+        "i066"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Δεξιά.",
+      "items": [
+        "i066"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Δεξιά.",
+      "items": [
+        "i066"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Left.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Αριστερά.",
+      "items": [
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say right?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Δεξιά.",
+      "items": [
+        "i066"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Sorry.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Συγγνώμη.",
+      "items": [
+        "i061"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Right.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Δεξιά.",
+      "items": [
+        "i066"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "Near.",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Κοντά.",
+      "items": [
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, right, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Δεξιά. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i066",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, left.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Αριστερά.",
+      "items": [
+        "i007",
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Straight ahead. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "εία",
+      "items": [
+        "i067"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b018",
+      "target": "θεία",
+      "items": [
+        "i067"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b018",
+      "target": "ύθεία",
+      "items": [
+        "i067"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b018",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Right.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Δεξιά.",
+      "items": [
+        "i066"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say straight ahead?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Far.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Μακριά.",
+      "items": [
+        "i063"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "It is.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Είναι.",
+      "items": [
+        "i064"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "say": "No, straight ahead, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Όχι. Ευθεία. Νερό.",
+      "items": [
+        "i008",
+        "i067",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b025",
+      "say": "How much is it, left.",
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "target": "Πόσο κάνει; Αριστερά.",
+      "items": [
+        "i010",
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "The word for there is:",
+      "pause": 2
+    },
+    {
+      "beat": "b026",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b026",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "Straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "How do you say there?",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Where is it?",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Πού είναι;",
+      "items": [
+        "i057"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "There.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "One, there, and.",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Εκεί και ένα.",
+      "items": [
+        "i011",
+        "i068",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "A tea, left.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα τσάι. Αριστερά.",
+      "items": [
+        "i013",
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "The word for down is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "Hotel.",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Ξενοδοχείο.",
+      "items": [
+        "i058"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "There.",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "How do you say down?",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "Down.",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "Bus stop.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Στάση.",
+      "items": [
+        "i059"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "say": "For you, down, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Για σένα. Κάτω. Λίγο.",
+      "items": [
+        "i014",
+        "i069",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b040",
+      "say": "Left.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Αριστερά.",
+      "items": [
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "The word for up is:",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "Down.",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say up?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "So-so.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Έτσι κι έτσι.",
+      "items": [
+        "i052"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Up.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "One more, down.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Ακόμα ένα. Κάτω.",
+      "items": [
+        "i016",
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "My name is, up, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Με λένε. Πάνω. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i070",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "The word for then, or after, is:",
+      "pause": 2
+    },
+    {
+      "beat": "b048",
+      "target": "Μετά.",
+      "items": [
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b048",
+      "target": "Μετά.",
+      "items": [
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Right.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Δεξιά.",
+      "items": [
+        "i066"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Up.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say then?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Μετά.",
+      "items": [
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "After.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Μετά.",
+      "items": [
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "And you?",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Κι εσύ;",
+      "items": [
+        "i053"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Today.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Σήμερα.",
+      "items": [
+        "i054"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "Nice to meet you, up.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Χάρηκα. Πάνω.",
+      "items": [
+        "i019",
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "The word for exactly is. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b056",
+      "target": "ώς",
+      "items": [
+        "i072"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b056",
+      "target": "ριβώς",
+      "items": [
+        "i072"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b056",
+      "target": "κριβώς",
+      "items": [
+        "i072"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b056",
+      "target": "Ακριβώς.",
+      "items": [
+        "i072"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b056",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b056",
+      "target": "Ακριβώς.",
+      "items": [
+        "i072"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ευθεία.",
+      "items": [
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Then.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Μετά.",
+      "items": [
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say exactly?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Ακριβώς.",
+      "items": [
+        "i072"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Exactly.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Ακριβώς.",
+      "items": [
+        "i072"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Good night.",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Καληνύχτα.",
+      "items": [
+        "i055"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "You, up, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Εσύ; Πάνω. Εγώ.",
+      "items": [
+        "i020",
+        "i070",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "say": "In the morning.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Πρωί.",
+      "items": [
+        "i056"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "Nikos, then.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Νίκος. Μετά.",
+      "items": [
+        "i022",
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "say": "There.",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Εκεί.",
+      "items": [
+        "i068"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Exactly.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Ακριβώς.",
+      "items": [
+        "i072"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "Maria, exactly, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Μαρία. Ακριβώς. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i072",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b068",
+      "say": "I am, left.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Είμαι. Αριστερά.",
+      "items": [
+        "i025",
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "say": "Greece, right, Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Ελλάδα. Δεξιά. Γερμανία.",
+      "items": [
+        "i026",
+        "i066",
+        "i027"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b071",
+      "say": "I live, straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Μένω. Ευθεία.",
+      "items": [
+        "i029",
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Down.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "say": "Where, there, from.",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Πού; Εκεί. Από.",
+      "items": [
+        "i030",
+        "i068",
+        "i031"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b074",
+      "say": "I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Athens, down.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Αθήνα. Κάτω.",
+      "items": [
+        "i032",
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "say": "Two, up, three.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Δύο. Πάνω. Τρία.",
+      "items": [
+        "i033",
+        "i070",
+        "i034"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b077",
+      "say": "Four, then.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Τέσσερα. Μετά.",
+      "items": [
+        "i035",
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Where?",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "say": "Five, exactly, how many.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Πέντε. Ακριβώς. Πόσα;",
+      "items": [
+        "i036",
+        "i072",
+        "i037"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b080",
+      "say": "Up.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Πάνω.",
+      "items": [
+        "i070"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Kiosk, left.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Περίπτερο. Αριστερά.",
+      "items": [
+        "i038",
+        "i065"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "Here, right, a pack.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Εδώ. Δεξιά. Ένα πακέτο.",
+      "items": [
+        "i039",
+        "i066",
+        "i040"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "From.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "Bread, straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Ψωμί. Ευθεία.",
+      "items": [
+        "i041",
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "say": "Koulouri, there, or.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Κουλούρι. Εκεί. Ή.",
+      "items": [
+        "i042",
+        "i068",
+        "i043"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b086",
+      "say": "Then.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Μετά.",
+      "items": [
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "You want, down.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Θέλετε; Κάτω.",
+      "items": [
+        "i044",
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "How much, up, fresh.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Πόσο; Πάνω. Φρέσκο.",
+      "items": [
+        "i045",
+        "i070",
+        "i046"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "Very, then.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Πολύ. Μετά.",
+      "items": [
+        "i047",
+        "i071"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "You are looking for the square. A woman stands near you.",
+      "pause": 2
+    },
+    {
+      "beat": "b090",
+      "say": "Greet her politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Ask her where the square is.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Συγγνώμη, πού είναι η πλατεία;",
+      "items": [
+        "i061",
+        "i057",
+        "i060"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "She says: straight ahead. Answer: thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Ask her: is it far?",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Είναι μακριά;",
+      "items": [
+        "i064",
+        "i063"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "She says: no, near. Answer: thank you, exactly.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Ακριβώς. Ευχαριστώ.",
+      "items": [
+        "i072",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Ask her: left or right?",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Αριστερά ή δεξιά;",
+      "items": [
+        "i065",
+        "i043",
+        "i066"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "She says: right. Answer: right, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Δεξιά, παρακαλώ.",
+      "items": [
+        "i066",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Ask her: is the hotel there?",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Εκεί είναι το ξενοδοχείο;",
+      "items": [
+        "i068",
+        "i064",
+        "i058"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "She says: down, then up. Answer: down.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Κάτω.",
+      "items": [
+        "i069"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Say: sorry, up, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Συγγνώμη. Πάνω, παρακαλώ.",
+      "items": [
+        "i061",
+        "i070",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Say: then, straight ahead.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Μετά, ευθεία.",
+      "items": [
+        "i071",
+        "i067"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Ask: from where?",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Από πού;",
+      "items": [
+        "i031",
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "Say: I live in Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Μένω στην Αθήνα.",
+      "items": [
+        "i029",
+        "i032"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b090",
+      "say": "Say: good evening, near.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Καλησπέρα. Κοντά.",
+      "items": [
+        "i049",
+        "i062"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "say": "Well done. You can now give and follow directions. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}

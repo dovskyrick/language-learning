@@ -434,7 +434,10 @@
     "meaning": "hotel",
     "type": "word",
     "lesson": 8,
-    "syllables": 5
+    "syllables": 5,
+    "forms": [
+      "το"
+    ]
   },
   {
     "id": "i059",
@@ -442,7 +445,11 @@
     "meaning": "stop (bus)",
     "type": "word",
     "lesson": 8,
-    "syllables": 2
+    "syllables": 2,
+    "forms": [
+      "η",
+      "τη"
+    ]
   },
   {
     "id": "i060",
@@ -450,7 +457,11 @@
     "meaning": "square",
     "type": "word",
     "lesson": 8,
-    "syllables": 3
+    "syllables": 3,
+    "forms": [
+      "η",
+      "την"
+    ]
   },
   {
     "id": "i061",

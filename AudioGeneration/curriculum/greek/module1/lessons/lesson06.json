@@ -1,0 +1,1631 @@
+{
+  "lesson": 6,
+  "title": "At the bakery",
+  "status": "checked",
+  "generatedBy": {
+    "writer": "claude-haiku-5-5",
+    "promptVersion": "method-v1",
+    "creativity": 0.5,
+    "date": "2026-11-03"
+  },
+  "lines": [
+    {
+      "beat": "b001",
+      "say": "Today you are at a bakery. You ask for bread and a koulouri, and you answer one or two.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "say": "Listen to a customer at the bakery.",
+      "pause": 2
+    },
+    {
+      "beat": "b002",
+      "target": "Γεια σας. Θέλω ψωμί, παρακαλώ.",
+      "items": [
+        "i001",
+        "i004",
+        "i041",
+        "i005"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Θέλετε κουλούρι;",
+      "items": [
+        "i044",
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Ναι. Ένα ή δύο;",
+      "items": [
+        "i007",
+        "i011",
+        "i043",
+        "i033"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ένα, παρακαλώ.",
+      "items": [
+        "i011",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b002",
+      "target": "Φρέσκο! Πολύ καλό.",
+      "items": [
+        "i046",
+        "i047",
+        "i048"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b002",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "The word for bread is:",
+      "pause": 2
+    },
+    {
+      "beat": "b003",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b003",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b003",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "say": "Greet politely, then say bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b004",
+      "target": "Γεια σας. Ψωμί.",
+      "items": [
+        "i001",
+        "i041"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b005",
+      "say": "How do you say bread?",
+      "pause": 6
+    },
+    {
+      "beat": "b005",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "say": "Bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b006",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "say": "Four.",
+      "pause": 6
+    },
+    {
+      "beat": "b007",
+      "target": "Τέσσερα.",
+      "items": [
+        "i035"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "say": "Good morning, bread, a coffee.",
+      "pause": 6
+    },
+    {
+      "beat": "b008",
+      "target": "Καλημέρα. Ψωμί. Ένας καφές.",
+      "items": [
+        "i002",
+        "i041",
+        "i003"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b009",
+      "say": "I want bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b009",
+      "target": "Θέλω ψωμί.",
+      "items": [
+        "i004",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b010",
+      "say": "The koulouri, a sesame bread ring. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b010",
+      "target": "ρι",
+      "items": [
+        "i042"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "ούρι",
+      "items": [
+        "i042"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "λούρι",
+      "items": [
+        "i042"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b010",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b010",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b010",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "say": "Bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b011",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "say": "How do you say koulouri?",
+      "pause": 6
+    },
+    {
+      "beat": "b012",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "say": "Five.",
+      "pause": 6
+    },
+    {
+      "beat": "b013",
+      "target": "Πέντε.",
+      "items": [
+        "i036"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "say": "Koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b014",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "say": "How many?",
+      "pause": 6
+    },
+    {
+      "beat": "b015",
+      "target": "Πόσα;",
+      "items": [
+        "i037"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "say": "Please, koulouri, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b016",
+      "target": "Παρακαλώ. Κουλούρι. Ευχαριστώ.",
+      "items": [
+        "i005",
+        "i042",
+        "i006"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b017",
+      "say": "Yes, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b017",
+      "target": "Ναι. Ψωμί.",
+      "items": [
+        "i007",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "The word for or is:",
+      "pause": 2
+    },
+    {
+      "beat": "b018",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b018",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b018",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "say": "Koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b019",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "say": "How do you say or?",
+      "pause": 6
+    },
+    {
+      "beat": "b020",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "say": "Kiosk.",
+      "pause": 6
+    },
+    {
+      "beat": "b021",
+      "target": "Περίπτερο.",
+      "items": [
+        "i038"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "say": "Or.",
+      "pause": 6
+    },
+    {
+      "beat": "b022",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "say": "No, or, water.",
+      "pause": 6
+    },
+    {
+      "beat": "b023",
+      "target": "Όχι ή νερό;",
+      "items": [
+        "i008",
+        "i043",
+        "i009"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b024",
+      "say": "How much is it, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b024",
+      "target": "Πόσο κάνει; Ψωμί.",
+      "items": [
+        "i010",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b025",
+      "say": "You want, polite. Listen to the pieces, starting from the end.",
+      "pause": 2
+    },
+    {
+      "beat": "b025",
+      "target": "ετε",
+      "items": [
+        "i044"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "λετε",
+      "items": [
+        "i044"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "ελετε",
+      "items": [
+        "i044"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b025",
+      "target": "Θέλετε.",
+      "items": [
+        "i044"
+      ],
+      "pause": 4
+    },
+    {
+      "beat": "b025",
+      "say": "Repeat the whole word.",
+      "pause": 1
+    },
+    {
+      "beat": "b025",
+      "target": "Θέλετε.",
+      "items": [
+        "i044"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "say": "Or.",
+      "pause": 6
+    },
+    {
+      "beat": "b026",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "say": "How do you ask a lady if she wants?",
+      "pause": 6
+    },
+    {
+      "beat": "b027",
+      "target": "Θέλετε;",
+      "items": [
+        "i044"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "say": "Here.",
+      "pause": 6
+    },
+    {
+      "beat": "b028",
+      "target": "Εδώ.",
+      "items": [
+        "i039"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "say": "Do you want?",
+      "pause": 6
+    },
+    {
+      "beat": "b029",
+      "target": "Θέλετε;",
+      "items": [
+        "i044"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "say": "A pack.",
+      "pause": 6
+    },
+    {
+      "beat": "b030",
+      "target": "Ένα πακέτο.",
+      "items": [
+        "i040"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "say": "One. Do you want, and?",
+      "pause": 6
+    },
+    {
+      "beat": "b031",
+      "target": "Ένα; Θέλετε και;",
+      "items": [
+        "i011",
+        "i044",
+        "i012"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b032",
+      "say": "A tea, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b032",
+      "target": "Ένα τσάι. Ψωμί.",
+      "items": [
+        "i013",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "The word for how much is:",
+      "pause": 2
+    },
+    {
+      "beat": "b033",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b033",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b033",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "say": "You want?",
+      "pause": 6
+    },
+    {
+      "beat": "b034",
+      "target": "Θέλετε;",
+      "items": [
+        "i044"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "say": "How do you ask how much?",
+      "pause": 6
+    },
+    {
+      "beat": "b035",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "say": "Two.",
+      "pause": 6
+    },
+    {
+      "beat": "b036",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "say": "How much?",
+      "pause": 6
+    },
+    {
+      "beat": "b037",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "say": "For you, how much, a little.",
+      "pause": 6
+    },
+    {
+      "beat": "b038",
+      "target": "Για σένα. Πόσο; Λίγο.",
+      "items": [
+        "i014",
+        "i045",
+        "i015"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b039",
+      "say": "Bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b039",
+      "target": "Ψωμί.",
+      "items": [
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "say": "Three.",
+      "pause": 6
+    },
+    {
+      "beat": "b040",
+      "target": "Τρία.",
+      "items": [
+        "i034"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "The word for fresh is:",
+      "pause": 2
+    },
+    {
+      "beat": "b041",
+      "target": "Φρέσκο.",
+      "items": [
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b041",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b041",
+      "target": "Φρέσκο.",
+      "items": [
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "say": "How much?",
+      "pause": 6
+    },
+    {
+      "beat": "b042",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "say": "How do you say fresh?",
+      "pause": 6
+    },
+    {
+      "beat": "b043",
+      "target": "Φρέσκο.",
+      "items": [
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "say": "Germany.",
+      "pause": 6
+    },
+    {
+      "beat": "b044",
+      "target": "Γερμανία.",
+      "items": [
+        "i027"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "say": "Fresh.",
+      "pause": 6
+    },
+    {
+      "beat": "b045",
+      "target": "Φρέσκο.",
+      "items": [
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "say": "One more, how much.",
+      "pause": 6
+    },
+    {
+      "beat": "b046",
+      "target": "Ακόμα ένα. Πόσο;",
+      "items": [
+        "i016",
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "say": "My name is, fresh, what is your name?",
+      "pause": 6
+    },
+    {
+      "beat": "b047",
+      "target": "Με λένε. Φρέσκο. Πώς σε λένε;",
+      "items": [
+        "i017",
+        "i046",
+        "i018"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b048",
+      "say": "The word for very is:",
+      "pause": 2
+    },
+    {
+      "beat": "b048",
+      "target": "Πολύ.",
+      "items": [
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b048",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b048",
+      "target": "Πολύ.",
+      "items": [
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "say": "Koulouri.",
+      "pause": 6
+    },
+    {
+      "beat": "b049",
+      "target": "Κουλούρι.",
+      "items": [
+        "i042"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "say": "Fresh.",
+      "pause": 6
+    },
+    {
+      "beat": "b050",
+      "target": "Φρέσκο.",
+      "items": [
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "say": "How do you say very?",
+      "pause": 6
+    },
+    {
+      "beat": "b051",
+      "target": "Πολύ.",
+      "items": [
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "say": "Very.",
+      "pause": 6
+    },
+    {
+      "beat": "b052",
+      "target": "Πολύ.",
+      "items": [
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "say": "Thessaloniki.",
+      "pause": 6
+    },
+    {
+      "beat": "b053",
+      "target": "Θεσσαλονίκη.",
+      "items": [
+        "i028"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "say": "Nice to meet you, fresh.",
+      "pause": 6
+    },
+    {
+      "beat": "b054",
+      "target": "Χάρηκα. Φρέσκο.",
+      "items": [
+        "i019",
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "say": "I live.",
+      "pause": 6
+    },
+    {
+      "beat": "b055",
+      "target": "Μένω.",
+      "items": [
+        "i029"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "The word for good is:",
+      "pause": 2
+    },
+    {
+      "beat": "b056",
+      "target": "Καλό.",
+      "items": [
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b056",
+      "say": "Repeat after the voice.",
+      "pause": 1
+    },
+    {
+      "beat": "b056",
+      "target": "Καλό.",
+      "items": [
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "say": "Or.",
+      "pause": 6
+    },
+    {
+      "beat": "b057",
+      "target": "Ή.",
+      "items": [
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "say": "Very.",
+      "pause": 6
+    },
+    {
+      "beat": "b058",
+      "target": "Πολύ.",
+      "items": [
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "say": "How do you say good?",
+      "pause": 6
+    },
+    {
+      "beat": "b059",
+      "target": "Καλό.",
+      "items": [
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "say": "Good.",
+      "pause": 6
+    },
+    {
+      "beat": "b060",
+      "target": "Καλό.",
+      "items": [
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "say": "Where?",
+      "pause": 6
+    },
+    {
+      "beat": "b061",
+      "target": "Πού;",
+      "items": [
+        "i030"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "say": "You, fresh, I.",
+      "pause": 6
+    },
+    {
+      "beat": "b062",
+      "target": "Εσύ; Φρέσκο. Εγώ.",
+      "items": [
+        "i020",
+        "i046",
+        "i021"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b063",
+      "say": "Nikos, very.",
+      "pause": 6
+    },
+    {
+      "beat": "b063",
+      "target": "Νίκος. Πολύ.",
+      "items": [
+        "i022",
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "say": "Maria, good, my name is formal.",
+      "pause": 6
+    },
+    {
+      "beat": "b064",
+      "target": "Μαρία. Καλό. Ονομάζομαι.",
+      "items": [
+        "i023",
+        "i048",
+        "i024"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b065",
+      "say": "You want?",
+      "pause": 6
+    },
+    {
+      "beat": "b065",
+      "target": "Θέλετε;",
+      "items": [
+        "i044"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "say": "Good.",
+      "pause": 6
+    },
+    {
+      "beat": "b066",
+      "target": "Καλό.",
+      "items": [
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "say": "From.",
+      "pause": 6
+    },
+    {
+      "beat": "b067",
+      "target": "Από.",
+      "items": [
+        "i031"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "say": "I am, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b068",
+      "target": "Είμαι. Ψωμί.",
+      "items": [
+        "i025",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "say": "Greece, koulouri, Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b069",
+      "target": "Ελλάδα. Κουλούρι. Αθήνα.",
+      "items": [
+        "i026",
+        "i042",
+        "i032"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b070",
+      "say": "Hello, or.",
+      "pause": 6
+    },
+    {
+      "beat": "b070",
+      "target": "Γεια σας. Ή.",
+      "items": [
+        "i001",
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "say": "How do you ask for a coffee?",
+      "pause": 6
+    },
+    {
+      "beat": "b071",
+      "target": "Ένας καφές.",
+      "items": [
+        "i003"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "say": "Good morning, you want, I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b072",
+      "target": "Καλημέρα. Θέλετε; Θέλω.",
+      "items": [
+        "i002",
+        "i044",
+        "i004"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b073",
+      "say": "How much?",
+      "pause": 6
+    },
+    {
+      "beat": "b073",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "say": "Please, how much.",
+      "pause": 6
+    },
+    {
+      "beat": "b074",
+      "target": "Παρακαλώ. Πόσο;",
+      "items": [
+        "i005",
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "say": "Thank you, fresh, yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b075",
+      "target": "Ευχαριστώ. Φρέσκο. Ναι.",
+      "items": [
+        "i006",
+        "i046",
+        "i007"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b076",
+      "say": "I want.",
+      "pause": 6
+    },
+    {
+      "beat": "b076",
+      "target": "Θέλω.",
+      "items": [
+        "i004"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "say": "No, very.",
+      "pause": 6
+    },
+    {
+      "beat": "b077",
+      "target": "Όχι. Πολύ.",
+      "items": [
+        "i008",
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "say": "Water, good, how much is it.",
+      "pause": 6
+    },
+    {
+      "beat": "b078",
+      "target": "Νερό. Καλό. Πόσο κάνει;",
+      "items": [
+        "i009",
+        "i048",
+        "i010"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b079",
+      "say": "One, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b079",
+      "target": "Ένα ψωμί.",
+      "items": [
+        "i011",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "say": "Fresh.",
+      "pause": 6
+    },
+    {
+      "beat": "b080",
+      "target": "Φρέσκο.",
+      "items": [
+        "i046"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "say": "Please.",
+      "pause": 6
+    },
+    {
+      "beat": "b081",
+      "target": "Παρακαλώ.",
+      "items": [
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "say": "And, koulouri, a tea.",
+      "pause": 6
+    },
+    {
+      "beat": "b082",
+      "target": "Και κουλούρι. Ένα τσάι.",
+      "items": [
+        "i012",
+        "i042",
+        "i013"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b083",
+      "say": "For you, or.",
+      "pause": 6
+    },
+    {
+      "beat": "b083",
+      "target": "Για σένα. Ή.",
+      "items": [
+        "i014",
+        "i043"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "say": "A little, you want, one more.",
+      "pause": 6
+    },
+    {
+      "beat": "b084",
+      "target": "Λίγο. Θέλετε; Ακόμα ένα.",
+      "items": [
+        "i015",
+        "i044",
+        "i016"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b085",
+      "say": "Thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b085",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "say": "My name is, how much.",
+      "pause": 6
+    },
+    {
+      "beat": "b086",
+      "target": "Με λένε. Πόσο;",
+      "items": [
+        "i017",
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "say": "Very.",
+      "pause": 6
+    },
+    {
+      "beat": "b087",
+      "target": "Πολύ.",
+      "items": [
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "say": "What is your name, fresh, nice to meet you.",
+      "pause": 6
+    },
+    {
+      "beat": "b088",
+      "target": "Πώς σε λένε; Φρέσκο. Χάρηκα.",
+      "items": [
+        "i018",
+        "i046",
+        "i019"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b089",
+      "say": "You, very.",
+      "pause": 6
+    },
+    {
+      "beat": "b089",
+      "target": "Εσύ; Πολύ.",
+      "items": [
+        "i020",
+        "i047"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "say": "I, good, Nikos.",
+      "pause": 6
+    },
+    {
+      "beat": "b090",
+      "target": "Εγώ. Καλό. Νίκος.",
+      "items": [
+        "i021",
+        "i048",
+        "i022"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b091",
+      "say": "Maria, bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b091",
+      "target": "Μαρία. Ψωμί.",
+      "items": [
+        "i023",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "You are at the bakery. The baker greets you.",
+      "pause": 2
+    },
+    {
+      "beat": "b092",
+      "say": "Greet him politely.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας.",
+      "items": [
+        "i001"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "He asks what you want. Say: bread, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ψωμί, παρακαλώ.",
+      "items": [
+        "i041",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "He asks: do you want a koulouri? Answer: yes.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ναι.",
+      "items": [
+        "i007"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "He asks: one or two? Answer: two.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Δύο.",
+      "items": [
+        "i033"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask how much it is.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πόσο;",
+      "items": [
+        "i045"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "He says five. Say thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Ευχαριστώ.",
+      "items": [
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Ask for fresh bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Φρέσκο ψωμί.",
+      "items": [
+        "i046",
+        "i041"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: very good.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Πολύ καλό.",
+      "items": [
+        "i047",
+        "i048"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: I want a koulouri, or bread.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Θέλω κουλούρι ή ψωμί.",
+      "items": [
+        "i004",
+        "i042",
+        "i043",
+        "i041"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b092",
+      "say": "Say: no, thank you.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Όχι, ευχαριστώ.",
+      "items": [
+        "i008",
+        "i006"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say: here, please.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Εδώ, παρακαλώ.",
+      "items": [
+        "i039",
+        "i005"
+      ],
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "say": "Say goodbye politely with: hello, I live in Athens.",
+      "pause": 6
+    },
+    {
+      "beat": "b092",
+      "target": "Γεια σας. Μένω στην Αθήνα.",
+      "items": [
+        "i001",
+        "i029",
+        "i032"
+      ],
+      "pause": 7
+    },
+    {
+      "beat": "b093",
+      "say": "Well done. You can now buy bread and koulouri, and answer one or two. See you in the next lesson.",
+      "pause": 2
+    }
+  ]
+}
