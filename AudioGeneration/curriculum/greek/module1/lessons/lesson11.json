@@ -94,23 +94,23 @@
     },
     {
       "beat": "b003",
+      "target": "ο",
+      "items": [
+        "i081"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
+      "target": "ρείο",
+      "items": [
+        "i081"
+      ],
+      "pause": 3
+    },
+    {
+      "beat": "b003",
       "target": "φορείο",
-      "items": [
-        "i081"
-      ],
-      "pause": 3
-    },
-    {
-      "beat": "b003",
-      "target": "ωφορείο",
-      "items": [
-        "i081"
-      ],
-      "pause": 3
-    },
-    {
-      "beat": "b003",
-      "target": "εωφορείο",
       "items": [
         "i081"
       ],

@@ -27,13 +27,13 @@ Listen to someone giving directions.
 The word for left. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ερά..."
-[pause 3s]
-
-"τερά..."
+"ρά..."
 [pause 3s]
 
 "στερά..."
+[pause 3s]
+
+"ριστερά..."
 [pause 3s]
 
 "Αριστερά..."
@@ -84,13 +84,13 @@ I want left.
 The word for right. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ιά..."
-[pause 3s]
-
 "ξιά..."
 [pause 3s]
 
-"εξιά..."
+"δεξιά..."
+[pause 3s]
+
+"δεξιά..."
 [pause 3s]
 
 "Δεξιά..."
@@ -147,13 +147,13 @@ Yes, left.
 Straight ahead. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"εία..."
+"α..."
 [pause 3s]
 
 "θεία..."
 [pause 3s]
 
-"ύθεία..."
+"ευθεία..."
 [pause 3s]
 
 "Ευθεία..."
@@ -414,13 +414,13 @@ Nice to meet you, up.
 The word for exactly is. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ώς..."
-[pause 3s]
-
-"ριβώς..."
+"βώς..."
 [pause 3s]
 
 "κριβώς..."
+[pause 3s]
+
+"ακριβώς..."
 [pause 3s]
 
 "Ακριβώς..."

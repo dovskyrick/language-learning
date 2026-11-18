@@ -78,13 +78,13 @@ I want, can you repeat it?
 I understand. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"νω..."
+[pause 3s]
+
+"βαίνω..."
+[pause 3s]
+
 "λαβαίνω..."
-[pause 3s]
-
-"ταλαβαίνω..."
-[pause 3s]
-
-"αταλαβαίνω..."
 [pause 3s]
 
 "Καταλαβαίνω..."
@@ -189,10 +189,10 @@ No, I don't understand, water.
 Greek, the language. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"νικά..."
+"κά..."
 [pause 3s]
 
-"ηνικά..."
+"νικά..."
 [pause 3s]
 
 "ληνικά..."
@@ -252,13 +252,13 @@ One, Greek, and.
 English, the language. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"λικά..."
+"κά..."
 [pause 3s]
 
 "γλικά..."
 [pause 3s]
 
-"γγλικά..."
+"αγγλικά..."
 [pause 3s]
 
 "Αγγλικά..."

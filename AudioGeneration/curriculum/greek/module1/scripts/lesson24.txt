@@ -240,13 +240,13 @@ A tea, boat.
 Trip. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ιδι..."
+"δι..."
 [pause 3s]
 
 "ξίδι..."
 [pause 3s]
 
-"αξίδι..."
+"ταξίδι..."
 [pause 3s]
 
 "Ταξίδι..."
@@ -357,13 +357,13 @@ Island.
 Bicycle. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"δήλατο..."
-[pause 3s]
-
-"ήλατο..."
+"το..."
 [pause 3s]
 
 "λατο..."
+[pause 3s]
+
+"δήλατο..."
 [pause 3s]
 
 "Ποδήλατο..."

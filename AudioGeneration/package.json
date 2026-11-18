@@ -15,8 +15,12 @@
     "update-manifest": "tsx src/update-manifest.ts",
     "repair-vocab": "tsx src/vocab-repair.ts",
     "curriculum": "tsx src/curriculum/cli.ts",
-    "test:curriculum": "tsx --test src/curriculum/curriculum.test.ts",
-    "syllable-test": "tsx src/syllable-test.ts"
+    "test:curriculum": "tsx --test src/curriculum/curriculum.test.ts src/syllables/syllables.test.ts",
+    "syllable-test": "tsx src/syllable-test.ts",
+    "syllables": "tsx src/syllables/build.ts",
+    "syllables:upload": "tsx src/syllables/upload.ts",
+    "syllables:reviews": "tsx src/syllables/pull-reviews.ts",
+    "set-admin": "tsx src/syllables/set-admin.ts"
   },
   "keywords": [
     "tts",
@@ -43,4 +47,3 @@
     "tsx": "^4.19.2"
   }
 }
-

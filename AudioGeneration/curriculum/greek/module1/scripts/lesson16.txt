@@ -27,13 +27,13 @@ Listen to a couple at the taverna.
 The table. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"απέζι..."
+"ζι..."
 [pause 3s]
 
 "πέζι..."
 [pause 3s]
 
-"ραπέζι..."
+"τραπέζι..."
 [pause 3s]
 
 "Τραπέζι..."
@@ -132,13 +132,13 @@ Please, for two, thank you.
 The menu. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"γος..."
+[pause 3s]
+
 "λογος..."
 [pause 3s]
 
 "τάλογος..."
-[pause 3s]
-
-"ατάλογος..."
 [pause 3s]
 
 "Κατάλογος..."
@@ -198,10 +198,10 @@ The bill. Listen to the pieces, starting from the end.
 "σμός..."
 [pause 3s]
 
-"ασμός..."
+"ριασμός..."
 [pause 3s]
 
-"ριασμός..."
+"γαριασμός..."
 [pause 3s]
 
 "Λογαριασμός..."
@@ -366,13 +366,13 @@ For two.
 Salad. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"άτα..."
+"τα..."
 [pause 3s]
 
 "λάτα..."
 [pause 3s]
 
-"αλάτα..."
+"σαλάτα..."
 [pause 3s]
 
 "Σαλάτα..."

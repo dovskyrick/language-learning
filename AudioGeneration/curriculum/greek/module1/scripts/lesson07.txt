@@ -282,13 +282,13 @@ One more, good evening.
 The word for today. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ερα..."
+"ρα..."
 [pause 3s]
 
 "μερα..."
 [pause 3s]
 
-"ήμερα..."
+"σήμερα..."
 [pause 3s]
 
 "Σήμερα..."

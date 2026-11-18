@@ -324,13 +324,13 @@ One more.
 The name Maria. Listen to the pieces, starting from the end, and repeat.
 [pause 2s]
 
-"ία..."
+"α..."
 [pause 3s]
 
 "ρία..."
 [pause 3s]
 
-"αρία..."
+"Μαρία..."
 [pause 3s]
 
 "Μαρία..."

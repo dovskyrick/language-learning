@@ -11,6 +11,7 @@ How the project is planned and decided over time, kept separate from the code.
 | `subplan-lesson-text-generation.md` | How lesson scripts get written: legal clean-room route, method prompt, checks. |
 | `mvp-lesson-generator.md` | MVP spec: 30 original Greek Module 1 scripts, creativity dial, data files. |
 | `roadmap-back-office.md` | Phases for humans supervising, editing and approving lessons. |
+| `../BackOffice/README.md` | Admin app to rate the syllable library; setup steps. |
 | `legal-checklist.md` | Legal points to keep checking as we build. |
 
 **Rules for humans and AI agents**

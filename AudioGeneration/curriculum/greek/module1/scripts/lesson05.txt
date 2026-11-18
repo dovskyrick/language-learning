@@ -123,7 +123,7 @@ Yes, two.
 The number four. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ερα..."
+"ρα..."
 [pause 3s]
 
 "σερα..."
@@ -273,13 +273,13 @@ One more, two.
 The kiosk is called periptero. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ερο..."
-[pause 3s]
-
-"τερο..."
+"ρο..."
 [pause 3s]
 
 "πτερο..."
+[pause 3s]
+
+"ρίπτερο..."
 [pause 3s]
 
 "Περίπτερο..."

@@ -27,10 +27,10 @@ Listen to two people talking about the weather.
 Sun. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ος..."
+"λιος..."
 [pause 3s]
 
-"λιος..."
+"ήλιος..."
 [pause 3s]
 
 "Ήλιος..."
@@ -129,13 +129,13 @@ Please, rain, thank you.
 Sea. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"σσα..."
-[pause 3s]
-
-"ασσα..."
+"σα..."
 [pause 3s]
 
 "λασσα..."
+[pause 3s]
+
+"θάλασσα..."
 [pause 3s]
 
 "Θάλασσα..."
@@ -360,13 +360,13 @@ Rain.
 Clouds. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"εφα..."
+"φα..."
 [pause 3s]
 
 "νεφα..."
 [pause 3s]
 
-"ννεφα..."
+"σύννεφα..."
 [pause 3s]
 
 "Σύννεφα..."

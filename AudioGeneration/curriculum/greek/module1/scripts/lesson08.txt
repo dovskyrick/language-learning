@@ -75,13 +75,13 @@ I want to know where it is.
 The hotel. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"ο..."
+[pause 3s]
+
 "χείο..."
 [pause 3s]
 
 "δοχείο..."
-[pause 3s]
-
-"νοδοχείο..."
 [pause 3s]
 
 "Ξενοδοχείο..."
@@ -186,10 +186,10 @@ How much is it, where is it?
 The square. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"τεία..."
+"α..."
 [pause 3s]
 
-"λατεία..."
+"τεία..."
 [pause 3s]
 
 "Πλατεία..."
@@ -246,13 +246,13 @@ A tea, where is it?
 To say sorry, or excuse me. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ώμη..."
+"μη..."
 [pause 3s]
 
-"νώμη..."
+"γνώμη..."
 [pause 3s]
 
-"γγνώμη..."
+"συγγνώμη..."
 [pause 3s]
 
 "Συγγνώμη..."

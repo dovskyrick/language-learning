@@ -3,6 +3,7 @@
  */
 import { Beat, Item, Lesson, ModuleConfig } from './types.js';
 import { answerGap, normalize, repeatGap, tokens, wordCount } from './text.js';
+import { plain, syllabify } from '../syllables/syllabify.js';
 
 export interface CheckResult {
   errors: string[];
@@ -128,8 +129,15 @@ export function checkLesson(config: ModuleConfig, items: Item[], skeleton: Beat[
       // Backward build-up uses word endings only, so the audio can be cut from the whole word.
       if (isFragment && beat.buildup) {
         const whole = normalize(beatItem!.target).replace(/[;.!,…]/g, '').replace(/\s+/g, ' ').trim();
-        if (!whole.endsWith(normalize(target).replace(/[;.!,…]/g, '').trim())) {
+        const piece = normalize(target).replace(/[;.!,…]/g, '').trim();
+        if (!whole.endsWith(piece)) {
           errors.push(`${where}: build-up piece "${target}" must be an ending of "${beatItem!.target}"`);
+        } else if (piece !== whole) {
+          const syl = syllabify(beatItem!.target);
+          const endings = syl.map((_, k) => plain(syl.slice(k).join('')));
+          if (!endings.includes(plain(target))) {
+            errors.push(`${where}: build-up piece "${target}" must start on a syllable (${syl.join('-')})`);
+          }
         }
       }
       if (!isFragment) {

@@ -129,7 +129,7 @@ Please, good evening, thank you.
 Happy. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"μένος..."
+"νος..."
 [pause 3s]
 
 "σμένος..."
@@ -348,13 +348,13 @@ For you, goodbye, a little.
 I'm glad. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"μαι..."
+[pause 3s]
+
 "ρομαι..."
 [pause 3s]
 
-"ίρομαι..."
-[pause 3s]
-
-"αίρομαι..."
+"χαίρομαι..."
 [pause 3s]
 
 "Χαίρομαι..."

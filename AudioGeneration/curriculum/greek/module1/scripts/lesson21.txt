@@ -33,10 +33,10 @@ Room. Listen to the pieces, starting from the end.
 "τιο..."
 [pause 3s]
 
-"ατιο..."
+"μάτιο..."
 [pause 3s]
 
-"ωμάτιο..."
+"δωμάτιο..."
 [pause 3s]
 
 "Δωμάτιο..."
@@ -87,13 +87,13 @@ Tonight.
 Key. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ιδί..."
+"δί..."
 [pause 3s]
 
-"ειδί..."
+"κλειδί..."
 [pause 3s]
 
-"λειδί..."
+"κλειδί..."
 [pause 3s]
 
 "Κλειδί..."
@@ -198,13 +198,13 @@ No, three nights, water.
 Breakfast. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"νό..."
+[pause 3s]
+
 "ινό..."
 [pause 3s]
 
-"ρωινό..."
-[pause 3s]
-
-"ωινό..."
+"πρωινό..."
 [pause 3s]
 
 "Πρωινό..."
@@ -375,13 +375,13 @@ Key.
 Lift, elevator. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"σέρ..."
+[pause 3s]
+
 "σανσέρ..."
 [pause 3s]
 
-"νσέρ..."
-[pause 3s]
-
-"ανσέρ..."
+"ασανσέρ..."
 [pause 3s]
 
 "Ασανσέρ..."
@@ -441,10 +441,10 @@ Quiet. Listen to the pieces, starting from the end.
 "χο..."
 [pause 3s]
 
-"ύχο..."
+"συχο..."
 [pause 3s]
 
-"συχο..."
+"ήσυχο..."
 [pause 3s]
 
 "Ήσυχο..."

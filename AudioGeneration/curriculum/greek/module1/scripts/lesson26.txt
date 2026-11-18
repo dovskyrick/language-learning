@@ -33,13 +33,13 @@ Listen to a friend who is unwell.
 Tired. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"μένος..."
+"νος..."
 [pause 3s]
 
 "σμένος..."
 [pause 3s]
 
-"ασμένος..."
+"ρασμένος..."
 [pause 3s]
 
 "Κουρασμένος..."
@@ -90,10 +90,10 @@ Good morning, tired, a coffee.
 It hurts. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ναει..."
+"ει..."
 [pause 3s]
 
-"ονάει..."
+"νάει..."
 [pause 3s]
 
 "Πονάει..."
@@ -204,13 +204,13 @@ No, my head, water.
 Pharmacy. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"μακείο..."
-[pause 3s]
-
-"ακείο..."
+"ο..."
 [pause 3s]
 
 "κείο..."
+[pause 3s]
+
+"μακείο..."
 [pause 3s]
 
 "Φαρμακείο..."
@@ -270,10 +270,10 @@ Doctor. Listen to the pieces, starting from the end.
 "τρός..."
 [pause 3s]
 
-"ατρός..."
+"γιατρός..."
 [pause 3s]
 
-"ιατρός..."
+"γιατρός..."
 [pause 3s]
 
 "Γιατρός..."
@@ -330,13 +330,13 @@ Boat.
 Fever. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ετός..."
+"τός..."
 [pause 3s]
 
 "ρετός..."
 [pause 3s]
 
-"υρετός..."
+"πυρετός..."
 [pause 3s]
 
 "Πυρετός..."
@@ -393,13 +393,13 @@ At.
 Sick. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ωστος..."
-[pause 3s]
-
-"ρρωστος..."
+"στος..."
 [pause 3s]
 
 "ρωστος..."
+[pause 3s]
+
+"άρρωστος..."
 [pause 3s]
 
 "Άρρωστος..."
@@ -456,13 +456,13 @@ For you, my head, a little.
 I'm sorry. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"άμαι..."
+"μαι..."
 [pause 3s]
 
 "πάμαι..."
 [pause 3s]
 
-"υπάμαι..."
+"λυπάμαι..."
 [pause 3s]
 
 "Λυπάμαι..."

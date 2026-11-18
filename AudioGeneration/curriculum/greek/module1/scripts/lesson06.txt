@@ -84,10 +84,10 @@ The koulouri, a sesame bread ring. Listen to the pieces, starting from the end.
 "ρι..."
 [pause 3s]
 
-"ούρι..."
+"λούρι..."
 [pause 3s]
 
-"λούρι..."
+"κουλούρι..."
 [pause 3s]
 
 "Κουλούρι..."
@@ -192,13 +192,13 @@ How much is it, bread.
 You want, polite. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ετε..."
+"τε..."
 [pause 3s]
 
 "λετε..."
 [pause 3s]
 
-"ελετε..."
+"θέλετε..."
 [pause 3s]
 
 "Θέλετε..."

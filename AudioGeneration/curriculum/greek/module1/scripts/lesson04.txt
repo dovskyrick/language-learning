@@ -78,10 +78,10 @@ The country: Greece. Listen to the pieces, starting from the end.
 "δα..."
 [pause 3s]
 
-"άδα..."
+"λάδα..."
 [pause 3s]
 
-"λάδα..."
+"Ελλάδα..."
 [pause 3s]
 
 "Ελλάδα..."
@@ -132,13 +132,13 @@ Yes, I am.
 The country: Germany. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"α..."
+[pause 3s]
+
 "νία..."
 [pause 3s]
 
 "μανία..."
-[pause 3s]
-
-"ερμανία..."
 [pause 3s]
 
 "Γερμανία..."
@@ -195,13 +195,13 @@ How much is it, I am.
 The city: Thessaloniki. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"κη..."
+[pause 3s]
+
 "νίκη..."
 [pause 3s]
 
 "λονίκη..."
-[pause 3s]
-
-"σσαλονίκη..."
 [pause 3s]
 
 "Θεσσαλονίκη..."
@@ -414,7 +414,7 @@ Germany.
 The city: Athens. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ήνα..."
+"να..."
 [pause 3s]
 
 "θήνα..."

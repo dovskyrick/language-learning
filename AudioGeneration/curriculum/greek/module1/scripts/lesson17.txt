@@ -129,13 +129,13 @@ Yes, beer.
 Chicken. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"λο..."
+[pause 3s]
+
 "πουλο..."
 [pause 3s]
 
 "τόπουλο..."
-[pause 3s]
-
-"οτόπουλο..."
 [pause 3s]
 
 "Κοτόπουλο..."
@@ -192,13 +192,13 @@ How much is it, beer.
 Yogurt. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ρτι..."
+"τι..."
 [pause 3s]
 
 "ούρτι..."
 [pause 3s]
 
-"αούρτι..."
+"γιαούρτι..."
 [pause 3s]
 
 "Γιαούρτι..."
@@ -417,10 +417,10 @@ Chicken.
 You speak, polite. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"λάτε..."
+"τε..."
 [pause 3s]
 
-"ιλάτε..."
+"λάτε..."
 [pause 3s]
 
 "Μιλάτε..."

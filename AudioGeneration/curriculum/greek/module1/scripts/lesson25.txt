@@ -36,7 +36,7 @@ Big. Listen to the pieces, starting from the end.
 "γάλο..."
 [pause 3s]
 
-"εγάλο..."
+"μεγάλο..."
 [pause 3s]
 
 "Μεγάλο..."
@@ -189,13 +189,13 @@ No, colour, water.
 Expensive. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ιβό..."
-[pause 3s]
-
-"ριβό..."
+"βό..."
 [pause 3s]
 
 "κριβό..."
+[pause 3s]
+
+"ακριβό..."
 [pause 3s]
 
 "Ακριβό..."
@@ -420,13 +420,13 @@ Nice weather.
 Red. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ινο..."
+"νο..."
 [pause 3s]
 
 "κινο..."
 [pause 3s]
 
-"κκινο..."
+"κόκκινο..."
 [pause 3s]
 
 "Κόκκινο..."

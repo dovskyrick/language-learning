@@ -189,10 +189,10 @@ That one. Listen to the pieces, starting from the end.
 "νο..."
 [pause 3s]
 
-"ίνο..."
+"κείνο..."
 [pause 3s]
 
-"είνο..."
+"εκείνο..."
 [pause 3s]
 
 "Εκείνο..."
@@ -303,10 +303,10 @@ Fruit.
 Listen to the pieces, starting from the end.
 [pause 2s]
 
-"άλια..."
+"λια..."
 [pause 3s]
 
-"καλια..."
+"κάλια..."
 [pause 3s]
 
 "τοκάλια..."
@@ -420,13 +420,13 @@ Yesterday.
 The word for tomatoes. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"άτες..."
+"τες..."
 [pause 3s]
 
-"ματες..."
+"μάτες..."
 [pause 3s]
 
-"ομάτες..."
+"ντομάτες..."
 [pause 3s]
 
 "Ντομάτες..."

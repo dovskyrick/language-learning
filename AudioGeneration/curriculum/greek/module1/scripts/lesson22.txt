@@ -129,13 +129,13 @@ Please, Tuesday, thank you.
 Wednesday. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"άρτη..."
+"τη..."
 [pause 3s]
 
 "τάρτη..."
 [pause 3s]
 
-"ετάρτη..."
+"Τετάρτη..."
 [pause 3s]
 
 "Τετάρτη..."
@@ -246,13 +246,13 @@ One, Thursday, and.
 Friday. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"ή..."
+[pause 3s]
+
 "σκευή..."
 [pause 3s]
 
 "ρασκευή..."
-[pause 3s]
-
-"αρασκευή..."
 [pause 3s]
 
 "Παρασκευή..."
@@ -309,13 +309,13 @@ Monday.
 Saturday. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"το..."
+[pause 3s]
+
 "βατο..."
 [pause 3s]
 
-"ββατο..."
-[pause 3s]
-
-"άββατο..."
+"Σάββατο..."
 [pause 3s]
 
 "Σάββατο..."
@@ -372,13 +372,13 @@ For you, Thursday, a little.
 Sunday. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ακή..."
-[pause 3s]
-
-"ιακή..."
+"κή..."
 [pause 3s]
 
 "ριακή..."
+[pause 3s]
+
+"Κυριακή..."
 [pause 3s]
 
 "Κυριακή..."
@@ -435,13 +435,13 @@ One more, Thursday.
 Week. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"δομάδα..."
+"δα..."
+[pause 3s]
+
+"μάδα..."
 [pause 3s]
 
 "βδομάδα..."
-[pause 3s]
-
-"ομάδα..."
 [pause 3s]
 
 "Εβδομάδα..."

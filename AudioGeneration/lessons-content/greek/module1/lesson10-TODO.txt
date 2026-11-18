@@ -78,7 +78,7 @@ I want the metro.
 The ticket. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ιτήριο..."
+"ριο..."
 [pause 3s]
 
 "τήριο..."
@@ -189,13 +189,13 @@ How much is it, metro.
 You can, polite. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"τε..."
+[pause 3s]
+
 "ρείτε..."
 [pause 3s]
 
-"ορείτε..."
-[pause 3s]
-
-"πορείτε..."
+"μπορείτε..."
 [pause 3s]
 
 "Μπορείτε..."

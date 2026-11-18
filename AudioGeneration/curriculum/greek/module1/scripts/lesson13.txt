@@ -291,13 +291,13 @@ Six.
 The phone. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ωνο..."
+"νο..."
 [pause 3s]
 
 "φωνο..."
 [pause 3s]
 
-"λεφωνο..."
+"λέφωνο..."
 [pause 3s]
 
 "Τηλέφωνο..."
@@ -357,10 +357,10 @@ The number, as in phone number. Listen to the pieces, starting from the end.
 "μός..."
 [pause 3s]
 
-"θμός..."
+"ριθμός..."
 [pause 3s]
 
-"ιθμός..."
+"αριθμός..."
 [pause 3s]
 
 "Αριθμός..."

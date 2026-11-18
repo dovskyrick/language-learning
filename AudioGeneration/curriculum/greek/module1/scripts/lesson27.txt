@@ -189,10 +189,10 @@ Not at all. Listen to the pieces, starting from the end.
 "λου..."
 [pause 3s]
 
-"όλου..."
+"θόλου..."
 [pause 3s]
 
-"θόλου..."
+"καθόλου..."
 [pause 3s]
 
 "Καθόλου..."
@@ -354,10 +354,10 @@ OK. Listen to the pieces, starting from the end.
 "ξει..."
 [pause 3s]
 
-"τάξει..."
+"ντάξει..."
 [pause 3s]
 
-"ντάξει..."
+"εντάξει..."
 [pause 3s]
 
 "Εντάξει..."
@@ -420,13 +420,13 @@ Come.
 Gladly. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"χαρίστως..."
-[pause 3s]
-
-"αρίστως..."
+"στως..."
 [pause 3s]
 
 "ρίστως..."
+[pause 3s]
+
+"χαρίστως..."
 [pause 3s]
 
 "Ευχαρίστως..."

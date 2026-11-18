@@ -30,10 +30,10 @@ Tonight. Listen to the pieces, starting from the end.
 "ψε..."
 [pause 3s]
 
-"όψε..."
+"πόψε..."
 [pause 3s]
 
-"πόψε..."
+"απόψε..."
 [pause 3s]
 
 "Απόψε..."
@@ -186,7 +186,7 @@ No, great, water.
 Sister. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ερφή..."
+"φή..."
 [pause 3s]
 
 "δερφή..."

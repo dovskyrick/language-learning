@@ -32,6 +32,11 @@ Since 2026-11-03 the checker requires every piece to be an **ending** of its wor
 
 Ground truth for Plan B: you mark about 20 words in Komma v0, or accept Plan A cuts that you have checked by ear.
 
+## Built 2026-11-18
+- `npm run syllables -- greek/module1`: Plan A for all 85 build-up words, with A1, A2 and Plan 0 pieces, plus the syllables. Code is in `AudioGeneration/src/syllables/`.
+- Greek syllabifier (follows speech: για-τρός, ή-λιος). The lesson checker now requires build-up pieces to be syllable endings, and 185 pieces in the lessons were realigned (they had been cut mid-syllable, e.g. "ερμανία").
+- **BackOffice app** (`BackOffice/`, APK from GitHub Actions): admin sign-in, play and rate every clip, and a scoreboard of A1 vs A2 vs Plan 0. It is an early, Komma-lite version of Plan C, without cut editing yet.
+
 ## Decision gates
 1. **Gate 0, whole lessons (≈ Nov 14).** Listen to lessons 1, 10 and 30 ([listening-test.md](listening-test.md)). If whole-word Greek quality is bad, fix the voice or model first. Syllables come after.
 2. **Gate 1, Plan A.** If a hyphen variant scores 2 on at least 5 of the 6 test words, build the silence splitter (about 1 day), run it on all 86 words, and keep Plan B in the backlog. If only the baseline sounds fine, keep Plan 0. If neither works, start Plan B.

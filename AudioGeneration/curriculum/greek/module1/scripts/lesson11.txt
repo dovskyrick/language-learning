@@ -33,13 +33,13 @@ Listen to a passenger at the bus stop.
 The bus. Listen to the pieces, starting from the end.
 [pause 2s]
 
+"ο..."
+[pause 3s]
+
+"ρείο..."
+[pause 3s]
+
 "φορείο..."
-[pause 3s]
-
-"ωφορείο..."
-[pause 3s]
-
-"εωφορείο..."
 [pause 3s]
 
 "Λεωφορείο..."

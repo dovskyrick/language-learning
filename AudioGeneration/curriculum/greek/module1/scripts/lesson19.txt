@@ -30,13 +30,13 @@ Listen to a family at the café.
 Spouse. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ύγος..."
+"γος..."
 [pause 3s]
 
 "ζυγος..."
 [pause 3s]
 
-"γος..."
+"σύζυγος..."
 [pause 3s]
 
 "Σύζυγος..."
@@ -90,10 +90,10 @@ Children. Listen to the pieces, starting from the end.
 "διά..."
 [pause 3s]
 
-"ιδιά..."
+"παιδιά..."
 [pause 3s]
 
-"αιδιά..."
+"παιδιά..."
 [pause 3s]
 
 "Παιδιά..."
@@ -312,10 +312,10 @@ Spouse.
 Mother. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"τέρα..."
+"ρα..."
 [pause 3s]
 
-"ητέρα..."
+"τέρα..."
 [pause 3s]
 
 "Μητέρα..."
@@ -372,10 +372,10 @@ Children.
 Father. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"τέρας..."
+"ρας..."
 [pause 3s]
 
-"ατέρας..."
+"τέρας..."
 [pause 3s]
 
 "Πατέρας..."
@@ -432,7 +432,7 @@ My name is, my husband, what is your name?
 Brother. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ερφός..."
+"φός..."
 [pause 3s]
 
 "δερφός..."

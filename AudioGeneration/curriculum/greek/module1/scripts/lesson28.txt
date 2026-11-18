@@ -174,13 +174,13 @@ No, I see, water.
 Work. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ειά..."
-[pause 3s]
-
 "λειά..."
 [pause 3s]
 
-"ουλειά..."
+"δουλειά..."
+[pause 3s]
+
+"δουλειά..."
 [pause 3s]
 
 "Δουλειά..."
@@ -237,13 +237,13 @@ Not at all.
 School. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"είο..."
+"ο..."
 [pause 3s]
 
 "λείο..."
 [pause 3s]
 
-"ολείο..."
+"σχολείο..."
 [pause 3s]
 
 "Σχολείο..."
@@ -300,13 +300,13 @@ Must.
 I work. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"εύω..."
+"ω..."
 [pause 3s]
 
 "λεύω..."
 [pause 3s]
 
-"ουλεύω..."
+"δουλεύω..."
 [pause 3s]
 
 "Δουλεύω..."

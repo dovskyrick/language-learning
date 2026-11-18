@@ -5,6 +5,7 @@ import { checkLesson, checkPlan } from './checker.js';
 import { renderScript } from './render.js';
 import { answerGap, normalize, repeatGap, tokens } from './text.js';
 import { Beat, Item, Lesson, Line, ModuleConfig } from './types.js';
+import { syllabify } from '../syllables/syllabify.js';
 
 const config: ModuleConfig = {
   language: 'greek',
@@ -57,8 +58,8 @@ function stubWrite(skeleton: Beat[], lesson: number): Lesson {
       case 'new':
         lines.push({ beat: b.id, say: `Here is how to say "${it!.meaning}".`, pause: 1 });
         if (b.buildup) {
-          const w = it!.target;
-          for (const piece of [w.slice(-2), w.slice(-4), w.slice(-6)]) lines.push({ beat: b.id, target: piece, pause: 2 });
+          const syl = syllabify(it!.target);
+          for (let k = 1; k < syl.length; k++) lines.push({ beat: b.id, target: syl.slice(-k).join(''), pause: 2 });
         }
         lines.push(t(b, [it!.id]), t(b, [it!.id]));
         break;

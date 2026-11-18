@@ -1,0 +1,55 @@
+name: BackOffice APK
+
+# Builds the admin app (BackOffice/) into an installable APK.
+# Download it from the run page → Artifacts → jim-backoffice-apk.
+on:
+  push:
+    paths:
+      - 'BackOffice/**'
+      - '.github/workflows/backoffice-apk.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: backoffice-apk-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    defaults:
+      run:
+        working-directory: BackOffice
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: BackOffice/package-lock.json
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npx expo prebuild --platform android --no-install
+        env:
+          CI: 1
+
+      # arm64 only: every phone from the last ~8 years, and half the build time.
+      - run: ./gradlew assembleRelease --no-daemon -PreactNativeArchitectures=arm64-v8a
+        working-directory: BackOffice/android
+
+      - run: mv android/app/build/outputs/apk/release/app-release.apk jim-backoffice-${{ github.run_number }}.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: jim-backoffice-apk
+          path: BackOffice/jim-backoffice-*.apk
+          retention-days: 30

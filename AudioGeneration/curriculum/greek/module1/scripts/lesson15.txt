@@ -183,10 +183,10 @@ How much is it, I like.
 Better. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"τερα..."
+"ρα..."
 [pause 3s]
 
-"ύτερα..."
+"τερα..."
 [pause 3s]
 
 "λύτερα..."

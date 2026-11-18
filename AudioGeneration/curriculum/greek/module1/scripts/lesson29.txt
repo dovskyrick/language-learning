@@ -84,13 +84,13 @@ Must.
 I call. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ωνώ..."
+"νώ..."
 [pause 3s]
 
 "φωνώ..."
 [pause 3s]
 
-"εφωνώ..."
+"λεφωνώ..."
 [pause 3s]
 
 "Τηλεφωνώ..."
@@ -255,13 +255,13 @@ One, bye, and.
 Message. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"ύμα..."
+"μα..."
 [pause 3s]
 
-"νύμα..."
+"νυμα..."
 [pause 3s]
 
-"ήνυμα..."
+"μήνυμα..."
 [pause 3s]
 
 "Μήνυμα..."
@@ -372,7 +372,7 @@ I call.
 Soon. Listen to the pieces, starting from the end.
 [pause 2s]
 
-"τομα..."
+"μα..."
 [pause 3s]
 
 "ντομα..."

@@ -31,6 +31,12 @@ service firebase.storage {
       allow write: if false; // Only via service account (admin SDK)
     }
     
+    // Syllable library - BackOffice admins only (signed-in user with the admin claim)
+    match /syllable-audio/{allPaths=**} {
+      allow read: if request.auth != null && request.auth.token.admin == true;
+      allow write: if false; // Only via service account (npm run syllables:upload)
+    }
+    
     // Default deny everything else
     match /{allPaths=**} {
       allow read, write: if false;

@@ -1,0 +1,13 @@
+rules_version = '2';
+
+// Firestore: only BackOffice admins (admin claim, set with npm run set-admin) can use it.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /syllableReviews/{reviewId} {
+      allow read, write: if request.auth != null && request.auth.token.admin == true;
+    }
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
