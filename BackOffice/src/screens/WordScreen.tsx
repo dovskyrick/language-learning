@@ -36,7 +36,7 @@ export default function WordScreen({ manifest, index, reviews, onSave, onGo, onB
 
   /** Lesson-style build-up: pieces shortest first, then the whole word. */
   function buildUp(kind: ClipKind) {
-    const clips = [...byKind(kind).sort((a, b) => a.text.length - b.text.length), ...byKind('whole')];
+    const clips = [...byKind(kind).sort((a, b) => a.text.length - b.text.length), ...w.clips.filter((c) => c.key === 'whole')];
     if (clips.length > 1) run(clips.map((c) => c.key), clips);
   }
 

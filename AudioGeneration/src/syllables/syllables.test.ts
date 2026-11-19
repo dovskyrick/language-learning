@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { syllabify } from './syllabify.js';
-import { split, tighten } from './splitter.js';
+import { split, splitFrame, tighten } from './splitter.js';
 
 test('Greek syllables follow speech', () => {
   const cases: Record<string, string> = {
@@ -55,4 +55,23 @@ test('tighten shrinks gaps to 40 ms', () => {
   const out = tighten(pcm, r.speech.start, r.speech.end, r.silences, SR);
   const removed = (r.speech.end - r.speech.start - out.length) / SR;
   assert.ok(Math.abs(removed - 0.16) < 0.02, `removed ${removed}s`);
+});
+
+test('frame splitter finds the sentence pauses around "Word. sy-lla-bles. Word."', () => {
+  // whole word (with a 70 ms stop closure inside) · 3 syllables · whole word again
+  const { pcm, gaps } = fake([250, 250, 200, 180, 250, 250, 250], [70, 400, 120, 90, 400, 70]);
+  const f = splitFrame(pcm, 2, { sampleRate: SR });
+  assert.ok(f.ok, f.reason);
+  const mid = (g: [number, number]) => (g[0] + g[1]) / 2;
+  assert.ok(Math.abs(f.middle.start - mid(gaps[1])) < SR * 0.01, 'left cut at first sentence pause');
+  assert.ok(Math.abs(f.middle.end - mid(gaps[4])) < SR * 0.01, 'right cut at second sentence pause');
+  const r = split(pcm.slice(f.middle.start, f.middle.end), 3, { sampleRate: SR });
+  assert.ok(r.ok, r.reason);
+});
+
+test('frame splitter keeps the middle copy of "ρα. ρα. ρα."', () => {
+  const { pcm, gaps } = fake([200, 210, 190], [350, 330]);
+  const f = splitFrame(pcm, 0, { sampleRate: SR });
+  assert.ok(f.ok, f.reason);
+  assert.ok(f.middle.start < gaps[0][1] && f.middle.end > gaps[1][0]);
 });

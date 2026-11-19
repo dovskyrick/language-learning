@@ -19,7 +19,7 @@ Android app for admins: listen to the syllable library and rate each clip (✓ g
 ## Each time you make new audio
 ```bash
 cd AudioGeneration
-npm run syllables -- greek/module1            # Plan A: hyphen TTS, split at silence midpoints (~$0.10)
+npm run syllables -- greek/module1            # Plan A: "Word. syl-la-bles. Word." in one request, split at silences (~$0.15)
 npm run syllables:upload -- greek/module1     # to Storage syllable-audio/greek/module1/
 # …rate in the app…
 npm run syllables:reviews -- greek/module1    # → curriculum/greek/module1/syllable-reviews.json

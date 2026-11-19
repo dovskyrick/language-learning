@@ -29,7 +29,8 @@ async function main() {
     const isJson = f.endsWith('.json');
     await bucket.upload(f, {
       destination: dest,
-      metadata: { contentType: isJson ? 'application/json' : 'audio/mpeg', cacheControl: isJson ? 'no-cache' : 'private, max-age=3600' },
+      // no-cache: after a re-upload the phone must never play an old cached clip
+      metadata: { contentType: isJson ? 'application/json' : 'audio/mpeg', cacheControl: 'no-cache' },
     });
     if (++n % 50 === 0) console.log(`  ${n}/${all.length}`);
   }

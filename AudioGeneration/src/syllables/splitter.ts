@@ -28,21 +28,19 @@ function frameDb(pcm: Float32Array, start: number, len: number): number {
   return 20 * Math.log10(rms + 1e-9);
 }
 
-/** Split into `syllables` parts. Fails if TTS did not leave enough clear gaps. */
-export function split(pcm: Float32Array, syllables: number, o: SplitOptions): SplitResult {
+interface Analysis { speech: { start: number; end: number } | null; runs: Silence[] }
+
+/** Speech region and every silent run of at least minSilenceMs inside it. */
+export function analyze(pcm: Float32Array, o: SplitOptions): Analysis {
   const frame = Math.round(((o.frameMs ?? 10) / 1000) * o.sampleRate);
   const frames = Math.floor(pcm.length / frame);
   const db = Array.from({ length: frames }, (_, f) => frameDb(pcm, f * frame, frame));
   const loud = Math.max(...db);
   const thr = loud - (o.thresholdDb ?? 30);
   const silent = db.map((d) => d < thr);
-
   const first = silent.indexOf(false);
   const last = silent.lastIndexOf(false);
-  const empty = { ok: false, speech: { start: 0, end: pcm.length }, cuts: [], silences: [] };
-  if (first < 0) return { ...empty, reason: 'no speech found' };
-  const speech = { start: first * frame, end: (last + 1) * frame };
-
+  if (first < 0) return { speech: null, runs: [] };
   const minFrames = Math.ceil((o.minSilenceMs ?? 60) / (o.frameMs ?? 10));
   const runs: Silence[] = [];
   for (let f = first; f <= last; f++) {
@@ -52,6 +50,51 @@ export function split(pcm: Float32Array, syllables: number, o: SplitOptions): Sp
     if (g - f >= minFrames) runs.push({ start: f * frame, end: g * frame });
     f = g;
   }
+  return { speech: { start: first * frame, end: (last + 1) * frame }, runs };
+}
+
+export interface FrameResult {
+  ok: boolean;
+  reason?: string;
+  left: { start: number; end: number };
+  middle: { start: number; end: number };
+  right: { start: number; end: number };
+}
+
+/**
+ * Split a framed take into 3 parts: "Word. ev-ha-ri-sto. Word." or "ρα. ρα. ρα.".
+ * Picks the two gaps that are long (sentence pauses) and leave left ≈ right in length,
+ * with at least `minMiddleGaps` smaller gaps between them. Cuts are at gap midpoints.
+ */
+export function splitFrame(pcm: Float32Array, minMiddleGaps: number, o: SplitOptions): FrameResult {
+  const { speech, runs } = analyze(pcm, o);
+  const none = { start: 0, end: 0 };
+  if (!speech) return { ok: false, reason: 'no speech found', left: none, middle: none, right: none };
+  const sec = (n: number) => n / o.sampleRate;
+  let best: { score: number; i: number; j: number } | null = null;
+  for (let i = 0; i < runs.length; i++) {
+    for (let j = i + 1 + minMiddleGaps; j < runs.length; j++) {
+      const left = sec(runs[i].start - speech.start);
+      const right = sec(speech.end - runs[j].end);
+      const score = sec(runs[i].end - runs[i].start) + sec(runs[j].end - runs[j].start) - Math.abs(left - right);
+      if (!best || score > best.score) best = { score, i, j };
+    }
+  }
+  if (!best) return { ok: false, reason: `found ${runs.length} gaps, need ${minMiddleGaps + 2}`, left: none, middle: none, right: none };
+  const a = runs[best.i], b = runs[best.j];
+  const midA = Math.round((a.start + a.end) / 2), midB = Math.round((b.start + b.end) / 2);
+  return {
+    ok: true,
+    left: { start: 0, end: midA },
+    middle: { start: midA, end: midB },
+    right: { start: midB, end: pcm.length },
+  };
+}
+
+/** Split into `syllables` parts. Fails if TTS did not leave enough clear gaps. */
+export function split(pcm: Float32Array, syllables: number, o: SplitOptions): SplitResult {
+  const { speech, runs } = analyze(pcm, o);
+  if (!speech) return { ok: false, reason: 'no speech found', speech: { start: 0, end: pcm.length }, cuts: [], silences: [] };
   const need = syllables - 1;
   if (runs.length < need) {
     return { ok: false, reason: `found ${runs.length} gaps, need ${need}`, speech, cuts: [], silences: runs };
