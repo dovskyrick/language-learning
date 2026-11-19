@@ -7,4 +7,5 @@
 | `roadmap-syllables.md` | Plans A (hyphen + silence split), B, C, decision gates, dates. |
 | `plan-b-auto-slicing.md` | Automatic syllable cuts: signal, forced alignment, TTS timestamps, QA. |
 | `plan-c-komma.md` | Komma, the cut editor for the back office (February). |
+| `plan-stt-audit.md` | Speech-to-text audit of every clip, so you only check doubtful ones; player reliability backlog. |
 | `subplan-audio-generation.md` | Earlier plan: cheaper TTS, cache, pipeline steps. |
