@@ -42,6 +42,8 @@ Options:
 - Custom lessons: build them on the server on demand (option A), so there is still only one player code path.
 
 ## Next steps
+**2026-11-20 (evening):** MVP achieved: robot syllable library plays in BackOffice. Next: `product/roadmap-product.md`. P0 is a hybrid lesson render (OpenAI sentences + robot words), then the automatic writer, then RemNote deck → course, then server, accounts and donations.
+
 **2026-11-20:** Hyphen-TTS syllable cutting is `SHELVED` (too many bad clips). `LOOSE`: eSpeak NG robot voice for words and syllables, rendered on PC first. See `audio/brainstorm-non-neural-tts.md`.
 
 **2026-11-03:** Greek Module 1 (30 lessons) written and approved by you; lessons 1, 10 and 30 are queued for audio. Syllable build-up audio: `DECIDED` order Plan A (hyphen TTS + silence-midpoint split) → B (auto cuts on whole words) → C (Komma editor, February). See `audio/SUMMARY-120W.md`.

@@ -12,6 +12,7 @@ How the project is planned and decided over time, kept separate from the code.
 | `mvp-lesson-generator.md` | MVP spec: 30 original Greek Module 1 scripts, creativity dial, data files. |
 | `roadmap-back-office.md` | Phases for humans supervising, editing and approving lessons. |
 | `../BackOffice/README.md` | Admin app to rate the syllable library; setup steps. |
+| `product/` | **Next:** user courses from RemNote decks: brainstorm, architecture, roadmap. Start with `product/brainstorm-user-courses.md`. |
 | `music/` | Hook Songs: vocab-as-hook electronic tracks. Start with `music/brainstorm-HIL-50W.md`. |
 | `legal-checklist.md` | Legal points to keep checking as we build. |
 
