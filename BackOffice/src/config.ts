@@ -8,8 +8,15 @@ export const FIREBASE = {
   storageBucket: 'jim-c9df8.firebasestorage.app',
 };
 
-/** Syllable libraries you can open. Add one per module after `npm run syllables:upload`. */
-export const MODULES = [{ language: 'greek', module: 'module1', title: 'Greek · Module 1' }];
+/**
+ * Syllable libraries you can open (after `npm run syllables:upload`).
+ * library '' = original OpenAI clips (shelved), 'robot' = eSpeak NG.
+ */
+export interface Lib { id: string; title: string; language: string; module: string; library: string }
+export const LIBRARIES: Lib[] = [
+  { id: 'greek-module1-robot', title: 'Robot', language: 'greek', module: 'module1', library: 'robot' },
+  { id: 'greek-module1', title: 'OpenAI (shelved)', language: 'greek', module: 'module1', library: '' },
+];
 
-export const storagePrefix = (language: string, module: string) => `syllable-audio/${language}/${module}`;
+export const storagePrefix = (lib: Lib) => ['syllable-audio', lib.language, lib.module, lib.library].filter(Boolean).join('/');
 export const REVIEWS = 'syllableReviews';

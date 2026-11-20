@@ -36,5 +36,7 @@ export interface SyllableManifest {
   generatedAt: string;
   model: string;
   voice: string;
+  engine?: 'openai' | 'robot';
+  library?: string;   // '' = the original OpenAI library, 'robot' = eSpeak
   words: WordEntry[];
 }

@@ -27,6 +27,8 @@ export interface SyllableManifest {
   generatedAt: string;
   model: string;
   voice: string;
+  engine?: 'openai' | 'robot';
+  library?: string;
   words: WordEntry[];
 }
 
@@ -35,6 +37,7 @@ export type Rating = 'good' | 'ok' | 'bad';
 export interface Review {
   language: string;
   module: string;
+  library?: string; // missing on old reviews = '' (OpenAI library)
   wordId: string;
   clipKey: string;
   kind: ClipKind;
@@ -47,6 +50,9 @@ export interface Review {
 }
 
 export const TAGS = ['wrong sound', 'wrong stress', 'cut early', 'cut late', 'choppy', 'noise', 'robotic', 'spelled out'];
+
+export const kindLabel = (kind: ClipKind, engine?: string) =>
+  engine === 'robot' && kind === 'piece-tts' ? 'Robot piece' : KIND_LABEL[kind];
 
 export const KIND_LABEL: Record<ClipKind, string> = {
   whole: 'Whole word',

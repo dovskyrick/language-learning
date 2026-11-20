@@ -3,9 +3,11 @@ import { ScrollView, Text, TextInput, TouchableOpacity, View } from 'react-nativ
 import { clipSource, currentEmail, reviewId } from '../firebase';
 import { play, playSequence, stop } from '../player';
 import { C, RATING_COLOR, S } from '../theme';
-import { Clip, ClipKind, KIND_LABEL, Rating, Review, SyllableManifest, TAGS, WordEntry } from '../types';
+import { Lib } from '../config';
+import { Clip, ClipKind, kindLabel, Rating, Review, SyllableManifest, TAGS } from '../types';
 
 interface Props {
+  lib: Lib;
   manifest: SyllableManifest;
   index: number;
   reviews: Map<string, Review>;
@@ -14,9 +16,11 @@ interface Props {
   onBack: () => void;
 }
 
-export default function WordScreen({ manifest, index, reviews, onSave, onGo, onBack }: Props) {
+export default function WordScreen({ lib, manifest, index, reviews, onSave, onGo, onBack }: Props) {
   const w = manifest.words[index];
   const { language, module } = manifest;
+  const library = lib.library;
+  const label = (k: ClipKind) => kindLabel(k, manifest.engine);
   const [playing, setPlaying] = useState<string | null>(null);
   const [error, setError] = useState('');
 
@@ -28,7 +32,7 @@ export default function WordScreen({ manifest, index, reviews, onSave, onGo, onB
   async function run(keys: string[], clips: Clip[]) {
     setError('');
     try {
-      const sources = await Promise.all(clips.map((c) => clipSource(language, module, c.path)));
+      const sources = await Promise.all(clips.map((c) => clipSource(lib, c.path)));
       await playSequence(sources, 700, (i) => setPlaying(i < 0 ? null : keys[i]));
     } catch (e) { setPlaying(null); setError(e instanceof Error ? e.message : String(e)); }
   }
@@ -41,9 +45,9 @@ export default function WordScreen({ manifest, index, reviews, onSave, onGo, onB
   }
 
   function rate(c: Clip, patch: Partial<Review>) {
-    const prev = reviews.get(reviewId({ language, module, wordId: w.id, clipKey: c.key }));
+    const prev = reviews.get(reviewId({ language, module, library, wordId: w.id, clipKey: c.key }));
     onSave({
-      language, module, wordId: w.id, clipKey: c.key, kind: c.kind, text: c.text,
+      language, module, ...(library ? { library } : {}), wordId: w.id, clipKey: c.key, kind: c.kind, text: c.text,
       rating: prev?.rating ?? 'good', tags: prev?.tags ?? [], note: prev?.note ?? '',
       ...patch, by: currentEmail(), updatedAt: new Date().toISOString(),
     });
@@ -54,7 +58,7 @@ export default function WordScreen({ manifest, index, reviews, onSave, onGo, onB
       <Text style={S.h2}>{title}</Text>
       {clips.map((c) => (
         <ClipRow key={c.key} clip={c} playing={playing === c.key} onPlay={() => playClip(c)} onRate={(p) => rate(c, p)}
-          review={reviews.get(reviewId({ language, module, wordId: w.id, clipKey: c.key }))} />
+          label={label(c.kind)} review={reviews.get(reviewId({ language, module, library, wordId: w.id, clipKey: c.key }))} />
       ))}
     </View>
   ) : null;
@@ -66,7 +70,7 @@ export default function WordScreen({ manifest, index, reviews, onSave, onGo, onB
         <Text style={[S.h1, { fontSize: 28 }]}>{w.word}</Text>
         <Text style={S.text}>{w.syllables.join(' · ')}   <Text style={S.dim}>{w.meaning}</Text></Text>
         <Text style={[S.dim, { marginTop: 4, color: w.auto.ok ? C.good : C.bad }]}>
-          {w.auto.ok ? `Split cleanly with "${w.variant}"` : `Split failed: ${w.auto.reason}. Only Plan 0 pieces available.`}
+          {manifest.engine === 'robot' ? `Robot voice: ${w.variant}` : w.auto.ok ? `Split cleanly with "${w.variant}"` : `Split failed: ${w.auto.reason}. Only Plan 0 pieces available.`}
           {w.expectedSyllables ? `  ·  items.json says ${w.expectedSyllables} syllables` : ''}
         </Text>
         {!!error && <Text style={{ color: C.bad, marginTop: 8 }}>{error}</Text>}
@@ -75,14 +79,14 @@ export default function WordScreen({ manifest, index, reviews, onSave, onGo, onB
         <View style={[S.row, { flexWrap: 'wrap' }]}>
           {(['piece-a1', 'piece-a2', 'piece-tts'] as ClipKind[]).filter((k) => byKind(k).length).map((k) => (
             <TouchableOpacity key={k} style={[S.btn, { marginRight: 8, marginBottom: 8, paddingVertical: 10 }]} onPress={() => buildUp(k)}>
-              <Text style={S.btnText}>▶ {KIND_LABEL[k]}</Text>
+              <Text style={S.btnText}>▶ {label(k)}</Text>
             </TouchableOpacity>
           ))}
           {playing && <TouchableOpacity style={[S.btn, { backgroundColor: C.line, marginBottom: 8 }]} onPress={() => { stop(); setPlaying(null); }}>
             <Text style={[S.btnText, { color: C.text }]}>■ Stop</Text></TouchableOpacity>}
         </View>
 
-        {section('Whole word and hyphen take', [...byKind('whole'), ...byKind('take')])}
+        {section(byKind('take').length ? 'Whole word and hyphen take' : 'Whole word', [...byKind('whole'), ...byKind('take')])}
         {pieceKeys.map((pk) => section(`Piece: ${w.clips.find((c) => c.key.startsWith(pk + '-'))?.text}`,
           w.clips.filter((c) => c.kind.startsWith('piece') && c.key.startsWith(pk + '-'))))}
         {section('Syllables', byKind('syllable'))}
@@ -100,8 +104,8 @@ export default function WordScreen({ manifest, index, reviews, onSave, onGo, onB
   );
 }
 
-function ClipRow({ clip, review, playing, onPlay, onRate }: {
-  clip: Clip; review?: Review; playing: boolean; onPlay: () => void; onRate: (p: Partial<Review>) => void;
+function ClipRow({ clip, label, review, playing, onPlay, onRate }: {
+  clip: Clip; label: string; review?: Review; playing: boolean; onPlay: () => void; onRate: (p: Partial<Review>) => void;
 }) {
   const [note, setNote] = useState(review?.note ?? '');
   useEffect(() => setNote(review?.note ?? ''), [review?.note]);
@@ -118,7 +122,7 @@ function ClipRow({ clip, review, playing, onPlay, onRate }: {
         </TouchableOpacity>
         <View style={{ flex: 1 }}>
           <Text style={[S.text, { fontSize: 17 }]}>{clip.text}</Text>
-          <Text style={S.dim}>{KIND_LABEL[clip.kind]} · {clip.ms} ms</Text>
+          <Text style={S.dim}>{label} · {clip.ms} ms</Text>
         </View>
         {(['good', 'ok', 'bad'] as Rating[]).map((r) => {
           const on = review?.rating === r;

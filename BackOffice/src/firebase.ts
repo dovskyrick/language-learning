@@ -3,7 +3,7 @@
  * No Firebase SDK, so nothing to fight in the React Native bundler.
  */
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { FIREBASE, REVIEWS, storagePrefix } from './config';
+import { FIREBASE, Lib, REVIEWS, storagePrefix } from './config';
 import { Review, SyllableManifest } from './types';
 
 interface Session { email: string; idToken: string; refreshToken: string; expiresAt: number; admin: boolean }
@@ -94,12 +94,12 @@ export const currentEmail = () => session?.email ?? '';
 const objectUrl = (path: string) =>
   `https://firebasestorage.googleapis.com/v0/b/${FIREBASE.storageBucket}/o/${encodeURIComponent(path)}?alt=media`;
 
-export async function clipSource(language: string, module: string, path: string) {
-  return { uri: objectUrl(`${storagePrefix(language, module)}/${path}`), headers: { Authorization: `Firebase ${await token()}` } };
+export async function clipSource(lib: Lib, path: string) {
+  return { uri: objectUrl(`${storagePrefix(lib)}/${path}`), headers: { Authorization: `Firebase ${await token()}` } };
 }
 
-export async function fetchManifest(language: string, module: string): Promise<SyllableManifest> {
-  const res = await fetch(objectUrl(`${storagePrefix(language, module)}/manifest.json`), {
+export async function fetchManifest(lib: Lib): Promise<SyllableManifest> {
+  const res = await fetch(objectUrl(`${storagePrefix(lib)}/manifest.json`), {
     headers: { Authorization: `Firebase ${await token()}` },
   });
   if (res.status === 403) throw new Error('No access. Is your account an admin (npm run set-admin)?');
@@ -111,8 +111,9 @@ export async function fetchManifest(language: string, module: string): Promise<S
 // ---------- Firestore ----------
 
 const DOCS = `https://firestore.googleapis.com/v1/projects/${FIREBASE.projectId}/databases/(default)/documents`;
-export const reviewId = (r: Pick<Review, 'language' | 'module' | 'wordId' | 'clipKey'>) =>
-  `${r.language}_${r.module}_${r.wordId}_${r.clipKey}`.replace(/[^A-Za-z0-9_-]/g, '-');
+/** Old OpenAI-library ids have no library part, so existing ratings keep working. */
+export const reviewId = (r: Pick<Review, 'language' | 'module' | 'library' | 'wordId' | 'clipKey'>) =>
+  [r.language, r.module, r.library, r.wordId, r.clipKey].filter(Boolean).join('_').replace(/[^A-Za-z0-9_-]/g, '-');
 
 type FsValue = { stringValue?: string; arrayValue?: { values?: FsValue[] }; timestampValue?: string };
 function toFields(r: Review): Record<string, FsValue> {
@@ -132,7 +133,8 @@ function fromFields(f: Record<string, FsValue>): Review {
   return o as unknown as Review;
 }
 
-export async function loadReviews(language: string, module: string): Promise<Map<string, Review>> {
+export async function loadReviews(lib: Lib): Promise<Map<string, Review>> {
+  const { language, module } = lib;
   const eq = (field: string, value: string) => ({ fieldFilter: { field: { fieldPath: field }, op: 'EQUAL', value: { stringValue: value } } });
   const res = await fetch(`${DOCS}:runQuery`, {
     method: 'POST',
@@ -147,7 +149,11 @@ export async function loadReviews(language: string, module: string): Promise<Map
   if (!res.ok) throw new Error(`Reviews: ${await errorText(res)}`);
   const rows: { document?: { fields: Record<string, FsValue> } }[] = await res.json();
   const map = new Map<string, Review>();
-  for (const row of rows) if (row.document) { const r = fromFields(row.document.fields); map.set(reviewId(r), r); }
+  for (const row of rows) {
+    if (!row.document) continue;
+    const r = fromFields(row.document.fields);
+    if ((r.library ?? '') === lib.library) map.set(reviewId(r), r);
+  }
   return map;
 }
 

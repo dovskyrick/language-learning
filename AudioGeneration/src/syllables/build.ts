@@ -10,6 +10,10 @@
  *    and the middle copy is kept.
  *
  *   npm run syllables -- greek/module1 [--dry-run] [--only i006,i017] [--limit 5]
+ *   npm run syllables -- greek/module1 --engine robot [--voice el] [--speed 140] [--pitch 50]
+ *
+ * --engine robot uses eSpeak NG (offline, free, no cutting) and writes to the
+ * "robot" library: output/syllables/<language>/<module>/robot/
  *
  * Output: output/syllables/<language>/<module>/{manifest.json,<id>/*.mp3}
  * TTS takes are cached in _raw/, so re-running costs nothing.
@@ -24,6 +28,7 @@ import { decode, encodeMp3, SAMPLE_RATE } from './audio-io.js';
 import { Clip, SyllableManifest, WordEntry } from './manifest.js';
 import { analyze, fade, split, splitFrame, tighten } from './splitter.js';
 import { plain, syllabify } from './syllabify.js';
+import { checkEspeak, robotSay, RobotVoice } from './robot.js';
 
 const ms = (pcm: Float32Array) => Math.round((pcm.length / SAMPLE_RATE) * 1000);
 const PAD = Math.round(0.05 * SAMPLE_RATE);
@@ -42,11 +47,15 @@ const args = process.argv.slice(2);
 const target = args.find((a) => !a.startsWith('--'));
 const flag = (n: string) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : undefined; };
 const dryRun = args.includes('--dry-run');
-if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
+const engine = (flag('--engine') ?? 'openai') as 'openai' | 'robot';
+if (!['openai', 'robot'].includes(engine)) { console.error('--engine must be openai or robot'); process.exit(1); }
+const robot: RobotVoice = { voice: flag('--voice') ?? 'el', speed: Number(flag('--speed') ?? 140), pitch: Number(flag('--pitch') ?? 50) };
+const library = engine === 'robot' ? (flag('--library') ?? 'robot') : '';
+if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--engine openai|robot] [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
 const [language, module] = target.split('/');
 
 const curDir = resolve('curriculum', language, module);
-const outDir = resolve('output', 'syllables', language, module);
+const outDir = resolve('output', 'syllables', language, module, library);
 const rawDir = join(outDir, '_raw');
 
 /** Build-up words and their pieces, read from the lessons themselves. */
@@ -188,6 +197,32 @@ async function buildWord(item: Item, pieces: string[]): Promise<WordEntry> {
   return entry;
 }
 
+/** Robot library: every clip is said directly by eSpeak, nothing is cut. */
+function buildWordRobot(item: Item, pieces: string[]): WordEntry {
+  const syl = syllabify(item.target);
+  const dir = join(outDir, item.id);
+  mkdirSync(dir, { recursive: true });
+  const clips: Clip[] = [];
+  const save = (key: string, kind: Clip['kind'], text: string) => {
+    const pcm = trimmed(robotSay(text, robot));
+    encodeMp3(pcm, join(dir, `${key}.mp3`));
+    clips.push({ key, kind, text, path: `${item.id}/${key}.mp3`, ms: ms(pcm) });
+  };
+  save('whole', 'whole', item.target.replace(/[.;!?]+$/, ''));
+  for (const piece of [...pieces].sort((a, b) => plain(a).length - plain(b).length)) {
+    let k = 0;
+    for (let n = 1; n < syl.length; n++) if (plain(syl.slice(syl.length - n).join('')) === plain(piece)) k = n;
+    save(k ? `p${k}-tts` : `p-${plain(piece)}-tts`, 'piece-tts', piece);
+  }
+  syl.forEach((s, i) => save(`s${i + 1}`, 'syllable', s));
+  const entry: WordEntry = {
+    id: item.id, word: item.target, meaning: item.meaning, syllables: syl,
+    variant: `espeak ${robot.voice} speed ${robot.speed}`, auto: { ok: true }, clips,
+  };
+  if (item.syllables && item.syllables !== syl.length) entry.expectedSyllables = item.syllables;
+  return entry;
+}
+
 async function main() {
   let words = buildUpWords();
   const only = flag('--only')?.split(',');
@@ -204,22 +239,25 @@ async function main() {
     console.log(`\n${words.length} words. Nothing generated (dry run).`);
     return;
   }
-  if (!process.env.OPENAI_API_KEY) throw new Error('Set OPENAI_API_KEY in .env');
-  mkdirSync(rawDir, { recursive: true });
+  if (engine === 'openai' && !process.env.OPENAI_API_KEY) throw new Error('Set OPENAI_API_KEY in .env');
+  if (engine === 'robot') checkEspeak(robot.voice);
+  if (engine === 'openai') mkdirSync(rawDir, { recursive: true });
 
   const entries: WordEntry[] = [];
   for (const { item, pieces } of words) {
-    const e = await buildWord(item, pieces);
+    const e = engine === 'robot' ? buildWordRobot(item, pieces) : await buildWord(item, pieces);
     entries.push(e);
     console.log(`${e.auto.ok ? '✓' : '✗'} ${item.id} ${e.syllables.join('-')}  ${e.variant ?? e.auto.reason}`);
   }
   const manifest: SyllableManifest = {
-    version: 1, language, module, generatedAt: new Date().toISOString(), model: MODEL, voice: VOICE, words: entries,
+    version: 1, language, module, generatedAt: new Date().toISOString(), model: engine === 'robot' ? 'espeak-ng' : MODEL,
+    voice: engine === 'robot' ? `${robot.voice} speed ${robot.speed} pitch ${robot.pitch}` : VOICE,
+    engine, library, words: entries,
   };
   writeFileSync(join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
   const ok = entries.filter((e) => e.auto.ok).length;
-  console.log(`\n${ok}/${entries.length} words split cleanly. Manifest: ${join(outDir, 'manifest.json')}`);
-  console.log('Next: npm run syllables:upload -- ' + target);
+  console.log(`\n${ok}/${entries.length} words ${engine === 'robot' ? 'voiced' : 'split cleanly'}. Manifest: ${join(outDir, 'manifest.json')}`);
+  console.log('Next: npm run syllables:upload -- ' + target + (library ? ` --library ${library}` : ''));
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
