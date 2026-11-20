@@ -1,6 +1,6 @@
 # Roadmap: syllable and build-up audio
 
-Status: `DECIDED` order of work, `LOOSE` dates. Written 2026-11-03.
+Status: **`SHELVED` 2026-11-20**: hyphen-TTS splitting gave too many bad clips. Words, syllables and build-ups move to non-neural TTS, see [brainstorm-non-neural-tts.md](brainstorm-non-neural-tts.md). The code stays in `AudioGeneration/src/syllables/` and the old clips stay in Firebase for comparison.
 
 ## The problem, measured
 Long words are taught backwards, Pimsleur-style: *στώ… ριστώ… χαριστώ… ευχαριστώ*. Greek Module 1 has **86 build-up words and 241 unique pieces**. Today every piece is sent to TTS on its own, which can misread short pieces, put the stress in the wrong place, or sound unlike the whole word.

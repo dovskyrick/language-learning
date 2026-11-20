@@ -1,6 +1,6 @@
 # PLAN — Jim (open audio language lessons)
 
-_Last updated: 2026-11-03 · Stage: loose planning. Development starts within ~1 week._
+_Last updated: 2026-11-20 · Stage: loose planning. Development starts within ~1 week._
 
 ## Vision
 A free, open-source Android app that teaches languages through Pimsleur-*style* audio lessons (the method, never their content). Lessons are written by LLMs and voiced by text-to-speech (TTS). Free for everyone, funded by donations and an optional paid tier.
@@ -42,6 +42,8 @@ Options:
 - Custom lessons: build them on the server on demand (option A), so there is still only one player code path.
 
 ## Next steps
+**2026-11-20:** Hyphen-TTS syllable cutting is `SHELVED` (too many bad clips). `LOOSE`: eSpeak NG robot voice for words and syllables, rendered on PC first. See `audio/brainstorm-non-neural-tts.md`.
+
 **2026-11-03:** Greek Module 1 (30 lessons) written and approved by you; lessons 1, 10 and 30 are queued for audio. Syllable build-up audio: `DECIDED` order Plan A (hyphen TTS + silence-midpoint split) → B (auto cuts on whole words) → C (Komma editor, February). See `audio/SUMMARY-120W.md`.
 
 **2026-10-28:** lesson generator groundwork is built (`AudioGeneration/curriculum/`). Next: a Haiku session follows `curriculum/RUNBOOK.md` to plan and write Greek Module 1. Back office phases are in `roadmap-back-office.md`.
