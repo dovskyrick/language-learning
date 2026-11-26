@@ -1,0 +1,23 @@
+# company/
+
+How the project is planned and decided over time, kept separate from the code.
+
+| File | Purpose |
+|---|---|
+| `underthetable_PLAN.md` | Living plan: vision, decisions, open questions, next steps. **Start here.** |
+| `70W-PLAN.md` | Same plan, every subtopic in about 70 words. Fastest skim. |
+| `audio/` | Everything about turning scripts into audio. Start with `audio/SUMMARY-120W.md`. |
+| `subplan-data-distribution.md` | Audio on Cloudflare R2, user data on Firebase: steps for you, tests, then building. |
+| `subplan-lesson-text-generation.md` | How lesson scripts get written: legal clean-room route, method prompt, checks. |
+| `mvp-lesson-generator.md` | MVP spec: 30 original Greek Module 1 scripts, creativity dial, data files. |
+| `roadmap-back-office.md` | Phases for humans supervising, editing and approving lessons. |
+| `../BackOffice/README.md` | Admin app to rate the syllable library; setup steps. |
+| `product/` | **Next:** user courses from RemNote decks: brainstorm, architecture, roadmap. Start with `product/brainstorm-user-courses.md`. |
+| `music/` | Hook Songs: vocab-as-hook electronic tracks. Start with `music/brainstorm-HIL-50W.md`. |
+| `legal-checklist.md` | Legal points to keep checking as we build. |
+
+**Rules for humans and AI agents**
+- Read `underthetable_PLAN.md` before starting any planning or development session.
+- Every decision gets a status: `LOOSE` (direction we lean towards), `DECIDED` (committed) or `DROPPED` (with a one-line reason).
+- Keep it short. One line per idea. Put details in a new file and link to it.
+- Update the date at the top of `underthetable_PLAN.md` whenever you change it.

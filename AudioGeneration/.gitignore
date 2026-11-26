@@ -39,3 +39,9 @@ Icon?
 *.swp
 *.swo
 
+
+# Curriculum briefs (regenerated on demand)
+curriculum/**/briefs/
+
+# User vocab decks (private)
+decks/
