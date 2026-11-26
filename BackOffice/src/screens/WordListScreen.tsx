@@ -3,11 +3,11 @@ import { FlatList, RefreshControl, Text, TouchableOpacity, View } from 'react-na
 import { reviewId } from '../firebase';
 import { C, S } from '../theme';
 import { Lib, LIBRARIES } from '../config';
-import { ClipKind, kindLabel, Review, SyllableManifest, WordEntry } from '../types';
+import { ClipKind, KIND_LABEL, Review, SyllableManifest, WordEntry } from '../types';
 
-type Filter = 'all' | 'todo' | 'bad' | 'failed';
-const FILTERS: [Filter, string][] = [['all', 'All'], ['todo', 'To rate'], ['bad', 'Has bad'], ['failed', 'Split failed']];
-const COMPARE: ClipKind[] = ['whole', 'syllable', 'piece-a1', 'piece-a2', 'piece-tts'];
+type Filter = 'all' | 'todo' | 'bad';
+const FILTERS: [Filter, string][] = [['all', 'All'], ['todo', 'To rate'], ['bad', 'Has bad']];
+const COMPARE: ClipKind[] = ['whole', 'syllable', 'piece-tts'];
 
 interface Props {
   lib: Lib;
@@ -25,12 +25,11 @@ export default function WordListScreen({ lib, onSwitch, manifest, reviews, refre
   const [filter, setFilter] = useState<Filter>('all');
   const { language, module } = manifest;
   const rev = (w: WordEntry, key: string) => reviews.get(reviewId({ language, module, library: lib.library, wordId: w.id, clipKey: key }));
-  const robot = manifest.engine === 'robot';
 
   // Which piece method sounds best so far: good / rated, per kind.
   const kinds = COMPARE.filter((k) => manifest.words.some((w) => w.clips.some((c) => c.kind === k)));
   const score = useMemo(() => kinds.map((kind) => {
-    const label = kindLabel(kind, manifest.engine);
+    const label = KIND_LABEL[kind];
     let rated = 0, good = 0, bad = 0;
     for (const w of manifest.words) for (const c of w.clips) {
       if (c.kind !== kind) continue;
@@ -47,7 +46,7 @@ export default function WordListScreen({ lib, onSwitch, manifest, reviews, refre
     const bad = w.clips.filter((c) => rev(w, c.key)?.rating === 'bad').length;
     return { w, index, rated, bad };
   }).filter(({ w, rated, bad }) =>
-    filter === 'all' || (filter === 'todo' && rated < w.clips.length) || (filter === 'bad' && bad > 0) || (filter === 'failed' && !w.auto.ok));
+    filter === 'all' || (filter === 'todo' && rated < w.clips.length) || (filter === 'bad' && bad > 0));
 
   return (
     <View style={S.screen}>
@@ -66,16 +65,16 @@ export default function WordListScreen({ lib, onSwitch, manifest, reviews, refre
               {manifest.words.length} words · {reviews.size}/{totalClips} clips rated · {manifest.model}/{manifest.voice} · {email}
             </Text>
 
-            <View style={[S.row, { flexWrap: 'wrap', marginTop: 10 }]}>
+            {LIBRARIES.length > 1 && <View style={[S.row, { flexWrap: 'wrap', marginTop: 10 }]}>
               {LIBRARIES.map((l) => (
                 <TouchableOpacity key={l.id} onPress={() => onSwitch(l)}
                   style={[S.chip, l.id === lib.id && { backgroundColor: C.text, borderColor: C.text }]}>
                   <Text style={{ color: l.id === lib.id ? C.bg : C.text }}>{l.title}</Text>
                 </TouchableOpacity>
               ))}
-            </View>
+            </View>}
 
-            <Text style={S.h2}>{robot ? 'How good is the robot?' : 'Which piece style wins?'}</Text>
+            <Text style={S.h2}>How good is the robot?</Text>
             <View style={S.card}>
               {score.map((s) => (
                 <View key={s.label} style={[S.row, { justifyContent: 'space-between', paddingVertical: 3 }]}>
@@ -88,7 +87,7 @@ export default function WordListScreen({ lib, onSwitch, manifest, reviews, refre
             </View>
 
             <View style={[S.row, { flexWrap: 'wrap', marginTop: 8 }]}>
-              {FILTERS.filter(([f]) => !(robot && f === 'failed')).map(([f, label]) => (
+              {FILTERS.map(([f, label]) => (
                 <TouchableOpacity key={f} onPress={() => setFilter(f)}
                   style={[S.chip, filter === f && { backgroundColor: C.accent, borderColor: C.accent }]}>
                   <Text style={{ color: filter === f ? '#06121f' : C.text }}>{label}</Text>
@@ -101,7 +100,6 @@ export default function WordListScreen({ lib, onSwitch, manifest, reviews, refre
           <TouchableOpacity style={S.card} onPress={() => onOpen(index)}>
             <View style={[S.row, { justifyContent: 'space-between' }]}>
               <Text style={[S.text, { fontSize: 18, fontWeight: '600' }]}>{w.word}</Text>
-              {!robot && <Text style={{ color: w.auto.ok ? C.good : C.bad, fontSize: 12 }}>{w.auto.ok ? `split ✓ ${w.variant}` : 'split ✗'}</Text>}
             </View>
             <Text style={S.dim}>{w.syllables.join(' · ')}  —  {w.meaning}</Text>
             <Text style={[S.dim, { marginTop: 4 }]}>

@@ -16,7 +16,6 @@
     "repair-vocab": "tsx src/vocab-repair.ts",
     "curriculum": "tsx src/curriculum/cli.ts",
     "test:curriculum": "tsx --test src/curriculum/curriculum.test.ts src/syllables/syllables.test.ts",
-    "syllable-test": "tsx src/syllable-test.ts",
     "syllables": "tsx src/syllables/build.ts",
     "syllables:upload": "tsx src/syllables/upload.ts",
     "syllables:reviews": "tsx src/syllables/pull-reviews.ts",

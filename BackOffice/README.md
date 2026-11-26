@@ -19,11 +19,8 @@ Android app for admins: listen to the syllable library and rate each clip (✓ g
 ## Each time you make new audio
 ```bash
 cd AudioGeneration
-npm run syllables -- greek/module1 --engine robot  # robot voice (eSpeak NG): free, offline, ~20 s
-npm run syllables:upload -- greek/module1 --library robot
-# shelved OpenAI library:
-npm run syllables -- greek/module1            # Plan A: "Word. syl-la-bles. Word." in one request, split at silences (~$0.15)
-npm run syllables:upload -- greek/module1     # to Storage syllable-audio/greek/module1/
+npm run syllables -- greek/module1            # robot voice (eSpeak NG): free, offline, ~20 s
+npm run syllables:upload -- greek/module1     # to Storage syllable-audio/greek/module1/robot/
 # …rate in the app…
 npm run syllables:reviews -- greek/module1    # → curriculum/greek/module1/syllable-reviews.json
 ```
@@ -33,8 +30,8 @@ npm run syllables:reviews -- greek/module1    # → curriculum/greek/module1/syl
 Every push that touches `BackOffice/` runs **Actions → BackOffice APK**. Open the run, download **jim-backoffice-apk** under *Artifacts*, unzip it, and install the `.apk` on your phone (allow installs from your browser or file manager). You can also run it by hand: **Actions → BackOffice APK → Run workflow**.
 
 ## What you see
-- **Library switch** at the top of the list: *Robot* (eSpeak) or *OpenAI (shelved)*. Ratings are kept separately per library.
-- **Word list:** each build-up word with its syllables, whether the automatic split worked, and how many clips you have rated. Filters: *To rate*, *Has bad*, *Split failed*. At the top, a scoreboard compares the three piece styles (A1 gaps kept, A2 gaps tight, Plan 0 TTS alone), which answers which style the lessons should use.
-- **Word:** "▶ build-up" buttons play the pieces shortest-first and then the whole word, as a lesson would. Below that is every clip: whole word, hyphen take, each piece in all three styles, and each syllable. Each has a play button and ✓ ~ ✗ buttons; ~ or ✗ opens tags and a note.
+- **Word list:** each build-up word with its syllables and how many clips you have rated. Filters: *To rate*, *Has bad*. At the top, a scoreboard shows how good the robot is per clip type (whole word, syllable, piece).
+- **Word:** "▶ Build-up" plays the pieces shortest-first and then the whole word, as a lesson would. Below that is every clip: whole word, each piece, and each syllable. Each has a play button and ✓ ~ ✗ buttons; ~ or ✗ opens tags and a note.
+- The old OpenAI one-word / one-syllable library was dropped (short TTS clips came out garbled). A library switch appears again if `src/config.ts` lists more than one library.
 
 Develop locally with `npm install && npx expo run:android` (needs Android Studio), or rely on the CI build.

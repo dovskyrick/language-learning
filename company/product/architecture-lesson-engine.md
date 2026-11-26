@@ -4,7 +4,7 @@ Written 2026-11-20. Status: `LOOSE` until phase P0 passes. Context: [brainstorm-
 
 ## Reused as-is
 - `AudioGeneration/src/curriculum/`: module/items/lesson JSON, scheduler, brief, checker, renderer. The lesson JSON stays the source of truth.
-- `AudioGeneration/src/syllables/`: syllabifier, robot voice (`robot.ts`), PCM tools (`audio-io.ts`, `splitter.ts` fade/trim).
+- `AudioGeneration/src/syllables/`: syllabifier, robot voice (`robot.ts`), PCM tools (`audio-io.ts` decode/encode/trim).
 - BackOffice app: gains a "Lessons" library next to the syllable libraries.
 - Firebase: Auth, Firestore, Storage, and the signed-URL Cloud Function for the player.
 

@@ -111,7 +111,7 @@ export async function fetchManifest(lib: Lib): Promise<SyllableManifest> {
 // ---------- Firestore ----------
 
 const DOCS = `https://firestore.googleapis.com/v1/projects/${FIREBASE.projectId}/databases/(default)/documents`;
-/** Old OpenAI-library ids have no library part, so existing ratings keep working. */
+/** Review document id: language_module_library_word_clip. */
 export const reviewId = (r: Pick<Review, 'language' | 'module' | 'library' | 'wordId' | 'clipKey'>) =>
   [r.language, r.module, r.library, r.wordId, r.clipKey].filter(Boolean).join('_').replace(/[^A-Za-z0-9_-]/g, '-');
 

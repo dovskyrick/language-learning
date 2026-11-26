@@ -10,12 +10,11 @@ export const FIREBASE = {
 
 /**
  * Syllable libraries you can open (after `npm run syllables:upload`).
- * library '' = original OpenAI clips (shelved), 'robot' = eSpeak NG.
+ * 'robot' = eSpeak NG. The switch in the word list shows when there is more than one.
  */
 export interface Lib { id: string; title: string; language: string; module: string; library: string }
 export const LIBRARIES: Lib[] = [
   { id: 'greek-module1-robot', title: 'Robot', language: 'greek', module: 'module1', library: 'robot' },
-  { id: 'greek-module1', title: 'OpenAI (shelved)', language: 'greek', module: 'module1', library: '' },
 ];
 
 export const storagePrefix = (lib: Lib) => ['syllable-audio', lib.language, lib.module, lib.library].filter(Boolean).join('/');

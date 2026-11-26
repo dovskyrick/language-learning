@@ -4,7 +4,7 @@ import { clipSource, currentEmail, reviewId } from '../firebase';
 import { play, playSequence, stop } from '../player';
 import { C, RATING_COLOR, S } from '../theme';
 import { Lib } from '../config';
-import { Clip, ClipKind, kindLabel, Rating, Review, SyllableManifest, TAGS } from '../types';
+import { Clip, ClipKind, KIND_LABEL, Rating, Review, SyllableManifest, TAGS } from '../types';
 
 interface Props {
   lib: Lib;
@@ -20,14 +20,12 @@ export default function WordScreen({ lib, manifest, index, reviews, onSave, onGo
   const w = manifest.words[index];
   const { language, module } = manifest;
   const library = lib.library;
-  const label = (k: ClipKind) => kindLabel(k, manifest.engine);
   const [playing, setPlaying] = useState<string | null>(null);
   const [error, setError] = useState('');
 
   useEffect(() => () => { stop(); }, [index]);
 
   const byKind = (k: ClipKind) => w.clips.filter((c) => c.kind === k);
-  const pieceKeys = [...new Set(w.clips.filter((c) => c.kind.startsWith('piece')).map((c) => c.key.split('-').slice(0, -1).join('-')))];
 
   async function run(keys: string[], clips: Clip[]) {
     setError('');
@@ -39,8 +37,8 @@ export default function WordScreen({ lib, manifest, index, reviews, onSave, onGo
   const playClip = (c: Clip) => run([c.key], [c]);
 
   /** Lesson-style build-up: pieces shortest first, then the whole word. */
-  function buildUp(kind: ClipKind) {
-    const clips = [...byKind(kind).sort((a, b) => a.text.length - b.text.length), ...w.clips.filter((c) => c.key === 'whole')];
+  function buildUp() {
+    const clips = [...byKind('piece-tts').sort((a, b) => a.text.length - b.text.length), ...byKind('whole')];
     if (clips.length > 1) run(clips.map((c) => c.key), clips);
   }
 
@@ -58,7 +56,7 @@ export default function WordScreen({ lib, manifest, index, reviews, onSave, onGo
       <Text style={S.h2}>{title}</Text>
       {clips.map((c) => (
         <ClipRow key={c.key} clip={c} playing={playing === c.key} onPlay={() => playClip(c)} onRate={(p) => rate(c, p)}
-          label={label(c.kind)} review={reviews.get(reviewId({ language, module, library, wordId: w.id, clipKey: c.key }))} />
+          label={KIND_LABEL[c.kind]} review={reviews.get(reviewId({ language, module, library, wordId: w.id, clipKey: c.key }))} />
       ))}
     </View>
   ) : null;
@@ -69,26 +67,25 @@ export default function WordScreen({ lib, manifest, index, reviews, onSave, onGo
         <TouchableOpacity onPress={onBack}><Text style={{ color: C.accent, marginBottom: 10 }}>‹ All words</Text></TouchableOpacity>
         <Text style={[S.h1, { fontSize: 28 }]}>{w.word}</Text>
         <Text style={S.text}>{w.syllables.join(' · ')}   <Text style={S.dim}>{w.meaning}</Text></Text>
-        <Text style={[S.dim, { marginTop: 4, color: w.auto.ok ? C.good : C.bad }]}>
-          {manifest.engine === 'robot' ? `Robot voice: ${w.variant}` : w.auto.ok ? `Split cleanly with "${w.variant}"` : `Split failed: ${w.auto.reason}. Only Plan 0 pieces available.`}
+        <Text style={[S.dim, { marginTop: 4 }]}>
+          Robot voice: {w.variant}
           {w.expectedSyllables ? `  ·  items.json says ${w.expectedSyllables} syllables` : ''}
         </Text>
         {!!error && <Text style={{ color: C.bad, marginTop: 8 }}>{error}</Text>}
 
         <Text style={S.h2}>Hear the build-up like in a lesson</Text>
         <View style={[S.row, { flexWrap: 'wrap' }]}>
-          {(['piece-a1', 'piece-a2', 'piece-tts'] as ClipKind[]).filter((k) => byKind(k).length).map((k) => (
-            <TouchableOpacity key={k} style={[S.btn, { marginRight: 8, marginBottom: 8, paddingVertical: 10 }]} onPress={() => buildUp(k)}>
-              <Text style={S.btnText}>▶ {label(k)}</Text>
+          {byKind('piece-tts').length > 0 && (
+            <TouchableOpacity style={[S.btn, { marginRight: 8, marginBottom: 8, paddingVertical: 10 }]} onPress={buildUp}>
+              <Text style={S.btnText}>▶ Build-up</Text>
             </TouchableOpacity>
-          ))}
+          )}
           {playing && <TouchableOpacity style={[S.btn, { backgroundColor: C.line, marginBottom: 8 }]} onPress={() => { stop(); setPlaying(null); }}>
             <Text style={[S.btnText, { color: C.text }]}>■ Stop</Text></TouchableOpacity>}
         </View>
 
-        {section(byKind('take').length ? 'Whole word and hyphen take' : 'Whole word', [...byKind('whole'), ...byKind('take')])}
-        {pieceKeys.map((pk) => section(`Piece: ${w.clips.find((c) => c.key.startsWith(pk + '-'))?.text}`,
-          w.clips.filter((c) => c.kind.startsWith('piece') && c.key.startsWith(pk + '-'))))}
+        {section('Whole word', byKind('whole'))}
+        {section('Build-up pieces', byKind('piece-tts').sort((a, b) => a.text.length - b.text.length))}
         {section('Syllables', byKind('syllable'))}
       </ScrollView>
 

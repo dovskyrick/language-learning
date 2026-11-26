@@ -1,17 +1,16 @@
 /**
  * Upload the syllable library to Firebase Storage (admin-only folder).
- *   npm run syllables:upload -- greek/module1                  (OpenAI library)
- *   npm run syllables:upload -- greek/module1 --library robot  (robot voice library)
+ *   npm run syllables:upload -- greek/module1 --library robot
  */
 import { existsSync, readdirSync, statSync } from 'fs';
 import { join, relative, resolve } from 'path';
 import { initAdmin, storagePrefix } from './firebase-admin.js';
 
 const target = process.argv[2];
-if (!target) { console.error('Usage: npm run syllables:upload -- <language>/<module>'); process.exit(1); }
+if (!target) { console.error('Usage: npm run syllables:upload -- <language>/<module> [--library robot]'); process.exit(1); }
 const [language, module] = target.split('/');
 const li = process.argv.indexOf('--library');
-const library = li > 0 ? process.argv[li + 1] : '';
+const library = li > 0 ? process.argv[li + 1] : 'robot';
 const dir = resolve('output', 'syllables', language, module, library);
 const prefix = [storagePrefix(language, module), library].filter(Boolean).join('/');
 

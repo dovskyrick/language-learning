@@ -1,5 +1,5 @@
 /** Mirror of AudioGeneration/src/syllables/manifest.ts. Keep in sync. */
-export type ClipKind = 'whole' | 'take' | 'syllable' | 'piece-a1' | 'piece-a2' | 'piece-tts';
+export type ClipKind = 'whole' | 'syllable' | 'piece-tts';
 
 export interface Clip {
   key: string;
@@ -37,7 +37,7 @@ export type Rating = 'good' | 'ok' | 'bad';
 export interface Review {
   language: string;
   module: string;
-  library?: string; // missing on old reviews = '' (OpenAI library)
+  library?: string;
   wordId: string;
   clipKey: string;
   kind: ClipKind;
@@ -51,14 +51,8 @@ export interface Review {
 
 export const TAGS = ['wrong sound', 'wrong stress', 'cut early', 'cut late', 'choppy', 'noise', 'robotic', 'spelled out'];
 
-export const kindLabel = (kind: ClipKind, engine?: string) =>
-  engine === 'robot' && kind === 'piece-tts' ? 'Robot piece' : KIND_LABEL[kind];
-
 export const KIND_LABEL: Record<ClipKind, string> = {
   whole: 'Whole word',
-  take: 'Hyphen take',
   syllable: 'Syllable',
-  'piece-a1': 'A1 · gaps kept',
-  'piece-a2': 'A2 · gaps tight',
-  'piece-tts': 'Plan 0 · TTS alone',
+  'piece-tts': 'Robot piece',
 };

@@ -1,6 +1,6 @@
 # Roadmap: syllable and build-up audio
 
-Status: **`SHELVED` 2026-11-20**: hyphen-TTS splitting gave too many bad clips. Words, syllables and build-ups move to non-neural TTS, see [brainstorm-non-neural-tts.md](brainstorm-non-neural-tts.md). The code stays in `AudioGeneration/src/syllables/` and the old clips stay in Firebase for comparison.
+Status: **`SHELVED` 2026-11-20**: hyphen-TTS splitting gave too many bad clips. Words, syllables and build-ups move to non-neural TTS, see [brainstorm-non-neural-tts.md](brainstorm-non-neural-tts.md). **Removed 2026-11-26:** the OpenAI syllable/word code (`splitter.ts`, `syllable-test.ts`, the OpenAI half of `build.ts`) and its BackOffice view were deleted; recover them from git history (commit `7e362c3` or earlier) if ever needed. Full phrases still use OpenAI TTS.
 
 ## The problem, measured
 Long words are taught backwards, Pimsleur-style: *στώ… ριστώ… χαριστώ… ευχαριστώ*. Greek Module 1 has **86 build-up words and 241 unique pieces**. Today every piece is sent to TTS on its own, which can misread short pieces, put the stress in the wrong place, or sound unlike the whole word.

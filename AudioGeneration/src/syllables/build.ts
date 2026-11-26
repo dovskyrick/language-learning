@@ -1,62 +1,37 @@
 /**
- * Build the syllable library for a module with Plan A
- * (hyphenated TTS, cut in the middle of each silence).
- *
- * TTS is never sent a lone word: short inputs come back silent or garbled.
- *  - Word + syllables are one request, framed by the whole word so the language
- *    is clear: "Ευχαριστώ. ευ-χα-ρι-στώ. Ευχαριστώ." The last copy becomes
- *    the whole-word clip; the middle is split into syllables.
- *  - Build-up pieces voiced alone (Plan 0) are sent three times: "ρα. ρα. ρα."
- *    and the middle copy is kept.
+ * Build the robot-voice syllable library for a module with eSpeak NG
+ * (offline, free). Every clip is said directly, nothing is cut.
  *
  *   npm run syllables -- greek/module1 [--dry-run] [--only i006,i017] [--limit 5]
- *   npm run syllables -- greek/module1 --engine robot [--voice el] [--speed 140] [--pitch 50]
+ *                        [--voice el] [--speed 140] [--pitch 50] [--library robot]
  *
- * --engine robot uses eSpeak NG (offline, free, no cutting) and writes to the
- * "robot" library: output/syllables/<language>/<module>/robot/
+ * Output: output/syllables/<language>/<module>/robot/{manifest.json,<id>/*.mp3}
  *
- * Output: output/syllables/<language>/<module>/{manifest.json,<id>/*.mp3}
- * TTS takes are cached in _raw/, so re-running costs nothing.
+ * The old OpenAI version (one-word and one-syllable TTS clips) was dropped:
+ * short TTS inputs came back silent or garbled. It is in git history before
+ * the "Remove syllable LLM TTS" commit. Full phrases still use OpenAI TTS.
  */
-import 'dotenv/config';
-import OpenAI from 'openai';
-import { createHash } from 'crypto';
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'fs';
+import { mkdirSync, readdirSync, readFileSync, writeFileSync } from 'fs';
 import { join, resolve } from 'path';
 import { Item, Lesson } from '../curriculum/types.js';
-import { decode, encodeMp3, SAMPLE_RATE } from './audio-io.js';
+import { encodeMp3, SAMPLE_RATE, trim } from './audio-io.js';
 import { Clip, SyllableManifest, WordEntry } from './manifest.js';
-import { analyze, fade, split, splitFrame, tighten } from './splitter.js';
 import { plain, syllabify } from './syllabify.js';
 import { checkEspeak, robotSay, RobotVoice } from './robot.js';
 
 const ms = (pcm: Float32Array) => Math.round((pcm.length / SAMPLE_RATE) * 1000);
-const PAD = Math.round(0.05 * SAMPLE_RATE);
-
-const MODEL = process.env.TTS_MODEL || 'tts-1';
-const VOICE = process.env.TTS_VOICE || 'alloy';
-
-const VARIANTS = [
-  { name: 'hyphen', make: (s: string[]) => s.join('-'), speed: 1 },
-  { name: 'hyphen-slow', make: (s: string[]) => s.join('-'), speed: 0.85 },
-  { name: 'spaced-hyphen', make: (s: string[]) => s.join(' - '), speed: 1 },
-  { name: 'dots', make: (s: string[]) => s.join('... '), speed: 1 },
-];
 
 const args = process.argv.slice(2);
 const target = args.find((a) => !a.startsWith('--'));
 const flag = (n: string) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : undefined; };
 const dryRun = args.includes('--dry-run');
-const engine = (flag('--engine') ?? 'openai') as 'openai' | 'robot';
-if (!['openai', 'robot'].includes(engine)) { console.error('--engine must be openai or robot'); process.exit(1); }
 const robot: RobotVoice = { voice: flag('--voice') ?? 'el', speed: Number(flag('--speed') ?? 140), pitch: Number(flag('--pitch') ?? 50) };
-const library = engine === 'robot' ? (flag('--library') ?? 'robot') : '';
-if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--engine openai|robot] [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
+const library = flag('--library') ?? 'robot';
+if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
 const [language, module] = target.split('/');
 
 const curDir = resolve('curriculum', language, module);
 const outDir = resolve('output', 'syllables', language, module, library);
-const rawDir = join(outDir, '_raw');
 
 /** Build-up words and their pieces, read from the lessons themselves. */
 function buildUpWords(): { item: Item; pieces: string[] }[] {
@@ -81,134 +56,18 @@ function buildUpWords(): { item: Item; pieces: string[] }[] {
   return [...pieces].map(([id, set]) => ({ item: byId.get(id)!, pieces: [...set] }));
 }
 
-let client: OpenAI | null = null;
-const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
-
-/** One TTS request, cached in _raw/. Retries rate limits and server errors with backoff. */
-async function tts(text: string, speed: number): Promise<string> {
-  const hash = createHash('sha1').update(`${MODEL}|${VOICE}|${speed}|${text}`).digest('hex').slice(0, 16);
-  const file = join(rawDir, `${hash}.mp3`);
-  if (existsSync(file)) return file;
-  client ??= new OpenAI({ maxRetries: 0 });
-  for (let attempt = 0; ; attempt++) {
-    try {
-      const res = await client.audio.speech.create({ model: MODEL, voice: VOICE as 'alloy', input: text, speed });
-      writeFileSync(file, Buffer.from(await res.arrayBuffer()));
-      await sleep(500); // be polite: no bursts
-      return file;
-    } catch (e) {
-      const status = (e as { status?: number }).status ?? 0;
-      if (attempt >= 5 || (status && status !== 429 && status < 500)) throw e;
-      const wait = 2000 * 2 ** attempt;
-      console.log(`  ⏳ TTS error ${status || 'network'}, retrying in ${wait / 1000}s`);
-      await sleep(wait);
-    }
-  }
-}
-
-const OPTS = { sampleRate: SAMPLE_RATE };
-
-/** Cut silence around a region, keeping a short pad, with fades. */
-function trimmed(pcm: Float32Array): Float32Array {
-  const { speech } = analyze(pcm, OPTS);
-  if (!speech) return pcm;
-  return fade(pcm.slice(Math.max(0, speech.start - PAD), Math.min(pcm.length, speech.end + PAD)), SAMPLE_RATE);
-}
-
-/** Voice a short text three times and keep the middle copy; falls back to a single request. */
-async function voiceShort(text: string): Promise<Float32Array> {
-  const full = decode(await tts(`${text}. ${text}. ${text}.`, 1));
-  const f = splitFrame(full, 0, OPTS);
-  if (f.ok) return trimmed(full.slice(f.middle.start, f.middle.end));
-  return trimmed(decode(await tts(text, 1)));
-}
-
-
-async function buildWord(item: Item, pieces: string[]): Promise<WordEntry> {
-  const syl = syllabify(item.target);
-  const dir = join(outDir, item.id);
-  mkdirSync(dir, { recursive: true });
-  const clips: Clip[] = [];
-  const save = (key: string, kind: Clip['kind'], text: string, pcm: Float32Array) => {
-    encodeMp3(pcm, join(dir, `${key}.mp3`));
-    clips.push({ key, kind, text, path: `${item.id}/${key}.mp3`, ms: ms(pcm) });
-  };
-
-  // One framed request per variant: "Word. syl-la-bles. Word."
-  const word = item.target.replace(/[.;!?]+$/, '');
-  type Take = { name: string; text: string; pcm: Float32Array; r: ReturnType<typeof split>; first?: Float32Array; lastCopy?: Float32Array };
-  let chosen: Take | null = null;
-  let last: Take | null = null;
-  for (const v of VARIANTS) {
-    const text = `${word}. ${v.make(syl)}. ${word}.`;
-    const full = decode(await tts(text, v.speed));
-    const f = splitFrame(full, syl.length - 1, OPTS);
-    if (!f.ok) {
-      last = { name: v.name, text, pcm: full, r: { ok: false, reason: `frame: ${f.reason}`, speech: { start: 0, end: full.length }, cuts: [], silences: [] } };
-      continue;
-    }
-    const mid = full.slice(f.middle.start, f.middle.end);
-    const take: Take = {
-      name: v.name, text, pcm: mid, r: split(mid, syl.length, OPTS),
-      first: trimmed(full.slice(f.left.start, f.left.end)), lastCopy: trimmed(full.slice(f.right.start, f.right.end)),
-    };
-    last = take;
-    if (take.r.ok) { chosen = take; break; }
-  }
-  const use: Take = chosen ?? last!;
-  const { pcm, r } = use;
-
-  // Whole word: the last copy of the frame (natural falling end); the first copy kept to compare.
-  if (use.lastCopy && use.first) {
-    save('whole', 'whole', item.target, use.lastCopy);
-    save('whole-first', 'whole', item.target, use.first);
-  } else {
-    save('whole', 'whole', item.target, await voiceShort(word));
-  }
-
-  const start = Math.max(0, r.speech.start - PAD);
-  const end = Math.min(pcm.length, r.speech.end + PAD);
-  save('take', 'take', use.text, pcm.slice(start, end));
-
-  // Pieces: how many syllables from the end each one covers.
-  const sorted = [...pieces].sort((a, b) => plain(a).length - plain(b).length);
-  for (const piece of sorted) {
-    let k = 0;
-    for (let n = 1; n < syl.length; n++) if (plain(syl.slice(syl.length - n).join('')) === plain(piece)) k = n;
-    const key = k ? `p${k}` : `p-${plain(piece)}`;
-    save(`${key}-tts`, 'piece-tts', piece, await voiceShort(piece));
-    if (!chosen || !k) continue;
-    const from = r.cuts[syl.length - 1 - k];
-    save(`${key}-a1`, 'piece-a1', piece, fade(pcm.slice(from, end), SAMPLE_RATE));
-    save(`${key}-a2`, 'piece-a2', piece, fade(tighten(pcm, from, end, r.silences, SAMPLE_RATE), SAMPLE_RATE));
-  }
-  if (chosen) {
-    const bounds = [start, ...r.cuts, end];
-    syl.forEach((s, i) => save(`s${i + 1}`, 'syllable', s, fade(pcm.slice(bounds[i], bounds[i + 1]), SAMPLE_RATE)));
-  }
-
-  const entry: WordEntry = {
-    id: item.id, word: item.target, meaning: item.meaning, syllables: syl,
-    variant: chosen?.name ?? null,
-    auto: chosen ? { ok: true } : { ok: false, reason: r.reason },
-    clips,
-  };
-  if (item.syllables && item.syllables !== syl.length) entry.expectedSyllables = item.syllables;
-  return entry;
-}
-
-/** Robot library: every clip is said directly by eSpeak, nothing is cut. */
-function buildWordRobot(item: Item, pieces: string[]): WordEntry {
+function buildWord(item: Item, pieces: string[]): WordEntry {
   const syl = syllabify(item.target);
   const dir = join(outDir, item.id);
   mkdirSync(dir, { recursive: true });
   const clips: Clip[] = [];
   const save = (key: string, kind: Clip['kind'], text: string) => {
-    const pcm = trimmed(robotSay(text, robot));
+    const pcm = trim(robotSay(text, robot));
     encodeMp3(pcm, join(dir, `${key}.mp3`));
     clips.push({ key, kind, text, path: `${item.id}/${key}.mp3`, ms: ms(pcm) });
   };
   save('whole', 'whole', item.target.replace(/[.;!?]+$/, ''));
+  // Pieces: key says how many syllables from the end each one covers.
   for (const piece of [...pieces].sort((a, b) => plain(a).length - plain(b).length)) {
     let k = 0;
     for (let n = 1; n < syl.length; n++) if (plain(syl.slice(syl.length - n).join('')) === plain(piece)) k = n;
@@ -223,7 +82,7 @@ function buildWordRobot(item: Item, pieces: string[]): WordEntry {
   return entry;
 }
 
-async function main() {
+function main() {
   let words = buildUpWords();
   const only = flag('--only')?.split(',');
   if (only) words = words.filter((w) => only.includes(w.item.id));
@@ -239,25 +98,20 @@ async function main() {
     console.log(`\n${words.length} words. Nothing generated (dry run).`);
     return;
   }
-  if (engine === 'openai' && !process.env.OPENAI_API_KEY) throw new Error('Set OPENAI_API_KEY in .env');
-  if (engine === 'robot') checkEspeak(robot.voice);
-  if (engine === 'openai') mkdirSync(rawDir, { recursive: true });
+  checkEspeak(robot.voice);
 
-  const entries: WordEntry[] = [];
-  for (const { item, pieces } of words) {
-    const e = engine === 'robot' ? buildWordRobot(item, pieces) : await buildWord(item, pieces);
-    entries.push(e);
-    console.log(`${e.auto.ok ? '✓' : '✗'} ${item.id} ${e.syllables.join('-')}  ${e.variant ?? e.auto.reason}`);
-  }
+  const entries = words.map(({ item, pieces }) => {
+    const e = buildWord(item, pieces);
+    console.log(`✓ ${item.id} ${e.syllables.join('-')}`);
+    return e;
+  });
   const manifest: SyllableManifest = {
-    version: 1, language, module, generatedAt: new Date().toISOString(), model: engine === 'robot' ? 'espeak-ng' : MODEL,
-    voice: engine === 'robot' ? `${robot.voice} speed ${robot.speed} pitch ${robot.pitch}` : VOICE,
-    engine, library, words: entries,
+    version: 1, language, module, generatedAt: new Date().toISOString(), model: 'espeak-ng',
+    voice: `${robot.voice} speed ${robot.speed} pitch ${robot.pitch}`, engine: 'robot', library, words: entries,
   };
   writeFileSync(join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  const ok = entries.filter((e) => e.auto.ok).length;
-  console.log(`\n${ok}/${entries.length} words ${engine === 'robot' ? 'voiced' : 'split cleanly'}. Manifest: ${join(outDir, 'manifest.json')}`);
-  console.log('Next: npm run syllables:upload -- ' + target + (library ? ` --library ${library}` : ''));
+  console.log(`\n${entries.length} words voiced. Manifest: ${join(outDir, 'manifest.json')}`);
+  console.log(`Next: npm run syllables:upload -- ${target} --library ${library}`);
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+main();
