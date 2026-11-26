@@ -1,7 +1,7 @@
 /**
  * Robot voice: eSpeak NG (rule-based, offline, free). Says any word or syllable
  * the same way every time, so no cutting is needed.
- * Install once: sudo apt install espeak-ng   (optional demo voices: mbrola mbrola-gr2)
+ * Install once: sudo apt install espeak-ng   (second robot: sudo apt install mbrola mbrola-gr2)
  */
 import { spawnSync } from 'child_process';
 import { mkdtempSync, rmSync } from 'fs';

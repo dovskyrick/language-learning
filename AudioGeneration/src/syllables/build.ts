@@ -1,11 +1,14 @@
 /**
- * Build the robot-voice syllable library for a module with eSpeak NG
- * (offline, free). Every clip is said directly, nothing is cut.
+ * Build a robot-voice syllable library for a module (offline, free, no LLM).
+ * Every clip is said directly, nothing is cut. Two robots:
+ *   --robot espeak  (default) eSpeak NG formant voice   → library "robot"
+ *   --robot mbrola  eSpeak + MBROLA gr2 diphone voice   → library "robot-mbrola"
+ *                   (more human; MBROLA voice license is non-commercial)
  *
- *   npm run syllables -- greek/module1 [--dry-run] [--only i006,i017] [--limit 5]
+ *   npm run syllables -- greek/module1 [--robot espeak|mbrola] [--dry-run] [--only i006,i017] [--limit 5]
  *                        [--voice el] [--speed 140] [--pitch 50] [--library robot]
  *
- * Output: output/syllables/<language>/<module>/robot/{manifest.json,<id>/*.mp3}
+ * Output: output/syllables/<language>/<module>/<library>/{manifest.json,<id>/*.mp3}
  *
  * The old OpenAI version (one-word and one-syllable TTS clips) was dropped:
  * short TTS inputs came back silent or garbled. It is in git history before
@@ -22,12 +25,19 @@ import { checkEspeak, robotSay, RobotVoice } from './robot.js';
 const ms = (pcm: Float32Array) => Math.round((pcm.length / SAMPLE_RATE) * 1000);
 
 const args = process.argv.slice(2);
-const target = args.find((a) => !a.startsWith('--'));
+const VALUE_FLAGS = ['--robot', '--voice', '--speed', '--pitch', '--library', '--only', '--limit'];
+const target = args.find((a, i) => !a.startsWith('--') && !VALUE_FLAGS.includes(args[i - 1]));
 const flag = (n: string) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : undefined; };
 const dryRun = args.includes('--dry-run');
-const robot: RobotVoice = { voice: flag('--voice') ?? 'el', speed: Number(flag('--speed') ?? 140), pitch: Number(flag('--pitch') ?? 50) };
-const library = flag('--library') ?? 'robot';
-if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
+const PRESETS: Record<string, { voice: string; library: string }> = {
+  espeak: { voice: 'el', library: 'robot' },
+  mbrola: { voice: 'mb-gr2', library: 'robot-mbrola' },
+};
+const preset = PRESETS[flag('--robot') ?? 'espeak'];
+if (!preset) { console.error(`--robot must be one of: ${Object.keys(PRESETS).join(', ')}`); process.exit(1); }
+const robot: RobotVoice = { voice: flag('--voice') ?? preset.voice, speed: Number(flag('--speed') ?? 140), pitch: Number(flag('--pitch') ?? 50) };
+const library = flag('--library') ?? preset.library;
+if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--robot espeak|mbrola] [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
 const [language, module] = target.split('/');
 
 const curDir = resolve('curriculum', language, module);
@@ -106,7 +116,7 @@ function main() {
     return e;
   });
   const manifest: SyllableManifest = {
-    version: 1, language, module, generatedAt: new Date().toISOString(), model: 'espeak-ng',
+    version: 1, language, module, generatedAt: new Date().toISOString(), model: robot.voice.startsWith('mb-') ? 'espeak-ng + mbrola' : 'espeak-ng',
     voice: `${robot.voice} speed ${robot.speed} pitch ${robot.pitch}`, engine: 'robot', library, words: entries,
   };
   writeFileSync(join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
