@@ -1,12 +1,13 @@
 /**
  * Build a robot-voice syllable library for a module (offline, free, no LLM).
- * Every clip is said directly, nothing is cut. Two robots:
- *   --robot espeak  (default) eSpeak NG formant voice   → library "robot"
- *   --robot mbrola  eSpeak + MBROLA gr2 diphone voice   → library "robot-mbrola"
- *                   (more human; MBROLA voice license is non-commercial)
+ * Every clip is said directly, nothing is cut.
+ *   --robot mbrola  (default) eSpeak + MBROLA gr2 diphone voice → library "robot-mbrola"
+ *                   Chosen 2026-11-26. MBROLA voice license is non-commercial.
+ *   --robot espeak  FROZEN backup: eSpeak NG formant voice → library "robot".
+ *                   No longer shown in BackOffice; kept for cross-checks.
  *
- *   npm run syllables -- greek/module1 [--robot espeak|mbrola] [--dry-run] [--only i006,i017] [--limit 5]
- *                        [--voice el] [--speed 140] [--pitch 50] [--library robot]
+ *   npm run syllables -- greek/module1 [--robot mbrola|espeak] [--dry-run] [--only i006,i017] [--limit 5]
+ *                        [--voice mb-gr2] [--speed 140] [--pitch 50] [--library robot-mbrola]
  *
  * Output: output/syllables/<language>/<module>/<library>/{manifest.json,<id>/*.mp3}
  *
@@ -33,11 +34,11 @@ const PRESETS: Record<string, { voice: string; library: string }> = {
   espeak: { voice: 'el', library: 'robot' },
   mbrola: { voice: 'mb-gr2', library: 'robot-mbrola' },
 };
-const preset = PRESETS[flag('--robot') ?? 'espeak'];
+const preset = PRESETS[flag('--robot') ?? 'mbrola'];
 if (!preset) { console.error(`--robot must be one of: ${Object.keys(PRESETS).join(', ')}`); process.exit(1); }
 const robot: RobotVoice = { voice: flag('--voice') ?? preset.voice, speed: Number(flag('--speed') ?? 140), pitch: Number(flag('--pitch') ?? 50) };
 const library = flag('--library') ?? preset.library;
-if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--robot espeak|mbrola] [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
+if (!target) { console.error('Usage: npm run syllables -- <language>/<module> [--robot mbrola|espeak] [--dry-run] [--only ids] [--limit n]'); process.exit(1); }
 const [language, module] = target.split('/');
 
 const curDir = resolve('curriculum', language, module);

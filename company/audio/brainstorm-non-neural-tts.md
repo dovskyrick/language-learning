@@ -1,6 +1,6 @@
 # Brainstorm: non-neural "robot" TTS for Greek words and syllables
 
-Written 2026-11-20. Status: `LOOSE`, waiting for your ear test. Samples: `AudioGeneration/samples/non-neural-greek/`.
+Written 2026-11-20. **Decision 2026-11-26: MBROLA gr2 chosen; eSpeak frozen as backup.** Samples: `AudioGeneration/samples/non-neural-greek/`.
 
 **Verdict.** Yes, go non-neural for single words, syllables and build-ups. Neural TTS fails exactly on short inputs, and rule-based engines never do. They say every syllable the same way every time, for free, offline. Long sentences and English stay with OpenAI.
 

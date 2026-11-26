@@ -10,11 +10,11 @@ export const FIREBASE = {
 
 /**
  * Syllable libraries you can open (after `npm run syllables:upload`).
- * 'robot' = eSpeak NG, 'robot-mbrola' = MBROLA gr2. The switch in the word list shows when there is more than one.
+ * 'robot-mbrola' = MBROLA gr2 (chosen). The eSpeak library 'robot' is frozen and hidden;
+ * add it back here to compare. The switch in the word list shows when there is more than one.
  */
 export interface Lib { id: string; title: string; language: string; module: string; library: string }
 export const LIBRARIES: Lib[] = [
-  { id: 'greek-module1-robot', title: 'Robot · eSpeak', language: 'greek', module: 'module1', library: 'robot' },
   { id: 'greek-module1-robot-mbrola', title: 'Robot · MBROLA', language: 'greek', module: 'module1', library: 'robot-mbrola' },
 ];
 

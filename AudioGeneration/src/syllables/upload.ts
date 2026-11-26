@@ -1,16 +1,16 @@
 /**
  * Upload the syllable library to Firebase Storage (admin-only folder).
- *   npm run syllables:upload -- greek/module1 --library robot
+ *   npm run syllables:upload -- greek/module1   (default library robot-mbrola; --library robot for the frozen eSpeak one)
  */
 import { existsSync, readdirSync, statSync } from 'fs';
 import { join, relative, resolve } from 'path';
 import { initAdmin, storagePrefix } from './firebase-admin.js';
 
 const target = process.argv[2];
-if (!target) { console.error('Usage: npm run syllables:upload -- <language>/<module> [--library robot]'); process.exit(1); }
+if (!target) { console.error('Usage: npm run syllables:upload -- <language>/<module> [--library robot-mbrola]'); process.exit(1); }
 const [language, module] = target.split('/');
 const li = process.argv.indexOf('--library');
-const library = li > 0 ? process.argv[li + 1] : 'robot';
+const library = li > 0 ? process.argv[li + 1] : 'robot-mbrola';
 const dir = resolve('output', 'syllables', language, module, library);
 const prefix = [storagePrefix(language, module), library].filter(Boolean).join('/');
 

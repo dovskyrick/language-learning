@@ -19,10 +19,8 @@ Android app for admins: listen to the syllable library and rate each clip (✓ g
 ## Each time you make new audio
 ```bash
 cd AudioGeneration
-npm run syllables -- greek/module1                                # robot 1, eSpeak NG: free, offline, ~20 s
-npm run syllables:upload -- greek/module1                         # → syllable-audio/greek/module1/robot/
-npm run syllables:mbrola -- greek/module1                         # robot 2, MBROLA gr2 (needs: sudo apt install mbrola mbrola-gr2)
-npm run syllables:upload -- greek/module1 --library robot-mbrola  # → syllable-audio/greek/module1/robot-mbrola/
+npm run syllables -- greek/module1          # MBROLA gr2 robot (needs: sudo apt install espeak-ng mbrola mbrola-gr2)
+npm run syllables:upload -- greek/module1   # → syllable-audio/greek/module1/robot-mbrola/
 # …rate in the app…
 npm run syllables:reviews -- greek/module1    # → curriculum/greek/module1/syllable-reviews.json
 ```
@@ -34,7 +32,7 @@ Every push that touches `BackOffice/` runs **Actions → BackOffice APK**. Open 
 ## What you see
 - **Word list:** each build-up word with its syllables and how many clips you have rated. Filters: *To rate*, *Has bad*. At the top, a scoreboard shows how good the robot is per clip type (whole word, syllable, piece).
 - **Word:** "▶ Build-up" plays the pieces shortest-first and then the whole word, as a lesson would. Below that is every clip: whole word, each piece, and each syllable. Each has a play button and ✓ ~ ✗ buttons; ~ or ✗ opens tags and a note.
-- **Library switch** at the top of the list: *Robot · eSpeak* or *Robot · MBROLA*. Ratings are kept separately per library, so you can compare the two.
+- **Voice:** MBROLA gr2 (chosen 2026-11-26). The eSpeak robot is frozen: `npm run syllables:espeak` still builds it, and adding it back to `src/config.ts` brings back the library switch. Ratings are kept per library.
 - The old OpenAI one-word / one-syllable library was dropped (short TTS clips came out garbled).
 - License note: eSpeak NG is GPLv3. The MBROLA gr2 voice data is non-commercial only, so ask before shipping it in a paid release.
 
