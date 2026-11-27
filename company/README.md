@@ -7,6 +7,8 @@ How the project is planned and decided over time, kept separate from the code.
 | `underthetable_PLAN.md` | Living plan: vision, decisions, open questions, next steps. **Start here.** |
 | `70W-PLAN.md` | Same plan, every subtopic in about 70 words. Fastest skim. |
 | `ARCHITECTURE-NOW.md` | What runs today, every pipeline in about 30 words. Read before deploying. |
+| `player-assessment.md` | Audio player code review, score 5/10, about 15 words per point. |
+| `testing-integration-proposal.md` | Integration test plan, waiting for your OK. |
 | `audio/` | Everything about turning scripts into audio. Start with `audio/SUMMARY-120W.md`. |
 | `subplan-data-distribution.md` | Audio on Cloudflare R2, user data on Firebase: steps for you, tests, then building. |
 | `subplan-lesson-text-generation.md` | How lesson scripts get written: legal clean-room route, method prompt, checks. |
