@@ -1,6 +1,6 @@
 # Architecture: lesson engine (hybrid voices) and user courses
 
-Written 2026-11-20. Status: `LOOSE` until phase P0 passes. Context: [brainstorm-user-courses.md](brainstorm-user-courses.md).
+Written 2026-11-20. Status: P0 renderer built 2026-11-27 (`src/engine/render.ts`, `voices.ts`, `loudness.ts`); waiting for the lesson 1 ear test. Context: [brainstorm-user-courses.md](brainstorm-user-courses.md).
 
 ## Reused as-is
 - `AudioGeneration/src/curriculum/`: module/items/lesson JSON, scheduler, brief, checker, renderer. The lesson JSON stays the source of truth.

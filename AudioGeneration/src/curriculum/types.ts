@@ -72,6 +72,8 @@ export interface Line {
   items?: string[];
   /** Silence after this line, seconds. */
   pause: number;
+  /** Force who voices this line (default: decided by engine/voices.ts). */
+  voice?: 'openai' | 'robot';
   locked?: boolean;
 }
 

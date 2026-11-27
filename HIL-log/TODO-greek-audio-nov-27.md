@@ -8,9 +8,13 @@ Turn the 30 checked lessons into mp3s in the player. Paste each prompt to Claude
 - [ ] Gap: `npm run generate` sends everything to OpenAI, even single words like "Ναι". That is the garbled short-TTS problem again.
 
 ## Prompt 1: hybrid renderer
-- [ ] Paste: *"Build the hybrid lesson renderer (P0 in architecture-lesson-engine.md): OpenAI for `say` lines and multi-word targets, MBROLA for single words and build-up pieces. Cache clips, match loudness, keep the pauses. Render lesson 1 only."*
+- [x] Built: `npm run lesson:render -- greek/module1 1`. Lesson 1 is about 25 min and costs about €0.05.
+- [x] Paste: *"Build the hybrid lesson renderer (P0 in architecture-lesson-engine.md): OpenAI for `say` lines and multi-word targets, MBROLA for single words and build-up pieces. Cache clips, match loudness, keep the pauses. Render lesson 1 only."*
 
 ## Listen to lesson 1
+- [ ] `git pull`, `cd AudioGeneration && npm install`
+- [ ] Optional free preview, no key needed: `npm run lesson:render -- greek/module1 1 --preview`
+- [ ] Real render: `npm run lesson:render -- greek/module1 1` (needs `OPENAI_API_KEY`)
 - [ ] Play `output/lessons/greek/module1/lesson01.mp3` on your PC.
 - [ ] Check that robot and OpenAI volumes match, pauses feel right and no clip is silent.
 - [ ] Tell Claude what sounds off.
