@@ -1,41 +1,38 @@
-# TODO: full Greek course audio (Nov 27)
+# TODO: full Greek module audio (Nov 27)
 
-Turn the 30 checked lessons into mp3s in the player. Paste each prompt to Claude, one at a time, and test before moving on.
+Render all 30 lessons and put them in the player. About 30 minutes, about €1.
 
-## Where we are
-- [x] Lesson text: 27 checked, 3 published (1, 10, 30), all valid.
-- [x] MBROLA clips for words, pieces and syllables exist.
-- [ ] Gap: `npm run generate` sends everything to OpenAI, even single words like "Ναι". That is the garbled short-TTS problem again.
+## 1. Get the code
+- [ ] `git pull`
+- [ ] `cd AudioGeneration && npm install`
+- [ ] Check `.env` has `OPENAI_API_KEY`, and `firebase-service-account.json` is in place.
 
-## Prompt 1: hybrid renderer
-- [x] Built: `npm run lesson:render -- greek/module1 1`. Lesson 1 is about 25 min and costs about €0.05.
-- [x] Paste: *"Build the hybrid lesson renderer (P0 in architecture-lesson-engine.md): OpenAI for `say` lines and multi-word targets, MBROLA for single words and build-up pieces. Cache clips, match loudness, keep the pauses. Render lesson 1 only."*
+## 2. Check the plan (free)
+- [ ] `npm run lesson:render -- greek/module1 all --dry-run`
+- [ ] It shows each lesson's lines and cost. The total is under €1.50, and less in practice, because shared phrases are cached.
 
-## Listen to lesson 1
-- [ ] `git pull`, `cd AudioGeneration && npm install`
-- [ ] Optional free preview, no key needed: `npm run lesson:render -- greek/module1 1 --preview`
-- [ ] Real render: `npm run lesson:render -- greek/module1 1` (needs `OPENAI_API_KEY`)
-- [ ] Play `output/lessons/greek/module1/lesson01.mp3` on your PC.
-- [ ] Check that robot and OpenAI volumes match, pauses feel right and no clip is silent.
-- [ ] Tell Claude what sounds off.
+## 3. Budget
+- [ ] Optional: change `budgetLimit` in `AudioGeneration/cost-tracker.json`. It is €10 today, total spend so far, and the render stops before going over it.
 
-## Prompt 2: upload and manifest
-- [ ] Paste: *"Make lesson:render upload to audio-lessons/greek-module1-lessonNN.mp3, and make update-manifest show 'Greek · Module 1 · Lesson N' with sensible titles. Dry-run first."*
+## 4. Render and upload everything
+- [ ] `npm run lesson:render -- greek/module1 all --upload`
+- [ ] It takes about 15–30 minutes and uploads each lesson as soon as it is done.
+- [ ] If it stops (budget or network), run the same command again. Cached clips cost nothing.
 
-## Approve all 30
-- [ ] Skim each script in `curriculum/greek/module1/scripts/`.
-- [ ] Run `npm run curriculum -- approve greek/module1 N` for each lesson you are happy with.
+## 5. Spot-check on PC
+- [ ] Play lessons 1, 15 and 30 in `output/lessons/greek/module1/`.
+- [ ] Look for "⚠ silent or too short" lines in the output and send them to Claude.
 
-## Prompt 3: batch render
-- [ ] Paste: *"Estimate the OpenAI cost for rendering all 30 approved lessons. Then render and upload them with --budget 5, resuming if interrupted."*
-- [ ] Check `cost-tracker.json` afterwards.
+## 6. Player
+- [ ] Open the player app → Greek → **Module 1** → lessons 1–30.
+- [ ] Play a few end to end.
+- [ ] Old test lessons still show under "Level 1". Ask Claude to remove them if you want.
 
-## Player
-- [ ] `npm run update-manifest`
-- [ ] Open the player app and play lessons 1, 15 and 30 end to end.
-- [ ] Note any lesson that fails to load or stutters.
+## 7. Save
+- [ ] `git add ../manifest.json cost-tracker.json`
+- [ ] `git commit -m "Greek module 1 audio"`
+- [ ] `git push`
 
-## Vocab library (decision, no action)
-- [x] One vocab library per course folder; `greek/module1` gets its own.
-- [x] The old `greek/level1` test library is ignored.
-- [x] User custom libraries wait until the player is proven.
+## Fixing one lesson later
+- [ ] Edit the lesson JSON (a line can set `"voice": "robot"` or `"voice": "openai"`).
+- [ ] `npm run lesson:render -- greek/module1 N --upload`

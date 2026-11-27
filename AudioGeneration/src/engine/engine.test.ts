@@ -44,3 +44,16 @@ test('levelTo brings quiet and loud clips to the same speech level', () => {
   assert.ok(Math.abs(a - b) < 0.5, `${a} vs ${b}`);
   assert.ok(Math.abs(a - -20) < 0.5);
 });
+
+test('manifest upsert adds Greek · Module 1 lessons in order and replaces on re-upload', async () => {
+  const { upsertLessonInto } = await import('./manifest.js');
+  const config = { language: 'greek', languageName: 'Greek', module: 'module1' } as never;
+  const m: import('../types.js').Manifest = { languages: [{ id: 'greek', name: 'Greek', levels: [{ id: 'level1', name: 'Level 1', lessons: [] }] }] };
+  upsertLessonInto(m, config, 2, 'Ordering more', 'audio-lessons/greek-module1-lesson02.mp3');
+  upsertLessonInto(m, config, 1, 'At the café', 'audio-lessons/greek-module1-lesson01.mp3');
+  upsertLessonInto(m, config, 1, 'At the café!', 'audio-lessons/greek-module1-lesson01.mp3');
+  const level = m.languages[0].levels.find((l) => l.id === 'module1')!;
+  assert.equal(level.name, 'Module 1');
+  assert.deepEqual(level.lessons.map((l) => l.title), ['Lesson 1 · At the café!', 'Lesson 2 · Ordering more']);
+  assert.equal(m.languages[0].levels.length, 2, 'old level kept');
+});

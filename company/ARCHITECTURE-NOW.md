@@ -9,13 +9,13 @@ Code: `AudioGeneration/src/curriculum/`. Each module has `module.json`, `items.j
 A human or agent writes each lesson from its brief. The checker enforces the rules, for example that build-up pieces must be word endings. There is no automated LLM writer yet; that is the planned P2.
 
 ## 3. Publish step
-`publish N` works only on approved lessons. It renders the lesson JSON into a readable script and copies it to `lessons-content/<language>/<module>/lessonNN-TODO.txt`. That hands the lesson over to the audio pipeline.
+`publish N` marks an approved lesson as published. It no longer copies scripts to `lessons-content/`; curriculum lessons are voiced by the hybrid renderer (4b), not by `npm run generate`.
 
 ## 4. Lesson audio (OpenAI TTS)
 `npm run generate` finds every `-TODO.txt` file, sends each phrase to OpenAI TTS, joins the clips with ffmpeg, uploads the mp3 to `audio-lessons/`, then renames the file `-DONE`.
 
 ## 4b. Hybrid lesson renderer (new)
-`npm run lesson:render -- greek/module1 N` reads the lesson JSON directly. OpenAI voices English and phrases; MBROLA voices single words and build-up pieces. Every clip is levelled to −20 dB, pauses are kept, and the output is an mp3 plus a timeline.
+`npm run lesson:render -- greek/module1 N` reads the lesson JSON directly. OpenAI voices English and phrases; MBROLA voices single words and build-up pieces. Every clip is levelled to −20 dB, pauses are kept, and the output is an mp3 plus a timeline. `all --upload` uploads them and updates the manifest.
 
 ## 5. Saving money on TTS
 Repeated phrases are reused from a session cache, and known words come from the vocab library. `cost-tracker.json` logs the spend, and `--budget` stops a run at a euro limit.
@@ -54,7 +54,7 @@ The GitHub workflow "BackOffice APK" type-checks and builds a release APK on pus
 `AudioGeneration/.env` holds the OpenAI key, and `firebase-service-account.json` holds the admin credentials. Both are gitignored. The Firebase web API key is public by design, so access depends on the rules above.
 
 ## 17. Known gaps before deploy
-App Check is not finished, so the Cloud Function is open to any client within the rate limit. The hybrid renderer does not upload yet. No automated tests run in CI.
+App Check is not finished, so the Cloud Function is open to any client within the rate limit. No automated tests run in CI.
 
 ## 18. Planned, not built
 Planned: an automated Claude lesson writer, user courses from RemNote decks, and a Cloud Run worker. Details: `company/product/architecture-lesson-engine.md`.

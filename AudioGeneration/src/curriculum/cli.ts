@@ -150,16 +150,14 @@ function main() {
       break;
     }
     case 'publish': {
-      // Copies an approved script to lessons-content/ as TODO, so `npm run generate` voices it.
+      // Marks an approved lesson as published. Audio comes from the hybrid renderer
+      // (npm run lesson:render), not from lessons-content/ + npm run generate any more.
       const n = lessonNumber(arg, config);
       const lesson = readJson<Lesson>(p.lesson(n));
       if (lesson.status !== 'approved') fail(`Lesson ${n} is "${lesson.status}"; only approved lessons are published.`);
-      const dest = resolve(ROOT, 'lessons-content', config.language, config.module, `lesson${pad2(n)}-TODO.txt`);
-      mkdirSync(dirname(dest), { recursive: true });
-      writeFileSync(dest, renderScript(config, lesson), 'utf-8');
       lesson.status = 'published';
       writeJson(p.lesson(n), lesson);
-      console.log(`✓ published to ${dest}`);
+      console.log(`✓ lesson ${n} published. Voice it: npm run lesson:render -- ${mod} ${n} --upload`);
       break;
     }
     case 'status': {

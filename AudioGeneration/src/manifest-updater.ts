@@ -122,6 +122,20 @@ export class ManifestUpdater {
       }
     }
     
+    // Keep everything already in the manifest that the scan did not see
+    // (e.g. lessons uploaded by `npm run lesson:render -- … --upload`).
+    for (const oldLang of existingManifest.languages) {
+      let lang = languageMap.get(oldLang.id);
+      if (!lang) { languageMap.set(oldLang.id, oldLang); continue; }
+      for (const oldLevel of oldLang.levels) {
+        const level = lang.levels.find(l => l.id === oldLevel.id);
+        if (!level) { lang.levels.push(oldLevel); continue; }
+        for (const oldLesson of oldLevel.lessons) {
+          if (!level.lessons.some(l => l.id === oldLesson.id)) level.lessons.push(oldLesson);
+        }
+      }
+    }
+
     // Convert map to array and sort
     manifest.languages = Array.from(languageMap.values()).sort((a, b) => 
       a.id.localeCompare(b.id)
